@@ -71,7 +71,7 @@ var articleHarvesting = function() {
 gulp.task('articles-registry', function() {
   articles = [];
   return gulp.src(['./posts/*.md'])
-    .pipe(replace('https://jsunderhood.ru', 'http://localhost:4000'))
+    .pipe(replace('https://rubyunderhood.ru', 'http://localhost:4000'))
     .pipe(articleHarvesting());
 });
 
@@ -113,7 +113,7 @@ gulp.task('stats-page', function() {
       pretty: true,
 
       locals: {
-        title: 'Статистика jsunderhood',
+        title: 'Статистика rubyunderhood',
         url: 'stats/',
         desc: site.description,
         site: site,

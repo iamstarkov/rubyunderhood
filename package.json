@@ -1,5 +1,5 @@
 {
-  "name": "jsunderhood",
+  "name": "rubyunderhood",
   "version": "0.0.0",
   "description": "",
   "main": "index.js",
@@ -19,13 +19,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/iamstarkov/jsunderhood.git"
+    "url": "git+https://github.com/iamstarkov/rubyunderhood.git"
   },
   "site": {
-    "title": "jsunderhood",
+    "title": "rubyunderhood",
     "description": "Коллективный твиттер-аккаунт для фронтенд-разработчиков с новым автором каждую неделю",
-    "feed_url": "https://jsunderhood.ru/rss.xml",
-    "site_url": "https://jsunderhood.ru/",
+    "feed_url": "https://rubyunderhood.ru/rss.xml",
+    "site_url": "https://rubyunderhood.ru/",
     "managingEditor": "iamstarkov@gmail.com (Vladimir Starkov)",
     "webMaster": "iamstarkov@gmail.com (Vladimir Starkov)",
     "copyright": "MIT",
@@ -39,9 +39,9 @@
   "author": "Vladimir Starkov <iamstarkov@gmail.com> (https://iamstarkov.com/)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/iamstarkov/jsunderhood/issues"
+    "url": "https://github.com/iamstarkov/rubyunderhood/issues"
   },
-  "homepage": "https://github.com/iamstarkov/jsunderhood#readme",
+  "homepage": "https://github.com/iamstarkov/rubyunderhood#readme",
   "dependencies": {
     "babel": "^5.4.7",
     "bootstrap": "^3.3.4",

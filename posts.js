@@ -8,7 +8,7 @@ moment.locale('ru');
 
 const d = (input)=> moment(new Date(input)).format("DD MMMM YYYY");
 const filterTimeline = (item)=> {
-  return (item.text[0] !== '@') || (item.text.indexOf('@jsunderhood') === 0);
+  return (item.text[0] !== '@') || (item.text.indexOf('@rubyunderhood') === 0);
 }
 const getWeekday = (date) => moment(new Date(date)).format("dddd");
 const capitalize = (i) => i.split('').map((item, i) => i === 0 ? item.toUpperCase() : item).join('');

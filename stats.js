@@ -19,7 +19,7 @@ import authors from './authors';
 
 const isOwn = (tweet)=> !isReply(tweet) && !isRetweet(tweet);
 const isRetweet = (tweet)=> !!tweet.retweeted_status;
-const isReplyToSelf = (tweet)=> tweet.in_reply_to_screen_name === 'jsunderhood';
+const isReplyToSelf = (tweet)=> tweet.in_reply_to_screen_name === 'rubyunderhood';
 const isReply = (tweet)=> !!tweet.in_reply_to_screen_name && !isReplyToSelf(tweet);
 
 const sumRetweeted = (state, tweet)=> state + tweet.retweet_count;

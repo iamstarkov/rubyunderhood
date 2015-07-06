@@ -6,7 +6,7 @@ before_script:
 - git config --global user.email "iamstarkov@gmail.com"
 - git config --global user.name "Vladimir Starkov"
 - git remote rm origin
-- git remote add origin https://iamstarkov:${GH_TOKEN}@github.com/iamstarkov/jsunderhood.git
+- git remote add origin https://iamstarkov:${GH_TOKEN}@github.com/iamstarkov/rubyunderhood.git
 after_script:
 - npm run f5
 - npm run save

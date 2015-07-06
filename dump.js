@@ -23,4 +23,4 @@ const dump = (authors, tweets)=> {
   });
 }
 
-getTweets(tokens, 'jsunderhood').then(tweets => dump(authors, tweets.items));
+getTweets(tokens, 'rubyunderhood').then(tweets => dump(authors, tweets.items));
