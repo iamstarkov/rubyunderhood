@@ -1,6 +1,6 @@
 # rubyunderhood
 
-Коллективный твиттер-аккаунт для фронтенд-разработчиков с новым автором
+Коллективный твиттер-аккаунт для руби-разработчиков с новым автором
 каждую неделю
 
 Интересный аналог Reddit "спроси-меня-что-угодно", но в твиттере и конечно же,
@@ -23,7 +23,7 @@
 * Легко общаться с автором, потому что это двухсторонний канал связи
 * Это весело
 
-Подписывайтесь на [@rubyunderhood][jsh] в твиттере.
+Подписывайтесь на [@rubyunderhood][rbhd] в твиттере.
 
 ## Как это работает?
 
@@ -102,18 +102,18 @@
 
 #### Как стать автором?
 
-— [Напишите письмо Антону Шувалову][proposal], если хотите вести твиттер
+— [Напишите письмо Антону Давыдову][proposal], если хотите вести твиттер
 одну неделю или если хотите предложить кого-то на место автора
 
 ## Этикет
 
 Пожалуйста будьте вежливыми и уважайте ваших читателей. Не следует оскорблять
 или унижать кого-то. Ведите себя профессионально. Уничижительные, сексистские,
-расистские или ксенофобские шутки не привествуются в [@rubyunderhood][jsh].
+расистские или ксенофобские шутки не привествуются в [@rubyunderhood][rbhd].
 
 Если вы заметили нарушение, как можно скорее напишите
 письмо [Антону][coc-violations].
 
-[jsh]: https://twitter.com/rubyunderhood
-[proposal]: mailto:anton@shuvalov.info?subject=Author’s%20proposal%20for%20@rubyunderhood
-[coc-violations]: mailto:anton@shuvalov.info?subject=CoC%20violations%20in%20@rubyunderhood
+[rbhd]: https://twitter.com/rubyunderhood
+[proposal]: mailto:antondavydov.o@gmail.com?subject=Author’s%20proposal%20for%20@rubyunderhood
+[coc-violations]: mailto:antondavydov.o@gmail.com?subject=CoC%20violations%20in%20@rubyunderhood
