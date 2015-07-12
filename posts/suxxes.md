@@ -773,7 +773,7 @@ RT <a href="https://twitter.com/alexfedoseev" title="Alex">@alexfedoseev</a>: <a
 
 RT <a href="https://twitter.com/ATimofeev" title="Professor Genki">@ATimofeev</a>: <a href="https://twitter.com/rubyunderhood" title="Ruby Разработчик">@rubyunderhood</a> <a href="http://t.co/evDj0cD97Y">pic.twitter.com/evDj0cD97Y</a>
 
-## Воскресенье <small>6 твитов</small>
+## Воскресенье <small>7 твитов</small>
 
 Если есть желание, сегодня можно говорить о чем угодно по тематике этого аккаунта.
 
@@ -786,3 +786,5 @@ RT <a href="https://twitter.com/mpak999" title="MpaK">@mpak999</a>: <a href="htt
 . <a href="https://twitter.com/Bugagazavr" title="Bugagazavr">@Bugagazavr</a> В ближайшую неделю с вами будет <a href="https://twitter.com/artemeff" title="Yuri Artemev">@artemeff</a>, как я понимаю.
 
 RT <a href="https://twitter.com/TheSunwave" title="Arturio">@TheSunwave</a>: <a href="https://twitter.com/rubyunderhood" title="Ruby Разработчик">@rubyunderhood</a> для быстрой верстки использую генератор yeoman dyno, немного допиленный под себя и Susy.
+
+Пока-пока…
