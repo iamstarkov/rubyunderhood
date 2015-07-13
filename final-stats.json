@@ -19,7 +19,6 @@
       "maxGainedFollowers": true,
       "maxRetweetsPercentage": true,
       "maxReplies": true,
-      "maxRepliesPercentage": true,
       "maxFavorited": true,
       "maxFavoritedKpi": true,
       "maxRetweetedKpi": true
@@ -45,6 +44,24 @@
       "maxOwnTweetsPercentage": true,
       "maxRetweets": true,
       "maxRetweeted": true
+    },
+    {
+      "username": "artemeff",
+      "index": 3,
+      "followers_count": 123,
+      "tweets": 125,
+      "ownTweets": 20,
+      "ownTweetsPercentage": 16,
+      "retweets": 47,
+      "retweetsPercentage": 37.6,
+      "replies": 58,
+      "repliesPercentage": 46.4,
+      "retweeted": 4,
+      "retweetedKpi": 0.2,
+      "favorited": 4,
+      "favoritedKpi": 0.2,
+      "gainedFollowers": 2,
+      "maxRepliesPercentage": true
     }
   ]
 }
