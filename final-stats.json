@@ -19,8 +19,7 @@
       "maxGainedFollowers": true,
       "maxRetweetsPercentage": true,
       "maxFavorited": true,
-      "maxFavoritedKpi": true,
-      "maxRetweetedKpi": true
+      "maxFavoritedKpi": true
     },
     {
       "username": "suxxes",
@@ -40,13 +39,31 @@
       "gainedFollowers": 44,
       "maxTweets": true,
       "maxOwnTweets": true,
-      "maxOwnTweetsPercentage": true,
       "maxRetweets": true,
       "maxRetweeted": true
     },
     {
-      "username": "artemeff",
+      "username": "rainrb",
       "index": 3,
+      "followers_count": 139,
+      "tweets": 4,
+      "ownTweets": 4,
+      "ownTweetsPercentage": 100,
+      "retweets": 0,
+      "retweetsPercentage": 0,
+      "replies": 0,
+      "repliesPercentage": 0,
+      "retweeted": 3,
+      "retweetedKpi": 0.75,
+      "favorited": 0,
+      "favoritedKpi": 0,
+      "gainedFollowers": 18,
+      "maxOwnTweetsPercentage": true,
+      "maxRetweetedKpi": true
+    },
+    {
+      "username": "artemeff",
+      "index": 4,
       "followers_count": 139,
       "tweets": 327,
       "ownTweets": 52,
@@ -59,7 +76,7 @@
       "retweetedKpi": 0.1,
       "favorited": 12,
       "favoritedKpi": 0.23,
-      "gainedFollowers": 18,
+      "gainedFollowers": 0,
       "maxReplies": true,
       "maxRepliesPercentage": true
     }
