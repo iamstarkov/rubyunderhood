@@ -5,6 +5,3280 @@
   "post": false,
   "tweets": [
     {
+      "created_at": "Tue Jul 28 20:17:55 +0000 2015",
+      "id": 626124446189940700,
+      "id_str": "626124446189940741",
+      "text": "@alexfedoseev ну так не рельсами едиными, есть sinatra, есть lotus, есть еще куча всего. Rails во многом затащил ruby, но может и погубить.",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 626120192150470700,
+      "in_reply_to_status_id_str": "626120192150470656",
+      "in_reply_to_user_id": 152230944,
+      "in_reply_to_user_id_str": "152230944",
+      "in_reply_to_screen_name": "alexfedoseev",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "alexfedoseev",
+            "name": "Alex",
+            "id": 152230944,
+            "id_str": "152230944",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jul 28 20:13:37 +0000 2015",
+      "id": 626123364394999800,
+      "id_str": "626123364394999808",
+      "text": "@voischev @vtambourine сугубо субъективные ощущения + наблюдение за евангелистами \n\nhttps://t.co/tvshigmRZu",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 626122880787451900,
+      "in_reply_to_status_id_str": "626122880787451904",
+      "in_reply_to_user_id": 258854658,
+      "in_reply_to_user_id_str": "258854658",
+      "in_reply_to_screen_name": "voischev",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 626115579473195000,
+      "quoted_status_id_str": "626115579473195008",
+      "quoted_status": {
+        "created_at": "Tue Jul 28 19:42:41 +0000 2015",
+        "id": 626115579473195000,
+        "id_str": "626115579473195008",
+        "text": "@lisovskyvlad да понемножку, @steveklabnik, @tjholowaychuk, @michaelklishin, много других. На их место приходят newcomer’ы, но все же.",
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 626114770312237000,
+        "in_reply_to_status_id_str": "626114770312237056",
+        "in_reply_to_user_id": 87775435,
+        "in_reply_to_user_id_str": "87775435",
+        "in_reply_to_screen_name": "lisovskyvlad",
+        "user": {
+          "id": 3341793591,
+          "id_str": "3341793591"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "lisovskyvlad",
+              "name": "Влад Лисовский",
+              "id": 87775435,
+              "id_str": "87775435",
+              "indices": [
+                0,
+                13
+              ]
+            },
+            {
+              "screen_name": "steveklabnik",
+              "name": "Rust + Node = ❤",
+              "id": 22386062,
+              "id_str": "22386062",
+              "indices": [
+                29,
+                42
+              ]
+            },
+            {
+              "screen_name": "tjholowaychuk",
+              "name": "TJ Holowaychuk",
+              "id": 29255412,
+              "id_str": "29255412",
+              "indices": [
+                44,
+                58
+              ]
+            },
+            {
+              "screen_name": "michaelklishin",
+              "name": "Michael Klishin",
+              "id": 13033522,
+              "id_str": "13033522",
+              "indices": [
+                60,
+                75
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "voischev",
+            "name": "Ваня Воищев",
+            "id": 258854658,
+            "id_str": "258854658",
+            "indices": [
+              0,
+              9
+            ]
+          },
+          {
+            "screen_name": "vtambourine",
+            "name": "Benjamin Tambourine",
+            "id": 260754563,
+            "id_str": "260754563",
+            "indices": [
+              10,
+              22
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/tvshigmRZu",
+            "expanded_url": "https://twitter.com/rubyunderhood/status/626115579473195008",
+            "display_url": "twitter.com/rubyunderhood/…",
+            "indices": [
+              84,
+              107
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jul 28 19:59:39 +0000 2015",
+      "id": 626119851090792400,
+      "id_str": "626119851090792448",
+      "text": "@vtambourine @shved270189 думаю просто приходят к задачам, с которыми тесно на руби или банально выгорают.",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 626117145999446000,
+      "in_reply_to_status_id_str": "626117145999446016",
+      "in_reply_to_user_id": 260754563,
+      "in_reply_to_user_id_str": "260754563",
+      "in_reply_to_screen_name": "vtambourine",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "vtambourine",
+            "name": "Benjamin Tambourine",
+            "id": 260754563,
+            "id_str": "260754563",
+            "indices": [
+              0,
+              12
+            ]
+          },
+          {
+            "screen_name": "shved270189",
+            "name": "Ivan Bondarenko",
+            "id": 350442764,
+            "id_str": "350442764",
+            "indices": [
+              13,
+              25
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jul 28 19:57:28 +0000 2015",
+      "id": 626119301834121200,
+      "id_str": "626119301834121216",
+      "text": "@lisovskyvlad можно тряхнуть стариной и вспомнить https://t.co/CwrRXSZt2f",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 626118523614548000,
+      "in_reply_to_status_id_str": "626118523614547969",
+      "in_reply_to_user_id": 87775435,
+      "in_reply_to_user_id_str": "87775435",
+      "in_reply_to_screen_name": "lisovskyvlad",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "lisovskyvlad",
+            "name": "Влад Лисовский",
+            "id": 87775435,
+            "id_str": "87775435",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/CwrRXSZt2f",
+            "expanded_url": "https://rubygems.org/profiles/tjholowaychuk",
+            "display_url": "rubygems.org/profiles/tjhol…",
+            "indices": [
+              50,
+              73
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jul 28 19:53:59 +0000 2015",
+      "id": 626118423597195300,
+      "id_str": "626118423597195265",
+      "text": "@vtambourine да, TJ уходил с руби на js @lisovskyvlad",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 626117080996298800,
+      "in_reply_to_status_id_str": "626117080996298752",
+      "in_reply_to_user_id": 260754563,
+      "in_reply_to_user_id_str": "260754563",
+      "in_reply_to_screen_name": "vtambourine",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "vtambourine",
+            "name": "Benjamin Tambourine",
+            "id": 260754563,
+            "id_str": "260754563",
+            "indices": [
+              0,
+              12
+            ]
+          },
+          {
+            "screen_name": "lisovskyvlad",
+            "name": "Влад Лисовский",
+            "id": 87775435,
+            "id_str": "87775435",
+            "indices": [
+              40,
+              53
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jul 28 19:42:41 +0000 2015",
+      "id": 626115579473195000,
+      "id_str": "626115579473195008",
+      "text": "@lisovskyvlad да понемножку, @steveklabnik, @tjholowaychuk, @michaelklishin, много других. На их место приходят newcomer’ы, но все же.",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 626114770312237000,
+      "in_reply_to_status_id_str": "626114770312237056",
+      "in_reply_to_user_id": 87775435,
+      "in_reply_to_user_id_str": "87775435",
+      "in_reply_to_screen_name": "lisovskyvlad",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "lisovskyvlad",
+            "name": "Влад Лисовский",
+            "id": 87775435,
+            "id_str": "87775435",
+            "indices": [
+              0,
+              13
+            ]
+          },
+          {
+            "screen_name": "steveklabnik",
+            "name": "Rust + Node = ❤",
+            "id": 22386062,
+            "id_str": "22386062",
+            "indices": [
+              29,
+              42
+            ]
+          },
+          {
+            "screen_name": "tjholowaychuk",
+            "name": "TJ Holowaychuk",
+            "id": 29255412,
+            "id_str": "29255412",
+            "indices": [
+              44,
+              58
+            ]
+          },
+          {
+            "screen_name": "michaelklishin",
+            "name": "Michael Klishin",
+            "id": 13033522,
+            "id_str": "13033522",
+            "indices": [
+              60,
+              75
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jul 28 19:37:16 +0000 2015",
+      "id": 626114217922457600,
+      "id_str": "626114217922457600",
+      "text": "Как относитесь к тому, что большое (заметное) количество людей покидает ruby community?",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jul 28 19:28:53 +0000 2015",
+      "id": 626112106379804700,
+      "id_str": "626112106379804672",
+      "text": "@artemeff так underhood на русском. Ну а читатели уже как сами хотят.",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 626110658619285500,
+      "in_reply_to_status_id_str": "626110658619285504",
+      "in_reply_to_user_id": 137293049,
+      "in_reply_to_user_id_str": "137293049",
+      "in_reply_to_screen_name": "artemeff",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "artemeff",
+            "name": "Yuri Artemev",
+            "id": 137293049,
+            "id_str": "137293049",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jul 28 19:21:19 +0000 2015",
+      "id": 626110203004616700,
+      "id_str": "626110203004616704",
+      "text": "RT @artemeff: @rubyunderhood http://t.co/GEv2lSpybT",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Tue Jul 28 19:20:42 +0000 2015",
+        "id": 626110046661967900,
+        "id_str": "626110046661967872",
+        "text": "@rubyunderhood http://t.co/GEv2lSpybT",
+        "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 625909292886048800,
+        "in_reply_to_status_id_str": "625909292886048768",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 137293049,
+          "id_str": "137293049"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby Разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "http://t.co/GEv2lSpybT",
+              "expanded_url": "http://machinezone.ru/challenges/traffic-light",
+              "display_url": "machinezone.ru/challenges/tra…",
+              "indices": [
+                15,
+                37
+              ]
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "und"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "artemeff",
+            "name": "Yuri Artemev",
+            "id": 137293049,
+            "id_str": "137293049",
+            "indices": [
+              3,
+              12
+            ]
+          },
+          {
+            "screen_name": "rubyunderhood",
+            "name": "Ruby Разработчик",
+            "id": 3341793591,
+            "id_str": "3341793591",
+            "indices": [
+              14,
+              28
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "http://t.co/GEv2lSpybT",
+            "expanded_url": "http://machinezone.ru/challenges/traffic-light",
+            "display_url": "machinezone.ru/challenges/tra…",
+            "indices": [
+              29,
+              51
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Tue Jul 28 19:21:13 +0000 2015",
+      "id": 626110177712963600,
+      "id_str": "626110177712963584",
+      "text": "RT @artemeff: @rubyunderhood мне кажется, что самое интересные задачки у эзотерических языков, типа Эрланга или Хацкеля",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Tue Jul 28 19:19:35 +0000 2015",
+        "id": 626109767770054700,
+        "id_str": "626109767770054656",
+        "text": "@rubyunderhood мне кажется, что самое интересные задачки у эзотерических языков, типа Эрланга или Хацкеля",
+        "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 625909292886048800,
+        "in_reply_to_status_id_str": "625909292886048768",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 137293049,
+          "id_str": "137293049"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby Разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "artemeff",
+            "name": "Yuri Artemev",
+            "id": 137293049,
+            "id_str": "137293049",
+            "indices": [
+              3,
+              12
+            ]
+          },
+          {
+            "screen_name": "rubyunderhood",
+            "name": "Ruby Разработчик",
+            "id": 3341793591,
+            "id_str": "3341793591",
+            "indices": [
+              14,
+              28
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jul 28 19:03:57 +0000 2015",
+      "id": 626105830660800500,
+      "id_str": "626105830660800512",
+      "text": "RT @dzaporozhets: @Bugagazavr @rubyunderhood в идеале вежливо указывать на несостоятельность их них претензий. Лучше для репутации проекта.",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Tue Jul 28 18:51:55 +0000 2015",
+        "id": 626102803749040100,
+        "id_str": "626102803749040128",
+        "text": "@Bugagazavr @rubyunderhood в идеале вежливо указывать на несостоятельность их них претензий. Лучше для репутации проекта.",
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 626057739454795800,
+        "in_reply_to_status_id_str": "626057739454795776",
+        "in_reply_to_user_id": 100941618,
+        "in_reply_to_user_id_str": "100941618",
+        "in_reply_to_screen_name": "Bugagazavr",
+        "user": {
+          "id": 23944366,
+          "id_str": "23944366"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 1,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "Bugagazavr",
+              "name": "Bugagazavr",
+              "id": 100941618,
+              "id_str": "100941618",
+              "indices": [
+                0,
+                11
+              ]
+            },
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby Разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                12,
+                26
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "dzaporozhets",
+            "name": "Dmitriy Zaporozhets",
+            "id": 23944366,
+            "id_str": "23944366",
+            "indices": [
+              3,
+              16
+            ]
+          },
+          {
+            "screen_name": "Bugagazavr",
+            "name": "Bugagazavr",
+            "id": 100941618,
+            "id_str": "100941618",
+            "indices": [
+              18,
+              29
+            ]
+          },
+          {
+            "screen_name": "rubyunderhood",
+            "name": "Ruby Разработчик",
+            "id": 3341793591,
+            "id_str": "3341793591",
+            "indices": [
+              30,
+              44
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jul 28 17:52:52 +0000 2015",
+      "id": 626087941782261800,
+      "id_str": "626087941782261760",
+      "text": "RT @mpak999: @rubyunderhood ха, в https://t.co/x9uJb0P7Rl заглядывай, там постоянная прокачка ЧСВ идет, шитиварами :)))",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Tue Jul 28 16:25:49 +0000 2015",
+        "id": 626066035603456000,
+        "id_str": "626066035603456000",
+        "text": "@rubyunderhood ха, в https://t.co/x9uJb0P7Rl заглядывай, там постоянная прокачка ЧСВ идет, шитиварами :)))",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 626063899729772500,
+        "in_reply_to_status_id_str": "626063899729772544",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 18864603,
+          "id_str": "18864603"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 1,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby Разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/x9uJb0P7Rl",
+              "expanded_url": "https://rusdevs.herokuapp.com",
+              "display_url": "rusdevs.herokuapp.com",
+              "indices": [
+                21,
+                44
+              ]
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "mpak999",
+            "name": "MpaK",
+            "id": 18864603,
+            "id_str": "18864603",
+            "indices": [
+              3,
+              11
+            ]
+          },
+          {
+            "screen_name": "rubyunderhood",
+            "name": "Ruby Разработчик",
+            "id": 3341793591,
+            "id_str": "3341793591",
+            "indices": [
+              13,
+              27
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/x9uJb0P7Rl",
+            "expanded_url": "https://rusdevs.herokuapp.com",
+            "display_url": "rusdevs.herokuapp.com",
+            "indices": [
+              34,
+              57
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jul 28 17:52:46 +0000 2015",
+      "id": 626087916960370700,
+      "id_str": "626087916960370688",
+      "text": "RT @ptico: @rubyunderhood вижу багу или функционал нужен, беру и запиливаю пулл-реквест. Тоже с библиотеками",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Tue Jul 28 17:06:06 +0000 2015",
+        "id": 626076175409016800,
+        "id_str": "626076175409016832",
+        "text": "@rubyunderhood вижу багу или функционал нужен, беру и запиливаю пулл-реквест. Тоже с библиотеками",
+        "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 626053490020888600,
+        "in_reply_to_status_id_str": "626053490020888576",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 16743832,
+          "id_str": "16743832"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby Разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ptico",
+            "name": "Andrey Savchenko",
+            "id": 16743832,
+            "id_str": "16743832",
+            "indices": [
+              3,
+              9
+            ]
+          },
+          {
+            "screen_name": "rubyunderhood",
+            "name": "Ruby Разработчик",
+            "id": 3341793591,
+            "id_str": "3341793591",
+            "indices": [
+              11,
+              25
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jul 28 17:52:42 +0000 2015",
+      "id": 626087902464897000,
+      "id_str": "626087902464897025",
+      "text": "RT @vtambourine: @rubyunderhood потому что и так понято, какой джаваскрипт лучше.",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Tue Jul 28 17:41:25 +0000 2015",
+        "id": 626085060886839300,
+        "id_str": "626085060886839296",
+        "text": "@rubyunderhood потому что и так понято, какой джаваскрипт лучше.",
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 626063899729772500,
+        "in_reply_to_status_id_str": "626063899729772544",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 260754563,
+          "id_str": "260754563"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby Разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "vtambourine",
+            "name": "Benjamin Tambourine",
+            "id": 260754563,
+            "id_str": "260754563",
+            "indices": [
+              3,
+              15
+            ]
+          },
+          {
+            "screen_name": "rubyunderhood",
+            "name": "Ruby Разработчик",
+            "id": 3341793591,
+            "id_str": "3341793591",
+            "indices": [
+              17,
+              31
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jul 28 17:52:36 +0000 2015",
+      "id": 626087875864600600,
+      "id_str": "626087875864600576",
+      "text": "RT @michaelklishin: @ifesdjeen @rubyunderhood maintaining a distantly popular open source project exposes you to a lot of awesome and horre…",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Tue Jul 28 17:34:12 +0000 2015",
+        "id": 626083247622107100,
+        "id_str": "626083247622107136",
+        "text": "@ifesdjeen @rubyunderhood maintaining a distantly popular open source project exposes you to a lot of awesome and horrendous people.",
+        "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 626078347857162200,
+        "in_reply_to_status_id_str": "626078347857162241",
+        "in_reply_to_user_id": 57027700,
+        "in_reply_to_user_id_str": "57027700",
+        "in_reply_to_screen_name": "ifesdjeen",
+        "user": {
+          "id": 13033522,
+          "id_str": "13033522"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 2,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "ifesdjeen",
+              "name": "αλεx monadovič π",
+              "id": 57027700,
+              "id_str": "57027700",
+              "indices": [
+                0,
+                10
+              ]
+            },
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby Разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                11,
+                25
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "michaelklishin",
+            "name": "Michael Klishin",
+            "id": 13033522,
+            "id_str": "13033522",
+            "indices": [
+              3,
+              18
+            ]
+          },
+          {
+            "screen_name": "ifesdjeen",
+            "name": "αλεx monadovič π",
+            "id": 57027700,
+            "id_str": "57027700",
+            "indices": [
+              20,
+              30
+            ]
+          },
+          {
+            "screen_name": "rubyunderhood",
+            "name": "Ruby Разработчик",
+            "id": 3341793591,
+            "id_str": "3341793591",
+            "indices": [
+              31,
+              45
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Jul 28 16:17:20 +0000 2015",
+      "id": 626063899729772500,
+      "id_str": "626063899729772544",
+      "text": "Давно уже не видел кровавых холиваров/срачей на темы «какой браузер/ос/язык/фреймворк/yournamehere лучше» и это несказанно радует",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jul 28 16:13:35 +0000 2015",
+      "id": 626062957311606800,
+      "id_str": "626062957311606784",
+      "text": "Да, у os community есть проблемы. С другой стороны — с годами люди в целом стали образованнее и более терпимыми, что не может не радовать.",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jul 28 16:07:01 +0000 2015",
+      "id": 626061305141678100,
+      "id_str": "626061305141678082",
+      "text": "@sudodoki да, но проблемы имеют место быть, а раз так — лучше уж их обсуждать, чем молчать. Ну а @dzaporozhets молодец однозначно.",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 626057134522933200,
+      "in_reply_to_status_id_str": "626057134522933248",
+      "in_reply_to_user_id": 1903684836,
+      "in_reply_to_user_id_str": "1903684836",
+      "in_reply_to_screen_name": "sudodoki",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "sudodoki",
+            "name": "Джон, просто Джон",
+            "id": 1903684836,
+            "id_str": "1903684836",
+            "indices": [
+              0,
+              9
+            ]
+          },
+          {
+            "screen_name": "dzaporozhets",
+            "name": "Dmitriy Zaporozhets",
+            "id": 23944366,
+            "id_str": "23944366",
+            "indices": [
+              97,
+              110
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jul 28 15:44:17 +0000 2015",
+      "id": 626055583477694500,
+      "id_str": "626055583477694464",
+      "text": "Еще есть старый пост на хабре от @dzaporozhets о темной стороне http://t.co/aRQDHF73cs https://t.co/alNHXI3x6g",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 626054604699078700,
+      "quoted_status_id_str": "626054604699078656",
+      "quoted_status": {
+        "created_at": "Tue Jul 28 15:40:23 +0000 2015",
+        "id": 626054604699078700,
+        "id_str": "626054604699078656",
+        "text": "@rubyunderhood недавно увидел @issuesfromhell http://t.co/r0ictu5VbV",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 626053490020888600,
+        "in_reply_to_status_id_str": "626053490020888576",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 1903684836,
+          "id_str": "1903684836"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 4,
+        "favorite_count": 2,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby Разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            },
+            {
+              "screen_name": "issuesfromhell",
+              "name": "Issues From Hell",
+              "id": 1467271657,
+              "id_str": "1467271657",
+              "indices": [
+                30,
+                45
+              ]
+            }
+          ],
+          "urls": [],
+          "media": [
+            {
+              "id": 626054603629424600,
+              "id_str": "626054603629424640",
+              "indices": [
+                46,
+                68
+              ],
+              "media_url": "http://pbs.twimg.com/media/CLAxWFNUcAAQewy.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/CLAxWFNUcAAQewy.jpg",
+              "url": "http://t.co/r0ictu5VbV",
+              "display_url": "pic.twitter.com/r0ictu5VbV",
+              "expanded_url": "http://twitter.com/sudodoki/status/626054604699078656/photo/1",
+              "type": "photo",
+              "sizes": {
+                "large": {
+                  "w": 604,
+                  "h": 467,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small": {
+                  "w": 340,
+                  "h": 262,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 600,
+                  "h": 463,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 626054603629424600,
+              "id_str": "626054603629424640",
+              "indices": [
+                46,
+                68
+              ],
+              "media_url": "http://pbs.twimg.com/media/CLAxWFNUcAAQewy.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/CLAxWFNUcAAQewy.jpg",
+              "url": "http://t.co/r0ictu5VbV",
+              "display_url": "pic.twitter.com/r0ictu5VbV",
+              "expanded_url": "http://twitter.com/sudodoki/status/626054604699078656/photo/1",
+              "type": "photo",
+              "sizes": {
+                "large": {
+                  "w": 604,
+                  "h": 467,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small": {
+                  "w": 340,
+                  "h": 262,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 600,
+                  "h": 463,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "dzaporozhets",
+            "name": "Dmitriy Zaporozhets",
+            "id": 23944366,
+            "id_str": "23944366",
+            "indices": [
+              33,
+              46
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "http://t.co/aRQDHF73cs",
+            "expanded_url": "http://habrahabr.ru/post/169339/",
+            "display_url": "habrahabr.ru/post/169339/",
+            "indices": [
+              64,
+              86
+            ]
+          },
+          {
+            "url": "https://t.co/alNHXI3x6g",
+            "expanded_url": "https://twitter.com/sudodoki/status/626054604699078656",
+            "display_url": "twitter.com/sudodoki/statu…",
+            "indices": [
+              87,
+              110
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jul 28 15:35:58 +0000 2015",
+      "id": 626053490020888600,
+      "id_str": "626053490020888576",
+      "text": "Как вы делаете вклад в open source? Есть ли у вас свои библиотеки/проекты? Что скажете про темную сторону open source?",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jul 28 14:46:47 +0000 2015",
+      "id": 626041112885633000,
+      "id_str": "626041112885633024",
+      "text": "Я тут набросал небольшой список приятных человеков, читайте — https://t.co/ff5tLXMtJ5",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 4,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/ff5tLXMtJ5",
+            "expanded_url": "https://twitter.com/rubyunderhood/lists/devs",
+            "display_url": "twitter.com/rubyunderhood/…",
+            "indices": [
+              62,
+              85
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jul 28 14:26:56 +0000 2015",
+      "id": 626036119885512700,
+      "id_str": "626036119885512705",
+      "text": "@steveklabnik Kyiv &amp; Lviv miss you too ❤️ @RustUkraine @ilavriv",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 626034643503067100,
+      "in_reply_to_status_id_str": "626034643503067136",
+      "in_reply_to_user_id": 22386062,
+      "in_reply_to_user_id_str": "22386062",
+      "in_reply_to_screen_name": "steveklabnik",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "steveklabnik",
+            "name": "Rust + Node = ❤",
+            "id": 22386062,
+            "id_str": "22386062",
+            "indices": [
+              0,
+              13
+            ]
+          },
+          {
+            "screen_name": "RustUkraine",
+            "name": "Rust Ukraine",
+            "id": 2613408391,
+            "id_str": "2613408391",
+            "indices": [
+              46,
+              58
+            ]
+          },
+          {
+            "screen_name": "ilavriv",
+            "name": "ilavriv",
+            "id": 1671433195,
+            "id_str": "1671433195",
+            "indices": [
+              59,
+              67
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ht"
+    },
+    {
+      "created_at": "Tue Jul 28 14:14:57 +0000 2015",
+      "id": 626033101622394900,
+      "id_str": "626033101622394880",
+      "text": "RT @backendsecret: ruDevs,которых я читаю: @DmitryBaranovsk @AntonShevchuk @sam_dark @listochkin @rdvornov @mista_k @lisachenko @dshevchenk…",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Tue Jul 28 14:09:31 +0000 2015",
+        "id": 626031734908448800,
+        "id_str": "626031734908448768",
+        "text": "ruDevs,которых я читаю: @DmitryBaranovsk @AntonShevchuk @sam_dark @listochkin @rdvornov @mista_k @lisachenko @dshevchenko_biz @sergeybelove",
+        "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 3302551618,
+          "id_str": "3302551618"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 4,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "DmitryBaranovsk",
+              "name": "Dmitry Baranovskiy",
+              "id": 66133,
+              "id_str": "66133",
+              "indices": [
+                24,
+                40
+              ]
+            },
+            {
+              "screen_name": "AntonShevchuk",
+              "name": "Anton Shevchuk",
+              "id": 14698648,
+              "id_str": "14698648",
+              "indices": [
+                41,
+                55
+              ]
+            },
+            {
+              "screen_name": "sam_dark",
+              "name": "Alexander Makarov",
+              "id": 17508584,
+              "id_str": "17508584",
+              "indices": [
+                56,
+                65
+              ]
+            },
+            {
+              "screen_name": "listochkin",
+              "name": "Андрей Листочкин",
+              "id": 20910792,
+              "id_str": "20910792",
+              "indices": [
+                66,
+                77
+              ]
+            },
+            {
+              "screen_name": "rdvornov",
+              "name": "Roman Dvornov",
+              "id": 1432849934,
+              "id_str": "1432849934",
+              "indices": [
+                78,
+                87
+              ]
+            },
+            {
+              "screen_name": "mista_k",
+              "name": "Vladimir Kuznetsov",
+              "id": 15500045,
+              "id_str": "15500045",
+              "indices": [
+                88,
+                96
+              ]
+            },
+            {
+              "screen_name": "lisachenko",
+              "name": "Alexander Lisachenko",
+              "id": 201172138,
+              "id_str": "201172138",
+              "indices": [
+                97,
+                108
+              ]
+            },
+            {
+              "screen_name": "dshevchenko_biz",
+              "name": "Denis Shevchenko",
+              "id": 231946292,
+              "id_str": "231946292",
+              "indices": [
+                109,
+                125
+              ]
+            },
+            {
+              "screen_name": "sergeybelove",
+              "name": "Sergey Belov",
+              "id": 155619706,
+              "id_str": "155619706",
+              "indices": [
+                126,
+                139
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик Бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              3,
+              17
+            ]
+          },
+          {
+            "screen_name": "DmitryBaranovsk",
+            "name": "Dmitry Baranovskiy",
+            "id": 66133,
+            "id_str": "66133",
+            "indices": [
+              43,
+              59
+            ]
+          },
+          {
+            "screen_name": "AntonShevchuk",
+            "name": "Anton Shevchuk",
+            "id": 14698648,
+            "id_str": "14698648",
+            "indices": [
+              60,
+              74
+            ]
+          },
+          {
+            "screen_name": "sam_dark",
+            "name": "Alexander Makarov",
+            "id": 17508584,
+            "id_str": "17508584",
+            "indices": [
+              75,
+              84
+            ]
+          },
+          {
+            "screen_name": "listochkin",
+            "name": "Андрей Листочкин",
+            "id": 20910792,
+            "id_str": "20910792",
+            "indices": [
+              85,
+              96
+            ]
+          },
+          {
+            "screen_name": "rdvornov",
+            "name": "Roman Dvornov",
+            "id": 1432849934,
+            "id_str": "1432849934",
+            "indices": [
+              97,
+              106
+            ]
+          },
+          {
+            "screen_name": "mista_k",
+            "name": "Vladimir Kuznetsov",
+            "id": 15500045,
+            "id_str": "15500045",
+            "indices": [
+              107,
+              115
+            ]
+          },
+          {
+            "screen_name": "lisachenko",
+            "name": "Alexander Lisachenko",
+            "id": 201172138,
+            "id_str": "201172138",
+            "indices": [
+              116,
+              127
+            ]
+          },
+          {
+            "screen_name": "dshevchenko_biz",
+            "name": "Denis Shevchenko",
+            "id": 231946292,
+            "id_str": "231946292",
+            "indices": [
+              128,
+              140
+            ]
+          },
+          {
+            "screen_name": "sergeybelove",
+            "name": "Sergey Belov",
+            "id": 155619706,
+            "id_str": "155619706",
+            "indices": [
+              139,
+              140
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jul 28 14:14:42 +0000 2015",
+      "id": 626033041308303400,
+      "id_str": "626033041308303360",
+      "text": "RT @backendsecret: enDevs которых я читаю: @wycats @__DavidFlanagan @paul_irish @WebReflection @stoyanstefanov @ppk @slicknet @Souders",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Tue Jul 28 14:05:39 +0000 2015",
+        "id": 626030763562156000,
+        "id_str": "626030763562156032",
+        "text": "enDevs которых я читаю: @wycats @__DavidFlanagan @paul_irish @WebReflection @stoyanstefanov @ppk @slicknet @Souders",
+        "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 3302551618,
+          "id_str": "3302551618"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 3,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "wycats",
+              "name": "Yehuda Katz",
+              "id": 8526432,
+              "id_str": "8526432",
+              "indices": [
+                24,
+                31
+              ]
+            },
+            {
+              "screen_name": "__DavidFlanagan",
+              "name": "David Flanagan",
+              "id": 223741798,
+              "id_str": "223741798",
+              "indices": [
+                32,
+                48
+              ]
+            },
+            {
+              "screen_name": "paul_irish",
+              "name": "Paul Irish",
+              "id": 1671811,
+              "id_str": "1671811",
+              "indices": [
+                49,
+                60
+              ]
+            },
+            {
+              "screen_name": "WebReflection",
+              "name": "Andrea Giammarchi",
+              "id": 38654173,
+              "id_str": "38654173",
+              "indices": [
+                61,
+                75
+              ]
+            },
+            {
+              "screen_name": "stoyanstefanov",
+              "name": "Stoyan Stefanov",
+              "id": 14620179,
+              "id_str": "14620179",
+              "indices": [
+                76,
+                91
+              ]
+            },
+            {
+              "screen_name": "ppk",
+              "name": "Peter-Paul Koch",
+              "id": 887251,
+              "id_str": "887251",
+              "indices": [
+                92,
+                96
+              ]
+            },
+            {
+              "screen_name": "slicknet",
+              "name": "Nicholas C. Zakas",
+              "id": 17633960,
+              "id_str": "17633960",
+              "indices": [
+                97,
+                106
+              ]
+            },
+            {
+              "screen_name": "Souders",
+              "name": "Steve Souders",
+              "id": 15431118,
+              "id_str": "15431118",
+              "indices": [
+                107,
+                115
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик Бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              3,
+              17
+            ]
+          },
+          {
+            "screen_name": "wycats",
+            "name": "Yehuda Katz",
+            "id": 8526432,
+            "id_str": "8526432",
+            "indices": [
+              43,
+              50
+            ]
+          },
+          {
+            "screen_name": "__DavidFlanagan",
+            "name": "David Flanagan",
+            "id": 223741798,
+            "id_str": "223741798",
+            "indices": [
+              51,
+              67
+            ]
+          },
+          {
+            "screen_name": "paul_irish",
+            "name": "Paul Irish",
+            "id": 1671811,
+            "id_str": "1671811",
+            "indices": [
+              68,
+              79
+            ]
+          },
+          {
+            "screen_name": "WebReflection",
+            "name": "Andrea Giammarchi",
+            "id": 38654173,
+            "id_str": "38654173",
+            "indices": [
+              80,
+              94
+            ]
+          },
+          {
+            "screen_name": "stoyanstefanov",
+            "name": "Stoyan Stefanov",
+            "id": 14620179,
+            "id_str": "14620179",
+            "indices": [
+              95,
+              110
+            ]
+          },
+          {
+            "screen_name": "ppk",
+            "name": "Peter-Paul Koch",
+            "id": 887251,
+            "id_str": "887251",
+            "indices": [
+              111,
+              115
+            ]
+          },
+          {
+            "screen_name": "slicknet",
+            "name": "Nicholas C. Zakas",
+            "id": 17633960,
+            "id_str": "17633960",
+            "indices": [
+              116,
+              125
+            ]
+          },
+          {
+            "screen_name": "Souders",
+            "name": "Steve Souders",
+            "id": 15431118,
+            "id_str": "15431118",
+            "indices": [
+              126,
+              134
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jul 28 14:14:32 +0000 2015",
+      "id": 626032996718628900,
+      "id_str": "626032996718628865",
+      "text": "RT @backendsecret: enDevs которых я читаю: @rauschma @weaverryan @creationix @agentzh @fabpot @addyosmani @AriyaHidayat @igrigorik @gvanros…",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Tue Jul 28 14:04:02 +0000 2015",
+        "id": 626030356899217400,
+        "id_str": "626030356899217408",
+        "text": "enDevs которых я читаю: @rauschma @weaverryan @creationix @agentzh @fabpot @addyosmani @AriyaHidayat @igrigorik @gvanrossum @spolsky →",
+        "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 3302551618,
+          "id_str": "3302551618"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 4,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rauschma",
+              "name": "Axel Rauschmayer",
+              "id": 56992811,
+              "id_str": "56992811",
+              "indices": [
+                24,
+                33
+              ]
+            },
+            {
+              "screen_name": "weaverryan",
+              "name": "Ryan Weaver",
+              "id": 16404512,
+              "id_str": "16404512",
+              "indices": [
+                34,
+                45
+              ]
+            },
+            {
+              "screen_name": "creationix",
+              "name": "Tim Caswell",
+              "id": 70596949,
+              "id_str": "70596949",
+              "indices": [
+                46,
+                57
+              ]
+            },
+            {
+              "screen_name": "agentzh",
+              "name": "agentzh",
+              "id": 111512878,
+              "id_str": "111512878",
+              "indices": [
+                58,
+                66
+              ]
+            },
+            {
+              "screen_name": "fabpot",
+              "name": "Fabien Potencier",
+              "id": 15072316,
+              "id_str": "15072316",
+              "indices": [
+                67,
+                74
+              ]
+            },
+            {
+              "screen_name": "addyosmani",
+              "name": "Addy Osmani",
+              "id": 35432643,
+              "id_str": "35432643",
+              "indices": [
+                75,
+                86
+              ]
+            },
+            {
+              "screen_name": "AriyaHidayat",
+              "name": "Ariya Hidayat",
+              "id": 15608761,
+              "id_str": "15608761",
+              "indices": [
+                87,
+                100
+              ]
+            },
+            {
+              "screen_name": "igrigorik",
+              "name": "Ilya Grigorik",
+              "id": 9980812,
+              "id_str": "9980812",
+              "indices": [
+                101,
+                111
+              ]
+            },
+            {
+              "screen_name": "gvanrossum",
+              "name": "Guido van Rossum",
+              "id": 15804774,
+              "id_str": "15804774",
+              "indices": [
+                112,
+                123
+              ]
+            },
+            {
+              "screen_name": "spolsky",
+              "name": "Joel Spolsky",
+              "id": 15948437,
+              "id_str": "15948437",
+              "indices": [
+                124,
+                132
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик Бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              3,
+              17
+            ]
+          },
+          {
+            "screen_name": "rauschma",
+            "name": "Axel Rauschmayer",
+            "id": 56992811,
+            "id_str": "56992811",
+            "indices": [
+              43,
+              52
+            ]
+          },
+          {
+            "screen_name": "weaverryan",
+            "name": "Ryan Weaver",
+            "id": 16404512,
+            "id_str": "16404512",
+            "indices": [
+              53,
+              64
+            ]
+          },
+          {
+            "screen_name": "creationix",
+            "name": "Tim Caswell",
+            "id": 70596949,
+            "id_str": "70596949",
+            "indices": [
+              65,
+              76
+            ]
+          },
+          {
+            "screen_name": "agentzh",
+            "name": "agentzh",
+            "id": 111512878,
+            "id_str": "111512878",
+            "indices": [
+              77,
+              85
+            ]
+          },
+          {
+            "screen_name": "fabpot",
+            "name": "Fabien Potencier",
+            "id": 15072316,
+            "id_str": "15072316",
+            "indices": [
+              86,
+              93
+            ]
+          },
+          {
+            "screen_name": "addyosmani",
+            "name": "Addy Osmani",
+            "id": 35432643,
+            "id_str": "35432643",
+            "indices": [
+              94,
+              105
+            ]
+          },
+          {
+            "screen_name": "AriyaHidayat",
+            "name": "Ariya Hidayat",
+            "id": 15608761,
+            "id_str": "15608761",
+            "indices": [
+              106,
+              119
+            ]
+          },
+          {
+            "screen_name": "igrigorik",
+            "name": "Ilya Grigorik",
+            "id": 9980812,
+            "id_str": "9980812",
+            "indices": [
+              120,
+              130
+            ]
+          },
+          {
+            "screen_name": "gvanrossum",
+            "name": "Guido van Rossum",
+            "id": 15804774,
+            "id_str": "15804774",
+            "indices": [
+              131,
+              140
+            ]
+          },
+          {
+            "screen_name": "spolsky",
+            "name": "Joel Spolsky",
+            "id": 15948437,
+            "id_str": "15948437",
+            "indices": [
+              139,
+              140
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jul 28 13:26:37 +0000 2015",
+      "id": 626020941047459800,
+      "id_str": "626020941047459840",
+      "text": "Вот такая вот просьба к комментаторам https://t.co/yargO94pU1",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 626017029452075000,
+      "quoted_status_id_str": "626017029452075008",
+      "quoted_status": {
+        "created_at": "Tue Jul 28 13:11:05 +0000 2015",
+        "id": 626017029452075000,
+        "id_str": "626017029452075008",
+        "text": "@rubyunderhood ребят, маленькая просьба, если знаете русский, пишите на нем. С большим трудом понимаю украинский. Спасибо заранее.",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 626012299124457500,
+        "in_reply_to_status_id_str": "626012299124457472",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 45908996,
+          "id_str": "45908996"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby Разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/yargO94pU1",
+            "expanded_url": "https://twitter.com/TheSunwave/status/626017029452075008",
+            "display_url": "twitter.com/TheSunwave/sta…",
+            "indices": [
+              38,
+              61
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jul 28 13:25:27 +0000 2015",
+      "id": 626020646624055300,
+      "id_str": "626020646624055296",
+      "text": "RT @anton_davydov: @rubyunderhood советую @samsaffron &amp; @igrigorik",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Tue Jul 28 13:19:00 +0000 2015",
+        "id": 626019023868850200,
+        "id_str": "626019023868850176",
+        "text": "@rubyunderhood советую @samsaffron &amp; @igrigorik",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 626012299124457500,
+        "in_reply_to_status_id_str": "626012299124457472",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 539221178,
+          "id_str": "539221178"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby Разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            },
+            {
+              "screen_name": "samsaffron",
+              "name": "Sam Saffron",
+              "id": 23302930,
+              "id_str": "23302930",
+              "indices": [
+                23,
+                34
+              ]
+            },
+            {
+              "screen_name": "igrigorik",
+              "name": "Ilya Grigorik",
+              "id": 9980812,
+              "id_str": "9980812",
+              "indices": [
+                41,
+                51
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "anton_davydov",
+            "name": "Davy Dovanton",
+            "id": 539221178,
+            "id_str": "539221178",
+            "indices": [
+              3,
+              17
+            ]
+          },
+          {
+            "screen_name": "rubyunderhood",
+            "name": "Ruby Разработчик",
+            "id": 3341793591,
+            "id_str": "3341793591",
+            "indices": [
+              19,
+              33
+            ]
+          },
+          {
+            "screen_name": "samsaffron",
+            "name": "Sam Saffron",
+            "id": 23302930,
+            "id_str": "23302930",
+            "indices": [
+              42,
+              53
+            ]
+          },
+          {
+            "screen_name": "igrigorik",
+            "name": "Ilya Grigorik",
+            "id": 9980812,
+            "id_str": "9980812",
+            "indices": [
+              60,
+              70
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jul 28 13:06:30 +0000 2015",
+      "id": 626015876349866000,
+      "id_str": "626015876349865984",
+      "text": "@chorna_kiwka так не обязательно ruby, вот Стив давно уже на rust подсел",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 626015439601147900,
+      "in_reply_to_status_id_str": "626015439601147904",
+      "in_reply_to_user_id": 147117873,
+      "in_reply_to_user_id_str": "147117873",
+      "in_reply_to_screen_name": "chorna_kiwka",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "chorna_kiwka",
+            "name": "Olena Sovyn",
+            "id": 147117873,
+            "id_str": "147117873",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jul 28 13:00:35 +0000 2015",
+      "id": 626014388709945300,
+      "id_str": "626014388709945344",
+      "text": "@chorna_kiwka давай конкретные примеры, а мы тут поретвитим и список составим",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 626013356449734700,
+      "in_reply_to_status_id_str": "626013356449734657",
+      "in_reply_to_user_id": 147117873,
+      "in_reply_to_user_id_str": "147117873",
+      "in_reply_to_screen_name": "chorna_kiwka",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "chorna_kiwka",
+            "name": "Olena Sovyn",
+            "id": 147117873,
+            "id_str": "147117873",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jul 28 12:52:17 +0000 2015",
+      "id": 626012299124457500,
+      "id_str": "626012299124457472",
+      "text": "Кто у вас must have для прочтения в twitter’е среди разработчиков? Как подбираете follow list?",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jul 28 10:22:02 +0000 2015",
+      "id": 625974488392450000,
+      "id_str": "625974488392450048",
+      "text": "По #jruby кстати есть отличная книжка от @headius: «Using JRuby» (https://t.co/ce7Gjej10F)",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "jruby",
+            "indices": [
+              3,
+              9
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "headius",
+            "name": "Charles Nutter",
+            "id": 9989362,
+            "id_str": "9989362",
+            "indices": [
+              41,
+              49
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/ce7Gjej10F",
+            "expanded_url": "https://pragprog.com/book/jruby/using-jruby",
+            "display_url": "pragprog.com/book/jruby/usi…",
+            "indices": [
+              66,
+              89
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jul 28 10:18:10 +0000 2015",
+      "id": 625973513711652900,
+      "id_str": "625973513711652864",
+      "text": "@vtambourine warm jit, java libs, jms, больше возможностей тонкой настройки runtime.",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 625970019994894300,
+      "in_reply_to_status_id_str": "625970019994894337",
+      "in_reply_to_user_id": 260754563,
+      "in_reply_to_user_id_str": "260754563",
+      "in_reply_to_screen_name": "vtambourine",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "vtambourine",
+            "name": "Benjamin Tambourine",
+            "id": 260754563,
+            "id_str": "260754563",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Tue Jul 28 09:55:42 +0000 2015",
+      "id": 625967860255465500,
+      "id_str": "625967860255465472",
+      "text": ". @lisovskyvlad но то следствие маленького community вокруг технологии. Еще одна особенность jruby — отставание по фичам ради стабильности",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 625963885871427600,
+      "in_reply_to_status_id_str": "625963885871427584",
+      "in_reply_to_user_id": 87775435,
+      "in_reply_to_user_id_str": "87775435",
+      "in_reply_to_screen_name": "lisovskyvlad",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "lisovskyvlad",
+            "name": "Влад Лисовский",
+            "id": 87775435,
+            "id_str": "87775435",
+            "indices": [
+              2,
+              15
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jul 28 09:53:41 +0000 2015",
+      "id": 625967352803393500,
+      "id_str": "625967352803393536",
+      "text": ". @lisovskyvlad из минусов — нужно уметь готовить и копать в глубину. Например когда-то убил 2 дня, чтобы найти баг в zero downtime deploy",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 625963885871427600,
+      "in_reply_to_status_id_str": "625963885871427584",
+      "in_reply_to_user_id": 87775435,
+      "in_reply_to_user_id_str": "87775435",
+      "in_reply_to_screen_name": "lisovskyvlad",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "lisovskyvlad",
+            "name": "Влад Лисовский",
+            "id": 87775435,
+            "id_str": "87775435",
+            "indices": [
+              2,
+              15
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jul 28 09:50:51 +0000 2015",
+      "id": 625966640581247000,
+      "id_str": "625966640581246976",
+      "text": ". @lisovskyvlad у нас в #torquebox были sinatra engine для soa. Использовали messaging, jobs, services, web. Также хорошо зашел JMS",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 625963885871427600,
+      "in_reply_to_status_id_str": "625963885871427584",
+      "in_reply_to_user_id": 87775435,
+      "in_reply_to_user_id_str": "87775435",
+      "in_reply_to_screen_name": "lisovskyvlad",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "torquebox",
+            "indices": [
+              24,
+              34
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "lisovskyvlad",
+            "name": "Влад Лисовский",
+            "id": 87775435,
+            "id_str": "87775435",
+            "indices": [
+              2,
+              15
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Tue Jul 28 09:44:11 +0000 2015",
+      "id": 625964961634889700,
+      "id_str": "625964961634889728",
+      "text": "RT @lisovskyvlad: @rubyunderhood Ну про сервер torquebox, что-нибудь банальное очевидное и не очень. Зачем, плюс, как использоваться плюсы.",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Tue Jul 28 09:39:54 +0000 2015",
+        "id": 625963885871427600,
+        "id_str": "625963885871427584",
+        "text": "@rubyunderhood Ну про сервер torquebox, что-нибудь банальное очевидное и не очень. Зачем, плюс, как использоваться плюсы.",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 625963593985597400,
+        "in_reply_to_status_id_str": "625963593985597440",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 87775435,
+          "id_str": "87775435"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+          "id": "5bcd72da50f0ee77",
+          "url": "https://api.twitter.com/1.1/geo/id/5bcd72da50f0ee77.json",
+          "place_type": "city",
+          "name": "Hamburg",
+          "full_name": "Hamburg, Deutschland",
+          "country_code": "DE",
+          "country": "Deutschland",
+          "contained_within": [],
+          "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  8.4201604,
+                  53.395118
+                ],
+                [
+                  10.325199,
+                  53.395118
+                ],
+                [
+                  10.325199,
+                  53.9646546
+                ],
+                [
+                  8.4201604,
+                  53.9646546
+                ]
+              ]
+            ]
+          },
+          "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby Разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "lisovskyvlad",
+            "name": "Влад Лисовский",
+            "id": 87775435,
+            "id_str": "87775435",
+            "indices": [
+              3,
+              16
+            ]
+          },
+          {
+            "screen_name": "rubyunderhood",
+            "name": "Ruby Разработчик",
+            "id": 3341793591,
+            "id_str": "3341793591",
+            "indices": [
+              18,
+              32
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jul 28 09:38:45 +0000 2015",
+      "id": 625963593985597400,
+      "id_str": "625963593985597440",
+      "text": "@lisovskyvlad что именно рассказать?",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 625951313545834500,
+      "in_reply_to_status_id_str": "625951313545834496",
+      "in_reply_to_user_id": 87775435,
+      "in_reply_to_user_id_str": "87775435",
+      "in_reply_to_screen_name": "lisovskyvlad",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "lisovskyvlad",
+            "name": "Влад Лисовский",
+            "id": 87775435,
+            "id_str": "87775435",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
       "created_at": "Tue Jul 28 08:37:40 +0000 2015",
       "id": 625948224487075800,
       "id_str": "625948224487075840",
@@ -359,7 +3633,7 @@
         "user_mentions": [
           {
             "screen_name": "s_tasssik",
-            "name": "Taras",
+            "name": "Terry___S",
             "id": 575545155,
             "id_str": "575545155",
             "indices": [
@@ -1327,7 +4601,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 0,
-      "favorite_count": 1,
+      "favorite_count": 0,
       "entities": {
         "hashtags": [],
         "symbols": [],

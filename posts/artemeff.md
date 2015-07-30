@@ -1,6 +1,6 @@
 # artemeff
 
-_18 июля 2015_
+_17 июля 2015_
 
 ## Понедельник <small>148 твитов</small>
 
@@ -617,7 +617,7 @@ RT <a href="https://twitter.com/sesharim" title="sesharim">@sesharim</a>: <a hre
 
 RT <a href="https://twitter.com/nikitonsky" title="Nikita Prokopov">@nikitonsky</a>: Когда смутно хочется правильного <a href="http://t.co/9p9xD15JIG">pic.twitter.com/9p9xD15JIG</a>
 
-## Пятница <small>12 твитов</small>
+## Пятница <small>13 твитов</small>
 
 У нас сегодня пятница :)
 
@@ -643,7 +643,5 @@ RT <a href="https://twitter.com/suxxes" title="Father Frodo">@suxxes</a>: <a hre
 . <a href="https://twitter.com/suxxes" title="Father Frodo">@suxxes</a> вот мой конфиг <a href="https://t.co/xueIv5m2SP">gist.github.com/artemeff/16767…</a>
 
 . <a href="https://twitter.com/suxxes" title="Father Frodo">@suxxes</a> в dev css файлы будут вместе с js кодом, для горячей перезагрузки
-
-## Суббота <small>1 твит</small>
 
 Boundaries от Gary Bernhardt <a href="https://t.co/a9cjJu85xU">destroyallsoftware.com/talks/boundari…</a>

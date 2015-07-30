@@ -298,7 +298,7 @@ RT <a href="https://twitter.com/alexfedoseev" title="Alex">@alexfedoseev</a>: <a
 
 RT <a href="https://twitter.com/mpak999" title="MpaK">@mpak999</a>: <a href="https://twitter.com/alexfedoseev" title="Alex">@alexfedoseev</a> <a href="https://twitter.com/rainrb" title="rainrb">@rainrb</a> <a href="https://twitter.com/rubyunderhood" title="Ruby Разработчик">@rubyunderhood</a> yep, почти так и делаю, только хелперы у меня чутка другие к рспеку
 
-## Вторник <small>88 твитов</small>
+## Вторник <small>89 твитов</small>
 
 RT <a href="https://twitter.com/alexfedoseev" title="Alex">@alexfedoseev</a>: <a href="https://twitter.com/lancedikson" title="Denis Demchenko">@lancedikson</a> рельсы api + spa с рендером реакта на ноде = html с сервера <a href="https://twitter.com/suxxes" title="Father Frodo">@suxxes</a> <a href="https://twitter.com/rainrb" title="rainrb">@rainrb</a> <a href="https://twitter.com/shuvalov_anton" title="Darth Shuvalov">@shuvalov_anton</a> <a href="https://twitter.com/rubyunderhood" title="Ruby Разработчик">@rubyunderhood</a> @<a href="https://twitter.com/iamstarkov" title="Vladimir Starkov">@iamstarkov</a>
 
@@ -478,9 +478,9 @@ RT <a href="https://twitter.com/artemeff" title="Yuri Artemev">@artemeff</a>: <a
 
 <a href="https://t.co/wRLpNsfx0c">twitter.com/pivorakmeetup/…</a>
 
-## Среда <small>69 твитов</small>
-
 RT <a href="https://twitter.com/gruz0" title="Alexander Gruzov">@gruz0</a>: <a href="https://twitter.com/rubyunderhood" title="Ruby Разработчик">@rubyunderhood</a>, Radius-серверы, единый контроллер для Wi-Fi железяк на 1500+ сотрудников, внутренний документооборот и всё такое…
+
+## Среда <small>69 твитов</small>
 
 RT <a href="https://twitter.com/pivorakmeetup" title="Pivorak">@pivorakmeetup</a>: <a href="https://twitter.com/rubyunderhood" title="Ruby Разработчик">@rubyunderhood</a> Thanx for repost! We are looking for speakers for August and September, so if you care about ruby - do it<a href="https://twitter.com/search?q=%23pivorak">#pivorak</a>
 
@@ -618,9 +618,9 @@ RT <a href="https://twitter.com/Fodoj" title="Kirill Shirinkin">@Fodoj</a>: <a h
 
 RT <a href="https://twitter.com/anton_davydov" title="Davy Dovanton">@anton_davydov</a>: <a href="https://twitter.com/rubyunderhood" title="Ruby Разработчик">@rubyunderhood</a> пабы на ура идут, просто дома потупить тоже приятно порой
 
-## Четверг <small>38 твитов</small>
-
 <a href="https://t.co/tefZit27Sy">twitter.com/23ydobemos/sta…</a>
+
+## Четверг <small>40 твитов</small>
 
 И снова Здравствуйте. На четвёртый день бог создал светила на тверди небесной. Но мы с вами не он, да и про религию говорить точно не будем.
 
@@ -701,13 +701,13 @@ RT <a href="https://twitter.com/gruz0" title="Alexander Gruzov">@gruz0</a>: <a h
 
 . <a href="https://twitter.com/gruz0" title="Alexander Gruzov">@gruz0</a> Ну, тут уже естественный отбор в действии… Хотя все же с программированием последствия попроще. :)
 
-## Пятница <small>26 твитов</small>
-
 RT <a href="https://twitter.com/gruz0" title="Alexander Gruzov">@gruz0</a>: <a href="https://twitter.com/rubyunderhood" title="Ruby Разработчик">@rubyunderhood</a>, вот этот чувак крутой: <a href="https://t.co/93Qwrbp87r">youtube.com/user/mackenzie…</a>
 
 RT <a href="https://twitter.com/gruz0" title="Alexander Gruzov">@gruz0</a>: <a href="https://twitter.com/rubyunderhood" title="Ruby Разработчик">@rubyunderhood</a>, и вот этот: <a href="http://t.co/8btXhmOKyd">youtube.com/channel/UCPIyD…</a>
 
 <a href="https://t.co/CFyPkFm3Ra">twitter.com/moscowrb/statu…</a>
+
+## Пятница <small>23 твита</small>
 
 И снова привет. Повторю ночной вопрос: <a href="https://t.co/iRPoRscfhg">twitter.com/rubyunderhood/…</a>
 
