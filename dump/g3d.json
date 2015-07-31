@@ -77,7 +77,7 @@
       "place": null,
       "contributors": null,
       "is_quote_status": false,
-      "retweet_count": 0,
+      "retweet_count": 1,
       "favorite_count": 0,
       "entities": {
         "hashtags": [],
@@ -372,8 +372,8 @@
         "place": null,
         "contributors": null,
         "is_quote_status": false,
-        "retweet_count": 17,
-        "favorite_count": 7,
+        "retweet_count": 26,
+        "favorite_count": 10,
         "entities": {
           "hashtags": [],
           "symbols": [],
@@ -464,7 +464,7 @@
         "lang": "ru"
       },
       "is_quote_status": false,
-      "retweet_count": 17,
+      "retweet_count": 26,
       "favorite_count": 0,
       "entities": {
         "hashtags": [],
@@ -2268,7 +2268,7 @@
         "user_mentions": [
           {
             "screen_name": "steveklabnik",
-            "name": "Rust + Node = ❤",
+            "name": "Some(@steveklabnik)",
             "id": 22386062,
             "id_str": "22386062",
             "indices": [
