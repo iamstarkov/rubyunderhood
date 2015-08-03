@@ -26,7 +26,7 @@
     }
   },
   "protected": false,
-  "followers_count": 204,
+  "followers_count": 209,
   "friends_count": 1,
   "listed_count": 4,
   "created_at": "Mon Jun 22 18:43:03 +0000 2015",
@@ -35,45 +35,56 @@
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 1685,
+  "statuses_count": 1690,
   "lang": "en",
   "status": {
-    "created_at": "Mon Aug 03 07:06:04 +0000 2015",
-    "id": 628099498913439700,
-    "id_str": "628099498913439744",
-    "text": ".@G3D, об этом завтра. Предлагаю пока подумать, чем не устраивает Assets Pipeline? Чего в ней не хватает? Почему с ней нужно что-то делать?",
+    "created_at": "Mon Aug 03 11:24:40 +0000 2015",
+    "id": 628164578241855500,
+    "id_str": "628164578241855489",
+    "text": ".@rubyunderhood, http://t.co/6BPgytMmfh — снова Сэнди Метц. Полчаса и ты знаешь о юнит-тестах всё",
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "truncated": false,
-    "in_reply_to_status_id": 628090995486388200,
-    "in_reply_to_status_id_str": "628090995486388225",
-    "in_reply_to_user_id": 15895569,
-    "in_reply_to_user_id_str": "15895569",
-    "in_reply_to_screen_name": "G3D",
+    "in_reply_to_status_id": 628083614266298400,
+    "in_reply_to_status_id_str": "628083614266298368",
+    "in_reply_to_user_id": 3341793591,
+    "in_reply_to_user_id_str": "3341793591",
+    "in_reply_to_screen_name": "rubyunderhood",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "retweet_count": 0,
-    "favorite_count": 0,
+    "retweet_count": 1,
+    "favorite_count": 5,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "G3D",
-          "name": "Bohdan V.",
-          "id": 15895569,
-          "id_str": "15895569",
+          "screen_name": "rubyunderhood",
+          "name": "Ruby Разработчик",
+          "id": 3341793591,
+          "id_str": "3341793591",
           "indices": [
             1,
-            5
+            15
           ]
         }
       ],
-      "urls": []
+      "urls": [
+        {
+          "url": "http://t.co/6BPgytMmfh",
+          "expanded_url": "http://www.youtube.com/watch?v=URSWYvyc42M",
+          "display_url": "youtube.com/watch?v=URSWYv…",
+          "indices": [
+            17,
+            39
+          ]
+        }
+      ]
     },
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
