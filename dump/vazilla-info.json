@@ -26,7 +26,7 @@
     }
   },
   "protected": false,
-  "followers_count": 225,
+  "followers_count": 226,
   "friends_count": 1,
   "listed_count": 5,
   "created_at": "Mon Jun 22 18:43:03 +0000 2015",
@@ -35,94 +35,56 @@
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 1718,
+  "statuses_count": 1731,
   "lang": "en",
   "status": {
-    "created_at": "Tue Aug 04 16:08:57 +0000 2015",
-    "id": 628598507256062000,
-    "id_str": "628598507256061952",
-    "text": "RT @listochkin: @rubyunderhood зависит от. но в целом:\n1. Данные тесткейсов лежат в одном репозитории\n2. Второй репозиторий использует 1й к…",
-    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "created_at": "Wed Aug 05 07:55:51 +0000 2015",
+    "id": 628836803009728500,
+    "id_str": "628836803009728512",
+    "text": "Плюс великолепные слайды доклада @darth_sim \"50 оттенков красного\": http://t.co/VwSvezxOai (жаль, не нашел видео)",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "truncated": false,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 628833420567822300,
+    "in_reply_to_status_id_str": "628833420567822336",
+    "in_reply_to_user_id": 3341793591,
+    "in_reply_to_user_id_str": "3341793591",
+    "in_reply_to_screen_name": "rubyunderhood",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "retweeted_status": {
-      "created_at": "Tue Aug 04 16:06:15 +0000 2015",
-      "id": 628597827820720100,
-      "id_str": "628597827820720129",
-      "text": "@rubyunderhood зависит от. но в целом:\n1. Данные тесткейсов лежат в одном репозитории\n2. Второй репозиторий использует 1й как сабмодуль.",
-      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-      "truncated": false,
-      "in_reply_to_status_id": 628521836293267500,
-      "in_reply_to_status_id_str": "628521836293267456",
-      "in_reply_to_user_id": 3341793591,
-      "in_reply_to_user_id_str": "3341793591",
-      "in_reply_to_screen_name": "rubyunderhood",
-      "geo": null,
-      "coordinates": null,
-      "place": null,
-      "contributors": null,
-      "retweet_count": 1,
-      "favorite_count": 1,
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [
-          {
-            "screen_name": "rubyunderhood",
-            "name": "Ruby Разработчик",
-            "id": 3341793591,
-            "id_str": "3341793591",
-            "indices": [
-              0,
-              14
-            ]
-          }
-        ],
-        "urls": []
-      },
-      "favorited": false,
-      "retweeted": false,
-      "lang": "ru"
-    },
-    "retweet_count": 1,
-    "favorite_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 4,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "listochkin",
-          "name": "Андрей Листочкин",
-          "id": 20910792,
-          "id_str": "20910792",
+          "screen_name": "darth_sim",
+          "name": "Sergey Alexandrovich",
+          "id": 214162413,
+          "id_str": "214162413",
           "indices": [
-            3,
-            14
-          ]
-        },
-        {
-          "screen_name": "rubyunderhood",
-          "name": "Ruby Разработчик",
-          "id": 3341793591,
-          "id_str": "3341793591",
-          "indices": [
-            16,
-            30
+            33,
+            43
           ]
         }
       ],
-      "urls": []
+      "urls": [
+        {
+          "url": "http://t.co/VwSvezxOai",
+          "expanded_url": "http://www.slideshare.net/ssuserfc4417/50-45546464",
+          "display_url": "slideshare.net/ssuserfc4417/5…",
+          "indices": [
+            68,
+            90
+          ]
+        }
+      ]
     },
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,

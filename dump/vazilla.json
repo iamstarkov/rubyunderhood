@@ -5,6 +5,543 @@
   "post": false,
   "tweets": [
     {
+      "created_at": "Wed Aug 05 07:55:51 +0000 2015",
+      "id": 628836803009728500,
+      "id_str": "628836803009728512",
+      "text": "Плюс великолепные слайды доклада @darth_sim \"50 оттенков красного\": http://t.co/VwSvezxOai (жаль, не нашел видео)",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 628833420567822300,
+      "in_reply_to_status_id_str": "628833420567822336",
+      "in_reply_to_user_id": 3341793591,
+      "in_reply_to_user_id_str": "3341793591",
+      "in_reply_to_screen_name": "rubyunderhood",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "darth_sim",
+            "name": "Sergey Alexandrovich",
+            "id": 214162413,
+            "id_str": "214162413",
+            "indices": [
+              33,
+              43
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "http://t.co/VwSvezxOai",
+            "expanded_url": "http://www.slideshare.net/ssuserfc4417/50-45546464",
+            "display_url": "slideshare.net/ssuserfc4417/5…",
+            "indices": [
+              68,
+              90
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Aug 05 07:48:45 +0000 2015",
+      "id": 628835016555003900,
+      "id_str": "628835016555003904",
+      "text": "Сразу отвечу про правила/принципы:\n\n* https://t.co/LMu8fz1thT\n* http://t.co/is4DTxPnpr",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 628833420567822300,
+      "in_reply_to_status_id_str": "628833420567822336",
+      "in_reply_to_user_id": 3341793591,
+      "in_reply_to_user_id_str": "3341793591",
+      "in_reply_to_screen_name": "rubyunderhood",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/LMu8fz1thT",
+            "expanded_url": "https://signalvnoise.com/posts/3159-testing-like-the-tsa",
+            "display_url": "signalvnoise.com/posts/3159-tes…",
+            "indices": [
+              38,
+              61
+            ]
+          },
+          {
+            "url": "http://t.co/is4DTxPnpr",
+            "expanded_url": "http://www.justinweiss.com/blog/2015/05/04/how-much-testing-is-too-much/",
+            "display_url": "justinweiss.com/blog/2015/05/0…",
+            "indices": [
+              64,
+              86
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Aug 05 07:42:25 +0000 2015",
+      "id": 628833420567822300,
+      "id_str": "628833420567822336",
+      "text": "Какие у вас секреты, принципы и правила в тестировании? Какой стек технологий используете? Какое соотношение интеграционные/юнит тесты?",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Aug 05 07:40:17 +0000 2015",
+      "id": 628832884451844100,
+      "id_str": "628832884451844096",
+      "text": "Пишу юнит-тесты и для вьюх (редко, чаще всего это смелл), и для JS (Jasmine + jasmine-jquery). Классицист, не мокист: http://t.co/xGBBDrktsR",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 628830902727114800,
+      "in_reply_to_status_id_str": "628830902727114752",
+      "in_reply_to_user_id": 3341793591,
+      "in_reply_to_user_id_str": "3341793591",
+      "in_reply_to_screen_name": "rubyunderhood",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "http://t.co/xGBBDrktsR",
+            "expanded_url": "http://martinfowler.com/articles/mocksArentStubs.html#ClassicalAndMockistTesting",
+            "display_url": "martinfowler.com/articles/mocks…",
+            "indices": [
+              118,
+              140
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Aug 05 07:34:30 +0000 2015",
+      "id": 628831427640066000,
+      "id_str": "628831427640066048",
+      "text": "По субъективной статистике test-first у меня получается в 40% случаев. В других случаях (code-first) не доверяю тестам, которые не падали",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 628830554490843100,
+      "in_reply_to_status_id_str": "628830554490843136",
+      "in_reply_to_user_id": 3341793591,
+      "in_reply_to_user_id_str": "3341793591",
+      "in_reply_to_screen_name": "rubyunderhood",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Aug 05 07:32:24 +0000 2015",
+      "id": 628830902727114800,
+      "id_str": "628830902727114752",
+      "text": "Чтобы быстро переключаться между классом/тестом и запускать тесты из Саблайма пользуюсь https://t.co/d2FI1ZPSng",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 628830554490843100,
+      "in_reply_to_status_id_str": "628830554490843136",
+      "in_reply_to_user_id": 3341793591,
+      "in_reply_to_user_id_str": "3341793591",
+      "in_reply_to_screen_name": "rubyunderhood",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/d2FI1ZPSng",
+            "expanded_url": "https://packagecontrol.io/packages/RubyTest",
+            "display_url": "packagecontrol.io/packages/RubyT…",
+            "indices": [
+              88,
+              111
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Aug 05 07:31:01 +0000 2015",
+      "id": 628830554490843100,
+      "id_str": "628830554490843136",
+      "text": "Большую часть этих трюков подсмотрел тут: http://t.co/ZYS5bi2E9n",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 628830304032161800,
+      "in_reply_to_status_id_str": "628830304032161792",
+      "in_reply_to_user_id": 3341793591,
+      "in_reply_to_user_id_str": "3341793591",
+      "in_reply_to_screen_name": "rubyunderhood",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "http://t.co/ZYS5bi2E9n",
+            "expanded_url": "http://www.elabs.se/blog/51-simple-tricks-to-clean-up-your-capybara-tests",
+            "display_url": "elabs.se/blog/51-simple…",
+            "indices": [
+              42,
+              64
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Aug 05 07:30:02 +0000 2015",
+      "id": 628830304032161800,
+      "id_str": "628830304032161792",
+      "text": "В интеграционных тестах не опускаюсь до реализации и пишу на псевдо-DSL (почти site_prism): https://t.co/0akHFhCPea",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 628829188150198300,
+      "in_reply_to_status_id_str": "628829188150198273",
+      "in_reply_to_user_id": 3341793591,
+      "in_reply_to_user_id_str": "3341793591",
+      "in_reply_to_screen_name": "rubyunderhood",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/0akHFhCPea",
+            "expanded_url": "https://gist.github.com/vast/3771a6a0a4a2a88883ac",
+            "display_url": "gist.github.com/vast/3771a6a0a…",
+            "indices": [
+              92,
+              115
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Aug 05 07:25:36 +0000 2015",
+      "id": 628829188150198300,
+      "id_str": "628829188150198273",
+      "text": "В итоге пришел к чему-то похожему: https://t.co/QBuQw0kw7s Начинаю с фича-спеки (одна на сценарий) и добавляю юнит-тестов по вкусу",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 628828501462917100,
+      "in_reply_to_status_id_str": "628828501462917120",
+      "in_reply_to_user_id": 3341793591,
+      "in_reply_to_user_id_str": "3341793591",
+      "in_reply_to_screen_name": "rubyunderhood",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/QBuQw0kw7s",
+            "expanded_url": "https://robots.thoughtbot.com/testing-from-the-outsidein",
+            "display_url": "robots.thoughtbot.com/testing-from-t…",
+            "indices": [
+              35,
+              58
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Aug 05 07:22:52 +0000 2015",
+      "id": 628828501462917100,
+      "id_str": "628828501462917120",
+      "text": "Долго бросался из крайности в крайность: 100500 интеграционных тестов, 0 юнит-тестов -&gt; 0 интеграционных, 100500 юнит-тестов",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 628827931419246600,
+      "in_reply_to_status_id_str": "628827931419246592",
+      "in_reply_to_user_id": 3341793591,
+      "in_reply_to_user_id_str": "3341793591",
+      "in_reply_to_screen_name": "rubyunderhood",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Aug 05 07:20:36 +0000 2015",
+      "id": 628827931419246600,
+      "id_str": "628827931419246592",
+      "text": "Весь наш стек для тестов можно посмотреть здесь: https://t.co/iwf2M50Gxf",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 628827642884714500,
+      "in_reply_to_status_id_str": "628827642884714496",
+      "in_reply_to_user_id": 3341793591,
+      "in_reply_to_user_id_str": "3341793591",
+      "in_reply_to_screen_name": "rubyunderhood",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/iwf2M50Gxf",
+            "expanded_url": "https://github.com/fs/rails-base/blob/3283dfcba89cb16d91f3cdb2d8aa2e8f6441581d/Gemfile#L42-L70",
+            "display_url": "github.com/fs/rails-base/…",
+            "indices": [
+              49,
+              72
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Aug 05 07:19:27 +0000 2015",
+      "id": 628827642884714500,
+      "id_str": "628827642884714496",
+      "text": "Я начал с Test::Unit и фикстур. Прошел Cucumber и получил посттравматический синдром. В итоге, пришел к Rspec + Capybara + Jasmine",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 628826962157568000,
+      "in_reply_to_status_id_str": "628826962157568001",
+      "in_reply_to_user_id": 3341793591,
+      "in_reply_to_user_id_str": "3341793591",
+      "in_reply_to_screen_name": "rubyunderhood",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Aug 05 07:16:45 +0000 2015",
+      "id": 628826962157568000,
+      "id_str": "628826962157568001",
+      "text": "Доброе утро. Жаль, но защитников у Assets Pipeline не нашлось. Сегодня поговорим об еще одной моей любимой теме: о тестах",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
       "created_at": "Tue Aug 04 16:08:57 +0000 2015",
       "id": 628598507256062000,
       "id_str": "628598507256061952",
@@ -46,7 +583,7 @@
         "contributors": null,
         "is_quote_status": false,
         "retweet_count": 1,
-        "favorite_count": 1,
+        "favorite_count": 2,
         "entities": {
           "hashtags": [],
           "symbols": [],
@@ -1080,8 +1617,8 @@
         },
         "contributors": null,
         "is_quote_status": false,
-        "retweet_count": 3,
-        "favorite_count": 0,
+        "retweet_count": 4,
+        "favorite_count": 1,
         "entities": {
           "hashtags": [],
           "symbols": [],
@@ -1104,7 +1641,7 @@
         "lang": "ru"
       },
       "is_quote_status": false,
-      "retweet_count": 3,
+      "retweet_count": 4,
       "favorite_count": 0,
       "entities": {
         "hashtags": [],
