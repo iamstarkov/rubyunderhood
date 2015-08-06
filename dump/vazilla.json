@@ -5,6 +5,146 @@
   "post": false,
   "tweets": [
     {
+      "created_at": "Thu Aug 06 05:53:11 +0000 2015",
+      "id": 629168319048904700,
+      "id_str": "629168319048904704",
+      "text": "RT @xJureth: @rubyunderhood @darth_sim  не в лучшем качестве, но http://t.co/81QifCKdcG",
+      "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Thu Aug 06 01:00:32 +0000 2015",
+        "id": 629094672409960400,
+        "id_str": "629094672409960452",
+        "text": "@rubyunderhood @darth_sim  не в лучшем качестве, но http://t.co/81QifCKdcG",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 628836803009728500,
+        "in_reply_to_status_id_str": "628836803009728512",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 328007354,
+          "id_str": "328007354"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 1,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby Разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            },
+            {
+              "screen_name": "darth_sim",
+              "name": "Sergey Alexandrovich",
+              "id": 214162413,
+              "id_str": "214162413",
+              "indices": [
+                15,
+                25
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "http://t.co/81QifCKdcG",
+              "expanded_url": "http://www.youtube.com/watch?v=ismsJYFKuGQ",
+              "display_url": "youtube.com/watch?v=ismsJY…",
+              "indices": [
+                52,
+                74
+              ]
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "xJureth",
+            "name": "Юрий Минин",
+            "id": 328007354,
+            "id_str": "328007354",
+            "indices": [
+              3,
+              11
+            ]
+          },
+          {
+            "screen_name": "rubyunderhood",
+            "name": "Ruby Разработчик",
+            "id": 3341793591,
+            "id_str": "3341793591",
+            "indices": [
+              13,
+              27
+            ]
+          },
+          {
+            "screen_name": "darth_sim",
+            "name": "Sergey Alexandrovich",
+            "id": 214162413,
+            "id_str": "214162413",
+            "indices": [
+              28,
+              38
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "http://t.co/81QifCKdcG",
+            "expanded_url": "http://www.youtube.com/watch?v=ismsJYFKuGQ",
+            "display_url": "youtube.com/watch?v=ismsJY…",
+            "indices": [
+              65,
+              87
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
       "created_at": "Wed Aug 05 07:55:51 +0000 2015",
       "id": 628836803009728500,
       "id_str": "628836803009728512",
@@ -25,8 +165,8 @@
       "place": null,
       "contributors": null,
       "is_quote_status": false,
-      "retweet_count": 0,
-      "favorite_count": 4,
+      "retweet_count": 1,
+      "favorite_count": 7,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -81,7 +221,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 0,
-      "favorite_count": 4,
+      "favorite_count": 8,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -288,7 +428,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 0,
-      "favorite_count": 4,
+      "favorite_count": 5,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -376,7 +516,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 0,
-      "favorite_count": 1,
+      "favorite_count": 2,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -453,7 +593,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 0,
-      "favorite_count": 5,
+      "favorite_count": 6,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -1301,7 +1441,7 @@
         "contributors": null,
         "is_quote_status": false,
         "retweet_count": 1,
-        "favorite_count": 0,
+        "favorite_count": 1,
         "entities": {
           "hashtags": [],
           "symbols": [],
@@ -2619,7 +2759,7 @@
         "place": null,
         "contributors": null,
         "is_quote_status": false,
-        "retweet_count": 3,
+        "retweet_count": 4,
         "favorite_count": 1,
         "entities": {
           "hashtags": [],
@@ -2643,7 +2783,7 @@
         "lang": "ru"
       },
       "is_quote_status": false,
-      "retweet_count": 3,
+      "retweet_count": 4,
       "favorite_count": 0,
       "entities": {
         "hashtags": [],

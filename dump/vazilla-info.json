@@ -26,7 +26,7 @@
     }
   },
   "protected": false,
-  "followers_count": 226,
+  "followers_count": 227,
   "friends_count": 1,
   "listed_count": 5,
   "created_at": "Mon Jun 22 18:43:03 +0000 2015",
@@ -35,49 +35,129 @@
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 1731,
+  "statuses_count": 1732,
   "lang": "en",
   "status": {
-    "created_at": "Wed Aug 05 07:55:51 +0000 2015",
-    "id": 628836803009728500,
-    "id_str": "628836803009728512",
-    "text": "Плюс великолепные слайды доклада @darth_sim \"50 оттенков красного\": http://t.co/VwSvezxOai (жаль, не нашел видео)",
-    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "created_at": "Thu Aug 06 05:53:11 +0000 2015",
+    "id": 629168319048904700,
+    "id_str": "629168319048904704",
+    "text": "RT @xJureth: @rubyunderhood @darth_sim  не в лучшем качестве, но http://t.co/81QifCKdcG",
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
     "truncated": false,
-    "in_reply_to_status_id": 628833420567822300,
-    "in_reply_to_status_id_str": "628833420567822336",
-    "in_reply_to_user_id": 3341793591,
-    "in_reply_to_user_id_str": "3341793591",
-    "in_reply_to_screen_name": "rubyunderhood",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "retweet_count": 0,
-    "favorite_count": 4,
+    "retweeted_status": {
+      "created_at": "Thu Aug 06 01:00:32 +0000 2015",
+      "id": 629094672409960400,
+      "id_str": "629094672409960452",
+      "text": "@rubyunderhood @darth_sim  не в лучшем качестве, но http://t.co/81QifCKdcG",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 628836803009728500,
+      "in_reply_to_status_id_str": "628836803009728512",
+      "in_reply_to_user_id": 3341793591,
+      "in_reply_to_user_id_str": "3341793591",
+      "in_reply_to_screen_name": "rubyunderhood",
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "rubyunderhood",
+            "name": "Ruby Разработчик",
+            "id": 3341793591,
+            "id_str": "3341793591",
+            "indices": [
+              0,
+              14
+            ]
+          },
+          {
+            "screen_name": "darth_sim",
+            "name": "Sergey Alexandrovich",
+            "id": 214162413,
+            "id_str": "214162413",
+            "indices": [
+              15,
+              25
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "http://t.co/81QifCKdcG",
+            "expanded_url": "http://www.youtube.com/watch?v=ismsJYFKuGQ",
+            "display_url": "youtube.com/watch?v=ismsJY…",
+            "indices": [
+              52,
+              74
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    "retweet_count": 1,
+    "favorite_count": 0,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
+        {
+          "screen_name": "xJureth",
+          "name": "Юрий Минин",
+          "id": 328007354,
+          "id_str": "328007354",
+          "indices": [
+            3,
+            11
+          ]
+        },
+        {
+          "screen_name": "rubyunderhood",
+          "name": "Ruby Разработчик",
+          "id": 3341793591,
+          "id_str": "3341793591",
+          "indices": [
+            13,
+            27
+          ]
+        },
         {
           "screen_name": "darth_sim",
           "name": "Sergey Alexandrovich",
           "id": 214162413,
           "id_str": "214162413",
           "indices": [
-            33,
-            43
+            28,
+            38
           ]
         }
       ],
       "urls": [
         {
-          "url": "http://t.co/VwSvezxOai",
-          "expanded_url": "http://www.slideshare.net/ssuserfc4417/50-45546464",
-          "display_url": "slideshare.net/ssuserfc4417/5…",
+          "url": "http://t.co/81QifCKdcG",
+          "expanded_url": "http://www.youtube.com/watch?v=ismsJYFKuGQ",
+          "display_url": "youtube.com/watch?v=ismsJY…",
           "indices": [
-            68,
-            90
+            65,
+            87
           ]
         }
       ]
