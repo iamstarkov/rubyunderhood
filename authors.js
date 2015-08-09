@@ -1,6 +1,6 @@
 export default [
   // post: false
-  { username: 'vazilla',       start: '03 aug 2015', first: '628080874077200384', post: false },
+  { username: 'vazilla',       start: '03 aug 2015', first: '628080874077200384' },
   { username: 'g3d',           start: '27 jul 2015', first: '625520018697134080' },
   { username: 'rainrb',        start: '20 jul 2015', first: '623035043632558080' },
   { username: 'artemeff',      start: '13 jul 2015', first: '620478074027679744' },
