@@ -5,6 +5,741 @@
   "post": false,
   "tweets": [
     {
+      "created_at": "Mon Aug 10 19:49:54 +0000 2015",
+      "id": 630828438891270100,
+      "id_str": "630828438891270144",
+      "text": "@levwalkin @platoff @inem Ага, только что этот же линк запостил :)",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 630827791882154000,
+      "in_reply_to_status_id_str": "630827791882153984",
+      "in_reply_to_user_id": 103231091,
+      "in_reply_to_user_id_str": "103231091",
+      "in_reply_to_screen_name": "levwalkin",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "levwalkin",
+            "name": "Lev Walkin",
+            "id": 103231091,
+            "id_str": "103231091",
+            "indices": [
+              0,
+              10
+            ]
+          },
+          {
+            "screen_name": "platoff",
+            "name": "Andrey Platov",
+            "id": 65361767,
+            "id_str": "65361767",
+            "indices": [
+              11,
+              19
+            ]
+          },
+          {
+            "screen_name": "inem",
+            "name": "Иван Немытченко",
+            "id": 7198692,
+            "id_str": "7198692",
+            "indices": [
+              20,
+              25
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 10 19:48:28 +0000 2015",
+      "id": 630828075832311800,
+      "id_str": "630828075832311808",
+      "text": "Например: http://t.co/O1FVYHNTWv",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "http://t.co/O1FVYHNTWv",
+            "expanded_url": "http://qualityisspeed.blogspot.ru/2014/08/why-i-dont-teach-solid.html",
+            "display_url": "qualityisspeed.blogspot.ru/2014/08/why-i-…",
+            "indices": [
+              10,
+              32
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 10 19:48:24 +0000 2015",
+      "id": 630828062154752000,
+      "id_str": "630828062154752000",
+      "text": "Зачем в Ruby DI или IoC?\nв) Сообщества статических ООП-языков SOLID практикуют и на практике проверили его принципы. И наелись.",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 10 19:48:08 +0000 2015",
+      "id": 630827994517385200,
+      "id_str": "630827994517385217",
+      "text": "И активно применялись в статических ООП-языках.\nб) Половина проблем, которые решает SOLID в этих языках в Руби решаются по-другому и проще.",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 10 19:47:55 +0000 2015",
+      "id": 630827940117262300,
+      "id_str": "630827940117262336",
+      "text": "Ну, если серьезно: \nа) Метц приносит в Руби сообщество идеи, которые разрабатывались задолго до неё Беком, Фаулером, Физерсом и другими.",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 10 18:36:00 +0000 2015",
+      "id": 630809838654722000,
+      "id_str": "630809838654722048",
+      "text": "@platoff @inem воу-воу, полегче. Андрей, вы уверены что знаете про меня достаточно много чтобы делать подобные утверждения?",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 630808618288435200,
+      "in_reply_to_status_id_str": "630808618288435200",
+      "in_reply_to_user_id": 65361767,
+      "in_reply_to_user_id_str": "65361767",
+      "in_reply_to_screen_name": "platoff",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "platoff",
+            "name": "Andrey Platov",
+            "id": 65361767,
+            "id_str": "65361767",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "inem",
+            "name": "Иван Немытченко",
+            "id": 7198692,
+            "id_str": "7198692",
+            "indices": [
+              9,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 10 17:36:31 +0000 2015",
+      "id": 630794869980680200,
+      "id_str": "630794869980680192",
+      "text": "@ptico ну было бы 1000 методов из 30 классов, у которых в среднем по 3 предка. Еще хуже. Есть богатый опыт работы с NH (C#).Как страшный сон",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 630793142439137300,
+      "in_reply_to_status_id_str": "630793142439137281",
+      "in_reply_to_user_id": 16743832,
+      "in_reply_to_user_id_str": "16743832",
+      "in_reply_to_screen_name": "ptico",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ptico",
+            "name": "Andrey Savchenko",
+            "id": 16743832,
+            "id_str": "16743832",
+            "indices": [
+              0,
+              6
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 10 17:19:37 +0000 2015",
+      "id": 630790617585598500,
+      "id_str": "630790617585598464",
+      "text": "@ptico да, это правда",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 630789504585048000,
+      "in_reply_to_status_id_str": "630789504585048064",
+      "in_reply_to_user_id": 16743832,
+      "in_reply_to_user_id_str": "16743832",
+      "in_reply_to_screen_name": "ptico",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ptico",
+            "name": "Andrey Savchenko",
+            "id": 16743832,
+            "id_str": "16743832",
+            "indices": [
+              0,
+              6
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 10 17:19:12 +0000 2015",
+      "id": 630790512019177500,
+      "id_str": "630790512019177474",
+      "text": "@sharipov_ru @inem 50/50 :)",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 630786576419815400,
+      "in_reply_to_status_id_str": "630786576419815425",
+      "in_reply_to_user_id": 217454170,
+      "in_reply_to_user_id_str": "217454170",
+      "in_reply_to_screen_name": "sharipov_ru",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "sharipov_ru",
+            "name": "Ruslan Sharipov",
+            "id": 217454170,
+            "id_str": "217454170",
+            "indices": [
+              0,
+              12
+            ]
+          },
+          {
+            "screen_name": "inem",
+            "name": "Иван Немытченко",
+            "id": 7198692,
+            "id_str": "7198692",
+            "indices": [
+              13,
+              18
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Mon Aug 10 17:19:01 +0000 2015",
+      "id": 630790465500106800,
+      "id_str": "630790465500106752",
+      "text": "True https://t.co/Jad8gyy3t8",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 630784186174062600,
+      "quoted_status_id_str": "630784186174062592",
+      "quoted_status": {
+        "created_at": "Mon Aug 10 16:54:04 +0000 2015",
+        "id": 630784186174062600,
+        "id_str": "630784186174062592",
+        "text": "@rubyunderhood с модулями очень легко выстрелить себе в ногу. Надо соблюдать свод правил чтобы не повысить сложность.",
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 630757437155483600,
+        "in_reply_to_status_id_str": "630757437155483648",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 286175573,
+          "id_str": "286175573"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby Разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/Jad8gyy3t8",
+            "expanded_url": "https://twitter.com/timrael/status/630784186174062592",
+            "display_url": "twitter.com/timrael/status…",
+            "indices": [
+              5,
+              28
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Aug 10 17:18:36 +0000 2015",
+      "id": 630790363813388300,
+      "id_str": "630790363813388288",
+      "text": "Просите, что отвечаю внешней ссылкой, но в тви не уместиться https://t.co/zDRkYR2Bhf https://t.co/Wrv1Kmadzs",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 630780773830889500,
+      "quoted_status_id_str": "630780773830889472",
+      "quoted_status": {
+        "created_at": "Mon Aug 10 16:40:30 +0000 2015",
+        "id": 630780773830889500,
+        "id_str": "630780773830889472",
+        "text": "@rubyunderhood, миксины и _есть_ наследование: http://t.co/unc1WIwh04",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 630760481310031900,
+        "in_reply_to_status_id_str": "630760481310031872",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 19237208,
+          "id_str": "19237208"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby Разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "http://t.co/unc1WIwh04",
+              "expanded_url": "http://engineering.appfolio.com/2013/06/17/ruby-mixins-activesupportconcern/",
+              "display_url": "engineering.appfolio.com/2013/06/17/rub…",
+              "indices": [
+                47,
+                69
+              ]
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/zDRkYR2Bhf",
+            "expanded_url": "https://www.evernote.com/shard/s182/sh/8c6d55ec-ef9b-43c3-b1fa-d2ab692dfba6/ca98866e63faa5b85f9de9dbe1fd5662",
+            "display_url": "evernote.com/shard/s182/sh/…",
+            "indices": [
+              61,
+              84
+            ]
+          },
+          {
+            "url": "https://t.co/Wrv1Kmadzs",
+            "expanded_url": "https://twitter.com/vazilla/status/630780773830889472",
+            "display_url": "twitter.com/vazilla/status…",
+            "indices": [
+              85,
+              108
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 10 16:18:47 +0000 2015",
+      "id": 630775310234058800,
+      "id_str": "630775310234058752",
+      "text": "@vazilla Коллизия имен из разных миксинов действительно может быть проблемой, правда. По моему опыту бывает редко и сразу же ловится тестами",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 630774703372824600,
+      "in_reply_to_status_id_str": "630774703372824577",
+      "in_reply_to_user_id": 19237208,
+      "in_reply_to_user_id_str": "19237208",
+      "in_reply_to_screen_name": "vazilla",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "vazilla",
+            "name": "Vasily Polovnyov",
+            "id": 19237208,
+            "id_str": "19237208",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 10 16:14:33 +0000 2015",
+      "id": 630774244436262900,
+      "id_str": "630774244436262912",
+      "text": "@Timrael Пробовал, хорошая штука. Но делать серьезные проекты на нем страшно, т.к. не ясно что с ним будет в будущем.",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 630773736816246800,
+      "in_reply_to_status_id_str": "630773736816246784",
+      "in_reply_to_user_id": 286175573,
+      "in_reply_to_user_id_str": "286175573",
+      "in_reply_to_screen_name": "Timrael",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Timrael",
+            "name": "Timur Kozmenko",
+            "id": 286175573,
+            "id_str": "286175573",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 10 16:06:56 +0000 2015",
+      "id": 630772325533777900,
+      "id_str": "630772325533777920",
+      "text": "@vazilla и чем тогда это отличается от миксинов? Тоже самое +1 метод, нет?",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 630770994748198900,
+      "in_reply_to_status_id_str": "630770994748198917",
+      "in_reply_to_user_id": 19237208,
+      "in_reply_to_user_id_str": "19237208",
+      "in_reply_to_screen_name": "vazilla",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "vazilla",
+            "name": "Vasily Polovnyov",
+            "id": 19237208,
+            "id_str": "19237208",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
       "created_at": "Mon Aug 10 15:39:32 +0000 2015",
       "id": 630765430450311200,
       "id_str": "630765430450311168",
@@ -125,7 +860,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 0,
-      "favorite_count": 1,
+      "favorite_count": 2,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -662,8 +1397,8 @@
         "place": null,
         "contributors": null,
         "is_quote_status": false,
-        "retweet_count": 9,
-        "favorite_count": 6,
+        "retweet_count": 10,
+        "favorite_count": 10,
         "entities": {
           "hashtags": [],
           "symbols": [],
@@ -721,12 +1456,12 @@
           ],
           "urls": []
         },
-        "favorited": false,
+        "favorited": true,
         "retweeted": false,
         "lang": "ru"
       },
       "is_quote_status": false,
-      "retweet_count": 9,
+      "retweet_count": 10,
       "favorite_count": 0,
       "entities": {
         "hashtags": [],
@@ -795,7 +1530,7 @@
         ],
         "urls": []
       },
-      "favorited": false,
+      "favorited": true,
       "retweeted": false,
       "lang": "ru"
     },
