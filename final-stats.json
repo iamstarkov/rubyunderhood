@@ -17,7 +17,8 @@
       "favoritedKpi": 0.58,
       "gainedFollowers": 77,
       "maxGainedFollowers": true,
-      "maxRetweetsPercentage": true
+      "maxRetweetsPercentage": true,
+      "maxRetweetedKpi": true
     },
     {
       "username": "suxxes",
@@ -90,8 +91,7 @@
       "retweetedKpi": 0.21,
       "favorited": 23,
       "favoritedKpi": 0.79,
-      "gainedFollowers": 28,
-      "maxRepliesPercentage": true
+      "gainedFollowers": 28
     },
     {
       "username": "vazilla",
@@ -109,27 +109,27 @@
       "favorited": 99,
       "favoritedKpi": 1.83,
       "gainedFollowers": 30,
+      "maxOwnTweetsPercentage": true,
       "maxFavorited": true,
       "maxFavoritedKpi": true
     },
     {
       "username": "mogilnikov",
       "index": 7,
-      "followers_count": 252,
-      "tweets": 57,
-      "ownTweets": 25,
-      "ownTweetsPercentage": 43.85964912280702,
-      "retweets": 8,
-      "retweetsPercentage": 14.035087719298247,
-      "replies": 24,
-      "repliesPercentage": 42.10526315789474,
-      "retweeted": 16,
-      "retweetedKpi": 0.64,
-      "favorited": 17,
-      "favoritedKpi": 0.68,
-      "gainedFollowers": 23,
-      "maxOwnTweetsPercentage": true,
-      "maxRetweetedKpi": true
+      "followers_count": 256,
+      "tweets": 93,
+      "ownTweets": 38,
+      "ownTweetsPercentage": 40.86021505376344,
+      "retweets": 11,
+      "retweetsPercentage": 11.827956989247312,
+      "replies": 44,
+      "repliesPercentage": 47.31182795698925,
+      "retweeted": 19,
+      "retweetedKpi": 0.5,
+      "favorited": 27,
+      "favoritedKpi": 0.71,
+      "gainedFollowers": 27,
+      "maxRepliesPercentage": true
     }
   ]
 }
