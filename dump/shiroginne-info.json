@@ -35,45 +35,116 @@
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 1951,
+  "statuses_count": 1988,
   "lang": "en",
   "status": {
-    "created_at": "Mon Aug 17 10:39:40 +0000 2015",
-    "id": 633226684087541800,
-    "id_str": "633226684087541760",
-    "text": "@svenyurgensson ну, мне казалось \"я уже стар для этого дерьма\" и \"делаю это дерьмо\" - оно в переносном смысле используется всегда",
+    "created_at": "Mon Aug 17 14:27:19 +0000 2015",
+    "id": 633283973318320100,
+    "id_str": "633283973318320133",
+    "text": "RT @anton_davydov: @rubyunderhood все ответы на эти вопросы есть в jruby репозитории\nhttp://t.co/tbuo9masBM\nа так - только целюлоид, только…",
     "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
     "truncated": false,
-    "in_reply_to_status_id": 633226417237442600,
-    "in_reply_to_status_id_str": "633226417237442561",
-    "in_reply_to_user_id": 14418430,
-    "in_reply_to_user_id_str": "14418430",
-    "in_reply_to_screen_name": "svenyurgensson",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "retweet_count": 0,
+    "retweeted_status": {
+      "created_at": "Mon Aug 17 14:07:12 +0000 2015",
+      "id": 633278908440387600,
+      "id_str": "633278908440387584",
+      "text": "@rubyunderhood все ответы на эти вопросы есть в jruby репозитории\nhttp://t.co/tbuo9masBM\nа так - только целюлоид, только хардкор т.к. ...",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 633276518781874200,
+      "in_reply_to_status_id_str": "633276518781874176",
+      "in_reply_to_user_id": 3341793591,
+      "in_reply_to_user_id_str": "3341793591",
+      "in_reply_to_screen_name": "rubyunderhood",
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "rubyunderhood",
+            "name": "ルビーデベロッパー",
+            "id": 3341793591,
+            "id_str": "3341793591",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "http://t.co/tbuo9masBM",
+            "expanded_url": "http://git.io/v3pwx",
+            "display_url": "git.io/v3pwx",
+            "indices": [
+              66,
+              88
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    "retweet_count": 1,
     "favorite_count": 0,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "svenyurgensson",
-          "name": "YuryBatenko",
-          "id": 14418430,
-          "id_str": "14418430",
+          "screen_name": "anton_davydov",
+          "name": "Davy Dovanton",
+          "id": 539221178,
+          "id_str": "539221178",
           "indices": [
-            0,
-            15
+            3,
+            17
+          ]
+        },
+        {
+          "screen_name": "rubyunderhood",
+          "name": "ルビーデベロッパー",
+          "id": 3341793591,
+          "id_str": "3341793591",
+          "indices": [
+            19,
+            33
           ]
         }
       ],
-      "urls": []
+      "urls": [
+        {
+          "url": "http://t.co/tbuo9masBM",
+          "expanded_url": "http://git.io/v3pwx",
+          "display_url": "git.io/v3pwx",
+          "indices": [
+            85,
+            107
+          ]
+        }
+      ]
     },
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
