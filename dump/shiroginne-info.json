@@ -26,7 +26,7 @@
     }
   },
   "protected": false,
-  "followers_count": 270,
+  "followers_count": 272,
   "friends_count": 4,
   "listed_count": 9,
   "created_at": "Mon Jun 22 18:43:03 +0000 2015",
@@ -35,14 +35,14 @@
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 2074,
+  "statuses_count": 2102,
   "lang": "en",
   "status": {
-    "created_at": "Tue Aug 18 10:50:01 +0000 2015",
-    "id": 633591674577518600,
-    "id_str": "633591674577518592",
-    "text": "Друзья, как вы боритесь с сонливостью после обеда? Вариант \"поспать\" не предлагать. Вариант \"меньше жрать\" - тоже, поздно уже",
-    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "created_at": "Tue Aug 18 16:38:58 +0000 2015",
+    "id": 633679492213567500,
+    "id_str": "633679492213567488",
+    "text": "RT @dimrogv: @rubyunderhood @rainrb я думал, в ruby-сообществе пробелы однозначно рулят над табами, и предмет спора отсутствует. Я ошибался?",
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
     "truncated": false,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
@@ -53,12 +53,92 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "retweet_count": 0,
+    "retweeted_status": {
+      "created_at": "Tue Aug 18 16:38:30 +0000 2015",
+      "id": 633679373057531900,
+      "id_str": "633679373057531904",
+      "text": "@rubyunderhood @rainrb я думал, в ruby-сообществе пробелы однозначно рулят над табами, и предмет спора отсутствует. Я ошибался?",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 633673766963425300,
+      "in_reply_to_status_id_str": "633673766963425280",
+      "in_reply_to_user_id": 3341793591,
+      "in_reply_to_user_id_str": "3341793591",
+      "in_reply_to_screen_name": "rubyunderhood",
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "rubyunderhood",
+            "name": "ルビーデベロッパー",
+            "id": 3341793591,
+            "id_str": "3341793591",
+            "indices": [
+              0,
+              14
+            ]
+          },
+          {
+            "screen_name": "rainrb",
+            "name": "rainrb",
+            "id": 92529952,
+            "id_str": "92529952",
+            "indices": [
+              15,
+              22
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    "retweet_count": 1,
     "favorite_count": 0,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "dimrogv",
+          "name": "Dima Rogov",
+          "id": 3379974879,
+          "id_str": "3379974879",
+          "indices": [
+            3,
+            11
+          ]
+        },
+        {
+          "screen_name": "rubyunderhood",
+          "name": "ルビーデベロッパー",
+          "id": 3341793591,
+          "id_str": "3341793591",
+          "indices": [
+            13,
+            27
+          ]
+        },
+        {
+          "screen_name": "rainrb",
+          "name": "rainrb",
+          "id": 92529952,
+          "id_str": "92529952",
+          "indices": [
+            28,
+            35
+          ]
+        }
+      ],
       "urls": []
     },
     "favorited": false,
