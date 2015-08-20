@@ -26,7 +26,7 @@
     }
   },
   "protected": false,
-  "followers_count": 274,
+  "followers_count": 277,
   "friends_count": 4,
   "listed_count": 9,
   "created_at": "Mon Jun 22 18:43:03 +0000 2015",
@@ -35,14 +35,14 @@
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 2267,
+  "statuses_count": 2283,
   "lang": "en",
   "status": {
-    "created_at": "Thu Aug 20 09:04:46 +0000 2015",
-    "id": 634289964772159500,
-    "id_str": "634289964772159488",
-    "text": "RT @nikitonsky: Java? http://t.co/QgIlVp3MUR",
-    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "created_at": "Thu Aug 20 16:31:56 +0000 2015",
+    "id": 634402494949539800,
+    "id_str": "634402494949539844",
+    "text": "RT @paveldruziak: @rubyunderhood макбук 13\", привык работать в фулскрин, так что когда появился монитор 20\" я не смог на него перейти и исп…",
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
     "truncated": false,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
@@ -54,137 +54,76 @@
     "place": null,
     "contributors": null,
     "retweeted_status": {
-      "created_at": "Thu Aug 20 09:01:25 +0000 2015",
-      "id": 634289119573737500,
-      "id_str": "634289119573737472",
-      "text": "Java? http://t.co/QgIlVp3MUR",
-      "source": "<a href=\"http://www.apple.com/\" rel=\"nofollow\">OS X</a>",
+      "created_at": "Thu Aug 20 14:37:04 +0000 2015",
+      "id": 634373591040159700,
+      "id_str": "634373591040159744",
+      "text": "@rubyunderhood макбук 13\", привык работать в фулскрин, так что когда появился монитор 20\" я не смог на него перейти и использую его как ТВ",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
       "truncated": false,
-      "in_reply_to_status_id": null,
-      "in_reply_to_status_id_str": null,
-      "in_reply_to_user_id": null,
-      "in_reply_to_user_id_str": null,
-      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": 634348175181107200,
+      "in_reply_to_status_id_str": "634348175181107200",
+      "in_reply_to_user_id": 3341793591,
+      "in_reply_to_user_id_str": "3341793591",
+      "in_reply_to_screen_name": "rubyunderhood",
       "geo": null,
       "coordinates": null,
       "place": null,
       "contributors": null,
-      "retweet_count": 27,
-      "favorite_count": 18,
+      "retweet_count": 1,
+      "favorite_count": 0,
       "entities": {
         "hashtags": [],
         "symbols": [],
-        "user_mentions": [],
-        "urls": [],
-        "media": [
+        "user_mentions": [
           {
-            "id": 634289119481438200,
-            "id_str": "634289119481438208",
+            "screen_name": "rubyunderhood",
+            "name": "ルビーデベロッパー",
+            "id": 3341793591,
+            "id_str": "3341793591",
             "indices": [
-              6,
-              28
-            ],
-            "media_url": "http://pbs.twimg.com/media/CM1yl_OWIAAHd85.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/CM1yl_OWIAAHd85.jpg",
-            "url": "http://t.co/QgIlVp3MUR",
-            "display_url": "pic.twitter.com/QgIlVp3MUR",
-            "expanded_url": "http://twitter.com/nikitonsky/status/634289119573737472/photo/1",
-            "type": "photo",
-            "sizes": {
-              "thumb": {
-                "w": 150,
-                "h": 150,
-                "resize": "crop"
-              },
-              "small": {
-                "w": 340,
-                "h": 195,
-                "resize": "fit"
-              },
-              "medium": {
-                "w": 600,
-                "h": 344,
-                "resize": "fit"
-              },
-              "large": {
-                "w": 1024,
-                "h": 588,
-                "resize": "fit"
-              }
-            }
+              0,
+              14
+            ]
           }
-        ]
+        ],
+        "urls": []
       },
       "favorited": false,
       "retweeted": false,
-      "possibly_sensitive": false,
-      "lang": "es"
+      "lang": "ru"
     },
-    "retweet_count": 27,
+    "retweet_count": 1,
     "favorite_count": 0,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "nikitonsky",
-          "name": "Nikita Prokopov",
-          "id": 19527501,
-          "id_str": "19527501",
+          "screen_name": "paveldruziak",
+          "name": "Pavel Druziak",
+          "id": 14134623,
+          "id_str": "14134623",
           "indices": [
             3,
-            14
+            16
+          ]
+        },
+        {
+          "screen_name": "rubyunderhood",
+          "name": "ルビーデベロッパー",
+          "id": 3341793591,
+          "id_str": "3341793591",
+          "indices": [
+            18,
+            32
           ]
         }
       ],
-      "urls": [],
-      "media": [
-        {
-          "id": 634289119481438200,
-          "id_str": "634289119481438208",
-          "indices": [
-            22,
-            44
-          ],
-          "media_url": "http://pbs.twimg.com/media/CM1yl_OWIAAHd85.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/CM1yl_OWIAAHd85.jpg",
-          "url": "http://t.co/QgIlVp3MUR",
-          "display_url": "pic.twitter.com/QgIlVp3MUR",
-          "expanded_url": "http://twitter.com/nikitonsky/status/634289119573737472/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "small": {
-              "w": 340,
-              "h": 195,
-              "resize": "fit"
-            },
-            "medium": {
-              "w": 600,
-              "h": 344,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 1024,
-              "h": 588,
-              "resize": "fit"
-            }
-          },
-          "source_status_id": 634289119573737500,
-          "source_status_id_str": "634289119573737472",
-          "source_user_id": 19527501,
-          "source_user_id_str": "19527501"
-        }
-      ]
+      "urls": []
     },
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "es"
+    "lang": "ru"
   },
   "contributors_enabled": false,
   "is_translator": false,
