@@ -26,7 +26,7 @@
     }
   },
   "protected": false,
-  "followers_count": 271,
+  "followers_count": 272,
   "friends_count": 4,
   "listed_count": 9,
   "created_at": "Mon Jun 22 18:43:03 +0000 2015",
@@ -35,14 +35,14 @@
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 2207,
+  "statuses_count": 2233,
   "lang": "en",
   "status": {
-    "created_at": "Wed Aug 19 13:21:32 +0000 2015",
-    "id": 633992193825468400,
-    "id_str": "633992193825468416",
-    "text": "К слову о программировании http://t.co/Rl6N7HnzGy",
-    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "created_at": "Thu Aug 20 06:01:23 +0000 2015",
+    "id": 634243812068597800,
+    "id_str": "634243812068597760",
+    "text": "RT @FelixTheBest: Мечты разработчика о неделе рефакторинга — они как о неделе запоя алкоголика.",
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
     "truncated": false,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
@@ -53,27 +53,55 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "retweet_count": 0,
-    "favorite_count": 1,
+    "retweeted_status": {
+      "created_at": "Tue Apr 08 06:02:28 +0000 2014",
+      "id": 453412542866784260,
+      "id_str": "453412542866784256",
+      "text": "Мечты разработчика о неделе рефакторинга — они как о неделе запоя алкоголика.",
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 28,
+      "favorite_count": 8,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    "retweet_count": 28,
+    "favorite_count": 0,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "http://t.co/Rl6N7HnzGy",
-          "expanded_url": "http://cs625820.vk.me/v625820974/25353/Ub2KZX-xskY.jpg",
-          "display_url": "cs625820.vk.me/v625820974/253…",
+          "screen_name": "FelixTheBest",
+          "name": "Felix The Bestovitch",
+          "id": 1107249433,
+          "id_str": "1107249433",
           "indices": [
-            27,
-            49
+            3,
+            16
           ]
         }
-      ]
+      ],
+      "urls": []
     },
-    "favorited": false,
+    "favorited": true,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
