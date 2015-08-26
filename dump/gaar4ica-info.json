@@ -26,47 +26,136 @@
     }
   },
   "protected": false,
-  "followers_count": 287,
+  "followers_count": 291,
   "friends_count": 4,
-  "listed_count": 9,
+  "listed_count": 10,
   "created_at": "Mon Jun 22 18:43:03 +0000 2015",
-  "favourites_count": 13,
+  "favourites_count": 17,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 2490,
+  "statuses_count": 2520,
   "lang": "en",
   "status": {
-    "created_at": "Wed Aug 26 11:18:16 +0000 2015",
-    "id": 636497888982511600,
-    "id_str": "636497888982511616",
-    "text": "@Fodoj :) суров, но справедлив",
+    "created_at": "Wed Aug 26 22:29:44 +0000 2015",
+    "id": 636666867017470000,
+    "id_str": "636666867017469952",
+    "text": "RT @dsimonov: Вы нам напомнили, @gaar4ica, что не место красит человека, а человек место. Мы все тут забыли эту истину, @rubyunderhood @bac…",
     "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
     "truncated": false,
-    "in_reply_to_status_id": 636482963614658600,
-    "in_reply_to_status_id_str": "636482963614658560",
-    "in_reply_to_user_id": 14741065,
-    "in_reply_to_user_id_str": "14741065",
-    "in_reply_to_screen_name": "Fodoj",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "retweet_count": 0,
+    "retweeted_status": {
+      "created_at": "Wed Aug 26 22:26:00 +0000 2015",
+      "id": 636665928034349000,
+      "id_str": "636665928034349056",
+      "text": "Вы нам напомнили, @gaar4ica, что не место красит человека, а человек место. Мы все тут забыли эту истину, @rubyunderhood @backendsecret.",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 636665265464475600,
+      "in_reply_to_status_id_str": "636665265464475648",
+      "in_reply_to_user_id": 3341793591,
+      "in_reply_to_user_id_str": "3341793591",
+      "in_reply_to_screen_name": "rubyunderhood",
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "gaar4ica",
+            "name": "Kazakova Anna",
+            "id": 183525360,
+            "id_str": "183525360",
+            "indices": [
+              18,
+              27
+            ]
+          },
+          {
+            "screen_name": "rubyunderhood",
+            "name": "Ruby разработчик",
+            "id": 3341793591,
+            "id_str": "3341793591",
+            "indices": [
+              106,
+              120
+            ]
+          },
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик Бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              121,
+              135
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    "retweet_count": 1,
     "favorite_count": 0,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "Fodoj",
-          "name": "Kirill Shirinkin",
-          "id": 14741065,
-          "id_str": "14741065",
+          "screen_name": "dsimonov",
+          "name": "Dmitriy V. Simonov",
+          "id": 36615356,
+          "id_str": "36615356",
           "indices": [
-            0,
-            6
+            3,
+            12
+          ]
+        },
+        {
+          "screen_name": "gaar4ica",
+          "name": "Kazakova Anna",
+          "id": 183525360,
+          "id_str": "183525360",
+          "indices": [
+            32,
+            41
+          ]
+        },
+        {
+          "screen_name": "rubyunderhood",
+          "name": "Ruby разработчик",
+          "id": 3341793591,
+          "id_str": "3341793591",
+          "indices": [
+            120,
+            134
+          ]
+        },
+        {
+          "screen_name": "backendsecret",
+          "name": "Разработчик Бэкенда",
+          "id": 3302551618,
+          "id_str": "3302551618",
+          "indices": [
+            135,
+            140
           ]
         }
       ],
