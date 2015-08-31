@@ -26,67 +26,96 @@
     }
   },
   "protected": false,
-  "followers_count": 304,
+  "followers_count": 308,
   "friends_count": 4,
   "listed_count": 10,
   "created_at": "Mon Jun 22 18:43:03 +0000 2015",
-  "favourites_count": 24,
+  "favourites_count": 27,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 2598,
+  "statuses_count": 2673,
   "lang": "en",
   "status": {
-    "created_at": "Mon Aug 31 09:55:15 +0000 2015",
-    "id": 638288935110770700,
-    "id_str": "638288935110770688",
-    "text": "@Shiroginne @gaar4ica @zzetorg думаешь с нами просто? :))",
+    "created_at": "Mon Aug 31 19:39:20 +0000 2015",
+    "id": 638435923571703800,
+    "id_str": "638435923571703808",
+    "text": "RT @anton_davydov: @rubyunderhood \"working with ruby threads\", очень рекомендую",
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "truncated": false,
-    "in_reply_to_status_id": 638288401645609000,
-    "in_reply_to_status_id_str": "638288401645608960",
-    "in_reply_to_user_id": 25733176,
-    "in_reply_to_user_id_str": "25733176",
-    "in_reply_to_screen_name": "Shiroginne",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "retweet_count": 0,
+    "retweeted_status": {
+      "created_at": "Mon Aug 31 19:22:47 +0000 2015",
+      "id": 638431758564892700,
+      "id_str": "638431758564892672",
+      "text": "@rubyunderhood \"working with ruby threads\", очень рекомендую",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 638388098502631400,
+      "in_reply_to_status_id_str": "638388098502631424",
+      "in_reply_to_user_id": 3341793591,
+      "in_reply_to_user_id_str": "3341793591",
+      "in_reply_to_screen_name": "rubyunderhood",
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "rubyunderhood",
+            "name": "Ruby разработчик",
+            "id": 3341793591,
+            "id_str": "3341793591",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "und"
+    },
+    "retweet_count": 1,
     "favorite_count": 0,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "Shiroginne",
-          "name": "zhIRo9Inn3",
-          "id": 25733176,
-          "id_str": "25733176",
+          "screen_name": "anton_davydov",
+          "name": "Davy Dovanton",
+          "id": 539221178,
+          "id_str": "539221178",
           "indices": [
-            0,
-            11
+            3,
+            17
           ]
         },
         {
-          "screen_name": "gaar4ica",
-          "name": "Anna Shcherbinina",
-          "id": 183525360,
-          "id_str": "183525360",
+          "screen_name": "rubyunderhood",
+          "name": "Ruby разработчик",
+          "id": 3341793591,
+          "id_str": "3341793591",
           "indices": [
-            12,
-            21
-          ]
-        },
-        {
-          "screen_name": "zzetorg",
-          "name": "Андрей Куманяев",
-          "id": 103148638,
-          "id_str": "103148638",
-          "indices": [
-            22,
-            30
+            19,
+            33
           ]
         }
       ],
@@ -94,7 +123,7 @@
     },
     "favorited": false,
     "retweeted": false,
-    "lang": "ru"
+    "lang": "und"
   },
   "contributors_enabled": false,
   "is_translator": false,
