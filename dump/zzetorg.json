@@ -5,6 +5,764 @@
   "post": false,
   "tweets": [
     {
+      "created_at": "Mon Aug 31 09:55:15 +0000 2015",
+      "id": 638288935110770700,
+      "id_str": "638288935110770688",
+      "text": "@Shiroginne @gaar4ica @zzetorg думаешь с нами просто? :))",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 638288401645609000,
+      "in_reply_to_status_id_str": "638288401645608960",
+      "in_reply_to_user_id": 25733176,
+      "in_reply_to_user_id_str": "25733176",
+      "in_reply_to_screen_name": "Shiroginne",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Shiroginne",
+            "name": "zhIRo9Inn3",
+            "id": 25733176,
+            "id_str": "25733176",
+            "indices": [
+              0,
+              11
+            ]
+          },
+          {
+            "screen_name": "gaar4ica",
+            "name": "Anna Shcherbinina",
+            "id": 183525360,
+            "id_str": "183525360",
+            "indices": [
+              12,
+              21
+            ]
+          },
+          {
+            "screen_name": "zzetorg",
+            "name": "Андрей Куманяев",
+            "id": 103148638,
+            "id_str": "103148638",
+            "indices": [
+              22,
+              30
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 31 09:54:39 +0000 2015",
+      "id": 638288784669306900,
+      "id_str": "638288784669306881",
+      "text": "А вы пойдете на railsclub в этом году? https://t.co/ECGEj26A1s",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 638236666247938000,
+      "quoted_status_id_str": "638236666247938048",
+      "quoted_status": {
+        "created_at": "Mon Aug 31 06:27:33 +0000 2015",
+        "id": 638236666247938000,
+        "id_str": "638236666247938048",
+        "text": "Поговорили о программировании с Клаудио Баччигалупо, контрибьютором Rails и соавтором еженедельной рассылки This... http://t.co/Xr6H4g9S9E",
+        "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 38414855,
+          "id_str": "38414855"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "http://t.co/Xr6H4g9S9E",
+              "expanded_url": "http://fb.me/4b0weRh5T",
+              "display_url": "fb.me/4b0weRh5T",
+              "indices": [
+                116,
+                138
+              ]
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/ECGEj26A1s",
+            "expanded_url": "https://twitter.com/railsclub_ru/status/638236666247938048",
+            "display_url": "twitter.com/railsclub_ru/s…",
+            "indices": [
+              39,
+              62
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 31 09:41:23 +0000 2015",
+      "id": 638285442958401500,
+      "id_str": "638285442958401536",
+      "text": "RT @gaar4ica: @rubyunderhood @zzetorg Вам, ребята как? Тяжело бы было с девушкой лидом? =)",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon Aug 31 09:36:03 +0000 2015",
+        "id": 638284101741596700,
+        "id_str": "638284101741596672",
+        "text": "@rubyunderhood @zzetorg Вам, ребята как? Тяжело бы было с девушкой лидом? =)",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 638283811739058200,
+        "in_reply_to_status_id_str": "638283811739058177",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 183525360,
+          "id_str": "183525360"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            },
+            {
+              "screen_name": "zzetorg",
+              "name": "Андрей Куманяев",
+              "id": 103148638,
+              "id_str": "103148638",
+              "indices": [
+                15,
+                23
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "gaar4ica",
+            "name": "Anna Shcherbinina",
+            "id": 183525360,
+            "id_str": "183525360",
+            "indices": [
+              3,
+              12
+            ]
+          },
+          {
+            "screen_name": "rubyunderhood",
+            "name": "Ruby разработчик",
+            "id": 3341793591,
+            "id_str": "3341793591",
+            "indices": [
+              14,
+              28
+            ]
+          },
+          {
+            "screen_name": "zzetorg",
+            "name": "Андрей Куманяев",
+            "id": 103148638,
+            "id_str": "103148638",
+            "indices": [
+              29,
+              37
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 31 09:40:46 +0000 2015",
+      "id": 638285288054345700,
+      "id_str": "638285288054345728",
+      "text": "@iamstarkov упаси (перекрестился). Вообще, считаю работу менеджера неблагодарной.",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 638285045556494300,
+      "in_reply_to_status_id_str": "638285045556494336",
+      "in_reply_to_user_id": 98084311,
+      "in_reply_to_user_id_str": "98084311",
+      "in_reply_to_screen_name": "iamstarkov",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "iamstarkov",
+            "name": "Vladimir Starkov",
+            "id": 98084311,
+            "id_str": "98084311",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 31 09:38:17 +0000 2015",
+      "id": 638284665296715800,
+      "id_str": "638284665296715776",
+      "text": "@gaar4ica @zzetorg я backend разрабочик (лютый бекенд на ruby и не только)",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 638284215243640800,
+      "in_reply_to_status_id_str": "638284215243640832",
+      "in_reply_to_user_id": 183525360,
+      "in_reply_to_user_id_str": "183525360",
+      "in_reply_to_screen_name": "gaar4ica",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "gaar4ica",
+            "name": "Anna Shcherbinina",
+            "id": 183525360,
+            "id_str": "183525360",
+            "indices": [
+              0,
+              9
+            ]
+          },
+          {
+            "screen_name": "zzetorg",
+            "name": "Андрей Куманяев",
+            "id": 103148638,
+            "id_str": "103148638",
+            "indices": [
+              10,
+              18
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 31 09:36:03 +0000 2015",
+      "id": 638284101208920000,
+      "id_str": "638284101208920068",
+      "text": "RT @gaar4ica: @rubyunderhood @zzetorg не тяжелее, чем девушке бэкендеру. На мое счастье тут особой разницы нету =)",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon Aug 31 09:35:31 +0000 2015",
+        "id": 638283970103373800,
+        "id_str": "638283970103373824",
+        "text": "@rubyunderhood @zzetorg не тяжелее, чем девушке бэкендеру. На мое счастье тут особой разницы нету =)",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 638283811739058200,
+        "in_reply_to_status_id_str": "638283811739058177",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 183525360,
+          "id_str": "183525360"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            },
+            {
+              "screen_name": "zzetorg",
+              "name": "Андрей Куманяев",
+              "id": 103148638,
+              "id_str": "103148638",
+              "indices": [
+                15,
+                23
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "gaar4ica",
+            "name": "Anna Shcherbinina",
+            "id": 183525360,
+            "id_str": "183525360",
+            "indices": [
+              3,
+              12
+            ]
+          },
+          {
+            "screen_name": "rubyunderhood",
+            "name": "Ruby разработчик",
+            "id": 3341793591,
+            "id_str": "3341793591",
+            "indices": [
+              14,
+              28
+            ]
+          },
+          {
+            "screen_name": "zzetorg",
+            "name": "Андрей Куманяев",
+            "id": 103148638,
+            "id_str": "103148638",
+            "indices": [
+              29,
+              37
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 31 09:34:54 +0000 2015",
+      "id": 638283811739058200,
+      "id_str": "638283811739058177",
+      "text": "@gaar4ica @zzetorg тяжело девушке быть лидом?",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 638282872806375400,
+      "in_reply_to_status_id_str": "638282872806375424",
+      "in_reply_to_user_id": 183525360,
+      "in_reply_to_user_id_str": "183525360",
+      "in_reply_to_screen_name": "gaar4ica",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "gaar4ica",
+            "name": "Anna Shcherbinina",
+            "id": 183525360,
+            "id_str": "183525360",
+            "indices": [
+              0,
+              9
+            ]
+          },
+          {
+            "screen_name": "zzetorg",
+            "name": "Андрей Куманяев",
+            "id": 103148638,
+            "id_str": "103148638",
+            "indices": [
+              10,
+              18
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 31 09:34:24 +0000 2015",
+      "id": 638283687164026900,
+      "id_str": "638283687164026880",
+      "text": "RT @suxxes: @rubyunderhood 4, Chief of UI/UX",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon Aug 31 09:31:33 +0000 2015",
+        "id": 638282969023676400,
+        "id_str": "638282969023676416",
+        "text": "@rubyunderhood 4, Chief of UI/UX",
+        "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 638278548864811000,
+        "in_reply_to_status_id_str": "638278548864811008",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 14722814,
+          "id_str": "14722814"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "suxxes",
+            "name": "Father Frodo",
+            "id": 14722814,
+            "id_str": "14722814",
+            "indices": [
+              3,
+              10
+            ]
+          },
+          {
+            "screen_name": "rubyunderhood",
+            "name": "Ruby разработчик",
+            "id": 3341793591,
+            "id_str": "3341793591",
+            "indices": [
+              12,
+              26
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Aug 31 09:34:19 +0000 2015",
+      "id": 638283667299770400,
+      "id_str": "638283667299770368",
+      "text": "RT @gaar4ica: @zzetorg @rubyunderhood У нас 3 бэкендера, 1 фронтендер, 1 тестировщик, 1 PHP (да, тож ценный кадр) Я лид / бэкендер",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon Aug 31 09:31:10 +0000 2015",
+        "id": 638282872806375400,
+        "id_str": "638282872806375424",
+        "text": "@zzetorg @rubyunderhood У нас 3 бэкендера, 1 фронтендер, 1 тестировщик, 1 PHP (да, тож ценный кадр) Я лид / бэкендер",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 638282552080470000,
+        "in_reply_to_status_id_str": "638282552080470017",
+        "in_reply_to_user_id": 103148638,
+        "in_reply_to_user_id_str": "103148638",
+        "in_reply_to_screen_name": "zzetorg",
+        "user": {
+          "id": 183525360,
+          "id_str": "183525360"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "zzetorg",
+              "name": "Андрей Куманяев",
+              "id": 103148638,
+              "id_str": "103148638",
+              "indices": [
+                0,
+                8
+              ]
+            },
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                9,
+                23
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "gaar4ica",
+            "name": "Anna Shcherbinina",
+            "id": 183525360,
+            "id_str": "183525360",
+            "indices": [
+              3,
+              12
+            ]
+          },
+          {
+            "screen_name": "zzetorg",
+            "name": "Андрей Куманяев",
+            "id": 103148638,
+            "id_str": "103148638",
+            "indices": [
+              14,
+              22
+            ]
+          },
+          {
+            "screen_name": "rubyunderhood",
+            "name": "Ruby разработчик",
+            "id": 3341793591,
+            "id_str": "3341793591",
+            "indices": [
+              23,
+              37
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
       "created_at": "Mon Aug 31 09:13:59 +0000 2015",
       "id": 638278548864811000,
       "id_str": "638278548864811008",
