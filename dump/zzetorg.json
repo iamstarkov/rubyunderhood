@@ -5,6 +5,144 @@
   "post": false,
   "tweets": [
     {
+      "created_at": "Thu Sep 03 15:52:47 +0000 2015",
+      "id": 639466073713168400,
+      "id_str": "639466073713168384",
+      "text": "RT @mpak999: @killthekitten @Fodoj @rubyunderhood и не работает! Лучший код - не написанный код. (с) Лао Цы",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Thu Sep 03 14:05:07 +0000 2015",
+        "id": 639438979482259500,
+        "id_str": "639438979482259456",
+        "text": "@killthekitten @Fodoj @rubyunderhood и не работает! Лучший код - не написанный код. (с) Лао Цы",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 639418035388985300,
+        "in_reply_to_status_id_str": "639418035388985344",
+        "in_reply_to_user_id": 77381915,
+        "in_reply_to_user_id_str": "77381915",
+        "in_reply_to_screen_name": "killthekitten",
+        "user": {
+          "id": 18864603,
+          "id_str": "18864603"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "killthekitten",
+              "name": "Nikolay Shebanov",
+              "id": 77381915,
+              "id_str": "77381915",
+              "indices": [
+                0,
+                14
+              ]
+            },
+            {
+              "screen_name": "Fodoj",
+              "name": "Kirill Shirinkin",
+              "id": 14741065,
+              "id_str": "14741065",
+              "indices": [
+                15,
+                21
+              ]
+            },
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                22,
+                36
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "mpak999",
+            "name": "MpaK",
+            "id": 18864603,
+            "id_str": "18864603",
+            "indices": [
+              3,
+              11
+            ]
+          },
+          {
+            "screen_name": "killthekitten",
+            "name": "Nikolay Shebanov",
+            "id": 77381915,
+            "id_str": "77381915",
+            "indices": [
+              13,
+              27
+            ]
+          },
+          {
+            "screen_name": "Fodoj",
+            "name": "Kirill Shirinkin",
+            "id": 14741065,
+            "id_str": "14741065",
+            "indices": [
+              28,
+              34
+            ]
+          },
+          {
+            "screen_name": "rubyunderhood",
+            "name": "Ruby разработчик",
+            "id": 3341793591,
+            "id_str": "3341793591",
+            "indices": [
+              35,
+              49
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
       "created_at": "Thu Sep 03 11:44:19 +0000 2015",
       "id": 639403546627084300,
       "id_str": "639403546627084288",
@@ -11941,7 +12079,7 @@
         "contributors": null,
         "is_quote_status": false,
         "retweet_count": 27,
-        "favorite_count": 18,
+        "favorite_count": 19,
         "entities": {
           "hashtags": [],
           "symbols": [],
