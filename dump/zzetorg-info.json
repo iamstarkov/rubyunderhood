@@ -35,20 +35,20 @@
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 2747,
+  "statuses_count": 2748,
   "lang": "en",
   "status": {
-    "created_at": "Thu Sep 03 09:21:36 +0000 2015",
-    "id": 639367629614919700,
-    "id_str": "639367629614919680",
-    "text": "@bytecheg @zhulikgleb @artemeff Идеолигически, отличие service objects от метода класса большое",
+    "created_at": "Thu Sep 03 09:22:15 +0000 2015",
+    "id": 639367794614665200,
+    "id_str": "639367794614665216",
+    "text": "Кто еще считает, что профессия менеджера \"выгодна\"? https://t.co/xDbvYVRygl",
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "truncated": false,
-    "in_reply_to_status_id": 639367398571802600,
-    "in_reply_to_status_id_str": "639367398571802624",
-    "in_reply_to_user_id": 278923747,
-    "in_reply_to_user_id_str": "278923747",
-    "in_reply_to_screen_name": "bytecheg",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
@@ -58,43 +58,23 @@
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
+      "user_mentions": [],
+      "urls": [
         {
-          "screen_name": "bytecheg",
-          "name": "Denis Kuznetsov",
-          "id": 278923747,
-          "id_str": "278923747",
+          "url": "https://t.co/xDbvYVRygl",
+          "expanded_url": "https://twitter.com/nick_jastix/status/639364646122713088",
+          "display_url": "twitter.com/nick_jastix/st…",
           "indices": [
-            0,
-            9
-          ]
-        },
-        {
-          "screen_name": "zhulikgleb",
-          "name": "gleb.zhulik",
-          "id": 139645030,
-          "id_str": "139645030",
-          "indices": [
-            10,
-            21
-          ]
-        },
-        {
-          "screen_name": "artemeff",
-          "name": "Yuri Artemev",
-          "id": 137293049,
-          "id_str": "137293049",
-          "indices": [
-            22,
-            31
+            52,
+            75
           ]
         }
-      ],
-      "urls": []
+      ]
     },
     "favorited": false,
     "retweeted": false,
-    "lang": "bg"
+    "possibly_sensitive": false,
+    "lang": "ru"
   },
   "contributors_enabled": false,
   "is_translator": false,
