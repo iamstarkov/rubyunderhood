@@ -26,29 +26,29 @@
     }
   },
   "protected": false,
-  "followers_count": 315,
+  "followers_count": 314,
   "friends_count": 4,
-  "listed_count": 10,
+  "listed_count": 11,
   "created_at": "Mon Jun 22 18:43:03 +0000 2015",
   "favourites_count": 28,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 2720,
+  "statuses_count": 2747,
   "lang": "en",
   "status": {
-    "created_at": "Wed Sep 02 09:31:14 +0000 2015",
-    "id": 639007665998438400,
-    "id_str": "639007665998438400",
-    "text": "@lancedikson решили разбиться на N микросервисов?",
+    "created_at": "Thu Sep 03 09:21:36 +0000 2015",
+    "id": 639367629614919700,
+    "id_str": "639367629614919680",
+    "text": "@bytecheg @zhulikgleb @artemeff Идеолигически, отличие service objects от метода класса большое",
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "truncated": false,
-    "in_reply_to_status_id": 639007286040612900,
-    "in_reply_to_status_id_str": "639007286040612864",
-    "in_reply_to_user_id": 305808776,
-    "in_reply_to_user_id_str": "305808776",
-    "in_reply_to_screen_name": "lancedikson",
+    "in_reply_to_status_id": 639367398571802600,
+    "in_reply_to_status_id_str": "639367398571802624",
+    "in_reply_to_user_id": 278923747,
+    "in_reply_to_user_id_str": "278923747",
+    "in_reply_to_screen_name": "bytecheg",
     "geo": null,
     "coordinates": null,
     "place": null,
@@ -60,13 +60,33 @@
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "lancedikson",
-          "name": "Denis Demchenko",
-          "id": 305808776,
-          "id_str": "305808776",
+          "screen_name": "bytecheg",
+          "name": "Denis Kuznetsov",
+          "id": 278923747,
+          "id_str": "278923747",
           "indices": [
             0,
-            12
+            9
+          ]
+        },
+        {
+          "screen_name": "zhulikgleb",
+          "name": "gleb.zhulik",
+          "id": 139645030,
+          "id_str": "139645030",
+          "indices": [
+            10,
+            21
+          ]
+        },
+        {
+          "screen_name": "artemeff",
+          "name": "Yuri Artemev",
+          "id": 137293049,
+          "id_str": "137293049",
+          "indices": [
+            22,
+            31
           ]
         }
       ],
@@ -74,7 +94,7 @@
     },
     "favorited": false,
     "retweeted": false,
-    "lang": "ru"
+    "lang": "bg"
   },
   "contributors_enabled": false,
   "is_translator": false,
