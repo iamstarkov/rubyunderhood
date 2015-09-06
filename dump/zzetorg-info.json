@@ -26,7 +26,7 @@
     }
   },
   "protected": false,
-  "followers_count": 321,
+  "followers_count": 323,
   "friends_count": 4,
   "listed_count": 11,
   "created_at": "Mon Jun 22 18:43:03 +0000 2015",
@@ -35,13 +35,13 @@
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 2821,
+  "statuses_count": 2830,
   "lang": "en",
   "status": {
-    "created_at": "Sat Sep 05 10:23:27 +0000 2015",
-    "id": 640107971322716200,
-    "id_str": "640107971322716160",
-    "text": "Всем привет. У нас сегодня капризная погода и никуда не хочется выходить. А вы программируете по выходным?",
+    "created_at": "Sun Sep 06 08:40:20 +0000 2015",
+    "id": 640444407515381800,
+    "id_str": "640444407515381760",
+    "text": "Пришло время прощаться. На этой неделе с вами был, @zzetorg.\nВсем мир!",
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "truncated": false,
     "in_reply_to_status_id": null,
@@ -58,7 +58,18 @@
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "zzetorg",
+          "name": "Андрей Куманяев",
+          "id": 103148638,
+          "id_str": "103148638",
+          "indices": [
+            51,
+            59
+          ]
+        }
+      ],
       "urls": []
     },
     "favorited": false,
