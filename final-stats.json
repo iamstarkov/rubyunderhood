@@ -162,7 +162,8 @@
       "maxRepliesPercentage": true,
       "maxFavorited": true,
       "maxFavoritedKpi": true,
-      "maxRetweeted": true
+      "maxRetweeted": true,
+      "maxRetweetedKpi": true
     },
     {
       "username": "zzetorg",
@@ -184,20 +185,19 @@
     {
       "username": "fodoj",
       "index": 11,
-      "followers_count": 328,
-      "tweets": 12,
-      "ownTweets": 4,
-      "ownTweetsPercentage": 33.333333333333336,
-      "retweets": 4,
-      "retweetsPercentage": 33.333333333333336,
-      "replies": 4,
-      "repliesPercentage": 33.333333333333336,
-      "retweeted": 5,
-      "retweetedKpi": 1.25,
-      "favorited": 2,
-      "favoritedKpi": 0.5,
-      "gainedFollowers": 5,
-      "maxRetweetedKpi": true
+      "followers_count": 374,
+      "tweets": 169,
+      "ownTweets": 22,
+      "ownTweetsPercentage": 13.017751479289942,
+      "retweets": 86,
+      "retweetsPercentage": 50.887573964497044,
+      "replies": 61,
+      "repliesPercentage": 36.09467455621302,
+      "retweeted": 7,
+      "retweetedKpi": 0.32,
+      "favorited": 7,
+      "favoritedKpi": 0.32,
+      "gainedFollowers": 51
     }
   ]
 }
