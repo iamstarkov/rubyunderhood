@@ -37,7 +37,7 @@
     }
   },
   "protected": false,
-  "followers_count": 397,
+  "followers_count": 404,
   "friends_count": 4,
   "listed_count": 12,
   "created_at": "Mon Jun 22 18:43:03 +0000 2015",
@@ -46,48 +46,87 @@
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 3095,
+  "statuses_count": 3106,
   "lang": "en",
   "status": {
-    "created_at": "Wed Sep 09 09:30:15 +0000 2015",
-    "id": 641544135934124000,
-    "id_str": "641544135934124032",
-    "text": ". @ratleery @Fodoj а что интересно?",
-    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "created_at": "Wed Sep 09 15:43:54 +0000 2015",
+    "id": 641638165145612300,
+    "id_str": "641638165145612288",
+    "text": "RT @scaint: @rubyunderhood в отличие от Ruby, R \"заточен\" под обработку данных. Пробовал использовать Ruby в связке с GPU, но это велосипед…",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "truncated": false,
-    "in_reply_to_status_id": 641542709812006900,
-    "in_reply_to_status_id_str": "641542709812006913",
-    "in_reply_to_user_id": 3374858662,
-    "in_reply_to_user_id_str": "3374858662",
-    "in_reply_to_screen_name": "ratleery",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "retweet_count": 0,
+    "retweeted_status": {
+      "created_at": "Wed Sep 09 15:18:11 +0000 2015",
+      "id": 641631693678448600,
+      "id_str": "641631693678448640",
+      "text": "@rubyunderhood в отличие от Ruby, R \"заточен\" под обработку данных. Пробовал использовать Ruby в связке с GPU, но это велосипед на костылях",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 641626203204505600,
+      "in_reply_to_status_id_str": "641626203204505600",
+      "in_reply_to_user_id": 3341793591,
+      "in_reply_to_user_id_str": "3341793591",
+      "in_reply_to_screen_name": "rubyunderhood",
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "rubyunderhood",
+            "name": "Ruby разработчик",
+            "id": 3341793591,
+            "id_str": "3341793591",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    "retweet_count": 1,
     "favorite_count": 0,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "ratleery",
-          "name": "Андрей Александров",
-          "id": 3374858662,
-          "id_str": "3374858662",
+          "screen_name": "scaint",
+          "name": "Eugene",
+          "id": 21995528,
+          "id_str": "21995528",
           "indices": [
-            2,
-            11
+            3,
+            10
           ]
         },
         {
-          "screen_name": "Fodoj",
-          "name": "Kirill Shirinkin",
-          "id": 14741065,
-          "id_str": "14741065",
+          "screen_name": "rubyunderhood",
+          "name": "Ruby разработчик",
+          "id": 3341793591,
+          "id_str": "3341793591",
           "indices": [
             12,
-            18
+            26
           ]
         }
       ],
