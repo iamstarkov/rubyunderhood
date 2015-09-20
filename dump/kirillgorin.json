@@ -5,6 +5,1700 @@
   "post": false,
   "tweets": [
     {
+      "created_at": "Sun Sep 20 18:02:27 +0000 2015",
+      "id": 645659299851710500,
+      "id_str": "645659299851710465",
+      "text": "Всем спасибо за общение, отличная была неделя 👍Ищите меня твиттере @kirillgorin и подходите на RailsClub знакомиться 🚀",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "kirillgorin",
+            "name": "Kirill Gorin",
+            "id": 317082712,
+            "id_str": "317082712",
+            "indices": [
+              67,
+              79
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Sep 20 17:59:05 +0000 2015",
+      "id": 645658454011564000,
+      "id_str": "645658454011564033",
+      "text": "RT @nick_jastix: @mishania_f @rubyunderhood Мы использовали pgloader для MySQL -&gt; PostgreSQL. Судя по докам есть поддержка sqlite http://t.…",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Sun Sep 20 17:58:55 +0000 2015",
+        "id": 645658408935419900,
+        "id_str": "645658408935419905",
+        "text": "@mishania_f @rubyunderhood Мы использовали pgloader для MySQL -&gt; PostgreSQL. Судя по докам есть поддержка sqlite http://t.co/5cxTHylSUN",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 645531103470747600,
+        "in_reply_to_status_id_str": "645531103470747648",
+        "in_reply_to_user_id": 3502477755,
+        "in_reply_to_user_id_str": "3502477755",
+        "in_reply_to_screen_name": "mishania_f",
+        "user": {
+          "id": 18577007,
+          "id_str": "18577007"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 1,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "mishania_f",
+              "name": "Michael",
+              "id": 3502477755,
+              "id_str": "3502477755",
+              "indices": [
+                0,
+                11
+              ]
+            },
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                12,
+                26
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "http://t.co/5cxTHylSUN",
+              "expanded_url": "http://pgloader.io/howto/sqlite.html",
+              "display_url": "pgloader.io/howto/sqlite.h…",
+              "indices": [
+                116,
+                138
+              ]
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "und"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "nick_jastix",
+            "name": "Nikolay",
+            "id": 18577007,
+            "id_str": "18577007",
+            "indices": [
+              3,
+              15
+            ]
+          },
+          {
+            "screen_name": "mishania_f",
+            "name": "Michael",
+            "id": 3502477755,
+            "id_str": "3502477755",
+            "indices": [
+              17,
+              28
+            ]
+          },
+          {
+            "screen_name": "rubyunderhood",
+            "name": "Ruby разработчик",
+            "id": 3341793591,
+            "id_str": "3341793591",
+            "indices": [
+              29,
+              43
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "http://t.co/5cxTHylSUN",
+            "expanded_url": "http://pgloader.io/howto/sqlite.html",
+            "display_url": "pgloader.io/howto/sqlite.h…",
+            "indices": [
+              142,
+              143
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Sun Sep 20 17:58:06 +0000 2015",
+      "id": 645658204676976600,
+      "id_str": "645658204676976642",
+      "text": "RT @Timrael: @rubyunderhood как-то так http://t.co/SL53teNqnT",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Sun Sep 20 17:47:02 +0000 2015",
+        "id": 645655420275572700,
+        "id_str": "645655420275572736",
+        "text": "@rubyunderhood как-то так http://t.co/SL53teNqnT",
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 645216204207059000,
+        "in_reply_to_status_id_str": "645216204207058944",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 286175573,
+          "id_str": "286175573"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": [],
+          "media": [
+            {
+              "id": 645655387279003600,
+              "id_str": "645655387279003648",
+              "indices": [
+                26,
+                48
+              ],
+              "media_url": "http://pbs.twimg.com/media/CPXUJ2YVEAALMJw.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/CPXUJ2YVEAALMJw.jpg",
+              "url": "http://t.co/SL53teNqnT",
+              "display_url": "pic.twitter.com/SL53teNqnT",
+              "expanded_url": "http://twitter.com/Timrael/status/645655420275572736/photo/1",
+              "type": "photo",
+              "sizes": {
+                "small": {
+                  "w": 340,
+                  "h": 255,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 600,
+                  "h": 450,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "large": {
+                  "w": 1024,
+                  "h": 768,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 645655387279003600,
+              "id_str": "645655387279003648",
+              "indices": [
+                26,
+                48
+              ],
+              "media_url": "http://pbs.twimg.com/media/CPXUJ2YVEAALMJw.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/CPXUJ2YVEAALMJw.jpg",
+              "url": "http://t.co/SL53teNqnT",
+              "display_url": "pic.twitter.com/SL53teNqnT",
+              "expanded_url": "http://twitter.com/Timrael/status/645655420275572736/photo/1",
+              "type": "photo",
+              "sizes": {
+                "small": {
+                  "w": 340,
+                  "h": 255,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 600,
+                  "h": 450,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "large": {
+                  "w": 1024,
+                  "h": 768,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Timrael",
+            "name": "Timur Kozmenko",
+            "id": 286175573,
+            "id_str": "286175573",
+            "indices": [
+              3,
+              11
+            ]
+          },
+          {
+            "screen_name": "rubyunderhood",
+            "name": "Ruby разработчик",
+            "id": 3341793591,
+            "id_str": "3341793591",
+            "indices": [
+              13,
+              27
+            ]
+          }
+        ],
+        "urls": [],
+        "media": [
+          {
+            "id": 645655387279003600,
+            "id_str": "645655387279003648",
+            "indices": [
+              39,
+              61
+            ],
+            "media_url": "http://pbs.twimg.com/media/CPXUJ2YVEAALMJw.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CPXUJ2YVEAALMJw.jpg",
+            "url": "http://t.co/SL53teNqnT",
+            "display_url": "pic.twitter.com/SL53teNqnT",
+            "expanded_url": "http://twitter.com/Timrael/status/645655420275572736/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 340,
+                "h": 255,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 600,
+                "h": 450,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1024,
+                "h": 768,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 645655420275572700,
+            "source_status_id_str": "645655420275572736",
+            "source_user_id": 286175573,
+            "source_user_id_str": "286175573"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 645655387279003600,
+            "id_str": "645655387279003648",
+            "indices": [
+              39,
+              61
+            ],
+            "media_url": "http://pbs.twimg.com/media/CPXUJ2YVEAALMJw.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CPXUJ2YVEAALMJw.jpg",
+            "url": "http://t.co/SL53teNqnT",
+            "display_url": "pic.twitter.com/SL53teNqnT",
+            "expanded_url": "http://twitter.com/Timrael/status/645655420275572736/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 340,
+                "h": 255,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 600,
+                "h": 450,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1024,
+                "h": 768,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 645655420275572700,
+            "source_status_id_str": "645655420275572736",
+            "source_user_id": 286175573,
+            "source_user_id_str": "286175573"
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Sep 20 15:36:49 +0000 2015",
+      "id": 645622648941187100,
+      "id_str": "645622648941187072",
+      "text": "@ipronix @aderyabin потерпи уж ещё полдня тоски",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 645596902210334700,
+      "in_reply_to_status_id_str": "645596902210334720",
+      "in_reply_to_user_id": 113404896,
+      "in_reply_to_user_id_str": "113404896",
+      "in_reply_to_screen_name": "ipronix",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ipronix",
+            "name": "pronix",
+            "id": 113404896,
+            "id_str": "113404896",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "aderyabin",
+            "name": "Andronik Deryabni",
+            "id": 50083148,
+            "id_str": "50083148",
+            "indices": [
+              9,
+              19
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Sep 20 13:44:21 +0000 2015",
+      "id": 645594348365738000,
+      "id_str": "645594348365737984",
+      "text": "RT @HipsterSound: @rubyunderhood @itmanager_kz @scaint @aka_timofey еще таких? http://t.co/JIIn4whHIJ i http://t.co/mBKqWVXF1H http://t.co/…",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Sun Sep 20 11:10:59 +0000 2015",
+        "id": 645555752837451800,
+        "id_str": "645555752837451776",
+        "text": "@rubyunderhood @itmanager_kz @scaint @aka_timofey еще таких? http://t.co/JIIn4whHIJ i http://t.co/mBKqWVXF1H http://t.co/DCbkltkWBY",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 644124520983474200,
+        "in_reply_to_status_id_str": "644124520983474176",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 2981154082,
+          "id_str": "2981154082"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            },
+            {
+              "screen_name": "itmanager_kz",
+              "name": "IT-manager",
+              "id": 388105769,
+              "id_str": "388105769",
+              "indices": [
+                15,
+                28
+              ]
+            },
+            {
+              "screen_name": "scaint",
+              "name": "Eugene",
+              "id": 21995528,
+              "id_str": "21995528",
+              "indices": [
+                29,
+                36
+              ]
+            },
+            {
+              "screen_name": "aka_timofey",
+              "name": "Anatoliy",
+              "id": 79956183,
+              "id_str": "79956183",
+              "indices": [
+                37,
+                49
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "http://t.co/JIIn4whHIJ",
+              "expanded_url": "http://pluvior.com",
+              "display_url": "pluvior.com",
+              "indices": [
+                61,
+                83
+              ]
+            },
+            {
+              "url": "http://t.co/mBKqWVXF1H",
+              "expanded_url": "http://defonic.com",
+              "display_url": "defonic.com",
+              "indices": [
+                86,
+                108
+              ]
+            }
+          ],
+          "media": [
+            {
+              "id": 645555751591759900,
+              "id_str": "645555751591759872",
+              "indices": [
+                109,
+                131
+              ],
+              "media_url": "http://pbs.twimg.com/media/CPV5iShWUAA2fpf.png",
+              "media_url_https": "https://pbs.twimg.com/media/CPV5iShWUAA2fpf.png",
+              "url": "http://t.co/DCbkltkWBY",
+              "display_url": "pic.twitter.com/DCbkltkWBY",
+              "expanded_url": "http://twitter.com/HipsterSound/status/645555752837451776/photo/1",
+              "type": "photo",
+              "sizes": {
+                "large": {
+                  "w": 1024,
+                  "h": 492,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small": {
+                  "w": 340,
+                  "h": 163,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 600,
+                  "h": 288,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 645555751591759900,
+              "id_str": "645555751591759872",
+              "indices": [
+                109,
+                131
+              ],
+              "media_url": "http://pbs.twimg.com/media/CPV5iShWUAA2fpf.png",
+              "media_url_https": "https://pbs.twimg.com/media/CPV5iShWUAA2fpf.png",
+              "url": "http://t.co/DCbkltkWBY",
+              "display_url": "pic.twitter.com/DCbkltkWBY",
+              "expanded_url": "http://twitter.com/HipsterSound/status/645555752837451776/photo/1",
+              "type": "photo",
+              "sizes": {
+                "large": {
+                  "w": 1024,
+                  "h": 492,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small": {
+                  "w": 340,
+                  "h": 163,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 600,
+                  "h": 288,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "HipsterSound",
+            "name": "Hipster Sound",
+            "id": 2981154082,
+            "id_str": "2981154082",
+            "indices": [
+              3,
+              16
+            ]
+          },
+          {
+            "screen_name": "rubyunderhood",
+            "name": "Ruby разработчик",
+            "id": 3341793591,
+            "id_str": "3341793591",
+            "indices": [
+              18,
+              32
+            ]
+          },
+          {
+            "screen_name": "itmanager_kz",
+            "name": "IT-manager",
+            "id": 388105769,
+            "id_str": "388105769",
+            "indices": [
+              33,
+              46
+            ]
+          },
+          {
+            "screen_name": "scaint",
+            "name": "Eugene",
+            "id": 21995528,
+            "id_str": "21995528",
+            "indices": [
+              47,
+              54
+            ]
+          },
+          {
+            "screen_name": "aka_timofey",
+            "name": "Anatoliy",
+            "id": 79956183,
+            "id_str": "79956183",
+            "indices": [
+              55,
+              67
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "http://t.co/JIIn4whHIJ",
+            "expanded_url": "http://pluvior.com",
+            "display_url": "pluvior.com",
+            "indices": [
+              79,
+              101
+            ]
+          },
+          {
+            "url": "http://t.co/mBKqWVXF1H",
+            "expanded_url": "http://defonic.com",
+            "display_url": "defonic.com",
+            "indices": [
+              104,
+              126
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 645555751591759900,
+            "id_str": "645555751591759872",
+            "indices": [
+              127,
+              140
+            ],
+            "media_url": "http://pbs.twimg.com/media/CPV5iShWUAA2fpf.png",
+            "media_url_https": "https://pbs.twimg.com/media/CPV5iShWUAA2fpf.png",
+            "url": "http://t.co/DCbkltkWBY",
+            "display_url": "pic.twitter.com/DCbkltkWBY",
+            "expanded_url": "http://twitter.com/HipsterSound/status/645555752837451776/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1024,
+                "h": 492,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 340,
+                "h": 163,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 600,
+                "h": 288,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 645555752837451800,
+            "source_status_id_str": "645555752837451776",
+            "source_user_id": 2981154082,
+            "source_user_id_str": "2981154082"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 645555751591759900,
+            "id_str": "645555751591759872",
+            "indices": [
+              127,
+              140
+            ],
+            "media_url": "http://pbs.twimg.com/media/CPV5iShWUAA2fpf.png",
+            "media_url_https": "https://pbs.twimg.com/media/CPV5iShWUAA2fpf.png",
+            "url": "http://t.co/DCbkltkWBY",
+            "display_url": "pic.twitter.com/DCbkltkWBY",
+            "expanded_url": "http://twitter.com/HipsterSound/status/645555752837451776/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1024,
+                "h": 492,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 340,
+                "h": 163,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 600,
+                "h": 288,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 645555752837451800,
+            "source_status_id_str": "645555752837451776",
+            "source_user_id": 2981154082,
+            "source_user_id_str": "2981154082"
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Sep 20 13:44:05 +0000 2015",
+      "id": 645594280493469700,
+      "id_str": "645594280493469696",
+      "text": "RT @niksan_ru: @mishania_f @rubyunderhood Можно сделать дамп через https://t.co/PasiD7IWGW переписать конфиг на postgresql, потом через yam…",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Sun Sep 20 10:14:19 +0000 2015",
+        "id": 645541488202514400,
+        "id_str": "645541488202514432",
+        "text": "@mishania_f @rubyunderhood Можно сделать дамп через https://t.co/PasiD7IWGW переписать конфиг на postgresql, потом через yaml_db развернуть.",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 645531103470747600,
+        "in_reply_to_status_id_str": "645531103470747648",
+        "in_reply_to_user_id": 3502477755,
+        "in_reply_to_user_id_str": "3502477755",
+        "in_reply_to_screen_name": "mishania_f",
+        "user": {
+          "id": 44632049,
+          "id_str": "44632049"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 2,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "mishania_f",
+              "name": "Michael",
+              "id": 3502477755,
+              "id_str": "3502477755",
+              "indices": [
+                0,
+                11
+              ]
+            },
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                12,
+                26
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/PasiD7IWGW",
+              "expanded_url": "https://github.com/yamldb/yaml_db",
+              "display_url": "github.com/yamldb/yaml_db",
+              "indices": [
+                52,
+                75
+              ]
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "niksan_ru",
+            "name": "NikSan",
+            "id": 44632049,
+            "id_str": "44632049",
+            "indices": [
+              3,
+              13
+            ]
+          },
+          {
+            "screen_name": "mishania_f",
+            "name": "Michael",
+            "id": 3502477755,
+            "id_str": "3502477755",
+            "indices": [
+              15,
+              26
+            ]
+          },
+          {
+            "screen_name": "rubyunderhood",
+            "name": "Ruby разработчик",
+            "id": 3341793591,
+            "id_str": "3341793591",
+            "indices": [
+              27,
+              41
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/PasiD7IWGW",
+            "expanded_url": "https://github.com/yamldb/yaml_db",
+            "display_url": "github.com/yamldb/yaml_db",
+            "indices": [
+              67,
+              90
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Sep 20 10:06:02 +0000 2015",
+      "id": 645539406837907500,
+      "id_str": "645539406837907460",
+      "text": "RT @killthekitten: @mishania_f @rubyunderhood продублируй вопрос в Фб-сообществе, PostgreSQL Russia, должны ответить",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Sun Sep 20 10:04:02 +0000 2015",
+        "id": 645538900925149200,
+        "id_str": "645538900925149184",
+        "text": "@mishania_f @rubyunderhood продублируй вопрос в Фб-сообществе, PostgreSQL Russia, должны ответить",
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 645531103470747600,
+        "in_reply_to_status_id_str": "645531103470747648",
+        "in_reply_to_user_id": 3502477755,
+        "in_reply_to_user_id_str": "3502477755",
+        "in_reply_to_screen_name": "mishania_f",
+        "user": {
+          "id": 77381915,
+          "id_str": "77381915"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "mishania_f",
+              "name": "Michael",
+              "id": 3502477755,
+              "id_str": "3502477755",
+              "indices": [
+                0,
+                11
+              ]
+            },
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                12,
+                26
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "killthekitten",
+            "name": "Nikolay Shebanov",
+            "id": 77381915,
+            "id_str": "77381915",
+            "indices": [
+              3,
+              17
+            ]
+          },
+          {
+            "screen_name": "mishania_f",
+            "name": "Michael",
+            "id": 3502477755,
+            "id_str": "3502477755",
+            "indices": [
+              19,
+              30
+            ]
+          },
+          {
+            "screen_name": "rubyunderhood",
+            "name": "Ruby разработчик",
+            "id": 3341793591,
+            "id_str": "3341793591",
+            "indices": [
+              31,
+              45
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Sep 20 09:55:29 +0000 2015",
+      "id": 645536750392201200,
+      "id_str": "645536750392201216",
+      "text": "RT @mishania_f: @rubyunderhood \nПривет всем, есть такой вопрос, как с sqlite мигрировать на postgreSQL без потери данных ?",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Sun Sep 20 09:33:03 +0000 2015",
+        "id": 645531103470747600,
+        "id_str": "645531103470747648",
+        "text": "@rubyunderhood \nПривет всем, есть такой вопрос, как с sqlite мигрировать на postgreSQL без потери данных ?",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 3502477755,
+          "id_str": "3502477755"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 1,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "mishania_f",
+            "name": "Michael",
+            "id": 3502477755,
+            "id_str": "3502477755",
+            "indices": [
+              3,
+              14
+            ]
+          },
+          {
+            "screen_name": "rubyunderhood",
+            "name": "Ruby разработчик",
+            "id": 3341793591,
+            "id_str": "3341793591",
+            "indices": [
+              16,
+              30
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Sep 19 20:37:08 +0000 2015",
+      "id": 645335838407192600,
+      "id_str": "645335838407192580",
+      "text": "RT @gaar4ica: @rubyunderhood я у косметолога. Фото не будет",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Sat Sep 19 15:46:51 +0000 2015",
+        "id": 645262785711054800,
+        "id_str": "645262785711054848",
+        "text": "@rubyunderhood я у косметолога. Фото не будет",
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 645216204207059000,
+        "in_reply_to_status_id_str": "645216204207058944",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 183525360,
+          "id_str": "183525360"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "gaar4ica",
+            "name": "Anna Shcherbinina",
+            "id": 183525360,
+            "id_str": "183525360",
+            "indices": [
+              3,
+              12
+            ]
+          },
+          {
+            "screen_name": "rubyunderhood",
+            "name": "Ruby разработчик",
+            "id": 3341793591,
+            "id_str": "3341793591",
+            "indices": [
+              14,
+              28
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Sep 19 20:37:05 +0000 2015",
+      "id": 645335827418103800,
+      "id_str": "645335827418103808",
+      "text": "RT @gruz0: @rubyunderhood, так. http://t.co/vncb5OIkge",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Sat Sep 19 12:43:33 +0000 2015",
+        "id": 645216658638905300,
+        "id_str": "645216658638905344",
+        "text": "@rubyunderhood, так. http://t.co/vncb5OIkge",
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 645216204207059000,
+        "in_reply_to_status_id_str": "645216204207058944",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 179090653,
+          "id_str": "179090653"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": [],
+          "media": [
+            {
+              "id": 645216647100371000,
+              "id_str": "645216647100370944",
+              "indices": [
+                21,
+                43
+              ],
+              "media_url": "http://pbs.twimg.com/media/CPRFHz2WEAAwvHB.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/CPRFHz2WEAAwvHB.jpg",
+              "url": "http://t.co/vncb5OIkge",
+              "display_url": "pic.twitter.com/vncb5OIkge",
+              "expanded_url": "http://twitter.com/gruz0/status/645216658638905344/photo/1",
+              "type": "photo",
+              "sizes": {
+                "large": {
+                  "w": 750,
+                  "h": 750,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 340,
+                  "h": 340,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 600,
+                  "h": 600,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 645216647100371000,
+              "id_str": "645216647100370944",
+              "indices": [
+                21,
+                43
+              ],
+              "media_url": "http://pbs.twimg.com/media/CPRFHz2WEAAwvHB.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/CPRFHz2WEAAwvHB.jpg",
+              "url": "http://t.co/vncb5OIkge",
+              "display_url": "pic.twitter.com/vncb5OIkge",
+              "expanded_url": "http://twitter.com/gruz0/status/645216658638905344/photo/1",
+              "type": "photo",
+              "sizes": {
+                "large": {
+                  "w": 750,
+                  "h": 750,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 340,
+                  "h": 340,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 600,
+                  "h": 600,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "gruz0",
+            "name": "Alexander Gruzov",
+            "id": 179090653,
+            "id_str": "179090653",
+            "indices": [
+              3,
+              9
+            ]
+          },
+          {
+            "screen_name": "rubyunderhood",
+            "name": "Ruby разработчик",
+            "id": 3341793591,
+            "id_str": "3341793591",
+            "indices": [
+              11,
+              25
+            ]
+          }
+        ],
+        "urls": [],
+        "media": [
+          {
+            "id": 645216647100371000,
+            "id_str": "645216647100370944",
+            "indices": [
+              32,
+              54
+            ],
+            "media_url": "http://pbs.twimg.com/media/CPRFHz2WEAAwvHB.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CPRFHz2WEAAwvHB.jpg",
+            "url": "http://t.co/vncb5OIkge",
+            "display_url": "pic.twitter.com/vncb5OIkge",
+            "expanded_url": "http://twitter.com/gruz0/status/645216658638905344/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 750,
+                "h": 750,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 340,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 600,
+                "h": 600,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 645216658638905300,
+            "source_status_id_str": "645216658638905344",
+            "source_user_id": 179090653,
+            "source_user_id_str": "179090653"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 645216647100371000,
+            "id_str": "645216647100370944",
+            "indices": [
+              32,
+              54
+            ],
+            "media_url": "http://pbs.twimg.com/media/CPRFHz2WEAAwvHB.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CPRFHz2WEAAwvHB.jpg",
+            "url": "http://t.co/vncb5OIkge",
+            "display_url": "pic.twitter.com/vncb5OIkge",
+            "expanded_url": "http://twitter.com/gruz0/status/645216658638905344/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 750,
+                "h": 750,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 340,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 600,
+                "h": 600,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 645216658638905300,
+            "source_status_id_str": "645216658638905344",
+            "source_user_id": 179090653,
+            "source_user_id_str": "179090653"
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Sep 19 12:41:45 +0000 2015",
+      "id": 645216204207059000,
+      "id_str": "645216204207058944",
+      "text": "Как отдыхаете? http://t.co/gdHaxZ3PcO",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 645216165015367700,
+            "id_str": "645216165015367680",
+            "indices": [
+              15,
+              37
+            ],
+            "media_url": "http://pbs.twimg.com/media/CPRErv8UsAAqoVj.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CPRErv8UsAAqoVj.jpg",
+            "url": "http://t.co/gdHaxZ3PcO",
+            "display_url": "pic.twitter.com/gdHaxZ3PcO",
+            "expanded_url": "http://twitter.com/rubyunderhood/status/645216204207058944/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 340,
+                "h": 340,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 600,
+                "h": 600,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1024,
+                "h": 1024,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 645216165015367700,
+            "id_str": "645216165015367680",
+            "indices": [
+              15,
+              37
+            ],
+            "media_url": "http://pbs.twimg.com/media/CPRErv8UsAAqoVj.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CPRErv8UsAAqoVj.jpg",
+            "url": "http://t.co/gdHaxZ3PcO",
+            "display_url": "pic.twitter.com/gdHaxZ3PcO",
+            "expanded_url": "http://twitter.com/rubyunderhood/status/645216204207058944/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 340,
+                "h": 340,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 600,
+                "h": 600,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1024,
+                "h": 1024,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
       "created_at": "Sat Sep 19 10:33:15 +0000 2015",
       "id": 645183868920799200,
       "id_str": "645183868920799232",
@@ -3379,7 +5073,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 0,
-      "favorite_count": 8,
+      "favorite_count": 9,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -5557,7 +7251,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 1,
-      "favorite_count": 10,
+      "favorite_count": 9,
       "entities": {
         "hashtags": [],
         "symbols": [],
