@@ -37,22 +37,22 @@
     }
   },
   "protected": false,
-  "followers_count": 462,
+  "followers_count": 463,
   "friends_count": 5,
-  "listed_count": 16,
+  "listed_count": 17,
   "created_at": "Mon Jun 22 18:43:03 +0000 2015",
   "favourites_count": 33,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 3426,
+  "statuses_count": 3429,
   "lang": "en",
   "status": {
-    "created_at": "Sun Sep 20 21:14:03 +0000 2015",
-    "id": 645707516924399600,
-    "id_str": "645707516924399616",
-    "text": "Я – Дерябин Андрей и я принял пост.",
+    "created_at": "Sun Sep 20 21:49:33 +0000 2015",
+    "id": 645716452733939700,
+    "id_str": "645716452733939712",
+    "text": "Немного треша и угара на ночь. НОВАЯ #CMS на #Rails. http://t.co/sSvv6dzYmK",
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "truncated": false,
     "in_reply_to_status_id": null,
@@ -67,13 +67,39 @@
     "retweet_count": 2,
     "favorite_count": 0,
     "entities": {
-      "hashtags": [],
+      "hashtags": [
+        {
+          "text": "CMS",
+          "indices": [
+            37,
+            41
+          ]
+        },
+        {
+          "text": "Rails",
+          "indices": [
+            45,
+            51
+          ]
+        }
+      ],
       "symbols": [],
       "user_mentions": [],
-      "urls": []
+      "urls": [
+        {
+          "url": "http://t.co/sSvv6dzYmK",
+          "expanded_url": "http://camaleon.tuzitio.com/",
+          "display_url": "camaleon.tuzitio.com",
+          "indices": [
+            53,
+            75
+          ]
+        }
+      ]
     },
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,

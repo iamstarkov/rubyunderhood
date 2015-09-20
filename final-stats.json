@@ -157,7 +157,6 @@
       "favorited": 129,
       "favoritedKpi": 2.15,
       "gainedFollowers": 26,
-      "maxRepliesPercentage": true,
       "maxFavorited": true,
       "maxFavoritedKpi": true,
       "maxRetweeted": true
@@ -217,20 +216,21 @@
     {
       "username": "aderyabin",
       "index": 13,
-      "followers_count": 462,
-      "tweets": 1,
-      "ownTweets": 1,
-      "ownTweetsPercentage": 100,
+      "followers_count": 463,
+      "tweets": 4,
+      "ownTweets": 2,
+      "ownTweetsPercentage": 50,
       "retweets": 0,
       "retweetsPercentage": 0,
-      "replies": 0,
-      "repliesPercentage": 0,
-      "retweeted": 2,
+      "replies": 2,
+      "repliesPercentage": 50,
+      "retweeted": 4,
       "retweetedKpi": 2,
       "favorited": 0,
       "favoritedKpi": 0,
-      "gainedFollowers": 1,
+      "gainedFollowers": 2,
       "maxOwnTweetsPercentage": true,
+      "maxRepliesPercentage": true,
       "maxRetweetedKpi": true
     }
   ]
