@@ -157,9 +157,11 @@
       "favorited": 129,
       "favoritedKpi": 2.15,
       "gainedFollowers": 26,
+      "maxRepliesPercentage": true,
       "maxFavorited": true,
       "maxFavoritedKpi": true,
-      "maxRetweeted": true
+      "maxRetweeted": true,
+      "maxRetweetedKpi": true
     },
     {
       "username": "zzetorg",
@@ -216,22 +218,20 @@
     {
       "username": "aderyabin",
       "index": 13,
-      "followers_count": 463,
-      "tweets": 4,
-      "ownTweets": 2,
-      "ownTweetsPercentage": 50,
-      "retweets": 0,
-      "retweetsPercentage": 0,
-      "replies": 2,
-      "repliesPercentage": 50,
-      "retweeted": 4,
-      "retweetedKpi": 2,
-      "favorited": 0,
-      "favoritedKpi": 0,
-      "gainedFollowers": 2,
-      "maxOwnTweetsPercentage": true,
-      "maxRepliesPercentage": true,
-      "maxRetweetedKpi": true
+      "followers_count": 472,
+      "tweets": 19,
+      "ownTweets": 11,
+      "ownTweetsPercentage": 57.89473684210526,
+      "retweets": 1,
+      "retweetsPercentage": 5.2631578947368425,
+      "replies": 7,
+      "repliesPercentage": 36.8421052631579,
+      "retweeted": 7,
+      "retweetedKpi": 0.64,
+      "favorited": 12,
+      "favoritedKpi": 1.09,
+      "gainedFollowers": 11,
+      "maxOwnTweetsPercentage": true
     }
   ]
 }

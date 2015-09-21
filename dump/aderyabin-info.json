@@ -37,69 +37,54 @@
     }
   },
   "protected": false,
-  "followers_count": 463,
-  "friends_count": 5,
-  "listed_count": 17,
+  "followers_count": 472,
+  "friends_count": 6,
+  "listed_count": 18,
   "created_at": "Mon Jun 22 18:43:03 +0000 2015",
   "favourites_count": 33,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 3429,
+  "statuses_count": 3444,
   "lang": "en",
   "status": {
-    "created_at": "Sun Sep 20 21:49:33 +0000 2015",
-    "id": 645716452733939700,
-    "id_str": "645716452733939712",
-    "text": "Немного треша и угара на ночь. НОВАЯ #CMS на #Rails. http://t.co/sSvv6dzYmK",
+    "created_at": "Mon Sep 21 07:06:52 +0000 2015",
+    "id": 645856706614923300,
+    "id_str": "645856706614923264",
+    "text": "@bufo_alvarius можно сейчас.",
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "truncated": false,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 645855431999533000,
+    "in_reply_to_status_id_str": "645855431999533056",
+    "in_reply_to_user_id": 45783985,
+    "in_reply_to_user_id_str": "45783985",
+    "in_reply_to_screen_name": "bufo_alvarius",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "retweet_count": 2,
+    "retweet_count": 0,
     "favorite_count": 0,
     "entities": {
-      "hashtags": [
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
         {
-          "text": "CMS",
+          "screen_name": "bufo_alvarius",
+          "name": "Sergey Ponomarev",
+          "id": 45783985,
+          "id_str": "45783985",
           "indices": [
-            37,
-            41
-          ]
-        },
-        {
-          "text": "Rails",
-          "indices": [
-            45,
-            51
+            0,
+            14
           ]
         }
       ],
-      "symbols": [],
-      "user_mentions": [],
-      "urls": [
-        {
-          "url": "http://t.co/sSvv6dzYmK",
-          "expanded_url": "http://camaleon.tuzitio.com/",
-          "display_url": "camaleon.tuzitio.com",
-          "indices": [
-            53,
-            75
-          ]
-        }
-      ]
+      "urls": []
     },
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,

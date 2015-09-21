@@ -5,6 +5,873 @@
   "post": false,
   "tweets": [
     {
+      "created_at": "Mon Sep 21 07:06:52 +0000 2015",
+      "id": 645856706614923300,
+      "id_str": "645856706614923264",
+      "text": "@bufo_alvarius можно сейчас.",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 645855431999533000,
+      "in_reply_to_status_id_str": "645855431999533056",
+      "in_reply_to_user_id": 45783985,
+      "in_reply_to_user_id_str": "45783985",
+      "in_reply_to_screen_name": "bufo_alvarius",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "bufo_alvarius",
+            "name": "Sergey Ponomarev",
+            "id": 45783985,
+            "id_str": "45783985",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Sep 21 07:06:25 +0000 2015",
+      "id": 645856589681950700,
+      "id_str": "645856589681950720",
+      "text": "@common_disease Дома – http://t.co/uQZQfcIMxZ. В машине – Радио \"Эрмитаж\".",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 645856188333166600,
+      "in_reply_to_status_id_str": "645856188333166592",
+      "in_reply_to_user_id": 1104986353,
+      "in_reply_to_user_id_str": "1104986353",
+      "in_reply_to_screen_name": "common_disease",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "common_disease",
+            "name": "монолитный череп",
+            "id": 1104986353,
+            "id_str": "1104986353",
+            "indices": [
+              0,
+              15
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "http://t.co/uQZQfcIMxZ",
+            "expanded_url": "http://www.litesoundsession.com",
+            "display_url": "litesoundsession.com",
+            "indices": [
+              23,
+              45
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Sep 21 06:55:48 +0000 2015",
+      "id": 645853919214739500,
+      "id_str": "645853919214739457",
+      "text": "Статейка про отладку работы с памятью в ruby http://t.co/hiO9jlaR7B",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "http://t.co/hiO9jlaR7B",
+            "expanded_url": "http://eng.rightscale.com//2015/09/16/how-to-debug-ruby-memory-issues.html",
+            "display_url": "eng.rightscale.com//2015/09/16/ho…",
+            "indices": [
+              45,
+              67
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Sep 21 06:46:55 +0000 2015",
+      "id": 645851683650687000,
+      "id_str": "645851683650686976",
+      "text": "Что вы слушаете на работе? Вот мой плейлист для работы – https://t.co/b8aje9qTon",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/b8aje9qTon",
+            "expanded_url": "https://open.spotify.com/user/1163430922/playlist/0jABfMorVpt87MZQosy6ck",
+            "display_url": "open.spotify.com/user/116343092…",
+            "indices": [
+              57,
+              80
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Sep 21 06:19:00 +0000 2015",
+      "id": 645844660187975700,
+      "id_str": "645844660187975680",
+      "text": "Чтобы хоть как-то реабилитироваться напомню что @railsclub_ru будет на Текстильщиках. А то по привычке рванете в DO. https://t.co/ZoN6B3zq1U",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "railsclub_ru",
+            "name": "Rails Club",
+            "id": 38414855,
+            "id_str": "38414855",
+            "indices": [
+              48,
+              61
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/ZoN6B3zq1U",
+            "expanded_url": "https://youtu.be/bhrD9X2R1fg",
+            "display_url": "youtu.be/bhrD9X2R1fg",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Sep 21 06:11:37 +0000 2015",
+      "id": 645842802241355800,
+      "id_str": "645842802241355776",
+      "text": "Еще утро, а я уже захейтил кучу народу. Плюс есть оказывается статья за попрошайничество. Хорошо что @anton_davydov еще спит и не видит это",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "anton_davydov",
+            "name": "Davy Dovanton",
+            "id": 539221178,
+            "id_str": "539221178",
+            "indices": [
+              101,
+              115
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Sep 21 05:59:55 +0000 2015",
+      "id": 645839855570812900,
+      "id_str": "645839855570812929",
+      "text": "BREAKING NEWS. Судя по говору Мутко учит ruby.  http://t.co/NuecUYlYSB #ruby #windows #notepad++",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "ruby",
+            "indices": [
+              71,
+              76
+            ]
+          },
+          {
+            "text": "windows",
+            "indices": [
+              77,
+              85
+            ]
+          },
+          {
+            "text": "notepad",
+            "indices": [
+              86,
+              94
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "http://t.co/NuecUYlYSB",
+            "expanded_url": "http://www.sitepoint.com/watch-singleton-methods-in-ruby/",
+            "display_url": "sitepoint.com/watch-singleto…",
+            "indices": [
+              48,
+              70
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Mon Sep 21 05:47:02 +0000 2015",
+      "id": 645836615806529500,
+      "id_str": "645836615806529536",
+      "text": "– Фото со мной или @kirshatrov = 50 руб.\n– Во время буду ходить специально обученные люди с donation box.",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "kirshatrov",
+            "name": "Kir Shatrov",
+            "id": 287242565,
+            "id_str": "287242565",
+            "indices": [
+              19,
+              30
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Sep 21 05:38:16 +0000 2015",
+      "id": 645834407023116300,
+      "id_str": "645834407023116288",
+      "text": "Поскольку @railsclub_ru не оплачивает проезд, то распродажа:\nнаклейки @evilmartians=100р, RailsClub2014=50р\n@evroneru=10р; 1 кг картохи=14р",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "railsclub_ru",
+            "name": "Rails Club",
+            "id": 38414855,
+            "id_str": "38414855",
+            "indices": [
+              10,
+              23
+            ]
+          },
+          {
+            "screen_name": "evilmartians",
+            "name": "Evil Martians",
+            "id": 15864337,
+            "id_str": "15864337",
+            "indices": [
+              70,
+              83
+            ]
+          },
+          {
+            "screen_name": "evroneru",
+            "name": "evrone.ru",
+            "id": 140600288,
+            "id_str": "140600288",
+            "indices": [
+              108,
+              117
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Sep 21 05:16:45 +0000 2015",
+      "id": 645828990909960200,
+      "id_str": "645828990909960192",
+      "text": "Кто рано встаёт тот ребёнка в сад ведёт http://t.co/UWZBhI6fLh",
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Mobile Web (M5)</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 645828990792532000,
+            "id_str": "645828990792531968",
+            "indices": [
+              40,
+              62
+            ],
+            "media_url": "http://pbs.twimg.com/media/CPZyC53WgAA4Uuk.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CPZyC53WgAA4Uuk.jpg",
+            "url": "http://t.co/UWZBhI6fLh",
+            "display_url": "pic.twitter.com/UWZBhI6fLh",
+            "expanded_url": "http://twitter.com/rubyunderhood/status/645828990909960192/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 340,
+                "h": 255,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 600,
+                "h": 450,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1024,
+                "h": 768,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 645828990792532000,
+            "id_str": "645828990792531968",
+            "indices": [
+              40,
+              62
+            ],
+            "media_url": "http://pbs.twimg.com/media/CPZyC53WgAA4Uuk.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CPZyC53WgAA4Uuk.jpg",
+            "url": "http://t.co/UWZBhI6fLh",
+            "display_url": "pic.twitter.com/UWZBhI6fLh",
+            "expanded_url": "http://twitter.com/rubyunderhood/status/645828990909960192/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 340,
+                "h": 255,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 600,
+                "h": 450,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1024,
+                "h": 768,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Sep 20 23:35:45 +0000 2015",
+      "id": 645743178730053600,
+      "id_str": "645743178730053632",
+      "text": "@Bugagazavr говорить только о ruby ни мне ни @kirshatrov не интересно. Надо менять формат. Единого мнения нет. Надеюсь что-нибудь придумаем",
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Mobile Web (M5)</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 645740221338898400,
+      "in_reply_to_status_id_str": "645740221338898432",
+      "in_reply_to_user_id": 100941618,
+      "in_reply_to_user_id_str": "100941618",
+      "in_reply_to_screen_name": "Bugagazavr",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Bugagazavr",
+            "name": "Bugagazavr",
+            "id": 100941618,
+            "id_str": "100941618",
+            "indices": [
+              0,
+              11
+            ]
+          },
+          {
+            "screen_name": "kirshatrov",
+            "name": "Kir Shatrov",
+            "id": 287242565,
+            "id_str": "287242565",
+            "indices": [
+              45,
+              56
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Sep 20 23:22:30 +0000 2015",
+      "id": 645739842983358500,
+      "id_str": "645739842983358464",
+      "text": "@Bugagazavr Будем писаться на @railsclub_ru как в прошлый раз. Надеюсь на реинкарнацию.",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 645738614559756300,
+      "in_reply_to_status_id_str": "645738614559756288",
+      "in_reply_to_user_id": 100941618,
+      "in_reply_to_user_id_str": "100941618",
+      "in_reply_to_screen_name": "Bugagazavr",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Bugagazavr",
+            "name": "Bugagazavr",
+            "id": 100941618,
+            "id_str": "100941618",
+            "indices": [
+              0,
+              11
+            ]
+          },
+          {
+            "screen_name": "railsclub_ru",
+            "name": "Rails Club",
+            "id": 38414855,
+            "id_str": "38414855",
+            "indices": [
+              30,
+              43
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Sep 20 22:55:45 +0000 2015",
+      "id": 645733110194245600,
+      "id_str": "645733110194245633",
+      "text": "Ну упал Amazon Web Services и упал. Самое время маме позвонить. https://t.co/1Bw8H4ykCD",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 2,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/1Bw8H4ykCD",
+            "expanded_url": "https://www.reddit.com/r/technology/comments/3lofuv/amazon_web_services_go_down_taking_much_of_the/",
+            "display_url": "reddit.com/r/technology/c…",
+            "indices": [
+              64,
+              87
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Sep 20 22:35:58 +0000 2015",
+      "id": 645728131333009400,
+      "id_str": "645728131333009408",
+      "text": "@ptico здрастуй андрей, А пити то я кинув бо Путін став подобається",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 645725933232590800,
+      "in_reply_to_status_id_str": "645725933232590848",
+      "in_reply_to_user_id": 16743832,
+      "in_reply_to_user_id_str": "16743832",
+      "in_reply_to_screen_name": "ptico",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ptico",
+            "name": "Andrey Savchenko",
+            "id": 16743832,
+            "id_str": "16743832",
+            "indices": [
+              0,
+              6
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "uk"
+    },
+    {
+      "created_at": "Sun Sep 20 22:18:20 +0000 2015",
+      "id": 645723696733245400,
+      "id_str": "645723696733245440",
+      "text": "RT @common_disease: Нашёл!\nПочему в Ruby нет Enumerable#join: https://t.co/MUy3rv4AqW",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Sun Sep 20 20:13:56 +0000 2015",
+        "id": 645692387881189400,
+        "id_str": "645692387881189376",
+        "text": "Нашёл!\nПочему в Ruby нет Enumerable#join: https://t.co/MUy3rv4AqW",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 1104986353,
+          "id_str": "1104986353"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 5,
+        "favorite_count": 5,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/MUy3rv4AqW",
+              "expanded_url": "https://bugs.ruby-lang.org/issues/1893",
+              "display_url": "bugs.ruby-lang.org/issues/1893",
+              "indices": [
+                42,
+                65
+              ]
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "und"
+      },
+      "is_quote_status": false,
+      "retweet_count": 5,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "common_disease",
+            "name": "монолитный череп",
+            "id": 1104986353,
+            "id_str": "1104986353",
+            "indices": [
+              3,
+              18
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/MUy3rv4AqW",
+            "expanded_url": "https://bugs.ruby-lang.org/issues/1893",
+            "display_url": "bugs.ruby-lang.org/issues/1893",
+            "indices": [
+              62,
+              85
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "und"
+    },
+    {
       "created_at": "Sun Sep 20 21:49:33 +0000 2015",
       "id": 645716452733939700,
       "id_str": "645716452733939712",
@@ -193,7 +1060,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 2,
-      "favorite_count": 0,
+      "favorite_count": 1,
       "entities": {
         "hashtags": [],
         "symbols": [],
