@@ -5,6 +5,836 @@
   "post": false,
   "tweets": [
     {
+      "created_at": "Wed Sep 23 19:59:33 +0000 2015",
+      "id": 646775931122532400,
+      "id_str": "646775931122532353",
+      "text": "@ptico А ты чего не едешь?",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 646756693918007300,
+      "in_reply_to_status_id_str": "646756693918007297",
+      "in_reply_to_user_id": 16743832,
+      "in_reply_to_user_id_str": "16743832",
+      "in_reply_to_screen_name": "ptico",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ptico",
+            "name": "Andrey Savchenko",
+            "id": 16743832,
+            "id_str": "16743832",
+            "indices": [
+              0,
+              6
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Sep 23 11:25:53 +0000 2015",
+      "id": 646646662077747200,
+      "id_str": "646646662077747200",
+      "text": "Можно провести альтернативную вечеринку. А по утренним лицам увидим у кого она была веселее. Предлагайте места.",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Sep 23 11:07:13 +0000 2015",
+      "id": 646641965245820900,
+      "id_str": "646641965245820928",
+      "text": "RT @railsclub_ru: @rubyunderhood у нас будет препати со спикерами в Тарасе Бульбе.  Присоединяйтесь, мы два больших стола забронировали. 19…",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Wed Sep 23 10:55:16 +0000 2015",
+        "id": 646638960677138400,
+        "id_str": "646638960677138432",
+        "text": "@rubyunderhood у нас будет препати со спикерами в Тарасе Бульбе.  Присоединяйтесь, мы два больших стола забронировали. 19, пятница",
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 646633731420225500,
+        "in_reply_to_status_id_str": "646633731420225536",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 38414855,
+          "id_str": "38414855"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 3,
+        "favorite_count": 2,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "railsclub_ru",
+            "name": "Rails Club",
+            "id": 38414855,
+            "id_str": "38414855",
+            "indices": [
+              3,
+              16
+            ]
+          },
+          {
+            "screen_name": "rubyunderhood",
+            "name": "Ruby разработчик",
+            "id": 3341793591,
+            "id_str": "3341793591",
+            "indices": [
+              18,
+              32
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Sep 23 10:34:30 +0000 2015",
+      "id": 646633731420225500,
+      "id_str": "646633731420225536",
+      "text": "Рельсоклабберы, давайте договоримся о пятничной вечерней программе. Куда пойдем? Предлагайте места.",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 4,
+      "favorite_count": 2,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Sep 23 10:01:41 +0000 2015",
+      "id": 646625476035911700,
+      "id_str": "646625476035911680",
+      "text": "RT @ErlangCentral: Understanding Erlang Garbage Collection Details and Why It Matters https://t.co/Wm5nHfgIRG #Erlang http://t.co/sTXEhVdke8",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Wed Sep 23 08:10:40 +0000 2015",
+        "id": 646597537625964500,
+        "id_str": "646597537625964544",
+        "text": "Understanding Erlang Garbage Collection Details and Why It Matters https://t.co/Wm5nHfgIRG #Erlang http://t.co/sTXEhVdke8",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 993425858,
+          "id_str": "993425858"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 21,
+        "favorite_count": 28,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "Erlang",
+              "indices": [
+                91,
+                98
+              ]
+            }
+          ],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/Wm5nHfgIRG",
+              "expanded_url": "https://hamidreza-s.github.io/erlang%20garbage%20collection%20memory%20layout%20soft%20realtime/2015/08/24/erlang-garbage-collection-details-and-why-it-matters.html",
+              "display_url": "hamidreza-s.github.io/erlang%20garba…",
+              "indices": [
+                67,
+                90
+              ]
+            }
+          ],
+          "media": [
+            {
+              "id": 646597536539627500,
+              "id_str": "646597536539627520",
+              "indices": [
+                99,
+                121
+              ],
+              "media_url": "http://pbs.twimg.com/media/CPktCJ4WUAA_iqn.png",
+              "media_url_https": "https://pbs.twimg.com/media/CPktCJ4WUAA_iqn.png",
+              "url": "http://t.co/sTXEhVdke8",
+              "display_url": "pic.twitter.com/sTXEhVdke8",
+              "expanded_url": "http://twitter.com/ErlangCentral/status/646597537625964544/photo/1",
+              "type": "photo",
+              "sizes": {
+                "large": {
+                  "w": 1024,
+                  "h": 738,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 600,
+                  "h": 432,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small": {
+                  "w": 340,
+                  "h": 245,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 646597536539627500,
+              "id_str": "646597536539627520",
+              "indices": [
+                99,
+                121
+              ],
+              "media_url": "http://pbs.twimg.com/media/CPktCJ4WUAA_iqn.png",
+              "media_url_https": "https://pbs.twimg.com/media/CPktCJ4WUAA_iqn.png",
+              "url": "http://t.co/sTXEhVdke8",
+              "display_url": "pic.twitter.com/sTXEhVdke8",
+              "expanded_url": "http://twitter.com/ErlangCentral/status/646597537625964544/photo/1",
+              "type": "photo",
+              "sizes": {
+                "large": {
+                  "w": 1024,
+                  "h": 738,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 600,
+                  "h": 432,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small": {
+                  "w": 340,
+                  "h": 245,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 21,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Erlang",
+            "indices": [
+              110,
+              117
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ErlangCentral",
+            "name": "Erlang Central",
+            "id": 993425858,
+            "id_str": "993425858",
+            "indices": [
+              3,
+              17
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/Wm5nHfgIRG",
+            "expanded_url": "https://hamidreza-s.github.io/erlang%20garbage%20collection%20memory%20layout%20soft%20realtime/2015/08/24/erlang-garbage-collection-details-and-why-it-matters.html",
+            "display_url": "hamidreza-s.github.io/erlang%20garba…",
+            "indices": [
+              86,
+              109
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 646597536539627500,
+            "id_str": "646597536539627520",
+            "indices": [
+              118,
+              140
+            ],
+            "media_url": "http://pbs.twimg.com/media/CPktCJ4WUAA_iqn.png",
+            "media_url_https": "https://pbs.twimg.com/media/CPktCJ4WUAA_iqn.png",
+            "url": "http://t.co/sTXEhVdke8",
+            "display_url": "pic.twitter.com/sTXEhVdke8",
+            "expanded_url": "http://twitter.com/ErlangCentral/status/646597537625964544/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1024,
+                "h": 738,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 600,
+                "h": 432,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 340,
+                "h": 245,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 646597537625964500,
+            "source_status_id_str": "646597537625964544",
+            "source_user_id": 993425858,
+            "source_user_id_str": "993425858"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 646597536539627500,
+            "id_str": "646597536539627520",
+            "indices": [
+              118,
+              140
+            ],
+            "media_url": "http://pbs.twimg.com/media/CPktCJ4WUAA_iqn.png",
+            "media_url_https": "https://pbs.twimg.com/media/CPktCJ4WUAA_iqn.png",
+            "url": "http://t.co/sTXEhVdke8",
+            "display_url": "pic.twitter.com/sTXEhVdke8",
+            "expanded_url": "http://twitter.com/ErlangCentral/status/646597537625964544/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1024,
+                "h": 738,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 600,
+                "h": 432,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 340,
+                "h": 245,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 646597537625964500,
+            "source_status_id_str": "646597537625964544",
+            "source_user_id": 993425858,
+            "source_user_id_str": "993425858"
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Sep 23 09:21:34 +0000 2015",
+      "id": 646615378785869800,
+      "id_str": "646615378785869824",
+      "text": "RT @bikolyarb: @rubyunderhood Confreaks, The Changelog, Green Ruby, /r/ruby и фид из 150 рубистов, которые удается скроллить одним глазом р…",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Wed Sep 23 08:45:26 +0000 2015",
+        "id": 646606287506116600,
+        "id_str": "646606287506116608",
+        "text": "@rubyunderhood Confreaks, The Changelog, Green Ruby, /r/ruby и фид из 150 рубистов, которые удается скроллить одним глазом раз в неделю",
+        "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 646574623413432300,
+        "in_reply_to_status_id_str": "646574623413432320",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 332712922,
+          "id_str": "332712922"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 2,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "bikolyarb",
+            "name": "Nikolay",
+            "id": 332712922,
+            "id_str": "332712922",
+            "indices": [
+              3,
+              13
+            ]
+          },
+          {
+            "screen_name": "rubyunderhood",
+            "name": "Ruby разработчик",
+            "id": 3341793591,
+            "id_str": "3341793591",
+            "indices": [
+              15,
+              29
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Sep 23 07:04:32 +0000 2015",
+      "id": 646580894417977300,
+      "id_str": "646580894417977344",
+      "text": "@mpak999 HN и Reddit скролю одним глазом. Много всякого треша. Но да стоит читать. Рекомендую. А какие есть русскоязычные каналы? Habr?",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 646580279121829900,
+      "in_reply_to_status_id_str": "646580279121829888",
+      "in_reply_to_user_id": 18864603,
+      "in_reply_to_user_id_str": "18864603",
+      "in_reply_to_screen_name": "mpak999",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "mpak999",
+            "name": "MpaK",
+            "id": 18864603,
+            "id_str": "18864603",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Sep 23 07:01:41 +0000 2015",
+      "id": 646580175577161700,
+      "id_str": "646580175577161728",
+      "text": "Вот еще рассылки:\nhttps://t.co/PdH7n7kir8\nhttp://t.co/TLnFcFrdHJ\nhttp://t.co/O1dnaaqmMO\nhttp://t.co/VgK7sXecvP\nhttps://t.co/4s8416NI8C",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 9,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/PdH7n7kir8",
+            "expanded_url": "https://cooperpress.com/",
+            "display_url": "cooperpress.com",
+            "indices": [
+              18,
+              41
+            ]
+          },
+          {
+            "url": "http://t.co/TLnFcFrdHJ",
+            "expanded_url": "http://css-weekly.com/",
+            "display_url": "css-weekly.com",
+            "indices": [
+              42,
+              64
+            ]
+          },
+          {
+            "url": "http://t.co/O1dnaaqmMO",
+            "expanded_url": "http://golangweekly.com/",
+            "display_url": "golangweekly.com",
+            "indices": [
+              65,
+              87
+            ]
+          },
+          {
+            "url": "http://t.co/VgK7sXecvP",
+            "expanded_url": "http://nodeweekly.com/",
+            "display_url": "nodeweekly.com",
+            "indices": [
+              88,
+              110
+            ]
+          },
+          {
+            "url": "https://t.co/4s8416NI8C",
+            "expanded_url": "https://rails-weekly.ongoodbits.com/",
+            "display_url": "rails-weekly.ongoodbits.com",
+            "indices": [
+              111,
+              134
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Sep 23 07:00:31 +0000 2015",
+      "id": 646579880566632400,
+      "id_str": "646579880566632448",
+      "text": "Альтернативой микросервисам может быть использование энджинов. http://t.co/TCUYXmPA39",
+      "source": "<a href=\"http://amplifr.com\" rel=\"nofollow\">Amplifr</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 5,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "http://t.co/TCUYXmPA39",
+            "expanded_url": "http://amp.gs/Nmt",
+            "display_url": "amp.gs/Nmt",
+            "indices": [
+              63,
+              85
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Sep 23 06:39:37 +0000 2015",
+      "id": 646574623413432300,
+      "id_str": "646574623413432320",
+      "text": "Сегодня давайте поговорим про новости. Какие блоги/рассылки читаете? Возможно не только про ruby/rails",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Sep 23 06:09:39 +0000 2015",
+      "id": 646567081710850000,
+      "id_str": "646567081710850048",
+      "text": "Сумашедший детектив про утечку памяти http://t.co/VM9qX6r6Wg. Развязка просто огонь",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 8,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "http://t.co/VM9qX6r6Wg",
+            "expanded_url": "http://be9.ru/2015/09/12/memory-leak.html",
+            "display_url": "be9.ru/2015/09/12/mem…",
+            "indices": [
+              38,
+              60
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
       "created_at": "Tue Sep 22 21:16:03 +0000 2015",
       "id": 646432795175329800,
       "id_str": "646432795175329792",
@@ -574,8 +1404,8 @@
         "place": null,
         "contributors": null,
         "is_quote_status": false,
-        "retweet_count": 1,
-        "favorite_count": 5,
+        "retweet_count": 2,
+        "favorite_count": 4,
         "entities": {
           "hashtags": [],
           "symbols": [],
@@ -598,7 +1428,7 @@
         "lang": "ru"
       },
       "is_quote_status": false,
-      "retweet_count": 1,
+      "retweet_count": 2,
       "favorite_count": 0,
       "entities": {
         "hashtags": [],
@@ -801,7 +1631,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 0,
-      "favorite_count": 5,
+      "favorite_count": 3,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -1393,7 +2223,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 1,
-      "favorite_count": 1,
+      "favorite_count": 2,
       "entities": {
         "hashtags": [
           {
