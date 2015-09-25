@@ -5,6 +5,824 @@
   "post": false,
   "tweets": [
     {
+      "created_at": "Fri Sep 25 09:22:08 +0000 2015",
+      "id": 647340298725670900,
+      "id_str": "647340298725670912",
+      "text": "Все уже видели наши новые наклейки? http://t.co/jL4IKCGjV4",
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Mobile Web (M5)</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 647340297643499500,
+            "id_str": "647340297643499520",
+            "indices": [
+              36,
+              58
+            ],
+            "media_url": "http://pbs.twimg.com/media/CPvQkinWIAAg3W0.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CPvQkinWIAAg3W0.jpg",
+            "url": "http://t.co/jL4IKCGjV4",
+            "display_url": "pic.twitter.com/jL4IKCGjV4",
+            "expanded_url": "http://twitter.com/rubyunderhood/status/647340298725670912/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 340,
+                "h": 255,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 600,
+                "h": 450,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1024,
+                "h": 768,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 647340297643499500,
+            "id_str": "647340297643499520",
+            "indices": [
+              36,
+              58
+            ],
+            "media_url": "http://pbs.twimg.com/media/CPvQkinWIAAg3W0.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CPvQkinWIAAg3W0.jpg",
+            "url": "http://t.co/jL4IKCGjV4",
+            "display_url": "pic.twitter.com/jL4IKCGjV4",
+            "expanded_url": "http://twitter.com/rubyunderhood/status/647340298725670912/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 340,
+                "h": 255,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 600,
+                "h": 450,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1024,
+                "h": 768,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Sep 25 09:19:50 +0000 2015",
+      "id": 647339716384292900,
+      "id_str": "647339716384292865",
+      "text": "Building a JSON API with Rails 5 http://t.co/knH4pNQbvH",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 4,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "http://t.co/knH4pNQbvH",
+            "expanded_url": "http://blog.codeship.com/building-a-json-api-with-rails-5/",
+            "display_url": "blog.codeship.com/building-a-jso…",
+            "indices": [
+              33,
+              55
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Sep 24 21:18:03 +0000 2015",
+      "id": 647158073673576400,
+      "id_str": "647158073673576449",
+      "text": "RT @practicingruby: How Ruby Modules Really Work. http://t.co/WVtPF6C717",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Thu Sep 24 16:39:39 +0000 2015",
+        "id": 647088015773462500,
+        "id_str": "647088015773462528",
+        "text": "How Ruby Modules Really Work. http://t.co/WVtPF6C717",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 581092177,
+          "id_str": "581092177"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 10,
+        "favorite_count": 7,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [],
+          "media": [
+            {
+              "id": 647088015106420700,
+              "id_str": "647088015106420736",
+              "indices": [
+                30,
+                52
+              ],
+              "media_url": "http://pbs.twimg.com/media/CPrrHw7UsAAaEgY.png",
+              "media_url_https": "https://pbs.twimg.com/media/CPrrHw7UsAAaEgY.png",
+              "url": "http://t.co/WVtPF6C717",
+              "display_url": "pic.twitter.com/WVtPF6C717",
+              "expanded_url": "http://twitter.com/practicingruby/status/647088015773462528/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 600,
+                  "h": 408,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 340,
+                  "h": 231,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 999,
+                  "h": 680,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 647088015106420700,
+              "id_str": "647088015106420736",
+              "indices": [
+                30,
+                52
+              ],
+              "media_url": "http://pbs.twimg.com/media/CPrrHw7UsAAaEgY.png",
+              "media_url_https": "https://pbs.twimg.com/media/CPrrHw7UsAAaEgY.png",
+              "url": "http://t.co/WVtPF6C717",
+              "display_url": "pic.twitter.com/WVtPF6C717",
+              "expanded_url": "http://twitter.com/practicingruby/status/647088015773462528/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 600,
+                  "h": 408,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 340,
+                  "h": 231,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 999,
+                  "h": 680,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 10,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "practicingruby",
+            "name": "Gregory Brown",
+            "id": 581092177,
+            "id_str": "581092177",
+            "indices": [
+              3,
+              18
+            ]
+          }
+        ],
+        "urls": [],
+        "media": [
+          {
+            "id": 647088015106420700,
+            "id_str": "647088015106420736",
+            "indices": [
+              50,
+              72
+            ],
+            "media_url": "http://pbs.twimg.com/media/CPrrHw7UsAAaEgY.png",
+            "media_url_https": "https://pbs.twimg.com/media/CPrrHw7UsAAaEgY.png",
+            "url": "http://t.co/WVtPF6C717",
+            "display_url": "pic.twitter.com/WVtPF6C717",
+            "expanded_url": "http://twitter.com/practicingruby/status/647088015773462528/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 600,
+                "h": 408,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 231,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 999,
+                "h": 680,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 647088015773462500,
+            "source_status_id_str": "647088015773462528",
+            "source_user_id": 581092177,
+            "source_user_id_str": "581092177"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 647088015106420700,
+            "id_str": "647088015106420736",
+            "indices": [
+              50,
+              72
+            ],
+            "media_url": "http://pbs.twimg.com/media/CPrrHw7UsAAaEgY.png",
+            "media_url_https": "https://pbs.twimg.com/media/CPrrHw7UsAAaEgY.png",
+            "url": "http://t.co/WVtPF6C717",
+            "display_url": "pic.twitter.com/WVtPF6C717",
+            "expanded_url": "http://twitter.com/practicingruby/status/647088015773462528/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 600,
+                "h": 408,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 231,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 999,
+                "h": 680,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 647088015773462500,
+            "source_status_id_str": "647088015773462528",
+            "source_user_id": 581092177,
+            "source_user_id_str": "581092177"
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Sep 24 20:43:24 +0000 2015",
+      "id": 647149357733683200,
+      "id_str": "647149357733683200",
+      "text": "Выдвинулся в на @railsclub_ru http://t.co/1MobAB8NHW",
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Mobile Web (M5)</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "railsclub_ru",
+            "name": "Rails Club",
+            "id": 38414855,
+            "id_str": "38414855",
+            "indices": [
+              16,
+              29
+            ]
+          }
+        ],
+        "urls": [],
+        "media": [
+          {
+            "id": 647149356630581200,
+            "id_str": "647149356630581248",
+            "indices": [
+              30,
+              52
+            ],
+            "media_url": "http://pbs.twimg.com/media/CPsi6T6WoAAbvGx.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CPsi6T6WoAAbvGx.jpg",
+            "url": "http://t.co/1MobAB8NHW",
+            "display_url": "pic.twitter.com/1MobAB8NHW",
+            "expanded_url": "http://twitter.com/rubyunderhood/status/647149357733683200/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1024,
+                "h": 1365,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 453,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 600,
+                "h": 800,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 647149356630581200,
+            "id_str": "647149356630581248",
+            "indices": [
+              30,
+              52
+            ],
+            "media_url": "http://pbs.twimg.com/media/CPsi6T6WoAAbvGx.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CPsi6T6WoAAbvGx.jpg",
+            "url": "http://t.co/1MobAB8NHW",
+            "display_url": "pic.twitter.com/1MobAB8NHW",
+            "expanded_url": "http://twitter.com/rubyunderhood/status/647149357733683200/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1024,
+                "h": 1365,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 453,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 600,
+                "h": 800,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            }
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Sep 24 13:01:27 +0000 2015",
+      "id": 647033103769313300,
+      "id_str": "647033103769313280",
+      "text": "RT @lindaliukas: Hej Ruby - now available in Swedish! http://t.co/VvDUig2dyh http://t.co/mabJ7LakFy",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Thu Sep 24 12:16:11 +0000 2015",
+        "id": 647021709434994700,
+        "id_str": "647021709434994688",
+        "text": "Hej Ruby - now available in Swedish! http://t.co/VvDUig2dyh http://t.co/mabJ7LakFy",
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 19080399,
+          "id_str": "19080399"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+          "id": "53e060d6652640f4",
+          "url": "https://api.twitter.com/1.1/geo/id/53e060d6652640f4.json",
+          "place_type": "city",
+          "name": "Gothenburg",
+          "full_name": "Gothenburg, Sweden",
+          "country_code": "SE",
+          "country": "Sverige",
+          "contained_within": [],
+          "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  11.226313,
+                  57.496298
+                ],
+                [
+                  12.2417273,
+                  57.496298
+                ],
+                [
+                  12.2417273,
+                  57.8659142
+                ],
+                [
+                  11.226313,
+                  57.8659142
+                ]
+              ]
+            ]
+          },
+          "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 30,
+        "favorite_count": 53,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "http://t.co/VvDUig2dyh",
+              "expanded_url": "http://helloruby.com/shop",
+              "display_url": "helloruby.com/shop",
+              "indices": [
+                37,
+                59
+              ]
+            }
+          ],
+          "media": [
+            {
+              "id": 647021689289633800,
+              "id_str": "647021689289633792",
+              "indices": [
+                60,
+                82
+              ],
+              "media_url": "http://pbs.twimg.com/media/CPquzGAU8AAR51n.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/CPquzGAU8AAR51n.jpg",
+              "url": "http://t.co/mabJ7LakFy",
+              "display_url": "pic.twitter.com/mabJ7LakFy",
+              "expanded_url": "http://twitter.com/lindaliukas/status/647021709434994688/photo/1",
+              "type": "photo",
+              "sizes": {
+                "small": {
+                  "w": 340,
+                  "h": 340,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 600,
+                  "h": 600,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 1024,
+                  "h": 1024,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 647021689289633800,
+              "id_str": "647021689289633792",
+              "indices": [
+                60,
+                82
+              ],
+              "media_url": "http://pbs.twimg.com/media/CPquzGAU8AAR51n.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/CPquzGAU8AAR51n.jpg",
+              "url": "http://t.co/mabJ7LakFy",
+              "display_url": "pic.twitter.com/mabJ7LakFy",
+              "expanded_url": "http://twitter.com/lindaliukas/status/647021709434994688/photo/1",
+              "type": "photo",
+              "sizes": {
+                "small": {
+                  "w": 340,
+                  "h": 340,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 600,
+                  "h": 600,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 1024,
+                  "h": 1024,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 30,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "lindaliukas",
+            "name": "Linda Liukas",
+            "id": 19080399,
+            "id_str": "19080399",
+            "indices": [
+              3,
+              15
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "http://t.co/VvDUig2dyh",
+            "expanded_url": "http://helloruby.com/shop",
+            "display_url": "helloruby.com/shop",
+            "indices": [
+              54,
+              76
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 647021689289633800,
+            "id_str": "647021689289633792",
+            "indices": [
+              77,
+              99
+            ],
+            "media_url": "http://pbs.twimg.com/media/CPquzGAU8AAR51n.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CPquzGAU8AAR51n.jpg",
+            "url": "http://t.co/mabJ7LakFy",
+            "display_url": "pic.twitter.com/mabJ7LakFy",
+            "expanded_url": "http://twitter.com/lindaliukas/status/647021709434994688/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 340,
+                "h": 340,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 600,
+                "h": 600,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1024,
+                "h": 1024,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 647021709434994700,
+            "source_status_id_str": "647021709434994688",
+            "source_user_id": 19080399,
+            "source_user_id_str": "19080399"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 647021689289633800,
+            "id_str": "647021689289633792",
+            "indices": [
+              77,
+              99
+            ],
+            "media_url": "http://pbs.twimg.com/media/CPquzGAU8AAR51n.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CPquzGAU8AAR51n.jpg",
+            "url": "http://t.co/mabJ7LakFy",
+            "display_url": "pic.twitter.com/mabJ7LakFy",
+            "expanded_url": "http://twitter.com/lindaliukas/status/647021709434994688/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 340,
+                "h": 340,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 600,
+                "h": 600,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1024,
+                "h": 1024,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 647021709434994700,
+            "source_status_id_str": "647021709434994688",
+            "source_user_id": 19080399,
+            "source_user_id_str": "19080399"
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
       "created_at": "Wed Sep 23 19:59:33 +0000 2015",
       "id": 646775931122532400,
       "id_str": "646775931122532353",
@@ -253,8 +1071,8 @@
         "place": null,
         "contributors": null,
         "is_quote_status": false,
-        "retweet_count": 21,
-        "favorite_count": 28,
+        "retweet_count": 31,
+        "favorite_count": 34,
         "entities": {
           "hashtags": [
             {
@@ -363,7 +1181,7 @@
         "lang": "en"
       },
       "is_quote_status": false,
-      "retweet_count": 21,
+      "retweet_count": 31,
       "favorite_count": 0,
       "entities": {
         "hashtags": [
@@ -655,7 +1473,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 0,
-      "favorite_count": 9,
+      "favorite_count": 8,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -735,7 +1553,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 1,
-      "favorite_count": 5,
+      "favorite_count": 4,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -1097,7 +1915,7 @@
       "place": null,
       "contributors": null,
       "is_quote_status": false,
-      "retweet_count": 0,
+      "retweet_count": 1,
       "favorite_count": 1,
       "entities": {
         "hashtags": [],
@@ -1861,7 +2679,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 0,
-      "favorite_count": 5,
+      "favorite_count": 4,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -1916,7 +2734,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 7,
-      "favorite_count": 13,
+      "favorite_count": 12,
       "entities": {
         "hashtags": [
           {
@@ -2785,7 +3603,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 0,
-      "favorite_count": 2,
+      "favorite_count": 1,
       "entities": {
         "hashtags": [
           {
@@ -3225,7 +4043,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 0,
-      "favorite_count": 4,
+      "favorite_count": 3,
       "entities": {
         "hashtags": [
           {
@@ -3727,7 +4545,7 @@
         "contributors": null,
         "is_quote_status": false,
         "retweet_count": 5,
-        "favorite_count": 6,
+        "favorite_count": 4,
         "entities": {
           "hashtags": [],
           "symbols": [],
@@ -3758,7 +4576,7 @@
         "user_mentions": [
           {
             "screen_name": "common_disease",
-            "name": "монолитный череп",
+            "name": "монохромный панцирь",
             "id": 1104986353,
             "id_str": "1104986353",
             "indices": [
