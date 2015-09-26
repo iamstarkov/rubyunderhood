@@ -5,6 +5,421 @@
   "post": false,
   "tweets": [
     {
+      "created_at": "Sat Sep 26 03:47:36 +0000 2015",
+      "id": 647618498802372600,
+      "id_str": "647618498802372608",
+      "text": "RT @agonsmith: Марсианин @aderyabin готовится и фигачит, чтобы доставить вам офигенный доклад на @railsclub_ru http://t.co/S9KPu9cYkM",
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Mobile Web (M5)</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Fri Sep 25 10:33:38 +0000 2015",
+        "id": 647358290742149100,
+        "id_str": "647358290742149120",
+        "text": "Марсианин @aderyabin готовится и фигачит, чтобы доставить вам офигенный доклад на @railsclub_ru http://t.co/S9KPu9cYkM",
+        "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 186183275,
+          "id_str": "186183275"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 4,
+        "favorite_count": 1,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "aderyabin",
+              "name": "Andronik Deryabni",
+              "id": 50083148,
+              "id_str": "50083148",
+              "indices": [
+                10,
+                20
+              ]
+            },
+            {
+              "screen_name": "railsclub_ru",
+              "name": "Rails Club",
+              "id": 38414855,
+              "id_str": "38414855",
+              "indices": [
+                82,
+                95
+              ]
+            }
+          ],
+          "urls": [],
+          "media": [
+            {
+              "id": 647358289127211000,
+              "id_str": "647358289127211008",
+              "indices": [
+                96,
+                118
+              ],
+              "media_url": "http://pbs.twimg.com/media/CPvg7yHVAAAYESy.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/CPvg7yHVAAAYESy.jpg",
+              "url": "http://t.co/S9KPu9cYkM",
+              "display_url": "pic.twitter.com/S9KPu9cYkM",
+              "expanded_url": "http://twitter.com/agonsmith/status/647358290742149120/photo/1",
+              "type": "photo",
+              "sizes": {
+                "small": {
+                  "w": 340,
+                  "h": 226,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 600,
+                  "h": 400,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 1024,
+                  "h": 682,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 647358289127211000,
+              "id_str": "647358289127211008",
+              "indices": [
+                96,
+                118
+              ],
+              "media_url": "http://pbs.twimg.com/media/CPvg7yHVAAAYESy.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/CPvg7yHVAAAYESy.jpg",
+              "url": "http://t.co/S9KPu9cYkM",
+              "display_url": "pic.twitter.com/S9KPu9cYkM",
+              "expanded_url": "http://twitter.com/agonsmith/status/647358290742149120/photo/1",
+              "type": "photo",
+              "sizes": {
+                "small": {
+                  "w": 340,
+                  "h": 226,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 600,
+                  "h": 400,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 1024,
+                  "h": 682,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 4,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "agonsmith",
+            "name": "Dr. Agon Smith",
+            "id": 186183275,
+            "id_str": "186183275",
+            "indices": [
+              3,
+              13
+            ]
+          },
+          {
+            "screen_name": "aderyabin",
+            "name": "Andronik Deryabni",
+            "id": 50083148,
+            "id_str": "50083148",
+            "indices": [
+              25,
+              35
+            ]
+          },
+          {
+            "screen_name": "railsclub_ru",
+            "name": "Rails Club",
+            "id": 38414855,
+            "id_str": "38414855",
+            "indices": [
+              97,
+              110
+            ]
+          }
+        ],
+        "urls": [],
+        "media": [
+          {
+            "id": 647358289127211000,
+            "id_str": "647358289127211008",
+            "indices": [
+              111,
+              133
+            ],
+            "media_url": "http://pbs.twimg.com/media/CPvg7yHVAAAYESy.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CPvg7yHVAAAYESy.jpg",
+            "url": "http://t.co/S9KPu9cYkM",
+            "display_url": "pic.twitter.com/S9KPu9cYkM",
+            "expanded_url": "http://twitter.com/agonsmith/status/647358290742149120/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 340,
+                "h": 226,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 600,
+                "h": 400,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1024,
+                "h": 682,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 647358290742149100,
+            "source_status_id_str": "647358290742149120",
+            "source_user_id": 186183275,
+            "source_user_id_str": "186183275"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 647358289127211000,
+            "id_str": "647358289127211008",
+            "indices": [
+              111,
+              133
+            ],
+            "media_url": "http://pbs.twimg.com/media/CPvg7yHVAAAYESy.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CPvg7yHVAAAYESy.jpg",
+            "url": "http://t.co/S9KPu9cYkM",
+            "display_url": "pic.twitter.com/S9KPu9cYkM",
+            "expanded_url": "http://twitter.com/agonsmith/status/647358290742149120/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 340,
+                "h": 226,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 600,
+                "h": 400,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1024,
+                "h": 682,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 647358290742149100,
+            "source_status_id_str": "647358290742149120",
+            "source_user_id": 186183275,
+            "source_user_id_str": "186183275"
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Sep 25 13:47:51 +0000 2015",
+      "id": 647407168845676500,
+      "id_str": "647407168845676544",
+      "text": "@railsclub_ru. Куда омичам податься? конечно на Воробьевы. #бригада http://t.co/7bKgQp1Dje",
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Mobile Web (M5)</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": 38414855,
+      "in_reply_to_user_id_str": "38414855",
+      "in_reply_to_screen_name": "railsclub_ru",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "бригада",
+            "indices": [
+              59,
+              67
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "railsclub_ru",
+            "name": "Rails Club",
+            "id": 38414855,
+            "id_str": "38414855",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": [],
+        "media": [
+          {
+            "id": 647407168589795300,
+            "id_str": "647407168589795328",
+            "indices": [
+              68,
+              90
+            ],
+            "media_url": "http://pbs.twimg.com/media/CPwNY8TWEAAaaHB.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CPwNY8TWEAAaaHB.jpg",
+            "url": "http://t.co/7bKgQp1Dje",
+            "display_url": "pic.twitter.com/7bKgQp1Dje",
+            "expanded_url": "http://twitter.com/rubyunderhood/status/647407168845676544/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 340,
+                "h": 255,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 600,
+                "h": 450,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1024,
+                "h": 768,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 647407168589795300,
+            "id_str": "647407168589795328",
+            "indices": [
+              68,
+              90
+            ],
+            "media_url": "http://pbs.twimg.com/media/CPwNY8TWEAAaaHB.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CPwNY8TWEAAaaHB.jpg",
+            "url": "http://t.co/7bKgQp1Dje",
+            "display_url": "pic.twitter.com/7bKgQp1Dje",
+            "expanded_url": "http://twitter.com/rubyunderhood/status/647407168845676544/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 340,
+                "h": 255,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 600,
+                "h": 450,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1024,
+                "h": 768,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
       "created_at": "Fri Sep 25 09:22:08 +0000 2015",
       "id": 647340298725670900,
       "id_str": "647340298725670912",
@@ -26,7 +441,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 0,
-      "favorite_count": 1,
+      "favorite_count": 2,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -138,7 +553,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 1,
-      "favorite_count": 4,
+      "favorite_count": 5,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -201,7 +616,7 @@
         "place": null,
         "contributors": null,
         "is_quote_status": false,
-        "retweet_count": 10,
+        "retweet_count": 11,
         "favorite_count": 7,
         "entities": {
           "hashtags": [],
@@ -293,7 +708,7 @@
         "lang": "en"
       },
       "is_quote_status": false,
-      "retweet_count": 10,
+      "retweet_count": 11,
       "favorite_count": 0,
       "entities": {
         "hashtags": [],
@@ -600,8 +1015,8 @@
         },
         "contributors": null,
         "is_quote_status": false,
-        "retweet_count": 30,
-        "favorite_count": 53,
+        "retweet_count": 32,
+        "favorite_count": 54,
         "entities": {
           "hashtags": [],
           "symbols": [],
@@ -702,7 +1117,7 @@
         "lang": "en"
       },
       "is_quote_status": false,
-      "retweet_count": 30,
+      "retweet_count": 32,
       "favorite_count": 0,
       "entities": {
         "hashtags": [],
@@ -1071,8 +1486,8 @@
         "place": null,
         "contributors": null,
         "is_quote_status": false,
-        "retweet_count": 31,
-        "favorite_count": 34,
+        "retweet_count": 48,
+        "favorite_count": 56,
         "entities": {
           "hashtags": [
             {
@@ -1181,7 +1596,7 @@
         "lang": "en"
       },
       "is_quote_status": false,
-      "retweet_count": 31,
+      "retweet_count": 48,
       "favorite_count": 0,
       "entities": {
         "hashtags": [
