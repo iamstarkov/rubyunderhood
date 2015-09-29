@@ -26,64 +26,111 @@
     }
   },
   "protected": false,
-  "followers_count": 512,
+  "followers_count": 517,
   "friends_count": 7,
   "listed_count": 21,
   "created_at": "Mon Jun 22 18:43:03 +0000 2015",
-  "favourites_count": 33,
+  "favourites_count": 55,
   "utc_offset": null,
   "time_zone": null,
-  "geo_enabled": false,
+  "geo_enabled": true,
   "verified": false,
-  "statuses_count": 3541,
+  "statuses_count": 3647,
   "lang": "en",
   "status": {
-    "created_at": "Mon Sep 28 07:10:44 +0000 2015",
-    "id": 648394392240267300,
-    "id_str": "648394392240267264",
-    "text": "@mpak999 @jsunderhood иногда получается или так, или никак. И _только_ через такое у тебя и появятся _настоящие_ знания.",
-    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "created_at": "Tue Sep 29 20:24:49 +0000 2015",
+    "id": 648956617640292400,
+    "id_str": "648956617640292353",
+    "text": "Вот кстати слайд, который пришлось выпилить из презентации на #railclub из-за тайминга\ncc @dzaporozhets @yaroslav http://t.co/XMPkuVGOtt",
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
     "truncated": false,
-    "in_reply_to_status_id": 648392870647349200,
-    "in_reply_to_status_id_str": "648392870647349248",
-    "in_reply_to_user_id": 18864603,
-    "in_reply_to_user_id_str": "18864603",
-    "in_reply_to_screen_name": "mpak999",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "retweet_count": 0,
+    "retweet_count": 1,
     "favorite_count": 0,
     "entities": {
-      "hashtags": [],
-      "symbols": [],
-      "user_mentions": [
+      "hashtags": [
         {
-          "screen_name": "mpak999",
-          "name": "MpaK",
-          "id": 18864603,
-          "id_str": "18864603",
+          "text": "railclub",
           "indices": [
-            0,
-            8
-          ]
-        },
-        {
-          "screen_name": "jsunderhood",
-          "name": "Разработчик",
-          "id": 3014054307,
-          "id_str": "3014054307",
-          "indices": [
-            9,
-            21
+            62,
+            71
           ]
         }
       ],
-      "urls": []
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "dzaporozhets",
+          "name": "Dmitriy Zaporozhets",
+          "id": 23944366,
+          "id_str": "23944366",
+          "indices": [
+            90,
+            103
+          ]
+        },
+        {
+          "screen_name": "yaroslav",
+          "name": "Yaroslav Markin",
+          "id": 7605802,
+          "id_str": "7605802",
+          "indices": [
+            104,
+            113
+          ]
+        }
+      ],
+      "urls": [],
+      "media": [
+        {
+          "id": 648956616751059000,
+          "id_str": "648956616751058945",
+          "indices": [
+            114,
+            136
+          ],
+          "media_url": "http://pbs.twimg.com/media/CQGOmsgWEAEVbX5.png",
+          "media_url_https": "https://pbs.twimg.com/media/CQGOmsgWEAEVbX5.png",
+          "url": "http://t.co/XMPkuVGOtt",
+          "display_url": "pic.twitter.com/XMPkuVGOtt",
+          "expanded_url": "http://twitter.com/rubyunderhood/status/648956617640292353/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 600,
+              "h": 337,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 340,
+              "h": 191,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1010,
+              "h": 569,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
     },
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
