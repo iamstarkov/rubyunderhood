@@ -3,15 +3,15 @@
   "id_str": "3341793591",
   "name": "Ruby разработчик",
   "screen_name": "rubyunderhood",
-  "location": "Russia",
+  "location": "Serbia",
   "profile_location": null,
   "description": "Коллективный твиттер-аккаунт для ruby-разработчиков с новым автором каждую неделю. В эфире с вами @inem",
-  "url": "https://t.co/0oyXOwyQhb",
+  "url": "https://t.co/0oyXOwheSB",
   "entities": {
     "url": {
       "urls": [
         {
-          "url": "https://t.co/0oyXOwyQhb",
+          "url": "https://t.co/0oyXOwheSB",
           "expanded_url": "https://rubyunderhood.ru",
           "display_url": "rubyunderhood.ru",
           "indices": [
@@ -26,22 +26,22 @@
     }
   },
   "protected": false,
-  "followers_count": 517,
+  "followers_count": 533,
   "friends_count": 7,
-  "listed_count": 21,
+  "listed_count": 23,
   "created_at": "Mon Jun 22 18:43:03 +0000 2015",
-  "favourites_count": 55,
+  "favourites_count": 67,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 3647,
+  "statuses_count": 4118,
   "lang": "en",
   "status": {
-    "created_at": "Tue Sep 29 20:24:49 +0000 2015",
-    "id": 648956617640292400,
-    "id_str": "648956617640292353",
-    "text": "Вот кстати слайд, который пришлось выпилить из презентации на #railclub из-за тайминга\ncc @dzaporozhets @yaroslav http://t.co/XMPkuVGOtt",
+    "created_at": "Sun Oct 04 17:30:46 +0000 2015",
+    "id": 650724756686282800,
+    "id_str": "650724756686282752",
+    "text": "RT @BlackFoks: @common_disease @vassilevsky @rubyunderhood @pinyslutty \n\ndef some_method(now = Time.now); end",
     "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
     "truncated": false,
     "in_reply_to_status_id": null,
@@ -53,85 +53,137 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sun Oct 04 17:18:53 +0000 2015",
+      "id": 650721765786824700,
+      "id_str": "650721765786824704",
+      "text": "@common_disease @vassilevsky @rubyunderhood @pinyslutty \n\ndef some_method(now = Time.now); end",
+      "source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 650705871912177700,
+      "in_reply_to_status_id_str": "650705871912177665",
+      "in_reply_to_user_id": 1104986353,
+      "in_reply_to_user_id_str": "1104986353",
+      "in_reply_to_screen_name": "common_disease",
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "common_disease",
+            "name": "монохромный панцирь",
+            "id": 1104986353,
+            "id_str": "1104986353",
+            "indices": [
+              0,
+              15
+            ]
+          },
+          {
+            "screen_name": "vassilevsky",
+            "name": "White Russian",
+            "id": 53391978,
+            "id_str": "53391978",
+            "indices": [
+              16,
+              28
+            ]
+          },
+          {
+            "screen_name": "rubyunderhood",
+            "name": "Ruby разработчик",
+            "id": 3341793591,
+            "id_str": "3341793591",
+            "indices": [
+              29,
+              43
+            ]
+          },
+          {
+            "screen_name": "pinyslutty",
+            "name": "Порнозвезда Твиттера",
+            "id": 159136782,
+            "id_str": "159136782",
+            "indices": [
+              44,
+              55
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
     "retweet_count": 1,
-    "favorite_count": 1,
+    "favorite_count": 0,
     "entities": {
-      "hashtags": [
-        {
-          "text": "railclub",
-          "indices": [
-            62,
-            71
-          ]
-        }
-      ],
+      "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "dzaporozhets",
-          "name": "Dmitriy Zaporozhets",
-          "id": 23944366,
-          "id_str": "23944366",
+          "screen_name": "BlackFoks",
+          "name": "BlackFoks",
+          "id": 18045047,
+          "id_str": "18045047",
           "indices": [
-            90,
-            103
+            3,
+            13
           ]
         },
         {
-          "screen_name": "yaroslav",
-          "name": "Yaroslav Markin",
-          "id": 7605802,
-          "id_str": "7605802",
+          "screen_name": "common_disease",
+          "name": "монохромный панцирь",
+          "id": 1104986353,
+          "id_str": "1104986353",
           "indices": [
-            104,
-            113
+            15,
+            30
+          ]
+        },
+        {
+          "screen_name": "vassilevsky",
+          "name": "White Russian",
+          "id": 53391978,
+          "id_str": "53391978",
+          "indices": [
+            31,
+            43
+          ]
+        },
+        {
+          "screen_name": "rubyunderhood",
+          "name": "Ruby разработчик",
+          "id": 3341793591,
+          "id_str": "3341793591",
+          "indices": [
+            44,
+            58
+          ]
+        },
+        {
+          "screen_name": "pinyslutty",
+          "name": "Порнозвезда Твиттера",
+          "id": 159136782,
+          "id_str": "159136782",
+          "indices": [
+            59,
+            70
           ]
         }
       ],
-      "urls": [],
-      "media": [
-        {
-          "id": 648956616751059000,
-          "id_str": "648956616751058945",
-          "indices": [
-            114,
-            136
-          ],
-          "media_url": "http://pbs.twimg.com/media/CQGOmsgWEAEVbX5.png",
-          "media_url_https": "https://pbs.twimg.com/media/CQGOmsgWEAEVbX5.png",
-          "url": "http://t.co/XMPkuVGOtt",
-          "display_url": "pic.twitter.com/XMPkuVGOtt",
-          "expanded_url": "http://twitter.com/rubyunderhood/status/648956617640292353/photo/1",
-          "type": "photo",
-          "sizes": {
-            "medium": {
-              "w": 600,
-              "h": 337,
-              "resize": "fit"
-            },
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "small": {
-              "w": 340,
-              "h": 191,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 1010,
-              "h": 569,
-              "resize": "fit"
-            }
-          }
-        }
-      ]
+      "urls": []
     },
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "ru"
+    "lang": "en"
   },
   "contributors_enabled": false,
   "is_translator": false,
