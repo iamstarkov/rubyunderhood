@@ -1,6 +1,6 @@
 export default [
   // post: false
-  { username: 'inem',          start: '28 sep 2015', first: '648351824538419200', post: false },
+  { username: 'inem',          start: '28 sep 2015', first: '648351824538419200' },
   { username: 'aderyabin',     start: '21 sep 2015', first: '645707516924399616' },
   { username: 'kirillgorin',   start: '14 sep 2015', first: '643349045969321985' },
   { username: 'fodoj',         start: '07 sep 2015', first: '640760805122801664' },
