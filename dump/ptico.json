@@ -5,6 +5,1094 @@
   "post": false,
   "tweets": [
     {
+      "created_at": "Sat Oct 10 14:06:03 +0000 2015",
+      "id": 652847563314475000,
+      "id_str": "652847563314475008",
+      "text": "Кто-то у меня за локализацию спрашивал, вот например  https://t.co/43zASwIJIg",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 652474494737588200,
+      "quoted_status_id_str": "652474494737588224",
+      "quoted_status": {
+        "created_at": "Fri Oct 09 13:23:36 +0000 2015",
+        "id": 652474494737588200,
+        "id_str": "652474494737588224",
+        "text": "We're live!! The best way to translate your Rails i18n files - check out http://t.co/FpWkRX510G #rails #i18n #localization #ruby",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 3909019702,
+          "id_str": "3909019702"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 3,
+        "favorite_count": 8,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "rails",
+              "indices": [
+                96,
+                102
+              ]
+            },
+            {
+              "text": "i18n",
+              "indices": [
+                103,
+                108
+              ]
+            },
+            {
+              "text": "localization",
+              "indices": [
+                109,
+                122
+              ]
+            },
+            {
+              "text": "ruby",
+              "indices": [
+                123,
+                128
+              ]
+            }
+          ],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "http://t.co/FpWkRX510G",
+              "expanded_url": "http://localehero.com",
+              "display_url": "localehero.com",
+              "indices": [
+                73,
+                95
+              ]
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/43zASwIJIg",
+            "expanded_url": "https://twitter.com/locale_hero/status/652474494737588224",
+            "display_url": "twitter.com/locale_hero/st…",
+            "indices": [
+              54,
+              77
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Oct 09 20:49:59 +0000 2015",
+      "id": 652586830123139100,
+      "id_str": "652586830123139072",
+      "text": "RT @anton_davydov: @rubyunderhood на следующей неделе организую очередную пивную встречу @moscowrb :)",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Fri Oct 09 20:29:11 +0000 2015",
+        "id": 652581596739059700,
+        "id_str": "652581596739059714",
+        "text": "@rubyunderhood на следующей неделе организую очередную пивную встречу @moscowrb :)",
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 652552451720126500,
+        "in_reply_to_status_id_str": "652552451720126465",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 539221178,
+          "id_str": "539221178"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 1,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            },
+            {
+              "screen_name": "moscowrb",
+              "name": "Moscow.rb",
+              "id": 3236369360,
+              "id_str": "3236369360",
+              "indices": [
+                70,
+                79
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "anton_davydov",
+            "name": "Davy Dovanton",
+            "id": 539221178,
+            "id_str": "539221178",
+            "indices": [
+              3,
+              17
+            ]
+          },
+          {
+            "screen_name": "rubyunderhood",
+            "name": "Ruby разработчик",
+            "id": 3341793591,
+            "id_str": "3341793591",
+            "indices": [
+              19,
+              33
+            ]
+          },
+          {
+            "screen_name": "moscowrb",
+            "name": "Moscow.rb",
+            "id": 3236369360,
+            "id_str": "3236369360",
+            "indices": [
+              89,
+              98
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Oct 09 20:04:30 +0000 2015",
+      "id": 652575384584745000,
+      "id_str": "652575384584744960",
+      "text": "RT @xvonabur: @rubyunderhood Доброе утро! Есть вопрос, насчет статистического анализа русского текста. Чем пользовались и что посоветуете?",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Fri Oct 09 07:25:40 +0000 2015",
+        "id": 652384417919451100,
+        "id_str": "652384417919451136",
+        "text": "@rubyunderhood Доброе утро! Есть вопрос, насчет статистического анализа русского текста. Чем пользовались и что посоветуете?",
+        "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 652375377789239300,
+        "in_reply_to_status_id_str": "652375377789239296",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 148750858,
+          "id_str": "148750858"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "xvonabur",
+            "name": "Ivan Rubanovskiy",
+            "id": 148750858,
+            "id_str": "148750858",
+            "indices": [
+              3,
+              12
+            ]
+          },
+          {
+            "screen_name": "rubyunderhood",
+            "name": "Ruby разработчик",
+            "id": 3341793591,
+            "id_str": "3341793591",
+            "indices": [
+              14,
+              28
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Oct 09 20:04:05 +0000 2015",
+      "id": 652575280628940800,
+      "id_str": "652575280628940800",
+      "text": "RT @VitalySalnikov: @rubyunderhood Привет, у меня есть интересный вопрос, https://t.co/fv7uUTxMHI почему мы получаем такое поведение AR? :)",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Fri Oct 09 19:43:01 +0000 2015",
+        "id": 652569978261110800,
+        "id_str": "652569978261110784",
+        "text": "@rubyunderhood Привет, у меня есть интересный вопрос, https://t.co/fv7uUTxMHI почему мы получаем такое поведение AR? :)",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 165496668,
+          "id_str": "165496668"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/fv7uUTxMHI",
+              "expanded_url": "https://toster.ru/q/255723",
+              "display_url": "toster.ru/q/255723",
+              "indices": [
+                54,
+                77
+              ]
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "VitalySalnikov",
+            "name": "Vitaly Salnikov",
+            "id": 165496668,
+            "id_str": "165496668",
+            "indices": [
+              3,
+              18
+            ]
+          },
+          {
+            "screen_name": "rubyunderhood",
+            "name": "Ruby разработчик",
+            "id": 3341793591,
+            "id_str": "3341793591",
+            "indices": [
+              20,
+              34
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/fv7uUTxMHI",
+            "expanded_url": "https://toster.ru/q/255723",
+            "display_url": "toster.ru/q/255723",
+            "indices": [
+              74,
+              97
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Oct 09 19:56:52 +0000 2015",
+      "id": 652573464633712600,
+      "id_str": "652573464633712640",
+      "text": "@VitalySalnikov я там ссылку на доклад Эрни Миллера выкладывал, там скорее всего ответ на это есть",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 652569978261110800,
+      "in_reply_to_status_id_str": "652569978261110784",
+      "in_reply_to_user_id": 165496668,
+      "in_reply_to_user_id_str": "165496668",
+      "in_reply_to_screen_name": "VitalySalnikov",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "VitalySalnikov",
+            "name": "Vitaly Salnikov",
+            "id": 165496668,
+            "id_str": "165496668",
+            "indices": [
+              0,
+              15
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Oct 09 19:47:31 +0000 2015",
+      "id": 652571108068212700,
+      "id_str": "652571108068212736",
+      "text": "@scaint я на пивораке 20 ноября по идее читать буду",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 652568133623005200,
+      "in_reply_to_status_id_str": "652568133623005184",
+      "in_reply_to_user_id": 21995528,
+      "in_reply_to_user_id_str": "21995528",
+      "in_reply_to_screen_name": "scaint",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "scaint",
+            "name": "Eugene",
+            "id": 21995528,
+            "id_str": "21995528",
+            "indices": [
+              0,
+              7
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Oct 09 19:30:06 +0000 2015",
+      "id": 652566725804838900,
+      "id_str": "652566725804838913",
+      "text": "RT @Shiroginne: @rubyunderhood четверг, 15 октября, Минск - первый мит-паб Golang в Беларуси :)",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Fri Oct 09 19:29:42 +0000 2015",
+        "id": 652566627146461200,
+        "id_str": "652566627146461185",
+        "text": "@rubyunderhood четверг, 15 октября, Минск - первый мит-паб Golang в Беларуси :)",
+        "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 652552451720126500,
+        "in_reply_to_status_id_str": "652552451720126465",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 25733176,
+          "id_str": "25733176"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Shiroginne",
+            "name": "Mac Shifford",
+            "id": 25733176,
+            "id_str": "25733176",
+            "indices": [
+              3,
+              14
+            ]
+          },
+          {
+            "screen_name": "rubyunderhood",
+            "name": "Ruby разработчик",
+            "id": 3341793591,
+            "id_str": "3341793591",
+            "indices": [
+              16,
+              30
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Oct 09 19:16:06 +0000 2015",
+      "id": 652563202526564400,
+      "id_str": "652563202526564356",
+      "text": "@nepalez @artemeff в Киеве тоже когда-то так было: открыли в офисе пиво — дринкап на половину рубистов",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 652561608149987300,
+      "in_reply_to_status_id_str": "652561608149987328",
+      "in_reply_to_user_id": 125719397,
+      "in_reply_to_user_id_str": "125719397",
+      "in_reply_to_screen_name": "nepalez",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "nepalez",
+            "name": "Andrew Kozin",
+            "id": 125719397,
+            "id_str": "125719397",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "artemeff",
+            "name": "Yuri Artemev",
+            "id": 137293049,
+            "id_str": "137293049",
+            "indices": [
+              9,
+              18
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Oct 09 19:11:07 +0000 2015",
+      "id": 652561951638319100,
+      "id_str": "652561951638319105",
+      "text": "RT @nepalez: @artemeff @rubyunderhood Тем проще собрать дринкап. Купил водки - считай, что собрал. 40% всех рубистов, Москве такое не по си…",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Fri Oct 09 19:09:46 +0000 2015",
+        "id": 652561608149987300,
+        "id_str": "652561608149987328",
+        "text": "@artemeff @rubyunderhood Тем проще собрать дринкап. Купил водки - считай, что собрал. 40% всех рубистов, Москве такое не по силам",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 652559195628281900,
+        "in_reply_to_status_id_str": "652559195628281856",
+        "in_reply_to_user_id": 137293049,
+        "in_reply_to_user_id_str": "137293049",
+        "in_reply_to_screen_name": "artemeff",
+        "user": {
+          "id": 125719397,
+          "id_str": "125719397"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "artemeff",
+              "name": "Yuri Artemev",
+              "id": 137293049,
+              "id_str": "137293049",
+              "indices": [
+                0,
+                9
+              ]
+            },
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                10,
+                24
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "nepalez",
+            "name": "Andrew Kozin",
+            "id": 125719397,
+            "id_str": "125719397",
+            "indices": [
+              3,
+              11
+            ]
+          },
+          {
+            "screen_name": "artemeff",
+            "name": "Yuri Artemev",
+            "id": 137293049,
+            "id_str": "137293049",
+            "indices": [
+              13,
+              22
+            ]
+          },
+          {
+            "screen_name": "rubyunderhood",
+            "name": "Ruby разработчик",
+            "id": 3341793591,
+            "id_str": "3341793591",
+            "indices": [
+              23,
+              37
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Oct 09 19:01:56 +0000 2015",
+      "id": 652559638538362900,
+      "id_str": "652559638538362880",
+      "text": "@kotchuprik я стебусь на самом деле",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 652556329777778700,
+      "in_reply_to_status_id_str": "652556329777778688",
+      "in_reply_to_user_id": 145469624,
+      "in_reply_to_user_id_str": "145469624",
+      "in_reply_to_screen_name": "kotchuprik",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "kotchuprik",
+            "name": "Constantine",
+            "id": 145469624,
+            "id_str": "145469624",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Oct 09 18:47:55 +0000 2015",
+      "id": 652556112370245600,
+      "id_str": "652556112370245633",
+      "text": "@kotchuprik я тоже так говорил когда на пыхе писал",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 652554068452331500,
+      "in_reply_to_status_id_str": "652554068452331520",
+      "in_reply_to_user_id": 145469624,
+      "in_reply_to_user_id_str": "145469624",
+      "in_reply_to_screen_name": "kotchuprik",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "kotchuprik",
+            "name": "Constantine",
+            "id": 145469624,
+            "id_str": "145469624",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Oct 09 18:43:05 +0000 2015",
+      "id": 652554895590072300,
+      "id_str": "652554895590072320",
+      "text": "Заодно если вы сейчас где-то пьёте, можно позвать коллег",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Oct 09 18:38:57 +0000 2015",
+      "id": 652553854169542700,
+      "id_str": "652553854169542656",
+      "text": "@kotchuprik жизнь боль ;)",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 652552930516684800,
+      "in_reply_to_status_id_str": "652552930516684800",
+      "in_reply_to_user_id": 145469624,
+      "in_reply_to_user_id_str": "145469624",
+      "in_reply_to_screen_name": "kotchuprik",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "kotchuprik",
+            "name": "Constantine",
+            "id": 145469624,
+            "id_str": "145469624",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Oct 09 18:33:58 +0000 2015",
+      "id": 652552601024753700,
+      "id_str": "652552601024753664",
+      "text": "@kotchuprik главное чтоб не на пыхе",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 652551051715940400,
+      "in_reply_to_status_id_str": "652551051715940356",
+      "in_reply_to_user_id": 145469624,
+      "in_reply_to_user_id_str": "145469624",
+      "in_reply_to_screen_name": "kotchuprik",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "kotchuprik",
+            "name": "Constantine",
+            "id": 145469624,
+            "id_str": "145469624",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Oct 09 18:33:22 +0000 2015",
+      "id": 652552451720126500,
+      "id_str": "652552451720126465",
+      "text": "Давайте сделаем хитро: если вы собираете дринкапы в своем городе, или хотите их собирать: пишите, а я буду ретвитить",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Oct 09 18:25:11 +0000 2015",
+      "id": 652550390597222400,
+      "id_str": "652550390597222401",
+      "text": "Пьёте небось?",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
       "created_at": "Fri Oct 09 06:50:34 +0000 2015",
       "id": 652375583754715100,
       "id_str": "652375583754715136",
@@ -8353,7 +9441,7 @@
       "place": null,
       "contributors": null,
       "is_quote_status": false,
-      "retweet_count": 0,
+      "retweet_count": 1,
       "favorite_count": 9,
       "entities": {
         "hashtags": [],
