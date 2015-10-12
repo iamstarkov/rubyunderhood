@@ -37,7 +37,7 @@
     }
   },
   "protected": false,
-  "followers_count": 577,
+  "followers_count": 579,
   "friends_count": 8,
   "listed_count": 26,
   "created_at": "Mon Jun 22 18:43:03 +0000 2015",
@@ -46,20 +46,20 @@
   "time_zone": "Pacific Time (US & Canada)",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 4454,
+  "statuses_count": 4469,
   "lang": "en",
   "status": {
-    "created_at": "Mon Oct 12 11:12:00 +0000 2015",
-    "id": 653528540105846800,
-    "id_str": "653528540105846784",
-    "text": "Ну и котики, конечно же (привет @ptico!) http://t.co/jSK31Coki7",
-    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "created_at": "Mon Oct 12 12:07:47 +0000 2015",
+    "id": 653542577950621700,
+    "id_str": "653542577950621696",
+    "text": "@common_disease чаще всего нет. Конечно, если доклад \"Announcing Sidekiq 4\", то понятно кто)",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "truncated": false,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 653542172621467600,
+    "in_reply_to_status_id_str": "653542172621467648",
+    "in_reply_to_user_id": 1104986353,
+    "in_reply_to_user_id_str": "1104986353",
+    "in_reply_to_screen_name": "common_disease",
     "geo": null,
     "coordinates": null,
     "place": null,
@@ -71,59 +71,20 @@
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "ptico",
-          "name": "Andrey Savchenko",
-          "id": 16743832,
-          "id_str": "16743832",
+          "screen_name": "common_disease",
+          "name": "монохромный панцирь",
+          "id": 1104986353,
+          "id_str": "1104986353",
           "indices": [
-            32,
-            38
+            0,
+            15
           ]
         }
       ],
-      "urls": [],
-      "media": [
-        {
-          "id": 653528506496847900,
-          "id_str": "653528506496847872",
-          "indices": [
-            41,
-            63
-          ],
-          "media_url": "http://pbs.twimg.com/media/CRHMttBWEAAt7VS.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/CRHMttBWEAAt7VS.jpg",
-          "url": "http://t.co/jSK31Coki7",
-          "display_url": "pic.twitter.com/jSK31Coki7",
-          "expanded_url": "http://twitter.com/rubyunderhood/status/653528540105846784/photo/1",
-          "type": "photo",
-          "sizes": {
-            "small": {
-              "w": 340,
-              "h": 226,
-              "resize": "fit"
-            },
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "medium": {
-              "w": 600,
-              "h": 400,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 1024,
-              "h": 682,
-              "resize": "fit"
-            }
-          }
-        }
-      ]
+      "urls": []
     },
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
@@ -135,7 +96,6 @@
   "profile_background_tile": false,
   "profile_image_url": "http://pbs.twimg.com/profile_images/653526084605112320/1YFDs-P1_normal.jpg",
   "profile_image_url_https": "https://pbs.twimg.com/profile_images/653526084605112320/1YFDs-P1_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/3341793591/1443412307",
   "profile_link_color": "ABB8C2",
   "profile_sidebar_border_color": "000000",
   "profile_sidebar_fill_color": "000000",
