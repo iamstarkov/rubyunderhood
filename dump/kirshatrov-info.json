@@ -37,23 +37,23 @@
     }
   },
   "protected": false,
-  "followers_count": 584,
+  "followers_count": 585,
   "friends_count": 8,
   "listed_count": 26,
   "created_at": "Mon Jun 22 18:43:03 +0000 2015",
-  "favourites_count": 70,
+  "favourites_count": 72,
   "utc_offset": -25200,
   "time_zone": "Pacific Time (US & Canada)",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 4522,
+  "statuses_count": 4554,
   "lang": "en",
   "status": {
-    "created_at": "Tue Oct 13 15:21:14 +0000 2015",
-    "id": 653953648129638400,
-    "id_str": "653953648129638400",
-    "text": "RT @Drakula2k: @inem @rubyunderhood прочитать пару книжек по правильному рефакторингу и не нужны никакие левые гемы, http://t.co/wJou5zT1eH…",
-    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "created_at": "Thu Oct 15 09:36:54 +0000 2015",
+    "id": 654591771809292300,
+    "id_str": "654591771809292288",
+    "text": "RT @ipronix: @rubyunderhood государственному мужу виднее, наше дело подчиниться",
+    "source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix for Android</a>",
     "truncated": false,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
@@ -65,63 +65,42 @@
     "place": null,
     "contributors": null,
     "retweeted_status": {
-      "created_at": "Tue Oct 13 15:19:07 +0000 2015",
-      "id": 653953116027490300,
-      "id_str": "653953116027490304",
-      "text": "@inem @rubyunderhood прочитать пару книжек по правильному рефакторингу и не нужны никакие левые гемы, http://t.co/wJou5zT1eH например",
-      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "created_at": "Thu Oct 15 09:33:33 +0000 2015",
+      "id": 654590925591740400,
+      "id_str": "654590925591740417",
+      "text": "@rubyunderhood государственному мужу виднее, наше дело подчиниться",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
       "truncated": false,
-      "in_reply_to_status_id": 653950757176234000,
-      "in_reply_to_status_id_str": "653950757176233984",
-      "in_reply_to_user_id": 7198692,
-      "in_reply_to_user_id_str": "7198692",
-      "in_reply_to_screen_name": "inem",
+      "in_reply_to_status_id": 654589857885515800,
+      "in_reply_to_status_id_str": "654589857885515776",
+      "in_reply_to_user_id": 3341793591,
+      "in_reply_to_user_id_str": "3341793591",
+      "in_reply_to_screen_name": "rubyunderhood",
       "geo": null,
       "coordinates": null,
       "place": null,
       "contributors": null,
       "retweet_count": 1,
-      "favorite_count": 3,
+      "favorite_count": 0,
       "entities": {
         "hashtags": [],
         "symbols": [],
         "user_mentions": [
-          {
-            "screen_name": "inem",
-            "name": "Иван Немытченко",
-            "id": 7198692,
-            "id_str": "7198692",
-            "indices": [
-              0,
-              5
-            ]
-          },
           {
             "screen_name": "rubyunderhood",
             "name": "Ruby разработчик",
             "id": 3341793591,
             "id_str": "3341793591",
             "indices": [
-              6,
-              20
+              0,
+              14
             ]
           }
         ],
-        "urls": [
-          {
-            "url": "http://t.co/wJou5zT1eH",
-            "expanded_url": "http://rails-refactoring.com/",
-            "display_url": "rails-refactoring.com",
-            "indices": [
-              102,
-              124
-            ]
-          }
-        ]
+        "urls": []
       },
       "favorited": false,
       "retweeted": false,
-      "possibly_sensitive": false,
       "lang": "ru"
     },
     "retweet_count": 1,
@@ -131,23 +110,13 @@
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "Drakula2k",
-          "name": "Vlad",
-          "id": 17446201,
-          "id_str": "17446201",
+          "screen_name": "ipronix",
+          "name": "pronix",
+          "id": 113404896,
+          "id_str": "113404896",
           "indices": [
             3,
-            13
-          ]
-        },
-        {
-          "screen_name": "inem",
-          "name": "Иван Немытченко",
-          "id": 7198692,
-          "id_str": "7198692",
-          "indices": [
-            15,
-            20
+            11
           ]
         },
         {
@@ -156,26 +125,15 @@
           "id": 3341793591,
           "id_str": "3341793591",
           "indices": [
-            21,
-            35
+            13,
+            27
           ]
         }
       ],
-      "urls": [
-        {
-          "url": "http://t.co/wJou5zT1eH",
-          "expanded_url": "http://rails-refactoring.com/",
-          "display_url": "rails-refactoring.com",
-          "indices": [
-            117,
-            139
-          ]
-        }
-      ]
+      "urls": []
     },
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,

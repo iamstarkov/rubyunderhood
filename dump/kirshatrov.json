@@ -5,6 +5,2320 @@
   "post": false,
   "tweets": [
     {
+      "created_at": "Thu Oct 15 09:36:54 +0000 2015",
+      "id": 654591771809292300,
+      "id_str": "654591771809292288",
+      "text": "RT @ipronix: @rubyunderhood государственному мужу виднее, наше дело подчиниться",
+      "source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Thu Oct 15 09:33:33 +0000 2015",
+        "id": 654590925591740400,
+        "id_str": "654590925591740417",
+        "text": "@rubyunderhood государственному мужу виднее, наше дело подчиниться",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 654589857885515800,
+        "in_reply_to_status_id_str": "654589857885515776",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 113404896,
+          "id_str": "113404896"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ipronix",
+            "name": "pronix",
+            "id": 113404896,
+            "id_str": "113404896",
+            "indices": [
+              3,
+              11
+            ]
+          },
+          {
+            "screen_name": "rubyunderhood",
+            "name": "Ruby разработчик",
+            "id": 3341793591,
+            "id_str": "3341793591",
+            "indices": [
+              13,
+              27
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Oct 15 09:29:18 +0000 2015",
+      "id": 654589857885515800,
+      "id_str": "654589857885515776",
+      "text": "Давайте про политоту. Что думаете про \"интернет-омбудсмена\"? https://t.co/AMeWQU7A5X",
+      "source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/AMeWQU7A5X",
+            "expanded_url": "https://meduza.io/news/2015/10/15/internet-ombudsmen-nazval-podgotovku-it-spetsialistov-vredom-dlya-rossii",
+            "display_url": "meduza.io/news/2015/10/1…",
+            "indices": [
+              61,
+              84
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Oct 15 09:28:20 +0000 2015",
+      "id": 654589615437951000,
+      "id_str": "654589615437950976",
+      "text": "@stas_spiridonov если хочешь то могу в личке",
+      "source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 654574539645546500,
+      "in_reply_to_status_id_str": "654574539645546496",
+      "in_reply_to_user_id": 200580364,
+      "in_reply_to_user_id_str": "200580364",
+      "in_reply_to_screen_name": "stas_spiridonov",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "stas_spiridonov",
+            "name": "Stas Spiridonov",
+            "id": 200580364,
+            "id_str": "200580364",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Oct 15 07:12:07 +0000 2015",
+      "id": 654555335647211500,
+      "id_str": "654555335647211520",
+      "text": "Кстати, в Москве тоже есть подобные классные места - например библиотека Достоевского на Чистых (посмотрите фоточки http://t.co/D76xufcLm4)",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "http://t.co/D76xufcLm4",
+            "expanded_url": "http://www.afisha.ru/msk/other/6970/",
+            "display_url": "afisha.ru/msk/other/6970/",
+            "indices": [
+              116,
+              138
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Oct 15 07:09:37 +0000 2015",
+      "id": 654554707013279700,
+      "id_str": "654554707013279744",
+      "text": "Работаю я часто из городской библиотеки. Вот так она выглядит. Интернет гигабитный и бесплатный http://t.co/oPfsTcpbu2",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 2,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 654554510292066300,
+            "id_str": "654554510292066304",
+            "indices": [
+              96,
+              118
+            ],
+            "media_url": "http://pbs.twimg.com/media/CRVx2_AWoAAdYa5.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CRVx2_AWoAAdYa5.jpg",
+            "url": "http://t.co/oPfsTcpbu2",
+            "display_url": "pic.twitter.com/oPfsTcpbu2",
+            "expanded_url": "http://twitter.com/rubyunderhood/status/654554707013279744/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 600,
+                "h": 399,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 226,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 818,
+                "h": 545,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 654554510292066300,
+            "id_str": "654554510292066304",
+            "indices": [
+              96,
+              118
+            ],
+            "media_url": "http://pbs.twimg.com/media/CRVx2_AWoAAdYa5.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CRVx2_AWoAAdYa5.jpg",
+            "url": "http://t.co/oPfsTcpbu2",
+            "display_url": "pic.twitter.com/oPfsTcpbu2",
+            "expanded_url": "http://twitter.com/rubyunderhood/status/654554707013279744/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 600,
+                "h": 399,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 226,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 818,
+                "h": 545,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 654554529967566800,
+            "id_str": "654554529967566848",
+            "indices": [
+              96,
+              118
+            ],
+            "media_url": "http://pbs.twimg.com/media/CRVx4ITW8AArT-J.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CRVx4ITW8AArT-J.jpg",
+            "url": "http://t.co/oPfsTcpbu2",
+            "display_url": "pic.twitter.com/oPfsTcpbu2",
+            "expanded_url": "http://twitter.com/rubyunderhood/status/654554707013279744/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 759,
+                "h": 768,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 340,
+                "h": 344,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 600,
+                "h": 607,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Oct 15 07:06:25 +0000 2015",
+      "id": 654553900041826300,
+      "id_str": "654553900041826304",
+      "text": "Если не закупиться дровами к октябре, через месяц начнется зима и цены на них сильно вырастут. 4G и дрова - вот такая комбинация",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Oct 15 07:05:42 +0000 2015",
+      "id": 654553718524936200,
+      "id_str": "654553718524936192",
+      "text": "Так как дом частный, сейчас мы с соседями выбираем поставщика ДРОВ - потому что есть камин, отапливать им приятнее и выгодней",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Oct 15 07:04:57 +0000 2015",
+      "id": 654553530519416800,
+      "id_str": "654553530519416832",
+      "text": "Тут все довольно высокотехнологичненько. Проводного интернета у меня дома нет, но есть 60 мегабитный 4G роутер за 40 евро/мес",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Oct 15 07:02:08 +0000 2015",
+      "id": 654552822600597500,
+      "id_str": "654552822600597504",
+      "text": "Доброе утро! Про собеседования начнем ближе к обеду, а сейчас про финский быт.",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 14 19:25:48 +0000 2015",
+      "id": 654377585112162300,
+      "id_str": "654377585112162308",
+      "text": "RT @killthekitten: @rubyunderhood есть очень хороший гайд от топтал по собеседованиям на рельсу http://t.co/MASM6Jzz5i",
+      "source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Wed Oct 14 19:25:13 +0000 2015",
+        "id": 654377436776394800,
+        "id_str": "654377436776394752",
+        "text": "@rubyunderhood есть очень хороший гайд от топтал по собеседованиям на рельсу http://t.co/MASM6Jzz5i",
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 654371178652504000,
+        "in_reply_to_status_id_str": "654371178652504064",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 77381915,
+          "id_str": "77381915"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 14,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "http://t.co/MASM6Jzz5i",
+              "expanded_url": "http://www.toptal.com/ruby-on-rails",
+              "display_url": "toptal.com/ruby-on-rails",
+              "indices": [
+                77,
+                99
+              ]
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "killthekitten",
+            "name": "Nikolay Shebanov",
+            "id": 77381915,
+            "id_str": "77381915",
+            "indices": [
+              3,
+              17
+            ]
+          },
+          {
+            "screen_name": "rubyunderhood",
+            "name": "Ruby разработчик",
+            "id": 3341793591,
+            "id_str": "3341793591",
+            "indices": [
+              19,
+              33
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "http://t.co/MASM6Jzz5i",
+            "expanded_url": "http://www.toptal.com/ruby-on-rails",
+            "display_url": "toptal.com/ruby-on-rails",
+            "indices": [
+              96,
+              118
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 14 19:00:21 +0000 2015",
+      "id": 654371178652504000,
+      "id_str": "654371178652504064",
+      "text": "На завтра планирую две темы: собеседования и про жизнь в Финляндии.",
+      "source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 14 18:57:07 +0000 2015",
+      "id": 654370364391354400,
+      "id_str": "654370364391354369",
+      "text": "Когда надоедает программировать, я обычно готовлю. Сегодня спагетти карбонара с запрещённым сыром http://t.co/34BeqnzRew",
+      "source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 654370362625511400,
+            "id_str": "654370362625511425",
+            "indices": [
+              98,
+              120
+            ],
+            "media_url": "http://pbs.twimg.com/media/CRTKYLfWUAEufth.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CRTKYLfWUAEufth.jpg",
+            "url": "http://t.co/34BeqnzRew",
+            "display_url": "pic.twitter.com/34BeqnzRew",
+            "expanded_url": "http://twitter.com/rubyunderhood/status/654370364391354369/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 340,
+                "h": 340,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 600,
+                "h": 600,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1024,
+                "h": 1024,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 654370362625511400,
+            "id_str": "654370362625511425",
+            "indices": [
+              98,
+              120
+            ],
+            "media_url": "http://pbs.twimg.com/media/CRTKYLfWUAEufth.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CRTKYLfWUAEufth.jpg",
+            "url": "http://t.co/34BeqnzRew",
+            "display_url": "pic.twitter.com/34BeqnzRew",
+            "expanded_url": "http://twitter.com/rubyunderhood/status/654370364391354369/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 340,
+                "h": 340,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 600,
+                "h": 600,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1024,
+                "h": 1024,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 14 18:55:03 +0000 2015",
+      "id": 654369847082635300,
+      "id_str": "654369847082635267",
+      "text": ".@nick_jastix феникс выглядит отлично. Мне кажется, что для риалтайма он лучше подходит",
+      "source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 654367835037298700,
+      "in_reply_to_status_id_str": "654367835037298688",
+      "in_reply_to_user_id": 18577007,
+      "in_reply_to_user_id_str": "18577007",
+      "in_reply_to_screen_name": "nick_jastix",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "nick_jastix",
+            "name": "Nikolay",
+            "id": 18577007,
+            "id_str": "18577007",
+            "indices": [
+              1,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 14 18:54:03 +0000 2015",
+      "id": 654369593935425500,
+      "id_str": "654369593935425536",
+      "text": "RT @nick_jastix: @rubyunderhood стоит ли начинать новое чатоподобное приложение на рельсах или лучше выбрать что-то другое (phoenix?) ?",
+      "source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Wed Oct 14 18:47:04 +0000 2015",
+        "id": 654367835037298700,
+        "id_str": "654367835037298688",
+        "text": "@rubyunderhood стоит ли начинать новое чатоподобное приложение на рельсах или лучше выбрать что-то другое (phoenix?) ?",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 18577007,
+          "id_str": "18577007"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 2,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "nick_jastix",
+            "name": "Nikolay",
+            "id": 18577007,
+            "id_str": "18577007",
+            "indices": [
+              3,
+              15
+            ]
+          },
+          {
+            "screen_name": "rubyunderhood",
+            "name": "Ruby разработчик",
+            "id": 3341793591,
+            "id_str": "3341793591",
+            "indices": [
+              17,
+              31
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 14 18:30:52 +0000 2015",
+      "id": 654363759687938000,
+      "id_str": "654363759687938049",
+      "text": "@nick_jastix @killthekitten высшее образование не нужно - это всего лишь бумажка для рабочей визы",
+      "source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 654363018944475100,
+      "in_reply_to_status_id_str": "654363018944475136",
+      "in_reply_to_user_id": 18577007,
+      "in_reply_to_user_id_str": "18577007",
+      "in_reply_to_screen_name": "nick_jastix",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "nick_jastix",
+            "name": "Nikolay",
+            "id": 18577007,
+            "id_str": "18577007",
+            "indices": [
+              0,
+              12
+            ]
+          },
+          {
+            "screen_name": "killthekitten",
+            "name": "Nikolay Shebanov",
+            "id": 77381915,
+            "id_str": "77381915",
+            "indices": [
+              13,
+              27
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 14 17:47:43 +0000 2015",
+      "id": 654352899980587000,
+      "id_str": "654352899980587008",
+      "text": ".@killthekitten три раза в неделю по 4 часа. Ничего интересного, но скоро получу диплом и можно будет пойти дальше",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 654310103647133700,
+      "in_reply_to_status_id_str": "654310103647133696",
+      "in_reply_to_user_id": 77381915,
+      "in_reply_to_user_id_str": "77381915",
+      "in_reply_to_screen_name": "killthekitten",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "killthekitten",
+            "name": "Nikolay Shebanov",
+            "id": 77381915,
+            "id_str": "77381915",
+            "indices": [
+              1,
+              15
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 14 17:46:29 +0000 2015",
+      "id": 654352589820137500,
+      "id_str": "654352589820137473",
+      "text": "RT @killthekitten: @rubyunderhood сколько времени сейчас у тебя занимает учеба и делаешь ли ты на ней что-нибудь интересное?",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Wed Oct 14 14:57:39 +0000 2015",
+        "id": 654310103647133700,
+        "id_str": "654310103647133696",
+        "text": "@rubyunderhood сколько времени сейчас у тебя занимает учеба и делаешь ли ты на ней что-нибудь интересное?",
+        "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 654309832263123000,
+        "in_reply_to_status_id_str": "654309832263122944",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 77381915,
+          "id_str": "77381915"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "killthekitten",
+            "name": "Nikolay Shebanov",
+            "id": 77381915,
+            "id_str": "77381915",
+            "indices": [
+              3,
+              17
+            ]
+          },
+          {
+            "screen_name": "rubyunderhood",
+            "name": "Ruby разработчик",
+            "id": 3341793591,
+            "id_str": "3341793591",
+            "indices": [
+              19,
+              33
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 14 17:46:11 +0000 2015",
+      "id": 654352517028053000,
+      "id_str": "654352517028052992",
+      "text": ".@nick_jastix ничего не узнал!",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 654344353444442100,
+      "in_reply_to_status_id_str": "654344353444442112",
+      "in_reply_to_user_id": 18577007,
+      "in_reply_to_user_id_str": "18577007",
+      "in_reply_to_screen_name": "nick_jastix",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "nick_jastix",
+            "name": "Nikolay",
+            "id": 18577007,
+            "id_str": "18577007",
+            "indices": [
+              1,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 14 17:46:03 +0000 2015",
+      "id": 654352479816167400,
+      "id_str": "654352479816167424",
+      "text": "RT @nick_jastix: @rubyunderhood расскажи, узнал ли ты какие-нибудь новые инструменты или техники в универе, которые были бы полезны в жизни…",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Wed Oct 14 17:13:45 +0000 2015",
+        "id": 654344353444442100,
+        "id_str": "654344353444442112",
+        "text": "@rubyunderhood расскажи, узнал ли ты какие-нибудь новые инструменты или техники в универе, которые были бы полезны в жизни программиста?",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 654309832263123000,
+        "in_reply_to_status_id_str": "654309832263122944",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 18577007,
+          "id_str": "18577007"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "nick_jastix",
+            "name": "Nikolay",
+            "id": 18577007,
+            "id_str": "18577007",
+            "indices": [
+              3,
+              15
+            ]
+          },
+          {
+            "screen_name": "rubyunderhood",
+            "name": "Ruby разработчик",
+            "id": 3341793591,
+            "id_str": "3341793591",
+            "indices": [
+              17,
+              31
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 14 14:56:35 +0000 2015",
+      "id": 654309832263123000,
+      "id_str": "654309832263122944",
+      "text": ".@killthekitten прав: я сегодня много времени провёл в универе и мало писал. А вот фоточка отсюда http://t.co/ChaUsRD9L9",
+      "source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "killthekitten",
+            "name": "Nikolay Shebanov",
+            "id": 77381915,
+            "id_str": "77381915",
+            "indices": [
+              1,
+              15
+            ]
+          }
+        ],
+        "urls": [],
+        "media": [
+          {
+            "id": 654309830354571300,
+            "id_str": "654309830354571264",
+            "indices": [
+              98,
+              120
+            ],
+            "media_url": "http://pbs.twimg.com/media/CRSTUvNUkAAEzSB.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CRSTUvNUkAAEzSB.jpg",
+            "url": "http://t.co/ChaUsRD9L9",
+            "display_url": "pic.twitter.com/ChaUsRD9L9",
+            "expanded_url": "http://twitter.com/rubyunderhood/status/654309832263122944/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 340,
+                "h": 255,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 600,
+                "h": 450,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1024,
+                "h": 768,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 654309830354571300,
+            "id_str": "654309830354571264",
+            "indices": [
+              98,
+              120
+            ],
+            "media_url": "http://pbs.twimg.com/media/CRSTUvNUkAAEzSB.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CRSTUvNUkAAEzSB.jpg",
+            "url": "http://t.co/ChaUsRD9L9",
+            "display_url": "pic.twitter.com/ChaUsRD9L9",
+            "expanded_url": "http://twitter.com/rubyunderhood/status/654309832263122944/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 340,
+                "h": 255,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 600,
+                "h": 450,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1024,
+                "h": 768,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 14 14:52:07 +0000 2015",
+      "id": 654308710525890600,
+      "id_str": "654308710525890560",
+      "text": "RT @killthekitten: Что-то @kirshatrov много работает и мало разжигает в @rubyunderhood, посылаю ему официальную ноту протеста.",
+      "source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Wed Oct 14 14:36:25 +0000 2015",
+        "id": 654304757574684700,
+        "id_str": "654304757574684674",
+        "text": "Что-то @kirshatrov много работает и мало разжигает в @rubyunderhood, посылаю ему официальную ноту протеста.",
+        "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 77381915,
+          "id_str": "77381915"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 1,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "kirshatrov",
+              "name": "Kir Shatrov",
+              "id": 287242565,
+              "id_str": "287242565",
+              "indices": [
+                7,
+                18
+              ]
+            },
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                53,
+                67
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "killthekitten",
+            "name": "Nikolay Shebanov",
+            "id": 77381915,
+            "id_str": "77381915",
+            "indices": [
+              3,
+              17
+            ]
+          },
+          {
+            "screen_name": "kirshatrov",
+            "name": "Kir Shatrov",
+            "id": 287242565,
+            "id_str": "287242565",
+            "indices": [
+              26,
+              37
+            ]
+          },
+          {
+            "screen_name": "rubyunderhood",
+            "name": "Ruby разработчик",
+            "id": 3341793591,
+            "id_str": "3341793591",
+            "indices": [
+              72,
+              86
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 14 14:51:47 +0000 2015",
+      "id": 654308627201851400,
+      "id_str": "654308627201851392",
+      "text": "RT @mperham: How I made @Sidekiq six times faster http://t.co/9GjNeuvxhW",
+      "source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Wed Oct 14 14:44:10 +0000 2015",
+        "id": 654306709419089900,
+        "id_str": "654306709419089920",
+        "text": "How I made @Sidekiq six times faster http://t.co/9GjNeuvxhW",
+        "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 14060922,
+          "id_str": "14060922"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 33,
+        "favorite_count": 40,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "sidekiq",
+              "name": "Sidekiq",
+              "id": 1946943042,
+              "id_str": "1946943042",
+              "indices": [
+                11,
+                19
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "http://t.co/9GjNeuvxhW",
+              "expanded_url": "http://www.mikeperham.com/2015/10/14/optimizing-sidekiq/",
+              "display_url": "mikeperham.com/2015/10/14/opt…",
+              "indices": [
+                37,
+                59
+              ]
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 33,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "mperham",
+            "name": "Might Scare'em",
+            "id": 14060922,
+            "id_str": "14060922",
+            "indices": [
+              3,
+              11
+            ]
+          },
+          {
+            "screen_name": "sidekiq",
+            "name": "Sidekiq",
+            "id": 1946943042,
+            "id_str": "1946943042",
+            "indices": [
+              24,
+              32
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "http://t.co/9GjNeuvxhW",
+            "expanded_url": "http://www.mikeperham.com/2015/10/14/optimizing-sidekiq/",
+            "display_url": "mikeperham.com/2015/10/14/opt…",
+            "indices": [
+              50,
+              72
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Oct 14 12:02:47 +0000 2015",
+      "id": 654266096283971600,
+      "id_str": "654266096283971584",
+      "text": ".@dcromster @backendsecret @jsunderhood хорошему коду не нужна документация. Rdoc на крайний случай",
+      "source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 654261634937028600,
+      "in_reply_to_status_id_str": "654261634937028608",
+      "in_reply_to_user_id": 81103006,
+      "in_reply_to_user_id_str": "81103006",
+      "in_reply_to_screen_name": "dcromster",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "dcromster",
+            "name": "Roman Milovskiy",
+            "id": 81103006,
+            "id_str": "81103006",
+            "indices": [
+              1,
+              11
+            ]
+          },
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик Бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              12,
+              26
+            ]
+          },
+          {
+            "screen_name": "jsunderhood",
+            "name": "Разработчик",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              27,
+              39
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 14 12:01:47 +0000 2015",
+      "id": 654265843526799400,
+      "id_str": "654265843526799360",
+      "text": "Почему можно не любить рельсы и контрибьютить в них? Потому что это возможность поучаствовать в истории и в разработке большого проекта.",
+      "source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 14 11:55:10 +0000 2015",
+      "id": 654264177947754500,
+      "id_str": "654264177947754496",
+      "text": "RT @ipronix: @rubyunderhood @anton_davydov то руби сообщ. ненавидит rails,то  рекламирует как в нее писать.может вы ненавидите,то что сами …",
+      "source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Wed Oct 14 11:27:39 +0000 2015",
+        "id": 654257252044566500,
+        "id_str": "654257252044566528",
+        "text": "@rubyunderhood @anton_davydov то руби сообщ. ненавидит rails,то  рекламирует как в нее писать.может вы ненавидите,то что сами понаписали?",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 654255289349357600,
+        "in_reply_to_status_id_str": "654255289349357568",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 113404896,
+          "id_str": "113404896"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            },
+            {
+              "screen_name": "anton_davydov",
+              "name": "Davy Dovanton",
+              "id": 539221178,
+              "id_str": "539221178",
+              "indices": [
+                15,
+                29
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ipronix",
+            "name": "pronix",
+            "id": 113404896,
+            "id_str": "113404896",
+            "indices": [
+              3,
+              11
+            ]
+          },
+          {
+            "screen_name": "rubyunderhood",
+            "name": "Ruby разработчик",
+            "id": 3341793591,
+            "id_str": "3341793591",
+            "indices": [
+              13,
+              27
+            ]
+          },
+          {
+            "screen_name": "anton_davydov",
+            "name": "Davy Dovanton",
+            "id": 539221178,
+            "id_str": "539221178",
+            "indices": [
+              28,
+              42
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 14 11:19:51 +0000 2015",
+      "id": 654255289349357600,
+      "id_str": "654255289349357568",
+      "text": "А также самый верный способ набрать коммитов в rails: пробуйте 5.0 перед выходом. Версия свежая, багов много, контрибьютов хватит на всех.",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 14 11:17:11 +0000 2015",
+      "id": 654254619472842800,
+      "id_str": "654254619472842752",
+      "text": "Репозиторий bundler features (https://t.co/qZy1aztnoc) - можно взять любую простую фичу и начать с неё.",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 6,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/qZy1aztnoc",
+            "expanded_url": "https://github.com/bundler/bundler-features/issues",
+            "display_url": "github.com/bundler/bundle…",
+            "indices": [
+              30,
+              53
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 14 11:16:15 +0000 2015",
+      "id": 654254385195823100,
+      "id_str": "654254385195823104",
+      "text": "(а также найти и пофиксить в ней баг)",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 14 11:16:03 +0000 2015",
+      "id": 654254334725759000,
+      "id_str": "654254334725758981",
+      "text": "В рассылке this week in rails (https://t.co/4s8416NI8C) каждую неделю рассказывают о нововведениях - хороший шанс первым узнать о новой фиче",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 6,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/4s8416NI8C",
+            "expanded_url": "https://rails-weekly.ongoodbits.com/",
+            "display_url": "rails-weekly.ongoodbits.com",
+            "indices": [
+              31,
+              54
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 14 11:15:02 +0000 2015",
+      "id": 654254080840364000,
+      "id_str": "654254080840364032",
+      "text": "Начнем. Стоит подписаться на rails core mailing list, в нем иногда всплывают баги и фичи над которыми можно поработать",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 2,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 14 11:14:08 +0000 2015",
+      "id": 654253850791120900,
+      "id_str": "654253850791120896",
+      "text": ".@anton_davydov подсказывает, что многим было бы интересно узнать про то, как начать контрибьютить в рельсы и не только",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "anton_davydov",
+            "name": "Davy Dovanton",
+            "id": 539221178,
+            "id_str": "539221178",
+            "indices": [
+              1,
+              15
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Oct 13 18:27:25 +0000 2015",
+      "id": 654000505144897500,
+      "id_str": "654000505144897536",
+      "text": "RT @killthekitten: @rubyunderhood я люблю пользоваться этим http://t.co/PsWg007I5z",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Tue Oct 13 16:34:20 +0000 2015",
+        "id": 653972045525553200,
+        "id_str": "653972045525553152",
+        "text": "@rubyunderhood я люблю пользоваться этим http://t.co/PsWg007I5z",
+        "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 653961313836777500,
+        "in_reply_to_status_id_str": "653961313836777473",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 77381915,
+          "id_str": "77381915"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 5,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "http://t.co/PsWg007I5z",
+              "expanded_url": "http://danilenko.org/2012/7/6/rails_timezones/",
+              "display_url": "danilenko.org/2012/7/6/rails…",
+              "indices": [
+                41,
+                63
+              ]
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "killthekitten",
+            "name": "Nikolay Shebanov",
+            "id": 77381915,
+            "id_str": "77381915",
+            "indices": [
+              3,
+              17
+            ]
+          },
+          {
+            "screen_name": "rubyunderhood",
+            "name": "Ruby разработчик",
+            "id": 3341793591,
+            "id_str": "3341793591",
+            "indices": [
+              19,
+              33
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "http://t.co/PsWg007I5z",
+            "expanded_url": "http://danilenko.org/2012/7/6/rails_timezones/",
+            "display_url": "danilenko.org/2012/7/6/rails…",
+            "indices": [
+              60,
+              82
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Oct 13 15:51:41 +0000 2015",
+      "id": 653961313836777500,
+      "id_str": "653961313836777473",
+      "text": "А вот классный гист который рассказывает, почему DateTime не нужен https://t.co/mum4JHzPZJ",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 8,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/mum4JHzPZJ",
+            "expanded_url": "https://gist.github.com/pixeltrix/e2298822dd89d854444b",
+            "display_url": "gist.github.com/pixeltrix/e229…",
+            "indices": [
+              67,
+              90
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Oct 13 15:51:16 +0000 2015",
+      "id": 653961205573398500,
+      "id_str": "653961205573398528",
+      "text": "https://t.co/VFtj67ylvU - базовые рекомендации о работе с временем",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 10,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/VFtj67ylvU",
+            "expanded_url": "https://github.com/snphq/guidelines/blob/master/guides/backend/rails.md",
+            "display_url": "github.com/snphq/guidelin…",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Oct 13 15:50:27 +0000 2015",
+      "id": 653961003470835700,
+      "id_str": "653961003470835712",
+      "text": "Минутка о работе с временем и датой в руби и rails/activesupport, раз уж зашел разговор с @bufo_alvarius (особенно полезно новичкам)",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "bufo_alvarius",
+            "name": "Sergey Ponomarev",
+            "id": 45783985,
+            "id_str": "45783985",
+            "indices": [
+              90,
+              104
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
       "created_at": "Tue Oct 13 15:21:14 +0000 2015",
       "id": 653953648129638400,
       "id_str": "653953648129638400",
@@ -45,8 +2359,8 @@
         "place": null,
         "contributors": null,
         "is_quote_status": false,
-        "retweet_count": 1,
-        "favorite_count": 3,
+        "retweet_count": 2,
+        "favorite_count": 12,
         "entities": {
           "hashtags": [],
           "symbols": [],
@@ -90,7 +2404,7 @@
         "lang": "ru"
       },
       "is_quote_status": false,
-      "retweet_count": 1,
+      "retweet_count": 2,
       "favorite_count": 0,
       "entities": {
         "hashtags": [],
@@ -165,8 +2479,8 @@
       "place": null,
       "contributors": null,
       "is_quote_status": false,
-      "retweet_count": 0,
-      "favorite_count": 2,
+      "retweet_count": 1,
+      "favorite_count": 8,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -210,7 +2524,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 0,
-      "favorite_count": 1,
+      "favorite_count": 3,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -383,7 +2697,7 @@
         "contributors": null,
         "is_quote_status": false,
         "retweet_count": 1,
-        "favorite_count": 0,
+        "favorite_count": 1,
         "entities": {
           "hashtags": [],
           "symbols": [],
@@ -817,7 +3131,7 @@
         "place": null,
         "contributors": null,
         "is_quote_status": false,
-        "retweet_count": 2,
+        "retweet_count": 3,
         "favorite_count": 1,
         "entities": {
           "hashtags": [],
@@ -871,7 +3185,7 @@
         "lang": "ru"
       },
       "is_quote_status": false,
-      "retweet_count": 2,
+      "retweet_count": 3,
       "favorite_count": 0,
       "entities": {
         "hashtags": [],
@@ -2403,7 +4717,7 @@
         "contributors": null,
         "is_quote_status": false,
         "retweet_count": 1,
-        "favorite_count": 0,
+        "favorite_count": 1,
         "entities": {
           "hashtags": [],
           "symbols": [],
@@ -2665,7 +4979,7 @@
         "contributors": null,
         "is_quote_status": false,
         "retweet_count": 3,
-        "favorite_count": 10,
+        "favorite_count": 9,
         "entities": {
           "hashtags": [],
           "symbols": [],
@@ -3711,7 +6025,7 @@
         "contributors": null,
         "is_quote_status": false,
         "retweet_count": 4,
-        "favorite_count": 9,
+        "favorite_count": 8,
         "entities": {
           "hashtags": [],
           "symbols": [],
@@ -4222,7 +6536,7 @@
       },
       "favorited": false,
       "retweeted": false,
-      "lang": "ru"
+      "lang": "und"
     },
     {
       "created_at": "Mon Oct 12 11:45:01 +0000 2015",
