@@ -37,7 +37,7 @@
     }
   },
   "protected": false,
-  "followers_count": 588,
+  "followers_count": 590,
   "friends_count": 8,
   "listed_count": 26,
   "created_at": "Mon Jun 22 18:43:03 +0000 2015",
@@ -46,20 +46,20 @@
   "time_zone": "Pacific Time (US & Canada)",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 4569,
+  "statuses_count": 4593,
   "lang": "en",
   "status": {
-    "created_at": "Thu Oct 15 10:45:41 +0000 2015",
-    "id": 654609079105646600,
-    "id_str": "654609079105646593",
-    "text": "Ну что, начнем про собеседования? Какие самые интересные вопросы вам задавали?",
+    "created_at": "Thu Oct 15 16:00:47 +0000 2015",
+    "id": 654688379200626700,
+    "id_str": "654688379200626688",
+    "text": ".@scarfacedeb что используете для сборки фронта?",
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "truncated": false,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 654687231211274200,
+    "in_reply_to_status_id_str": "654687231211274241",
+    "in_reply_to_user_id": 40921856,
+    "in_reply_to_user_id_str": "40921856",
+    "in_reply_to_screen_name": "scarfacedeb",
     "geo": null,
     "coordinates": null,
     "place": null,
@@ -69,7 +69,18 @@
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "scarfacedeb",
+          "name": "Andrew Volozhanin",
+          "id": 40921856,
+          "id_str": "40921856",
+          "indices": [
+            1,
+            13
+          ]
+        }
+      ],
       "urls": []
     },
     "favorited": false,
