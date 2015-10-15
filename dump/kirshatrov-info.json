@@ -46,87 +46,38 @@
   "time_zone": "Pacific Time (US & Canada)",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 4554,
+  "statuses_count": 4557,
   "lang": "en",
   "status": {
-    "created_at": "Thu Oct 15 09:36:54 +0000 2015",
-    "id": 654591771809292300,
-    "id_str": "654591771809292288",
-    "text": "RT @ipronix: @rubyunderhood государственному мужу виднее, наше дело подчиниться",
-    "source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix for Android</a>",
+    "created_at": "Thu Oct 15 09:58:35 +0000 2015",
+    "id": 654597226770120700,
+    "id_str": "654597226770120705",
+    "text": ".@killthekitten нигде не видел газа. Думаю что из-за того что опасно",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "truncated": false,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 654592755717537800,
+    "in_reply_to_status_id_str": "654592755717537792",
+    "in_reply_to_user_id": 77381915,
+    "in_reply_to_user_id_str": "77381915",
+    "in_reply_to_screen_name": "killthekitten",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "retweeted_status": {
-      "created_at": "Thu Oct 15 09:33:33 +0000 2015",
-      "id": 654590925591740400,
-      "id_str": "654590925591740417",
-      "text": "@rubyunderhood государственному мужу виднее, наше дело подчиниться",
-      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-      "truncated": false,
-      "in_reply_to_status_id": 654589857885515800,
-      "in_reply_to_status_id_str": "654589857885515776",
-      "in_reply_to_user_id": 3341793591,
-      "in_reply_to_user_id_str": "3341793591",
-      "in_reply_to_screen_name": "rubyunderhood",
-      "geo": null,
-      "coordinates": null,
-      "place": null,
-      "contributors": null,
-      "retweet_count": 1,
-      "favorite_count": 0,
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [
-          {
-            "screen_name": "rubyunderhood",
-            "name": "Ruby разработчик",
-            "id": 3341793591,
-            "id_str": "3341793591",
-            "indices": [
-              0,
-              14
-            ]
-          }
-        ],
-        "urls": []
-      },
-      "favorited": false,
-      "retweeted": false,
-      "lang": "ru"
-    },
-    "retweet_count": 1,
+    "retweet_count": 0,
     "favorite_count": 0,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "ipronix",
-          "name": "pronix",
-          "id": 113404896,
-          "id_str": "113404896",
+          "screen_name": "killthekitten",
+          "name": "Nikolay Shebanov",
+          "id": 77381915,
+          "id_str": "77381915",
           "indices": [
-            3,
-            11
-          ]
-        },
-        {
-          "screen_name": "rubyunderhood",
-          "name": "Ruby разработчик",
-          "id": 3341793591,
-          "id_str": "3341793591",
-          "indices": [
-            13,
-            27
+            1,
+            15
           ]
         }
       ],
