@@ -37,54 +37,54 @@
     }
   },
   "protected": false,
-  "followers_count": 590,
-  "friends_count": 8,
+  "followers_count": 597,
+  "friends_count": 9,
   "listed_count": 26,
   "created_at": "Mon Jun 22 18:43:03 +0000 2015",
-  "favourites_count": 72,
+  "favourites_count": 78,
   "utc_offset": -25200,
   "time_zone": "Pacific Time (US & Canada)",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 4593,
+  "statuses_count": 4648,
   "lang": "en",
   "status": {
-    "created_at": "Thu Oct 15 16:00:47 +0000 2015",
-    "id": 654688379200626700,
-    "id_str": "654688379200626688",
-    "text": ".@scarfacedeb что используете для сборки фронта?",
+    "created_at": "Sun Oct 18 20:08:07 +0000 2015",
+    "id": 655837784142385200,
+    "id_str": "655837784142385156",
+    "text": "Кажется, я стал первым в статистике рубиандерхуд по количеству фавов https://t.co/O9vqK9AVKp",
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "truncated": false,
-    "in_reply_to_status_id": 654687231211274200,
-    "in_reply_to_status_id_str": "654687231211274241",
-    "in_reply_to_user_id": 40921856,
-    "in_reply_to_user_id_str": "40921856",
-    "in_reply_to_screen_name": "scarfacedeb",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "retweet_count": 0,
-    "favorite_count": 0,
+    "favorite_count": 1,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
+      "user_mentions": [],
+      "urls": [
         {
-          "screen_name": "scarfacedeb",
-          "name": "Andrew Volozhanin",
-          "id": 40921856,
-          "id_str": "40921856",
+          "url": "https://t.co/O9vqK9AVKp",
+          "expanded_url": "https://rubyunderhood.ru/stats/",
+          "display_url": "rubyunderhood.ru/stats/",
           "indices": [
-            1,
-            13
+            69,
+            92
           ]
         }
-      ],
-      "urls": []
+      ]
     },
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
