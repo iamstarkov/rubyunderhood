@@ -26,7 +26,7 @@
     }
   },
   "protected": false,
-  "followers_count": 597,
+  "followers_count": 600,
   "friends_count": 9,
   "listed_count": 26,
   "created_at": "Mon Jun 22 18:43:03 +0000 2015",
@@ -35,45 +35,75 @@
   "time_zone": "Pacific Time (US & Canada)",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 4657,
+  "statuses_count": 4776,
   "lang": "en",
   "status": {
-    "created_at": "Mon Oct 19 08:12:11 +0000 2015",
-    "id": 656020004505329700,
-    "id_str": "656020004505329665",
-    "text": "Кто не в курсе что это такое - http://t.co/WWdu8ALUHf, увлекательное художественное чтиво о том, как не ладят админы с остальным миром :)",
+    "created_at": "Mon Oct 19 18:54:20 +0000 2015",
+    "id": 656181605418016800,
+    "id_str": "656181605418016768",
+    "text": ".@suxxes @anton_davydov @ptico @Xedin  вот я с своей жизни сталкиваюсь плохим кодом плохого практика, чем чересчур хорошего теоретика ;)",
     "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
     "truncated": false,
-    "in_reply_to_status_id": 656019619417870300,
-    "in_reply_to_status_id_str": "656019619417870336",
-    "in_reply_to_user_id": 3341793591,
-    "in_reply_to_user_id_str": "3341793591",
-    "in_reply_to_screen_name": "rubyunderhood",
+    "in_reply_to_status_id": 656176207369797600,
+    "in_reply_to_status_id_str": "656176207369797632",
+    "in_reply_to_user_id": 14722814,
+    "in_reply_to_user_id_str": "14722814",
+    "in_reply_to_screen_name": "suxxes",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "retweet_count": 0,
-    "favorite_count": 1,
+    "favorite_count": 0,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "http://t.co/WWdu8ALUHf",
-          "expanded_url": "http://www.amazon.com/The-Phoenix-Project-Helping-Business/dp/0988262592",
-          "display_url": "amazon.com/The-Phoenix-Pr…",
+          "screen_name": "suxxes",
+          "name": "Father Frodo",
+          "id": 14722814,
+          "id_str": "14722814",
+          "indices": [
+            1,
+            8
+          ]
+        },
+        {
+          "screen_name": "anton_davydov",
+          "name": "Davy Dovanton",
+          "id": 539221178,
+          "id_str": "539221178",
+          "indices": [
+            9,
+            23
+          ]
+        },
+        {
+          "screen_name": "ptico",
+          "name": "Andrey Savchenko",
+          "id": 16743832,
+          "id_str": "16743832",
+          "indices": [
+            24,
+            30
+          ]
+        },
+        {
+          "screen_name": "Xedin",
+          "name": "Alexander P.",
+          "id": 179146879,
+          "id_str": "179146879",
           "indices": [
             31,
-            53
+            37
           ]
         }
-      ]
+      ],
+      "urls": []
     },
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
