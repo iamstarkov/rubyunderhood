@@ -26,7 +26,7 @@
     }
   },
   "protected": false,
-  "followers_count": 602,
+  "followers_count": 610,
   "friends_count": 9,
   "listed_count": 27,
   "created_at": "Mon Jun 22 18:43:03 +0000 2015",
@@ -35,109 +35,49 @@
   "time_zone": "Pacific Time (US & Canada)",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 4832,
+  "statuses_count": 4891,
   "lang": "en",
   "status": {
-    "created_at": "Tue Oct 20 17:39:24 +0000 2015",
-    "id": 656525134119854100,
-    "id_str": "656525134119854080",
-    "text": "RT @oceankidbilly: StrangeLoop After @strangeloop_stl, my take on some of the best distributed systems &amp; database talks this year: https://…",
+    "created_at": "Wed Oct 21 13:53:50 +0000 2015",
+    "id": 656830758359846900,
+    "id_str": "656830758359846912",
+    "text": ".@svenyurgensson можно почитать про gradual typing в typed clojure и typed racket (https://t.co/BanluK4xxM)",
     "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
     "truncated": false,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 656830569234505700,
+    "in_reply_to_status_id_str": "656830569234505728",
+    "in_reply_to_user_id": 3341793591,
+    "in_reply_to_user_id_str": "3341793591",
+    "in_reply_to_screen_name": "rubyunderhood",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "retweeted_status": {
-      "created_at": "Tue Oct 20 17:29:50 +0000 2015",
-      "id": 656522726056718300,
-      "id_str": "656522726056718336",
-      "text": "StrangeLoop After @strangeloop_stl, my take on some of the best distributed systems &amp; database talks this year: https://t.co/DNhXef4GnI",
-      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-      "truncated": false,
-      "in_reply_to_status_id": null,
-      "in_reply_to_status_id_str": null,
-      "in_reply_to_user_id": null,
-      "in_reply_to_user_id_str": null,
-      "in_reply_to_screen_name": null,
-      "geo": null,
-      "coordinates": null,
-      "place": null,
-      "contributors": null,
-      "retweet_count": 7,
-      "favorite_count": 8,
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [
-          {
-            "screen_name": "strangeloop_stl",
-            "name": "Strange Loop Conf",
-            "id": 28045502,
-            "id_str": "28045502",
-            "indices": [
-              18,
-              34
-            ]
-          }
-        ],
-        "urls": [
-          {
-            "url": "https://t.co/DNhXef4GnI",
-            "expanded_url": "https://medium.com/@oceankidbilly/strangeloop-after-strangeloop-3941b9ed6773#.xwfz5hjl6",
-            "display_url": "medium.com/@oceankidbilly…",
-            "indices": [
-              116,
-              139
-            ]
-          }
-        ]
-      },
-      "favorited": false,
-      "retweeted": false,
-      "possibly_sensitive": false,
-      "lang": "en"
-    },
-    "retweet_count": 7,
-    "favorite_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 1,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "oceankidbilly",
-          "name": "Rob Story",
-          "id": 14833643,
-          "id_str": "14833643",
+          "screen_name": "svenyurgensson",
+          "name": "YuryBatenko",
+          "id": 14418430,
+          "id_str": "14418430",
           "indices": [
-            3,
-            17
-          ]
-        },
-        {
-          "screen_name": "strangeloop_stl",
-          "name": "Strange Loop Conf",
-          "id": 28045502,
-          "id_str": "28045502",
-          "indices": [
-            37,
-            53
+            1,
+            16
           ]
         }
       ],
       "urls": [
         {
-          "url": "https://t.co/DNhXef4GnI",
-          "expanded_url": "https://medium.com/@oceankidbilly/strangeloop-after-strangeloop-3941b9ed6773#.xwfz5hjl6",
-          "display_url": "medium.com/@oceankidbilly…",
+          "url": "https://t.co/BanluK4xxM",
+          "expanded_url": "http://www.ccs.neu.edu/racket/pubs/ecoop2015-takikawa-et-al.pdf",
+          "display_url": "ccs.neu.edu/racket/pubs/ec…",
           "indices": [
-            143,
-            144
+            83,
+            106
           ]
         }
       ]
@@ -145,7 +85,7 @@
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
-    "lang": "en"
+    "lang": "und"
   },
   "contributors_enabled": false,
   "is_translator": false,
