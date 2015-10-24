@@ -20,10 +20,12 @@ var sequence = require('run-sequence');
 var each = require('each-done');
 var path = require('path');
 var numd = require('numd');
+var authorPageData = require('./author-page-data');
 
 var finalStats = fs.readJsonSync('./final-stats.json').stats;
 
 var moment = require('moment');
+moment.locale('ru');
 var d = function(input) { return moment(new Date(input)).format("DD MMMM YYYY"); };
 var unix = function(text) { return moment(new Date(text)).unix(); }
 var site = require('./package.json').site;
@@ -37,27 +39,21 @@ var articleData = require('./article-data');
 var articles = [];
 var articleHarvesting = function() {
   return through.obj(function(file, enc, cb) {
-    var article = articleData(file.contents.toString());
     var url = getBasename(file);
-    var title = article.title;
-
-    if (getBasename(file) === 'README') {
-      url = 'about';
-      title = 'О проекте';
-    }
-
-    var author = fs.readJsonSync('./dump/' + title + '.json');
+    var title = url; // author username (for now and for simplicity)
+    var content = file.contents.toString();
+    var author = fs.readJsonSync('./dump/' + url + '.json');
 
     articles.push({
       site: site,
       filename: file.relative,
       url: url + '/',
       title: title,
-      image: article.image,
+      image: null, // TODO author username
       desc: author.tweets[author.tweets.length - 1].text,
       descText: author.tweets[author.tweets.length - 1].text,
       date: d(author.tweets[author.tweets.length - 1].created_at),
-      content: article.content,
+      content: content,
       rss: {
         url: site.site_url + getBasename(file) + '/',
         description: author.tweets[author.tweets.length - 1].text
@@ -70,14 +66,14 @@ var articleHarvesting = function() {
 
 gulp.task('articles-registry', function() {
   articles = [];
-  return gulp.src(['./posts/*.md'])
+  return gulp.src(['./posts/*.html'])
     .pipe(replace('https://rubyunderhood.ru', 'http://localhost:4000'))
     .pipe(articleHarvesting());
 });
 
 gulp.task('articles-registry-prod', function() {
   articles = [];
-  return gulp.src(['./posts/*.md', '!./posts/*draft*.md'])
+  return gulp.src(['./posts/*.html', '!./posts/*draft*.html'])
     .pipe(articleHarvesting());
 });
 
@@ -146,6 +142,18 @@ gulp.task('about-page', function() {
     .pipe(gulp.dest('dist'));
 });
 
+gulp.task('generate-posts', function(done) {
+  const authors = require('./authors.js').filter((author)=> author.post !== false);
+  each(authors, function(author) {
+    return gulp.src('layouts/post.jade')
+      .pipe(data(authorPageData(author)))
+      .pipe(jade({pretty: true}))
+      .pipe(rename({basename: author.username}))
+      .pipe(gulp.dest('posts'));
+  }, done);
+});
+
+
 gulp.task('articles-pages', function(done) {
   each(articles, function(article) {
     return gulp.src('layouts/article.jade')
@@ -179,11 +187,11 @@ gulp.task('build-common', function(done) {
 });
 
 gulp.task('build', function(done) {
-  sequence('articles-registry', 'build-common', done);
+  sequence('generate-posts', 'articles-registry', 'build-common', done);
 });
 
 gulp.task('build-prod', function(done) {
-  sequence('clean', 'articles-registry-prod', 'build-common', done);
+  sequence('clean', 'generate-posts', 'articles-registry-prod', 'build-common', done);
 });
 
 gulp.task('cname', function() {
