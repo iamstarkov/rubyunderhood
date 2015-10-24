@@ -311,7 +311,106 @@
       },
       "favorited": false,
       "retweeted": false,
-      "lang": "ru"
+      "lang": "ru",
+      "in_reply_to_status": {
+        "created_at": "Thu Jul 30 14:33:19 +0000 2015",
+        "id": 626762501204652000,
+        "id_str": "626762501204652033",
+        "text": "Еще интересный вопрос: есть ли кто-то, кто ушёл в бэкенд с клиентской стороны (не важно какой)? Вот наоборот знаю много случаев.",
+        "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 3302551618,
+          "id_str": "3302551618",
+          "name": "Александр Сербул",
+          "screen_name": "backendsecret",
+          "location": "Russia",
+          "description": "Переходящий твиттер бекенд-разработчиков. Эту неделю ведет @AlexSerbul Чат: https://t.co/g6sln8hSDy",
+          "url": "http://t.co/SebwQPBWpx",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "http://t.co/SebwQPBWpx",
+                  "expanded_url": "http://backendsecret.ru",
+                  "display_url": "backendsecret.ru",
+                  "indices": [
+                    0,
+                    22
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": [
+                {
+                  "url": "https://t.co/g6sln8hSDy",
+                  "expanded_url": "https://gitter.im/backendsecret/global_backend",
+                  "display_url": "gitter.im/backendsecret/…",
+                  "indices": [
+                    76,
+                    99
+                  ]
+                }
+              ]
+            }
+          },
+          "protected": false,
+          "followers_count": 1134,
+          "friends_count": 347,
+          "listed_count": 78,
+          "created_at": "Fri May 29 07:26:26 +0000 2015",
+          "favourites_count": 1668,
+          "utc_offset": 10800,
+          "time_zone": "Moscow",
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 4350,
+          "lang": "ru",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "000000",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/656029889259175936/EwjJSkdI_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/656029889259175936/EwjJSkdI_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/3302551618/1445244789",
+          "profile_link_color": "89C9FA",
+          "profile_sidebar_border_color": "000000",
+          "profile_sidebar_fill_color": "000000",
+          "profile_text_color": "000000",
+          "profile_use_background_image": false,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      }
     },
     {
       "created_at": "Thu Jul 30 13:51:18 +0000 2015",
@@ -388,7 +487,107 @@
       },
       "favorited": false,
       "retweeted": false,
-      "lang": "und"
+      "lang": "und",
+      "in_reply_to_status": {
+        "created_at": "Thu Jul 30 10:24:47 +0000 2015",
+        "id": 626699956993265700,
+        "id_str": "626699956993265664",
+        "text": "@rubyunderhood но имхо это очевидные вещи же. :)",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 626699547234988000,
+        "in_reply_to_status_id_str": "626699547234988032",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 14741065,
+          "id_str": "14741065",
+          "name": "Kirill Shirinkin",
+          "screen_name": "Fodoj",
+          "location": "Berlin",
+          "description": "Junior well-being developer.",
+          "url": "http://t.co/JjFo8EMlvz",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "http://t.co/JjFo8EMlvz",
+                  "expanded_url": "http://fodoj.com/",
+                  "display_url": "fodoj.com",
+                  "indices": [
+                    0,
+                    22
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 583,
+          "friends_count": 196,
+          "listed_count": 28,
+          "created_at": "Mon May 12 05:57:58 +0000 2008",
+          "favourites_count": 38,
+          "utc_offset": 7200,
+          "time_zone": "Ljubljana",
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 12808,
+          "lang": "de",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "BADFCD",
+          "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/310505822/Glennz_very_mini.jpg",
+          "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/310505822/Glennz_very_mini.jpg",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/414333746305712128/eWNtJQOQ_normal.png",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/414333746305712128/eWNtJQOQ_normal.png",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/14741065/1441603983",
+          "profile_link_color": "2BA6CB",
+          "profile_sidebar_border_color": "F2E195",
+          "profile_sidebar_fill_color": "FFF7CC",
+          "profile_text_color": "0C3E53",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      }
     },
     {
       "created_at": "Thu Jul 30 10:23:10 +0000 2015",
@@ -432,7 +631,107 @@
       },
       "favorited": false,
       "retweeted": false,
-      "lang": "ru"
+      "lang": "ru",
+      "in_reply_to_status": {
+        "created_at": "Thu Jul 30 10:11:18 +0000 2015",
+        "id": 626696562115244000,
+        "id_str": "626696562115244032",
+        "text": "@rubyunderhood исходя из задачи выбираем, конечно же",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 626671460568969200,
+        "in_reply_to_status_id_str": "626671460568969216",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 14741065,
+          "id_str": "14741065",
+          "name": "Kirill Shirinkin",
+          "screen_name": "Fodoj",
+          "location": "Berlin",
+          "description": "Junior well-being developer.",
+          "url": "http://t.co/JjFo8EMlvz",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "http://t.co/JjFo8EMlvz",
+                  "expanded_url": "http://fodoj.com/",
+                  "display_url": "fodoj.com",
+                  "indices": [
+                    0,
+                    22
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 583,
+          "friends_count": 196,
+          "listed_count": 28,
+          "created_at": "Mon May 12 05:57:58 +0000 2008",
+          "favourites_count": 38,
+          "utc_offset": 7200,
+          "time_zone": "Ljubljana",
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 12808,
+          "lang": "de",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "BADFCD",
+          "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/310505822/Glennz_very_mini.jpg",
+          "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/310505822/Glennz_very_mini.jpg",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/414333746305712128/eWNtJQOQ_normal.png",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/414333746305712128/eWNtJQOQ_normal.png",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/14741065/1441603983",
+          "profile_link_color": "2BA6CB",
+          "profile_sidebar_border_color": "F2E195",
+          "profile_sidebar_fill_color": "FFF7CC",
+          "profile_text_color": "0C3E53",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      }
     },
     {
       "created_at": "Thu Jul 30 09:24:00 +0000 2015",
@@ -476,7 +775,93 @@
       },
       "favorited": false,
       "retweeted": false,
-      "lang": "ru"
+      "lang": "ru",
+      "in_reply_to_status": {
+        "created_at": "Thu Jul 30 08:59:38 +0000 2015",
+        "id": 626678525899219000,
+        "id_str": "626678525899218945",
+        "text": "@rubyunderhood ruby + go + nodejs + С невеличкий стек",
+        "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 626675537042370600,
+        "in_reply_to_status_id_str": "626675537042370560",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 43870663,
+          "id_str": "43870663",
+          "name": "Igor Skrynkovskyy",
+          "screen_name": "h2rd",
+          "location": "Lviv, Ukraine",
+          "description": "Дуже багато ретвіту",
+          "url": null,
+          "entities": {
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 191,
+          "friends_count": 76,
+          "listed_count": 12,
+          "created_at": "Mon Jun 01 11:44:48 +0000 2009",
+          "favourites_count": 574,
+          "utc_offset": 10800,
+          "time_zone": "Kyiv",
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 5283,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "131516",
+          "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168847957/InG66cFJ.png",
+          "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168847957/InG66cFJ.png",
+          "profile_background_tile": true,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/453480118074105856/NJnKNoZj_normal.png",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/453480118074105856/NJnKNoZj_normal.png",
+          "profile_link_color": "009999",
+          "profile_sidebar_border_color": "FFFFFF",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "und"
+      }
     },
     {
       "created_at": "Thu Jul 30 08:47:45 +0000 2015",
@@ -829,7 +1214,107 @@
       },
       "favorited": false,
       "retweeted": false,
-      "lang": "ru"
+      "lang": "ru",
+      "in_reply_to_status": {
+        "created_at": "Tue Jul 28 20:01:01 +0000 2015",
+        "id": 626120192150470700,
+        "id_str": "626120192150470656",
+        "text": "@rubyunderhood это закономерно, dhh тратит время на мажорный ап турболинков, что ещё дальше уводит рельсы от векторов современного веба.",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 626114217922457600,
+        "in_reply_to_status_id_str": "626114217922457600",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 152230944,
+          "id_str": "152230944",
+          "name": "Alex",
+          "screen_name": "alexfedoseev",
+          "location": "Bali, Indonesia",
+          "description": "reactive goofy on rails",
+          "url": "http://t.co/jDSGofrbMX",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "http://t.co/jDSGofrbMX",
+                  "expanded_url": "http://alexfedoseev.com",
+                  "display_url": "alexfedoseev.com",
+                  "indices": [
+                    0,
+                    22
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 147,
+          "friends_count": 117,
+          "listed_count": 8,
+          "created_at": "Sat Jun 05 12:24:39 +0000 2010",
+          "favourites_count": 31,
+          "utc_offset": 10800,
+          "time_zone": "Moscow",
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 950,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "022330",
+          "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/189550608/body.jpg",
+          "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/189550608/body.jpg",
+          "profile_background_tile": true,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/604715088176680961/vfBk3l_S_normal.png",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/604715088176680961/vfBk3l_S_normal.png",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/152230944/1408555466",
+          "profile_link_color": "3B94D9",
+          "profile_sidebar_border_color": "A8C7F7",
+          "profile_sidebar_fill_color": "C0DFEC",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      }
     },
     {
       "created_at": "Tue Jul 28 20:13:37 +0000 2015",
@@ -970,7 +1455,117 @@
       "favorited": false,
       "retweeted": false,
       "possibly_sensitive": false,
-      "lang": "ru"
+      "lang": "ru",
+      "in_reply_to_status": {
+        "created_at": "Tue Jul 28 20:11:42 +0000 2015",
+        "id": 626122880787451900,
+        "id_str": "626122880787451904",
+        "text": "@vtambourine @rubyunderhood Поддержу вопрос. Откуда статистика?",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 626117145999446000,
+        "in_reply_to_status_id_str": "626117145999446016",
+        "in_reply_to_user_id": 260754563,
+        "in_reply_to_user_id_str": "260754563",
+        "in_reply_to_screen_name": "vtambourine",
+        "user": {
+          "id": 258854658,
+          "id_str": "258854658",
+          "name": "Ваня Воищев",
+          "screen_name": "voischev",
+          "location": "",
+          "description": "Крепкий орешек). Developer in teams @protein_io and @PostHTML #javascript #nodejs #ui #b_",
+          "url": "https://t.co/RQRY9hIPQL",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https://t.co/RQRY9hIPQL",
+                  "expanded_url": "https://github.com/voischev",
+                  "display_url": "github.com/voischev",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 854,
+          "friends_count": 470,
+          "listed_count": 40,
+          "created_at": "Mon Feb 28 17:04:47 +0000 2011",
+          "favourites_count": 2122,
+          "utc_offset": 10800,
+          "time_zone": "Moscow",
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 11991,
+          "lang": "ru",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "C0DEED",
+          "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000171398222/6VM0HKHR.jpeg",
+          "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000171398222/6VM0HKHR.jpeg",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/489044277843218432/bDQKy8h4_normal.jpeg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/489044277843218432/bDQKy8h4_normal.jpeg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/258854658/1377868004",
+          "profile_link_color": "0084B4",
+          "profile_sidebar_border_color": "FFFFFF",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "vtambourine",
+              "name": "Benjamin Tambourine",
+              "id": 260754563,
+              "id_str": "260754563",
+              "indices": [
+                0,
+                12
+              ]
+            },
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                13,
+                27
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      }
     },
     {
       "created_at": "Tue Jul 28 19:59:39 +0000 2015",
@@ -1024,7 +1619,107 @@
       },
       "favorited": false,
       "retweeted": false,
-      "lang": "ru"
+      "lang": "ru",
+      "in_reply_to_status": {
+        "created_at": "Tue Jul 28 19:48:54 +0000 2015",
+        "id": 626117145999446000,
+        "id_str": "626117145999446016",
+        "text": "@rubyunderhood а куда или во что они уходят?",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 626114217922457600,
+        "in_reply_to_status_id_str": "626114217922457600",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 260754563,
+          "id_str": "260754563",
+          "name": "Benjamin Tambourine",
+          "screen_name": "vtambourine",
+          "location": "Rostov-na-Donu, Russia",
+          "description": "У меня все хорошо, у меня велосипед.",
+          "url": "http://t.co/ngh8BnLKvI",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "http://t.co/ngh8BnLKvI",
+                  "expanded_url": "http://alienstook.me/",
+                  "display_url": "alienstook.me",
+                  "indices": [
+                    0,
+                    22
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 259,
+          "friends_count": 266,
+          "listed_count": 12,
+          "created_at": "Fri Mar 04 14:43:31 +0000 2011",
+          "favourites_count": 36,
+          "utc_offset": 10800,
+          "time_zone": "Moscow",
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 2841,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "C0DEED",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/378800000717260568/12da63ab7813b9169f0692681c815b98_normal.jpeg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000717260568/12da63ab7813b9169f0692681c815b98_normal.jpeg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/260754563/1362255832",
+          "profile_link_color": "0084B4",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": true,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      }
     },
     {
       "created_at": "Tue Jul 28 19:57:28 +0000 2015",
@@ -1079,7 +1774,140 @@
       "favorited": false,
       "retweeted": false,
       "possibly_sensitive": false,
-      "lang": "ru"
+      "lang": "ru",
+      "in_reply_to_status": {
+        "created_at": "Tue Jul 28 19:54:23 +0000 2015",
+        "id": 626118523614548000,
+        "id_str": "626118523614547969",
+        "text": "@rubyunderhood видимо, это было как то давно очень",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 626118423597195300,
+        "in_reply_to_status_id_str": "626118423597195265",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 87775435,
+          "id_str": "87775435",
+          "name": "Влад Лисовский",
+          "screen_name": "lisovskyvlad",
+          "location": "Hamburg, Deutschland",
+          "description": "ruby, rails, хороший код, паттерны/рефакторинг, вот это всё.",
+          "url": "http://t.co/w3C8kSiyoR",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "http://t.co/w3C8kSiyoR",
+                  "expanded_url": "http://lisovskyvlad.github.io",
+                  "display_url": "lisovskyvlad.github.io",
+                  "indices": [
+                    0,
+                    22
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 603,
+          "friends_count": 1166,
+          "listed_count": 34,
+          "created_at": "Thu Nov 05 20:30:13 +0000 2009",
+          "favourites_count": 3384,
+          "utc_offset": 10800,
+          "time_zone": "Moscow",
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 13584,
+          "lang": "ru",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": true,
+          "profile_background_color": "F0D803",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/655877010582020096/Tu2Velky_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/655877010582020096/Tu2Velky_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/87775435/1445208459",
+          "profile_link_color": "FA743E",
+          "profile_sidebar_border_color": "FFF8AD",
+          "profile_sidebar_fill_color": "F6FFD1",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": true,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+          "id": "5bcd72da50f0ee77",
+          "url": "https://api.twitter.com/1.1/geo/id/5bcd72da50f0ee77.json",
+          "place_type": "city",
+          "name": "Hamburg",
+          "full_name": "Hamburg, Deutschland",
+          "country_code": "DE",
+          "country": "Deutschland",
+          "contained_within": [],
+          "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  8.4201604,
+                  53.395118
+                ],
+                [
+                  10.325199,
+                  53.395118
+                ],
+                [
+                  10.325199,
+                  53.9646546
+                ],
+                [
+                  8.4201604,
+                  53.9646546
+                ]
+              ]
+            ]
+          },
+          "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      }
     },
     {
       "created_at": "Tue Jul 28 19:53:59 +0000 2015",
@@ -1133,7 +1961,117 @@
       },
       "favorited": false,
       "retweeted": false,
-      "lang": "ru"
+      "lang": "ru",
+      "in_reply_to_status": {
+        "created_at": "Tue Jul 28 19:48:39 +0000 2015",
+        "id": 626117080996298800,
+        "id_str": "626117080996298752",
+        "text": "@rubyunderhood @lisovskyvlad TJ ушел из руби до того, как он ушел из js?",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 626115579473195000,
+        "in_reply_to_status_id_str": "626115579473195008",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 260754563,
+          "id_str": "260754563",
+          "name": "Benjamin Tambourine",
+          "screen_name": "vtambourine",
+          "location": "Rostov-na-Donu, Russia",
+          "description": "У меня все хорошо, у меня велосипед.",
+          "url": "http://t.co/ngh8BnLKvI",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "http://t.co/ngh8BnLKvI",
+                  "expanded_url": "http://alienstook.me/",
+                  "display_url": "alienstook.me",
+                  "indices": [
+                    0,
+                    22
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 259,
+          "friends_count": 266,
+          "listed_count": 12,
+          "created_at": "Fri Mar 04 14:43:31 +0000 2011",
+          "favourites_count": 36,
+          "utc_offset": 10800,
+          "time_zone": "Moscow",
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 2841,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "C0DEED",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/378800000717260568/12da63ab7813b9169f0692681c815b98_normal.jpeg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000717260568/12da63ab7813b9169f0692681c815b98_normal.jpeg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/260754563/1362255832",
+          "profile_link_color": "0084B4",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": true,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            },
+            {
+              "screen_name": "lisovskyvlad",
+              "name": "Влад Лисовский",
+              "id": 87775435,
+              "id_str": "87775435",
+              "indices": [
+                15,
+                28
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      }
     },
     {
       "created_at": "Tue Jul 28 19:42:41 +0000 2015",
@@ -1207,7 +2145,140 @@
       },
       "favorited": false,
       "retweeted": false,
-      "lang": "ru"
+      "lang": "ru",
+      "in_reply_to_status": {
+        "created_at": "Tue Jul 28 19:39:28 +0000 2015",
+        "id": 626114770312237000,
+        "id_str": "626114770312237056",
+        "text": "@rubyunderhood чот я пока этого не заметил, реально много?",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 626114217922457600,
+        "in_reply_to_status_id_str": "626114217922457600",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 87775435,
+          "id_str": "87775435",
+          "name": "Влад Лисовский",
+          "screen_name": "lisovskyvlad",
+          "location": "Hamburg, Deutschland",
+          "description": "ruby, rails, хороший код, паттерны/рефакторинг, вот это всё.",
+          "url": "http://t.co/w3C8kSiyoR",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "http://t.co/w3C8kSiyoR",
+                  "expanded_url": "http://lisovskyvlad.github.io",
+                  "display_url": "lisovskyvlad.github.io",
+                  "indices": [
+                    0,
+                    22
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 603,
+          "friends_count": 1166,
+          "listed_count": 34,
+          "created_at": "Thu Nov 05 20:30:13 +0000 2009",
+          "favourites_count": 3384,
+          "utc_offset": 10800,
+          "time_zone": "Moscow",
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 13584,
+          "lang": "ru",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": true,
+          "profile_background_color": "F0D803",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/655877010582020096/Tu2Velky_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/655877010582020096/Tu2Velky_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/87775435/1445208459",
+          "profile_link_color": "FA743E",
+          "profile_sidebar_border_color": "FFF8AD",
+          "profile_sidebar_fill_color": "F6FFD1",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": true,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+          "id": "5bcd72da50f0ee77",
+          "url": "https://api.twitter.com/1.1/geo/id/5bcd72da50f0ee77.json",
+          "place_type": "city",
+          "name": "Hamburg",
+          "full_name": "Hamburg, Deutschland",
+          "country_code": "DE",
+          "country": "Deutschland",
+          "contained_within": [],
+          "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  8.4201604,
+                  53.395118
+                ],
+                [
+                  10.325199,
+                  53.395118
+                ],
+                [
+                  10.325199,
+                  53.9646546
+                ],
+                [
+                  8.4201604,
+                  53.9646546
+                ]
+              ]
+            ]
+          },
+          "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      }
     },
     {
       "created_at": "Tue Jul 28 19:37:16 +0000 2015",
@@ -1284,7 +2355,107 @@
       },
       "favorited": false,
       "retweeted": false,
-      "lang": "ru"
+      "lang": "ru",
+      "in_reply_to_status": {
+        "created_at": "Tue Jul 28 19:23:08 +0000 2015",
+        "id": 626110658619285500,
+        "id_str": "626110658619285504",
+        "text": "@rubyunderhood может быть отменим украинский в чятике? А то я его не понимать",
+        "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 137293049,
+          "id_str": "137293049",
+          "name": "Yuri Artemev",
+          "screen_name": "artemeff",
+          "location": "Russia, Yaroslavl",
+          "description": "Ruby & Erlang programmer;",
+          "url": "http://t.co/ZxBYsFQGMy",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "http://t.co/ZxBYsFQGMy",
+                  "expanded_url": "http://artemeff.com",
+                  "display_url": "artemeff.com",
+                  "indices": [
+                    0,
+                    22
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 242,
+          "friends_count": 163,
+          "listed_count": 28,
+          "created_at": "Mon Apr 26 10:47:08 +0000 2010",
+          "favourites_count": 173,
+          "utc_offset": 10800,
+          "time_zone": "Moscow",
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 6752,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "020307",
+          "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000171400943/ZMWsEdN9.png",
+          "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000171400943/ZMWsEdN9.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/419961751958876161/0OCsH1ib_normal.jpeg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/419961751958876161/0OCsH1ib_normal.jpeg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/137293049/1407407073",
+          "profile_link_color": "7E8288",
+          "profile_sidebar_border_color": "000000",
+          "profile_sidebar_fill_color": "F7F7F7",
+          "profile_text_color": "1F1F1F",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      }
     },
     {
       "created_at": "Tue Jul 28 19:21:19 +0000 2015",
@@ -2174,7 +3345,117 @@
       },
       "favorited": false,
       "retweeted": false,
-      "lang": "ru"
+      "lang": "ru",
+      "in_reply_to_status": {
+        "created_at": "Tue Jul 28 15:50:27 +0000 2015",
+        "id": 626057134522933200,
+        "id_str": "626057134522933248",
+        "text": "@rubyunderhood да, но по итогам @dzaporozhets работает над ним фуллтайм, широко знаменит в узких кругах и они недавно получили инвестиций.",
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 626055583477694500,
+        "in_reply_to_status_id_str": "626055583477694464",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 1903684836,
+          "id_str": "1903684836",
+          "name": "Джон, просто Джон",
+          "screen_name": "sudodoki",
+          "location": "Kyiv, Ukraine",
+          "description": "Where do I stick my contributions in? Member of @kottans_org gang. Ping me to join @nodeschool/kyiv.",
+          "url": "http://t.co/wEHJp0Z2DV",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "http://t.co/wEHJp0Z2DV",
+                  "expanded_url": "http://sudodoki.name/",
+                  "display_url": "sudodoki.name",
+                  "indices": [
+                    0,
+                    22
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 635,
+          "friends_count": 809,
+          "listed_count": 42,
+          "created_at": "Wed Sep 25 10:30:52 +0000 2013",
+          "favourites_count": 6706,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 4828,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "C0DEED",
+          "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/589891304575733760/82LGi3jD.png",
+          "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/589891304575733760/82LGi3jD.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/643040521305333760/3wfduFmU_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/643040521305333760/3wfduFmU_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/1903684836/1429474866",
+          "profile_link_color": "0084B4",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            },
+            {
+              "screen_name": "dzaporozhets",
+              "name": "Dmitriy Zaporozhets",
+              "id": 23944366,
+              "id_str": "23944366",
+              "indices": [
+                32,
+                45
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      }
     },
     {
       "created_at": "Tue Jul 28 15:44:17 +0000 2015",
@@ -2514,7 +3795,127 @@
       },
       "favorited": false,
       "retweeted": false,
-      "lang": "ht"
+      "lang": "ht",
+      "in_reply_to_status": {
+        "created_at": "Tue Jul 28 14:21:04 +0000 2015",
+        "id": 626034643503067100,
+        "id_str": "626034643503067136",
+        "text": "@RustUkraine @ilavriv @rubyunderhood ❤️❤️❤️ I miss Kyiv",
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 626032841487421400,
+        "in_reply_to_status_id_str": "626032841487421441",
+        "in_reply_to_user_id": 2613408391,
+        "in_reply_to_user_id_str": "2613408391",
+        "in_reply_to_screen_name": "RustUkraine",
+        "user": {
+          "id": 22386062,
+          "id_str": "22386062",
+          "name": "strata",
+          "screen_name": "steveklabnik",
+          "location": "Brooklyn",
+          "description": "Every loss for a worker is loss for all of us and every gain for a part of the working class is a victory for all.",
+          "url": "https://t.co/SrTZWTNSd4",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https://t.co/SrTZWTNSd4",
+                  "expanded_url": "http://steveklabnik.com",
+                  "display_url": "steveklabnik.com",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 17570,
+          "friends_count": 303,
+          "listed_count": 1123,
+          "created_at": "Sun Mar 01 18:00:55 +0000 2009",
+          "favourites_count": 37321,
+          "utc_offset": -14400,
+          "time_zone": "Eastern Time (US & Canada)",
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 118018,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "FFFFFF",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/627997258978496512/IqOkq8Dl_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/627997258978496512/IqOkq8Dl_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/22386062/1438619339",
+          "profile_link_color": "DD2E44",
+          "profile_sidebar_border_color": "000000",
+          "profile_sidebar_fill_color": "000000",
+          "profile_text_color": "000000",
+          "profile_use_background_image": false,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 2,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "RustUkraine",
+              "name": "Rust Ukraine",
+              "id": 2613408391,
+              "id_str": "2613408391",
+              "indices": [
+                0,
+                12
+              ]
+            },
+            {
+              "screen_name": "ilavriv",
+              "name": "ilavriv",
+              "id": 1671433195,
+              "id_str": "1671433195",
+              "indices": [
+                13,
+                21
+              ]
+            },
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                22,
+                36
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "et"
+      }
     },
     {
       "created_at": "Tue Jul 28 14:14:57 +0000 2015",
@@ -3560,7 +4961,107 @@
       },
       "favorited": false,
       "retweeted": false,
-      "lang": "ru"
+      "lang": "ru",
+      "in_reply_to_status": {
+        "created_at": "Tue Jul 28 13:04:46 +0000 2015",
+        "id": 626015439601147900,
+        "id_str": "626015439601147904",
+        "text": "@rubyunderhood я не рубіст, тому із моїх тві-зірочок толку мало :)",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 626014388709945300,
+        "in_reply_to_status_id_str": "626014388709945344",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 147117873,
+          "id_str": "147117873",
+          "name": "Olena Sovyn",
+          "screen_name": "chorna_kiwka",
+          "location": "Kyiv",
+          "description": "Front-end developer. TEDx volunteer. Coach at @DiyaUA. Trying to make this world a better place to live. You can hire me. Proffesional twitter - @frontendgirl",
+          "url": "http://t.co/RIfyh1e4J4",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "http://t.co/RIfyh1e4J4",
+                  "expanded_url": "http://kiwka.com",
+                  "display_url": "kiwka.com",
+                  "indices": [
+                    0,
+                    22
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 3540,
+          "friends_count": 613,
+          "listed_count": 118,
+          "created_at": "Sun May 23 07:31:49 +0000 2010",
+          "favourites_count": 4763,
+          "utc_offset": 10800,
+          "time_zone": "Kyiv",
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 21947,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "FFFFFF",
+          "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000054301251/455af6a8aeca9401dc3e9b57b2298bd5.jpeg",
+          "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000054301251/455af6a8aeca9401dc3e9b57b2298bd5.jpeg",
+          "profile_background_tile": true,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/464470337619361792/bvmAK6xY_normal.jpeg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/464470337619361792/bvmAK6xY_normal.jpeg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/147117873/1399573251",
+          "profile_link_color": "0099B9",
+          "profile_sidebar_border_color": "FFFFFF",
+          "profile_sidebar_fill_color": "95E8EC",
+          "profile_text_color": "3C3940",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "uk"
+      }
     },
     {
       "created_at": "Tue Jul 28 13:00:35 +0000 2015",
@@ -3604,7 +5105,107 @@
       },
       "favorited": false,
       "retweeted": false,
-      "lang": "ru"
+      "lang": "ru",
+      "in_reply_to_status": {
+        "created_at": "Tue Jul 28 12:56:29 +0000 2015",
+        "id": 626013356449734700,
+        "id_str": "626013356449734657",
+        "text": "@rubyunderhood в мене їх біля сотні,зафоловила тих,кого фоловлять знайомі із рівнем і баченням,яке мені подобається",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 626012299124457500,
+        "in_reply_to_status_id_str": "626012299124457472",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 147117873,
+          "id_str": "147117873",
+          "name": "Olena Sovyn",
+          "screen_name": "chorna_kiwka",
+          "location": "Kyiv",
+          "description": "Front-end developer. TEDx volunteer. Coach at @DiyaUA. Trying to make this world a better place to live. You can hire me. Proffesional twitter - @frontendgirl",
+          "url": "http://t.co/RIfyh1e4J4",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "http://t.co/RIfyh1e4J4",
+                  "expanded_url": "http://kiwka.com",
+                  "display_url": "kiwka.com",
+                  "indices": [
+                    0,
+                    22
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 3540,
+          "friends_count": 613,
+          "listed_count": 118,
+          "created_at": "Sun May 23 07:31:49 +0000 2010",
+          "favourites_count": 4763,
+          "utc_offset": 10800,
+          "time_zone": "Kyiv",
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 21947,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "FFFFFF",
+          "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000054301251/455af6a8aeca9401dc3e9b57b2298bd5.jpeg",
+          "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000054301251/455af6a8aeca9401dc3e9b57b2298bd5.jpeg",
+          "profile_background_tile": true,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/464470337619361792/bvmAK6xY_normal.jpeg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/464470337619361792/bvmAK6xY_normal.jpeg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/147117873/1399573251",
+          "profile_link_color": "0099B9",
+          "profile_sidebar_border_color": "FFFFFF",
+          "profile_sidebar_fill_color": "95E8EC",
+          "profile_text_color": "3C3940",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "uk"
+      }
     },
     {
       "created_at": "Tue Jul 28 12:52:17 +0000 2015",
@@ -3744,7 +5345,107 @@
       },
       "favorited": false,
       "retweeted": false,
-      "lang": "und"
+      "lang": "und",
+      "in_reply_to_status": {
+        "created_at": "Tue Jul 28 10:04:17 +0000 2015",
+        "id": 625970019994894300,
+        "id_str": "625970019994894337",
+        "text": "@rubyunderhood но зачем?",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 625944858532933600,
+        "in_reply_to_status_id_str": "625944858532933632",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 260754563,
+          "id_str": "260754563",
+          "name": "Benjamin Tambourine",
+          "screen_name": "vtambourine",
+          "location": "Rostov-na-Donu, Russia",
+          "description": "У меня все хорошо, у меня велосипед.",
+          "url": "http://t.co/ngh8BnLKvI",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "http://t.co/ngh8BnLKvI",
+                  "expanded_url": "http://alienstook.me/",
+                  "display_url": "alienstook.me",
+                  "indices": [
+                    0,
+                    22
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 259,
+          "friends_count": 266,
+          "listed_count": 12,
+          "created_at": "Fri Mar 04 14:43:31 +0000 2011",
+          "favourites_count": 36,
+          "utc_offset": 10800,
+          "time_zone": "Moscow",
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 2841,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "C0DEED",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/378800000717260568/12da63ab7813b9169f0692681c815b98_normal.jpeg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000717260568/12da63ab7813b9169f0692681c815b98_normal.jpeg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/260754563/1362255832",
+          "profile_link_color": "0084B4",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": true,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      }
     },
     {
       "created_at": "Tue Jul 28 09:55:42 +0000 2015",
@@ -3788,7 +5489,140 @@
       },
       "favorited": false,
       "retweeted": false,
-      "lang": "ru"
+      "lang": "ru",
+      "in_reply_to_status": {
+        "created_at": "Tue Jul 28 09:39:54 +0000 2015",
+        "id": 625963885871427600,
+        "id_str": "625963885871427584",
+        "text": "@rubyunderhood Ну про сервер torquebox, что-нибудь банальное очевидное и не очень. Зачем, плюс, как использоваться плюсы.",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 625963593985597400,
+        "in_reply_to_status_id_str": "625963593985597440",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 87775435,
+          "id_str": "87775435",
+          "name": "Влад Лисовский",
+          "screen_name": "lisovskyvlad",
+          "location": "Hamburg, Deutschland",
+          "description": "ruby, rails, хороший код, паттерны/рефакторинг, вот это всё.",
+          "url": "http://t.co/w3C8kSiyoR",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "http://t.co/w3C8kSiyoR",
+                  "expanded_url": "http://lisovskyvlad.github.io",
+                  "display_url": "lisovskyvlad.github.io",
+                  "indices": [
+                    0,
+                    22
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 603,
+          "friends_count": 1166,
+          "listed_count": 34,
+          "created_at": "Thu Nov 05 20:30:13 +0000 2009",
+          "favourites_count": 3384,
+          "utc_offset": 10800,
+          "time_zone": "Moscow",
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 13584,
+          "lang": "ru",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": true,
+          "profile_background_color": "F0D803",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/655877010582020096/Tu2Velky_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/655877010582020096/Tu2Velky_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/87775435/1445208459",
+          "profile_link_color": "FA743E",
+          "profile_sidebar_border_color": "FFF8AD",
+          "profile_sidebar_fill_color": "F6FFD1",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": true,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+          "id": "5bcd72da50f0ee77",
+          "url": "https://api.twitter.com/1.1/geo/id/5bcd72da50f0ee77.json",
+          "place_type": "city",
+          "name": "Hamburg",
+          "full_name": "Hamburg, Deutschland",
+          "country_code": "DE",
+          "country": "Deutschland",
+          "contained_within": [],
+          "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  8.4201604,
+                  53.395118
+                ],
+                [
+                  10.325199,
+                  53.395118
+                ],
+                [
+                  10.325199,
+                  53.9646546
+                ],
+                [
+                  8.4201604,
+                  53.9646546
+                ]
+              ]
+            ]
+          },
+          "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      }
     },
     {
       "created_at": "Tue Jul 28 09:53:41 +0000 2015",
@@ -3832,7 +5666,140 @@
       },
       "favorited": false,
       "retweeted": false,
-      "lang": "ru"
+      "lang": "ru",
+      "in_reply_to_status": {
+        "created_at": "Tue Jul 28 09:39:54 +0000 2015",
+        "id": 625963885871427600,
+        "id_str": "625963885871427584",
+        "text": "@rubyunderhood Ну про сервер torquebox, что-нибудь банальное очевидное и не очень. Зачем, плюс, как использоваться плюсы.",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 625963593985597400,
+        "in_reply_to_status_id_str": "625963593985597440",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 87775435,
+          "id_str": "87775435",
+          "name": "Влад Лисовский",
+          "screen_name": "lisovskyvlad",
+          "location": "Hamburg, Deutschland",
+          "description": "ruby, rails, хороший код, паттерны/рефакторинг, вот это всё.",
+          "url": "http://t.co/w3C8kSiyoR",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "http://t.co/w3C8kSiyoR",
+                  "expanded_url": "http://lisovskyvlad.github.io",
+                  "display_url": "lisovskyvlad.github.io",
+                  "indices": [
+                    0,
+                    22
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 603,
+          "friends_count": 1166,
+          "listed_count": 34,
+          "created_at": "Thu Nov 05 20:30:13 +0000 2009",
+          "favourites_count": 3384,
+          "utc_offset": 10800,
+          "time_zone": "Moscow",
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 13584,
+          "lang": "ru",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": true,
+          "profile_background_color": "F0D803",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/655877010582020096/Tu2Velky_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/655877010582020096/Tu2Velky_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/87775435/1445208459",
+          "profile_link_color": "FA743E",
+          "profile_sidebar_border_color": "FFF8AD",
+          "profile_sidebar_fill_color": "F6FFD1",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": true,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+          "id": "5bcd72da50f0ee77",
+          "url": "https://api.twitter.com/1.1/geo/id/5bcd72da50f0ee77.json",
+          "place_type": "city",
+          "name": "Hamburg",
+          "full_name": "Hamburg, Deutschland",
+          "country_code": "DE",
+          "country": "Deutschland",
+          "contained_within": [],
+          "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  8.4201604,
+                  53.395118
+                ],
+                [
+                  10.325199,
+                  53.395118
+                ],
+                [
+                  10.325199,
+                  53.9646546
+                ],
+                [
+                  8.4201604,
+                  53.9646546
+                ]
+              ]
+            ]
+          },
+          "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      }
     },
     {
       "created_at": "Tue Jul 28 09:50:51 +0000 2015",
@@ -3884,7 +5851,140 @@
       },
       "favorited": false,
       "retweeted": false,
-      "lang": "und"
+      "lang": "und",
+      "in_reply_to_status": {
+        "created_at": "Tue Jul 28 09:39:54 +0000 2015",
+        "id": 625963885871427600,
+        "id_str": "625963885871427584",
+        "text": "@rubyunderhood Ну про сервер torquebox, что-нибудь банальное очевидное и не очень. Зачем, плюс, как использоваться плюсы.",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 625963593985597400,
+        "in_reply_to_status_id_str": "625963593985597440",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 87775435,
+          "id_str": "87775435",
+          "name": "Влад Лисовский",
+          "screen_name": "lisovskyvlad",
+          "location": "Hamburg, Deutschland",
+          "description": "ruby, rails, хороший код, паттерны/рефакторинг, вот это всё.",
+          "url": "http://t.co/w3C8kSiyoR",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "http://t.co/w3C8kSiyoR",
+                  "expanded_url": "http://lisovskyvlad.github.io",
+                  "display_url": "lisovskyvlad.github.io",
+                  "indices": [
+                    0,
+                    22
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 603,
+          "friends_count": 1166,
+          "listed_count": 34,
+          "created_at": "Thu Nov 05 20:30:13 +0000 2009",
+          "favourites_count": 3384,
+          "utc_offset": 10800,
+          "time_zone": "Moscow",
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 13584,
+          "lang": "ru",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": true,
+          "profile_background_color": "F0D803",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/655877010582020096/Tu2Velky_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/655877010582020096/Tu2Velky_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/87775435/1445208459",
+          "profile_link_color": "FA743E",
+          "profile_sidebar_border_color": "FFF8AD",
+          "profile_sidebar_fill_color": "F6FFD1",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": true,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+          "id": "5bcd72da50f0ee77",
+          "url": "https://api.twitter.com/1.1/geo/id/5bcd72da50f0ee77.json",
+          "place_type": "city",
+          "name": "Hamburg",
+          "full_name": "Hamburg, Deutschland",
+          "country_code": "DE",
+          "country": "Deutschland",
+          "contained_within": [],
+          "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  8.4201604,
+                  53.395118
+                ],
+                [
+                  10.325199,
+                  53.395118
+                ],
+                [
+                  10.325199,
+                  53.9646546
+                ],
+                [
+                  8.4201604,
+                  53.9646546
+                ]
+              ]
+            ]
+          },
+          "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      }
     },
     {
       "created_at": "Tue Jul 28 09:44:11 +0000 2015",
@@ -4059,7 +6159,140 @@
       },
       "favorited": false,
       "retweeted": false,
-      "lang": "ru"
+      "lang": "ru",
+      "in_reply_to_status": {
+        "created_at": "Tue Jul 28 08:49:57 +0000 2015",
+        "id": 625951313545834500,
+        "id_str": "625951313545834496",
+        "text": "@rubyunderhood рассказывай",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 625944858532933600,
+        "in_reply_to_status_id_str": "625944858532933632",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 87775435,
+          "id_str": "87775435",
+          "name": "Влад Лисовский",
+          "screen_name": "lisovskyvlad",
+          "location": "Hamburg, Deutschland",
+          "description": "ruby, rails, хороший код, паттерны/рефакторинг, вот это всё.",
+          "url": "http://t.co/w3C8kSiyoR",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "http://t.co/w3C8kSiyoR",
+                  "expanded_url": "http://lisovskyvlad.github.io",
+                  "display_url": "lisovskyvlad.github.io",
+                  "indices": [
+                    0,
+                    22
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 603,
+          "friends_count": 1166,
+          "listed_count": 34,
+          "created_at": "Thu Nov 05 20:30:13 +0000 2009",
+          "favourites_count": 3384,
+          "utc_offset": 10800,
+          "time_zone": "Moscow",
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 13584,
+          "lang": "ru",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": true,
+          "profile_background_color": "F0D803",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/655877010582020096/Tu2Velky_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/655877010582020096/Tu2Velky_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/87775435/1445208459",
+          "profile_link_color": "FA743E",
+          "profile_sidebar_border_color": "FFF8AD",
+          "profile_sidebar_fill_color": "F6FFD1",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": true,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+          "id": "5bcd72da50f0ee77",
+          "url": "https://api.twitter.com/1.1/geo/id/5bcd72da50f0ee77.json",
+          "place_type": "city",
+          "name": "Hamburg",
+          "full_name": "Hamburg, Deutschland",
+          "country_code": "DE",
+          "country": "Deutschland",
+          "contained_within": [],
+          "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  8.4201604,
+                  53.395118
+                ],
+                [
+                  10.325199,
+                  53.395118
+                ],
+                [
+                  10.325199,
+                  53.9646546
+                ],
+                [
+                  8.4201604,
+                  53.9646546
+                ]
+              ]
+            ]
+          },
+          "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      }
     },
     {
       "created_at": "Tue Jul 28 08:37:40 +0000 2015",
@@ -4111,7 +6344,106 @@
       },
       "favorited": false,
       "retweeted": false,
-      "lang": "ru"
+      "lang": "ru",
+      "in_reply_to_status": {
+        "created_at": "Tue Jul 28 08:28:28 +0000 2015",
+        "id": 625945905695473700,
+        "id_str": "625945905695473664",
+        "text": "@rubyunderhood jruby обирали просто заради jruby чи з допомогою нього вирішуються якісь задачі.",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 625944858532933600,
+        "in_reply_to_status_id_str": "625944858532933632",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 1671433195,
+          "id_str": "1671433195",
+          "name": "ilavriv",
+          "screen_name": "ilavriv",
+          "location": "Lviv,Ukraine",
+          "description": "Python, Ruby, Rust, JavaScript developer, web branch leader && lecturer at @pllug_community",
+          "url": "https://t.co/6fhdPGdHaN",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https://t.co/6fhdPGdHaN",
+                  "expanded_url": "https://ilavriv.wordpress.com",
+                  "display_url": "ilavriv.wordpress.com",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 100,
+          "friends_count": 184,
+          "listed_count": 14,
+          "created_at": "Wed Aug 14 20:44:37 +0000 2013",
+          "favourites_count": 495,
+          "utc_offset": -25200,
+          "time_zone": "Pacific Time (US & Canada)",
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 4149,
+          "lang": "uk",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "89C9FA",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/644219737753325568/7ldSIZ9A_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/644219737753325568/7ldSIZ9A_normal.jpg",
+          "profile_link_color": "89C9FA",
+          "profile_sidebar_border_color": "000000",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": false,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "uk"
+      }
     },
     {
       "created_at": "Tue Jul 28 08:33:29 +0000 2015",
@@ -4352,7 +6684,93 @@
       },
       "favorited": false,
       "retweeted": false,
-      "lang": "ru"
+      "lang": "ru",
+      "in_reply_to_status": {
+        "created_at": "Mon Jul 27 13:03:34 +0000 2015",
+        "id": 625652751662469100,
+        "id_str": "625652751662469121",
+        "text": "@rubyunderhood в одном продакшене используем jruby+webmachine+mizuno(веб-сервер) для внутреннего апи, деплой capistrano, полет нормальный",
+        "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 625651274416001000,
+        "in_reply_to_status_id_str": "625651274416001024",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 14418430,
+          "id_str": "14418430",
+          "name": "YuryBatenko",
+          "screen_name": "svenyurgensson",
+          "location": "Krasnoyarsk",
+          "description": "co-programmer",
+          "url": null,
+          "entities": {
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 366,
+          "friends_count": 662,
+          "listed_count": 23,
+          "created_at": "Thu Apr 17 09:23:33 +0000 2008",
+          "favourites_count": 778,
+          "utc_offset": 25200,
+          "time_zone": "Krasnoyarsk",
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 6617,
+          "lang": "ru",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "399AD6",
+          "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/356518683/bosonogoe.ru_SSSR_105.jpg",
+          "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/356518683/bosonogoe.ru_SSSR_105.jpg",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1142924312/DSCN2862_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1142924312/DSCN2862_normal.jpg",
+          "profile_link_color": "0084B4",
+          "profile_sidebar_border_color": "690A0A",
+          "profile_sidebar_fill_color": "50C4FA",
+          "profile_text_color": "0A080A",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      }
     },
     {
       "created_at": "Mon Jul 27 12:57:42 +0000 2015",
@@ -4440,7 +6858,94 @@
       "favorited": false,
       "retweeted": false,
       "possibly_sensitive": false,
-      "lang": "ru"
+      "lang": "ru",
+      "in_reply_to_status": {
+        "created_at": "Mon Jul 27 11:08:41 +0000 2015",
+        "id": 625623839255461900,
+        "id_str": "625623839255461888",
+        "text": "@rubyunderhood какие курсы на Code School маст хев для руби/рельс разработчика?",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 625546204403925000,
+        "in_reply_to_status_id_str": "625546204403924992",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 575545155,
+          "id_str": "575545155",
+          "name": "Terry",
+          "screen_name": "terrysahaidak",
+          "location": "Ternopil, Ukraine",
+          "description": "",
+          "url": null,
+          "entities": {
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 10,
+          "friends_count": 23,
+          "listed_count": 0,
+          "created_at": "Wed May 09 15:51:32 +0000 2012",
+          "favourites_count": 54,
+          "utc_offset": 10800,
+          "time_zone": "Kyiv",
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 51,
+          "lang": "uk",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "000000",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/617444855371841536/J8lLw0Qv_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/617444855371841536/J8lLw0Qv_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/575545155/1436045208",
+          "profile_link_color": "4A913C",
+          "profile_sidebar_border_color": "000000",
+          "profile_sidebar_fill_color": "000000",
+          "profile_text_color": "000000",
+          "profile_use_background_image": false,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      }
     },
     {
       "created_at": "Mon Jul 27 10:32:49 +0000 2015",
@@ -4811,7 +7316,94 @@
       },
       "favorited": false,
       "retweeted": false,
-      "lang": "ru"
+      "lang": "ru",
+      "in_reply_to_status": {
+        "created_at": "Mon Jul 27 10:01:21 +0000 2015",
+        "id": 625606895408152600,
+        "id_str": "625606895408152578",
+        "text": "@rubyunderhood Сейчас набирают обороты различные онлайн и не только курсы по обучению RoR \"с нуля\". Как относишься к этому явлению?",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 625525217977323500,
+        "in_reply_to_status_id_str": "625525217977323520",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 92529952,
+          "id_str": "92529952",
+          "name": "rainrb",
+          "screen_name": "rainrb",
+          "location": "Rostov-on-Don",
+          "description": "unix, osx, web, ruby on rails, нереляционные базы данных, java, c++, функциональщина, вообще все, что связано с разработкой ПО, музыка, бас-гитара, всякие штуки",
+          "url": null,
+          "entities": {
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 329,
+          "friends_count": 765,
+          "listed_count": 7,
+          "created_at": "Wed Nov 25 14:14:23 +0000 2009",
+          "favourites_count": 118,
+          "utc_offset": 10800,
+          "time_zone": "Nairobi",
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 2173,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "C0DEED",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/3049981393/88a9537ad1f9e301dcb0c1b91d15dfe3_normal.jpeg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/3049981393/88a9537ad1f9e301dcb0c1b91d15dfe3_normal.jpeg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/92529952/1358931374",
+          "profile_link_color": "0084B4",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": true,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      }
     },
     {
       "created_at": "Mon Jul 27 10:11:39 +0000 2015",
@@ -4855,7 +7447,94 @@
       },
       "favorited": false,
       "retweeted": false,
-      "lang": "ru"
+      "lang": "ru",
+      "in_reply_to_status": {
+        "created_at": "Mon Jul 27 10:01:21 +0000 2015",
+        "id": 625606895408152600,
+        "id_str": "625606895408152578",
+        "text": "@rubyunderhood Сейчас набирают обороты различные онлайн и не только курсы по обучению RoR \"с нуля\". Как относишься к этому явлению?",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 625525217977323500,
+        "in_reply_to_status_id_str": "625525217977323520",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 92529952,
+          "id_str": "92529952",
+          "name": "rainrb",
+          "screen_name": "rainrb",
+          "location": "Rostov-on-Don",
+          "description": "unix, osx, web, ruby on rails, нереляционные базы данных, java, c++, функциональщина, вообще все, что связано с разработкой ПО, музыка, бас-гитара, всякие штуки",
+          "url": null,
+          "entities": {
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 329,
+          "friends_count": 765,
+          "listed_count": 7,
+          "created_at": "Wed Nov 25 14:14:23 +0000 2009",
+          "favourites_count": 118,
+          "utc_offset": 10800,
+          "time_zone": "Nairobi",
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 2173,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "C0DEED",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/3049981393/88a9537ad1f9e301dcb0c1b91d15dfe3_normal.jpeg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/3049981393/88a9537ad1f9e301dcb0c1b91d15dfe3_normal.jpeg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/92529952/1358931374",
+          "profile_link_color": "0084B4",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": true,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      }
     },
     {
       "created_at": "Mon Jul 27 10:08:26 +0000 2015",
@@ -4924,7 +7603,94 @@
       },
       "favorited": false,
       "retweeted": false,
-      "lang": "ru"
+      "lang": "ru",
+      "in_reply_to_status": {
+        "created_at": "Mon Jul 27 10:01:21 +0000 2015",
+        "id": 625606895408152600,
+        "id_str": "625606895408152578",
+        "text": "@rubyunderhood Сейчас набирают обороты различные онлайн и не только курсы по обучению RoR \"с нуля\". Как относишься к этому явлению?",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 625525217977323500,
+        "in_reply_to_status_id_str": "625525217977323520",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 92529952,
+          "id_str": "92529952",
+          "name": "rainrb",
+          "screen_name": "rainrb",
+          "location": "Rostov-on-Don",
+          "description": "unix, osx, web, ruby on rails, нереляционные базы данных, java, c++, функциональщина, вообще все, что связано с разработкой ПО, музыка, бас-гитара, всякие штуки",
+          "url": null,
+          "entities": {
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 329,
+          "friends_count": 765,
+          "listed_count": 7,
+          "created_at": "Wed Nov 25 14:14:23 +0000 2009",
+          "favourites_count": 118,
+          "utc_offset": 10800,
+          "time_zone": "Nairobi",
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 2173,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "C0DEED",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/3049981393/88a9537ad1f9e301dcb0c1b91d15dfe3_normal.jpeg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/3049981393/88a9537ad1f9e301dcb0c1b91d15dfe3_normal.jpeg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/92529952/1358931374",
+          "profile_link_color": "0084B4",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": true,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      }
     },
     {
       "created_at": "Mon Jul 27 10:08:21 +0000 2015",
@@ -5086,7 +7852,93 @@
       },
       "favorited": false,
       "retweeted": false,
-      "lang": "ru"
+      "lang": "ru",
+      "in_reply_to_status": {
+        "created_at": "Mon Jul 27 07:56:31 +0000 2015",
+        "id": 625575479765004300,
+        "id_str": "625575479765004289",
+        "text": "@rubyunderhood как учил? когда учил? со скольки учил?",
+        "source": "<a href=\"http://aaplab.com\" rel=\"nofollow\">Robird for Android</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 625525217977323500,
+        "in_reply_to_status_id_str": "625525217977323520",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 1154575676,
+          "id_str": "1154575676",
+          "name": "Никита Плотников",
+          "screen_name": "pl__nk",
+          "location": "",
+          "description": "",
+          "url": null,
+          "entities": {
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 28,
+          "friends_count": 128,
+          "listed_count": 2,
+          "created_at": "Wed Feb 06 17:16:00 +0000 2013",
+          "favourites_count": 209,
+          "utc_offset": 21600,
+          "time_zone": "Almaty",
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 2409,
+          "lang": "ru",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "15305D",
+          "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/506851506163695616/JZWnPRiC.png",
+          "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/506851506163695616/JZWnPRiC.png",
+          "profile_background_tile": true,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/486171332300640256/96y2AdDw_normal.jpeg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/486171332300640256/96y2AdDw_normal.jpeg",
+          "profile_link_color": "474676",
+          "profile_sidebar_border_color": "983A68",
+          "profile_sidebar_fill_color": "A895A3",
+          "profile_text_color": "8C99A1",
+          "profile_use_background_image": false,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      }
     },
     {
       "created_at": "Mon Jul 27 08:41:24 +0000 2015",
@@ -5130,7 +7982,93 @@
       },
       "favorited": false,
       "retweeted": false,
-      "lang": "ru"
+      "lang": "ru",
+      "in_reply_to_status": {
+        "created_at": "Mon Jul 27 08:37:10 +0000 2015",
+        "id": 625585708099629000,
+        "id_str": "625585708099629056",
+        "text": "@rubyunderhood а как на работу устроился? какие знания потребовались ?",
+        "source": "<a href=\"http://aaplab.com\" rel=\"nofollow\">Robird for Android</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 625582874998231000,
+        "in_reply_to_status_id_str": "625582874998231040",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 1154575676,
+          "id_str": "1154575676",
+          "name": "Никита Плотников",
+          "screen_name": "pl__nk",
+          "location": "",
+          "description": "",
+          "url": null,
+          "entities": {
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 28,
+          "friends_count": 128,
+          "listed_count": 2,
+          "created_at": "Wed Feb 06 17:16:00 +0000 2013",
+          "favourites_count": 209,
+          "utc_offset": 21600,
+          "time_zone": "Almaty",
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 2409,
+          "lang": "ru",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "15305D",
+          "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/506851506163695616/JZWnPRiC.png",
+          "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/506851506163695616/JZWnPRiC.png",
+          "profile_background_tile": true,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/486171332300640256/96y2AdDw_normal.jpeg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/486171332300640256/96y2AdDw_normal.jpeg",
+          "profile_link_color": "474676",
+          "profile_sidebar_border_color": "983A68",
+          "profile_sidebar_fill_color": "A895A3",
+          "profile_text_color": "8C99A1",
+          "profile_use_background_image": false,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      }
     },
     {
       "created_at": "Mon Jul 27 08:40:21 +0000 2015",
@@ -5174,7 +8112,93 @@
       },
       "favorited": false,
       "retweeted": false,
-      "lang": "ru"
+      "lang": "ru",
+      "in_reply_to_status": {
+        "created_at": "Mon Jul 27 08:37:10 +0000 2015",
+        "id": 625585708099629000,
+        "id_str": "625585708099629056",
+        "text": "@rubyunderhood а как на работу устроился? какие знания потребовались ?",
+        "source": "<a href=\"http://aaplab.com\" rel=\"nofollow\">Robird for Android</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 625582874998231000,
+        "in_reply_to_status_id_str": "625582874998231040",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 1154575676,
+          "id_str": "1154575676",
+          "name": "Никита Плотников",
+          "screen_name": "pl__nk",
+          "location": "",
+          "description": "",
+          "url": null,
+          "entities": {
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 28,
+          "friends_count": 128,
+          "listed_count": 2,
+          "created_at": "Wed Feb 06 17:16:00 +0000 2013",
+          "favourites_count": 209,
+          "utc_offset": 21600,
+          "time_zone": "Almaty",
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 2409,
+          "lang": "ru",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "15305D",
+          "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/506851506163695616/JZWnPRiC.png",
+          "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/506851506163695616/JZWnPRiC.png",
+          "profile_background_tile": true,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/486171332300640256/96y2AdDw_normal.jpeg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/486171332300640256/96y2AdDw_normal.jpeg",
+          "profile_link_color": "474676",
+          "profile_sidebar_border_color": "983A68",
+          "profile_sidebar_fill_color": "A895A3",
+          "profile_text_color": "8C99A1",
+          "profile_use_background_image": false,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      }
     },
     {
       "created_at": "Mon Jul 27 08:38:43 +0000 2015",
@@ -5316,7 +8340,106 @@
       },
       "favorited": false,
       "retweeted": false,
-      "lang": "ru"
+      "lang": "ru",
+      "in_reply_to_status": {
+        "created_at": "Mon Jul 27 07:53:03 +0000 2015",
+        "id": 625574605105840100,
+        "id_str": "625574605105840128",
+        "text": "@rubyunderhood к черту руби, расскажи про аниме)",
+        "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 625525217977323500,
+        "in_reply_to_status_id_str": "625525217977323520",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 16743832,
+          "id_str": "16743832",
+          "name": "Andrey Savchenko",
+          "screen_name": "ptico",
+          "location": "Киев",
+          "description": "Ruby-geek, OOD enthusiast, Social drinker. CTO@Aejis, english version here: @ptico_eng",
+          "url": "http://t.co/2Sm2A9xIMa",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "http://t.co/2Sm2A9xIMa",
+                  "expanded_url": "http://github.com/Ptico",
+                  "display_url": "github.com/Ptico",
+                  "indices": [
+                    0,
+                    22
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 579,
+          "friends_count": 400,
+          "listed_count": 41,
+          "created_at": "Tue Oct 14 19:10:23 +0000 2008",
+          "favourites_count": 178,
+          "utc_offset": 10800,
+          "time_zone": "Kyiv",
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 8231,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "C0DEED",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/637086673281527808/-ee20k4R_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/637086673281527808/-ee20k4R_normal.jpg",
+          "profile_link_color": "0084B4",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": true,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      }
     },
     {
       "created_at": "Mon Jul 27 08:25:54 +0000 2015",
@@ -5360,7 +8483,93 @@
       },
       "favorited": false,
       "retweeted": false,
-      "lang": "ru"
+      "lang": "ru",
+      "in_reply_to_status": {
+        "created_at": "Mon Jul 27 07:56:31 +0000 2015",
+        "id": 625575479765004300,
+        "id_str": "625575479765004289",
+        "text": "@rubyunderhood как учил? когда учил? со скольки учил?",
+        "source": "<a href=\"http://aaplab.com\" rel=\"nofollow\">Robird for Android</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 625525217977323500,
+        "in_reply_to_status_id_str": "625525217977323520",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 1154575676,
+          "id_str": "1154575676",
+          "name": "Никита Плотников",
+          "screen_name": "pl__nk",
+          "location": "",
+          "description": "",
+          "url": null,
+          "entities": {
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 28,
+          "friends_count": 128,
+          "listed_count": 2,
+          "created_at": "Wed Feb 06 17:16:00 +0000 2013",
+          "favourites_count": 209,
+          "utc_offset": 21600,
+          "time_zone": "Almaty",
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 2409,
+          "lang": "ru",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "15305D",
+          "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/506851506163695616/JZWnPRiC.png",
+          "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/506851506163695616/JZWnPRiC.png",
+          "profile_background_tile": true,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/486171332300640256/96y2AdDw_normal.jpeg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/486171332300640256/96y2AdDw_normal.jpeg",
+          "profile_link_color": "474676",
+          "profile_sidebar_border_color": "983A68",
+          "profile_sidebar_fill_color": "A895A3",
+          "profile_text_color": "8C99A1",
+          "profile_use_background_image": false,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      }
     },
     {
       "created_at": "Mon Jul 27 08:23:08 +0000 2015",
@@ -5404,7 +8613,93 @@
       },
       "favorited": false,
       "retweeted": false,
-      "lang": "ru"
+      "lang": "ru",
+      "in_reply_to_status": {
+        "created_at": "Mon Jul 27 07:56:31 +0000 2015",
+        "id": 625575479765004300,
+        "id_str": "625575479765004289",
+        "text": "@rubyunderhood как учил? когда учил? со скольки учил?",
+        "source": "<a href=\"http://aaplab.com\" rel=\"nofollow\">Robird for Android</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 625525217977323500,
+        "in_reply_to_status_id_str": "625525217977323520",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 1154575676,
+          "id_str": "1154575676",
+          "name": "Никита Плотников",
+          "screen_name": "pl__nk",
+          "location": "",
+          "description": "",
+          "url": null,
+          "entities": {
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 28,
+          "friends_count": 128,
+          "listed_count": 2,
+          "created_at": "Wed Feb 06 17:16:00 +0000 2013",
+          "favourites_count": 209,
+          "utc_offset": 21600,
+          "time_zone": "Almaty",
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 2409,
+          "lang": "ru",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "15305D",
+          "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/506851506163695616/JZWnPRiC.png",
+          "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/506851506163695616/JZWnPRiC.png",
+          "profile_background_tile": true,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/486171332300640256/96y2AdDw_normal.jpeg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/486171332300640256/96y2AdDw_normal.jpeg",
+          "profile_link_color": "474676",
+          "profile_sidebar_border_color": "983A68",
+          "profile_sidebar_fill_color": "A895A3",
+          "profile_text_color": "8C99A1",
+          "profile_use_background_image": false,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      }
     },
     {
       "created_at": "Mon Jul 27 08:22:42 +0000 2015",
@@ -5546,7 +8841,140 @@
       },
       "favorited": false,
       "retweeted": false,
-      "lang": "ru"
+      "lang": "ru",
+      "in_reply_to_status": {
+        "created_at": "Mon Jul 27 06:26:26 +0000 2015",
+        "id": 625552810810064900,
+        "id_str": "625552810810064896",
+        "text": "@rubyunderhood как думаешь на ruby можно написать wordpress?",
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 625521138916008000,
+        "in_reply_to_status_id_str": "625521138916007936",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 18864603,
+          "id_str": "18864603",
+          "name": "MpaK",
+          "screen_name": "mpak999",
+          "location": "Koh Samui, Thailand",
+          "description": "Full Stack Ruby Developer, AngularJS fan, Design4Underground metal bands, music & movies fan",
+          "url": "http://t.co/JhxAEjVfSp",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "http://t.co/JhxAEjVfSp",
+                  "expanded_url": "http://www.mrak7.com",
+                  "display_url": "mrak7.com",
+                  "indices": [
+                    0,
+                    22
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 929,
+          "friends_count": 817,
+          "listed_count": 142,
+          "created_at": "Sun Jan 11 11:48:37 +0000 2009",
+          "favourites_count": 722,
+          "utc_offset": 18000,
+          "time_zone": "Ekaterinburg",
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 16832,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "352726",
+          "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/427262802/sands.jpg",
+          "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/427262802/sands.jpg",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/438245837957627904/r_emBJU4_normal.jpeg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/438245837957627904/r_emBJU4_normal.jpeg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/18864603/1423556588",
+          "profile_link_color": "D02B55",
+          "profile_sidebar_border_color": "FFFFFF",
+          "profile_sidebar_fill_color": "EFEFEF",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+          "id": "0125d4fb3bff6e72",
+          "url": "https://api.twitter.com/1.1/geo/id/0125d4fb3bff6e72.json",
+          "place_type": "city",
+          "name": "Maret",
+          "full_name": "Maret, Surat Thani",
+          "country_code": "TH",
+          "country": "ประเทศไทย",
+          "contained_within": [],
+          "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  100.0142468,
+                  9.4263494
+                ],
+                [
+                  100.0699613,
+                  9.4263494
+                ],
+                [
+                  100.0699613,
+                  9.4797851
+                ],
+                [
+                  100.0142468,
+                  9.4797851
+                ]
+              ]
+            ]
+          },
+          "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      }
     },
     {
       "created_at": "Mon Jul 27 06:28:30 +0000 2015",
@@ -5721,7 +9149,106 @@
       },
       "favorited": false,
       "retweeted": false,
-      "lang": "ru"
+      "lang": "ru",
+      "in_reply_to_status": {
+        "created_at": "Mon Jul 27 06:22:48 +0000 2015",
+        "id": 625551892735782900,
+        "id_str": "625551892735782912",
+        "text": "@rubyunderhood кодинг з шаренням скріна по скайпу рахується?",
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 625549701434220500,
+        "in_reply_to_status_id_str": "625549701434220544",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 1671433195,
+          "id_str": "1671433195",
+          "name": "ilavriv",
+          "screen_name": "ilavriv",
+          "location": "Lviv,Ukraine",
+          "description": "Python, Ruby, Rust, JavaScript developer, web branch leader && lecturer at @pllug_community",
+          "url": "https://t.co/6fhdPGdHaN",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https://t.co/6fhdPGdHaN",
+                  "expanded_url": "https://ilavriv.wordpress.com",
+                  "display_url": "ilavriv.wordpress.com",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 100,
+          "friends_count": 184,
+          "listed_count": 14,
+          "created_at": "Wed Aug 14 20:44:37 +0000 2013",
+          "favourites_count": 495,
+          "utc_offset": -25200,
+          "time_zone": "Pacific Time (US & Canada)",
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 4149,
+          "lang": "uk",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "89C9FA",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/644219737753325568/7ldSIZ9A_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/644219737753325568/7ldSIZ9A_normal.jpg",
+          "profile_link_color": "89C9FA",
+          "profile_sidebar_border_color": "000000",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": false,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "uk"
+      }
     },
     {
       "created_at": "Mon Jul 27 06:14:05 +0000 2015",
@@ -5798,7 +9325,107 @@
       },
       "favorited": false,
       "retweeted": false,
-      "lang": "ru"
+      "lang": "ru",
+      "in_reply_to_status": {
+        "created_at": "Mon Jul 27 05:20:42 +0000 2015",
+        "id": 625536267149774800,
+        "id_str": "625536267149774848",
+        "text": "@rubyunderhood как правильно растить стажеров по-твоему?",
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 625524593042817000,
+        "in_reply_to_status_id_str": "625524593042817024",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 1903684836,
+          "id_str": "1903684836",
+          "name": "Джон, просто Джон",
+          "screen_name": "sudodoki",
+          "location": "Kyiv, Ukraine",
+          "description": "Where do I stick my contributions in? Member of @kottans_org gang. Ping me to join @nodeschool/kyiv.",
+          "url": "http://t.co/wEHJp0Z2DV",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "http://t.co/wEHJp0Z2DV",
+                  "expanded_url": "http://sudodoki.name/",
+                  "display_url": "sudodoki.name",
+                  "indices": [
+                    0,
+                    22
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 635,
+          "friends_count": 809,
+          "listed_count": 42,
+          "created_at": "Wed Sep 25 10:30:52 +0000 2013",
+          "favourites_count": 6706,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 4828,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "C0DEED",
+          "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/589891304575733760/82LGi3jD.png",
+          "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/589891304575733760/82LGi3jD.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/643040521305333760/3wfduFmU_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/643040521305333760/3wfduFmU_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/1903684836/1429474866",
+          "profile_link_color": "0084B4",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      }
     },
     {
       "created_at": "Mon Jul 27 05:55:35 +0000 2015",
@@ -5842,7 +9469,107 @@
       },
       "favorited": false,
       "retweeted": false,
-      "lang": "ru"
+      "lang": "ru",
+      "in_reply_to_status": {
+        "created_at": "Mon Jul 27 05:20:42 +0000 2015",
+        "id": 625536267149774800,
+        "id_str": "625536267149774848",
+        "text": "@rubyunderhood как правильно растить стажеров по-твоему?",
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 625524593042817000,
+        "in_reply_to_status_id_str": "625524593042817024",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 1903684836,
+          "id_str": "1903684836",
+          "name": "Джон, просто Джон",
+          "screen_name": "sudodoki",
+          "location": "Kyiv, Ukraine",
+          "description": "Where do I stick my contributions in? Member of @kottans_org gang. Ping me to join @nodeschool/kyiv.",
+          "url": "http://t.co/wEHJp0Z2DV",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "http://t.co/wEHJp0Z2DV",
+                  "expanded_url": "http://sudodoki.name/",
+                  "display_url": "sudodoki.name",
+                  "indices": [
+                    0,
+                    22
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 635,
+          "friends_count": 809,
+          "listed_count": 42,
+          "created_at": "Wed Sep 25 10:30:52 +0000 2013",
+          "favourites_count": 6706,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 4828,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "C0DEED",
+          "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/589891304575733760/82LGi3jD.png",
+          "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/589891304575733760/82LGi3jD.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/643040521305333760/3wfduFmU_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/643040521305333760/3wfduFmU_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/1903684836/1429474866",
+          "profile_link_color": "0084B4",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      }
     },
     {
       "created_at": "Mon Jul 27 05:55:19 +0000 2015",
@@ -5886,7 +9613,107 @@
       },
       "favorited": false,
       "retweeted": false,
-      "lang": "ru"
+      "lang": "ru",
+      "in_reply_to_status": {
+        "created_at": "Mon Jul 27 05:20:42 +0000 2015",
+        "id": 625536267149774800,
+        "id_str": "625536267149774848",
+        "text": "@rubyunderhood как правильно растить стажеров по-твоему?",
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 625524593042817000,
+        "in_reply_to_status_id_str": "625524593042817024",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 1903684836,
+          "id_str": "1903684836",
+          "name": "Джон, просто Джон",
+          "screen_name": "sudodoki",
+          "location": "Kyiv, Ukraine",
+          "description": "Where do I stick my contributions in? Member of @kottans_org gang. Ping me to join @nodeschool/kyiv.",
+          "url": "http://t.co/wEHJp0Z2DV",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "http://t.co/wEHJp0Z2DV",
+                  "expanded_url": "http://sudodoki.name/",
+                  "display_url": "sudodoki.name",
+                  "indices": [
+                    0,
+                    22
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 635,
+          "friends_count": 809,
+          "listed_count": 42,
+          "created_at": "Wed Sep 25 10:30:52 +0000 2013",
+          "favourites_count": 6706,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 4828,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "C0DEED",
+          "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/589891304575733760/82LGi3jD.png",
+          "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/589891304575733760/82LGi3jD.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/643040521305333760/3wfduFmU_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/643040521305333760/3wfduFmU_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/1903684836/1429474866",
+          "profile_link_color": "0084B4",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      }
     },
     {
       "created_at": "Mon Jul 27 05:45:44 +0000 2015",
@@ -5930,7 +9757,107 @@
       },
       "favorited": false,
       "retweeted": false,
-      "lang": "ru"
+      "lang": "ru",
+      "in_reply_to_status": {
+        "created_at": "Mon Jul 27 05:20:42 +0000 2015",
+        "id": 625536267149774800,
+        "id_str": "625536267149774848",
+        "text": "@rubyunderhood как правильно растить стажеров по-твоему?",
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 625524593042817000,
+        "in_reply_to_status_id_str": "625524593042817024",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 1903684836,
+          "id_str": "1903684836",
+          "name": "Джон, просто Джон",
+          "screen_name": "sudodoki",
+          "location": "Kyiv, Ukraine",
+          "description": "Where do I stick my contributions in? Member of @kottans_org gang. Ping me to join @nodeschool/kyiv.",
+          "url": "http://t.co/wEHJp0Z2DV",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "http://t.co/wEHJp0Z2DV",
+                  "expanded_url": "http://sudodoki.name/",
+                  "display_url": "sudodoki.name",
+                  "indices": [
+                    0,
+                    22
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 635,
+          "friends_count": 809,
+          "listed_count": 42,
+          "created_at": "Wed Sep 25 10:30:52 +0000 2013",
+          "favourites_count": 6706,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 4828,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "C0DEED",
+          "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/589891304575733760/82LGi3jD.png",
+          "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/589891304575733760/82LGi3jD.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/643040521305333760/3wfduFmU_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/643040521305333760/3wfduFmU_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/1903684836/1429474866",
+          "profile_link_color": "0084B4",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      }
     },
     {
       "created_at": "Mon Jul 27 05:43:43 +0000 2015",
@@ -6080,7 +10007,107 @@
       },
       "favorited": false,
       "retweeted": false,
-      "lang": "ru"
+      "lang": "ru",
+      "in_reply_to_status": {
+        "created_at": "Mon Jul 27 05:14:54 +0000 2015",
+        "id": 625534805267103700,
+        "id_str": "625534805267103744",
+        "text": "@rubyunderhood как выбираешь темы докладов?",
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 625524593042817000,
+        "in_reply_to_status_id_str": "625524593042817024",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 1903684836,
+          "id_str": "1903684836",
+          "name": "Джон, просто Джон",
+          "screen_name": "sudodoki",
+          "location": "Kyiv, Ukraine",
+          "description": "Where do I stick my contributions in? Member of @kottans_org gang. Ping me to join @nodeschool/kyiv.",
+          "url": "http://t.co/wEHJp0Z2DV",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "http://t.co/wEHJp0Z2DV",
+                  "expanded_url": "http://sudodoki.name/",
+                  "display_url": "sudodoki.name",
+                  "indices": [
+                    0,
+                    22
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 635,
+          "friends_count": 809,
+          "listed_count": 42,
+          "created_at": "Wed Sep 25 10:30:52 +0000 2013",
+          "favourites_count": 6706,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 4828,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "C0DEED",
+          "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/589891304575733760/82LGi3jD.png",
+          "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/589891304575733760/82LGi3jD.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/643040521305333760/3wfduFmU_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/643040521305333760/3wfduFmU_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/1903684836/1429474866",
+          "profile_link_color": "0084B4",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      }
     },
     {
       "created_at": "Mon Jul 27 04:36:48 +0000 2015",
