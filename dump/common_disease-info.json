@@ -46,25 +46,64 @@
   "time_zone": "Pacific Time (US & Canada)",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 5139,
+  "statuses_count": 5141,
   "lang": "en",
   "status": {
-    "created_at": "Mon Oct 26 20:27:48 +0000 2015",
-    "id": 658741839789453300,
-    "id_str": "658741839789453312",
-    "text": "@bytecheg да нормас, было мрачно, но я сходил в гости, поел там тортика, теперь вот твиттер Дмитрия Маликова читаю",
+    "created_at": "Mon Oct 26 20:28:53 +0000 2015",
+    "id": 658742114122117100,
+    "id_str": "658742114122117120",
+    "text": "RT @bytecheg: @rubyunderhood Маликов тоже на руби пишет? Или ты у него в гостях был? :) Тортик на ночь вредно для фигуры :D",
     "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
     "truncated": false,
-    "in_reply_to_status_id": 658741359805792300,
-    "in_reply_to_status_id_str": "658741359805792256",
-    "in_reply_to_user_id": 278923747,
-    "in_reply_to_user_id_str": "278923747",
-    "in_reply_to_screen_name": "bytecheg",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "retweet_count": 0,
+    "retweeted_status": {
+      "created_at": "Mon Oct 26 20:28:38 +0000 2015",
+      "id": 658742049722626000,
+      "id_str": "658742049722626048",
+      "text": "@rubyunderhood Маликов тоже на руби пишет? Или ты у него в гостях был? :) Тортик на ночь вредно для фигуры :D",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 658741839789453300,
+      "in_reply_to_status_id_str": "658741839789453312",
+      "in_reply_to_user_id": 3341793591,
+      "in_reply_to_user_id_str": "3341793591",
+      "in_reply_to_screen_name": "rubyunderhood",
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "rubyunderhood",
+            "name": "Ruby разработчик",
+            "id": 3341793591,
+            "id_str": "3341793591",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    "retweet_count": 1,
     "favorite_count": 0,
     "entities": {
       "hashtags": [],
@@ -76,8 +115,18 @@
           "id": 278923747,
           "id_str": "278923747",
           "indices": [
-            0,
-            9
+            3,
+            12
+          ]
+        },
+        {
+          "screen_name": "rubyunderhood",
+          "name": "Ruby разработчик",
+          "id": 3341793591,
+          "id_str": "3341793591",
+          "indices": [
+            14,
+            28
           ]
         }
       ],
