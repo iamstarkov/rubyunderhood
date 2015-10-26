@@ -224,7 +224,8 @@
       "retweetedKpi": 0.8,
       "favorited": 86,
       "favoritedKpi": 1.87,
-      "gainedFollowers": 45
+      "gainedFollowers": 45,
+      "maxOwnTweetsPercentage": true
     },
     {
       "username": "inem",
@@ -303,20 +304,19 @@
     {
       "username": "common_disease",
       "index": 18,
-      "followers_count": 624,
-      "tweets": 4,
-      "ownTweets": 4,
-      "ownTweetsPercentage": 100,
-      "retweets": 0,
-      "retweetsPercentage": 0,
-      "replies": 0,
-      "repliesPercentage": 0,
-      "retweeted": 3,
-      "retweetedKpi": 0.75,
-      "favorited": 2,
-      "favoritedKpi": 0.5,
-      "gainedFollowers": 3,
-      "maxOwnTweetsPercentage": true
+      "followers_count": 622,
+      "tweets": 47,
+      "ownTweets": 17,
+      "ownTweetsPercentage": 36.17021276595745,
+      "retweets": 19,
+      "retweetsPercentage": 40.42553191489362,
+      "replies": 11,
+      "repliesPercentage": 23.404255319148938,
+      "retweeted": 7,
+      "retweetedKpi": 0.41,
+      "favorited": 7,
+      "favoritedKpi": 0.41,
+      "gainedFollowers": 1
     }
   ]
 }

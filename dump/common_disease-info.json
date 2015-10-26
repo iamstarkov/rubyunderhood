@@ -37,57 +37,47 @@
     }
   },
   "protected": false,
-  "followers_count": 624,
+  "followers_count": 622,
   "friends_count": 9,
   "listed_count": 28,
   "created_at": "Mon Jun 22 18:43:03 +0000 2015",
-  "favourites_count": 78,
+  "favourites_count": 79,
   "utc_offset": -25200,
   "time_zone": "Pacific Time (US & Canada)",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 5096,
+  "statuses_count": 5139,
   "lang": "en",
   "status": {
-    "created_at": "Mon Oct 26 09:37:35 +0000 2015",
-    "id": 658578208992968700,
-    "id_str": "658578208992968704",
-    "text": "А пока что хочется передать привет @AlexSerbul, который вёл предыдущий эфир на @backendsecret. Абсолютно феноменальный и святой человек!",
-    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "created_at": "Mon Oct 26 20:27:48 +0000 2015",
+    "id": 658741839789453300,
+    "id_str": "658741839789453312",
+    "text": "@bytecheg да нормас, было мрачно, но я сходил в гости, поел там тортика, теперь вот твиттер Дмитрия Маликова читаю",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
     "truncated": false,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 658741359805792300,
+    "in_reply_to_status_id_str": "658741359805792256",
+    "in_reply_to_user_id": 278923747,
+    "in_reply_to_user_id_str": "278923747",
+    "in_reply_to_screen_name": "bytecheg",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "retweet_count": 1,
-    "favorite_count": 1,
+    "retweet_count": 0,
+    "favorite_count": 0,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "AlexSerbul",
-          "name": "Александр Сербул",
-          "id": 274095960,
-          "id_str": "274095960",
+          "screen_name": "bytecheg",
+          "name": "Denis Kuznetsov",
+          "id": 278923747,
+          "id_str": "278923747",
           "indices": [
-            35,
-            46
-          ]
-        },
-        {
-          "screen_name": "backendsecret",
-          "name": "Разработчик бэкенда",
-          "id": 3302551618,
-          "id_str": "3302551618",
-          "indices": [
-            79,
-            93
+            0,
+            9
           ]
         }
       ],
