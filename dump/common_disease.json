@@ -5,6 +5,4566 @@
   "post": false,
   "tweets": [
     {
+      "created_at": "Wed Oct 28 13:57:47 +0000 2015",
+      "id": 659368465220960300,
+      "id_str": "659368465220960256",
+      "text": "Не о Ruby, но это тоже важно :( https://t.co/rjl9TIPXjl",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 659362093930586100,
+      "quoted_status_id_str": "659362093930586112",
+      "quoted_status": {
+        "created_at": "Wed Oct 28 13:32:28 +0000 2015",
+        "id": 659362093930586100,
+        "id_str": "659362093930586112",
+        "text": "@killthekitten @anton_davydov они передают cvv и все такое в открытом виде отелю. Некоторые отели их печатают и кладут на ресепшн деск.",
+        "source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix for Android</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 659328469646581800,
+        "in_reply_to_status_id_str": "659328469646581760",
+        "in_reply_to_user_id": 77381915,
+        "in_reply_to_user_id_str": "77381915",
+        "in_reply_to_screen_name": "killthekitten",
+        "user": {
+          "id": 287242565,
+          "id_str": "287242565"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 3,
+        "favorite_count": 3,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "killthekitten",
+              "name": "Nikolay Shebanov",
+              "id": 77381915,
+              "id_str": "77381915",
+              "indices": [
+                0,
+                14
+              ]
+            },
+            {
+              "screen_name": "anton_davydov",
+              "name": "Davy Dovanton",
+              "id": 539221178,
+              "id_str": "539221178",
+              "indices": [
+                15,
+                29
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/rjl9TIPXjl",
+            "expanded_url": "https://twitter.com/kirshatrov/status/659362093930586112",
+            "display_url": "twitter.com/kirshatrov/sta…",
+            "indices": [
+              32,
+              55
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 28 11:27:34 +0000 2015",
+      "id": 659330663410180100,
+      "id_str": "659330663410180096",
+      "text": "/@fxposter разве это проблема keep alive? это в принципе проблема идемпотентности запросов, которую ты на прошлой неделе поднимал.",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 659324853896552400,
+      "in_reply_to_status_id_str": "659324853896552448",
+      "in_reply_to_user_id": 9013972,
+      "in_reply_to_user_id_str": "9013972",
+      "in_reply_to_screen_name": "fxposter",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "fxposter",
+            "name": "Pavel Forkert",
+            "id": 9013972,
+            "id_str": "9013972",
+            "indices": [
+              1,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 28 11:27:09 +0000 2015",
+      "id": 659330559034970100,
+      "id_str": "659330559034970112",
+      "text": "RT @fxposter: @rubyunderhood … while you're sending, you have to re-emit\nthe request without knowing if it was processed or not.",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Wed Oct 28 11:04:29 +0000 2015",
+        "id": 659324853896552400,
+        "id_str": "659324853896552448",
+        "text": "@rubyunderhood … while you're sending, you have to re-emit\nthe request without knowing if it was processed or not.",
+        "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 659324819792642000,
+        "in_reply_to_status_id_str": "659324819792642048",
+        "in_reply_to_user_id": 9013972,
+        "in_reply_to_user_id_str": "9013972",
+        "in_reply_to_screen_name": "fxposter",
+        "user": {
+          "id": 9013972,
+          "id_str": "9013972"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "fxposter",
+            "name": "Pavel Forkert",
+            "id": 9013972,
+            "id_str": "9013972",
+            "indices": [
+              3,
+              12
+            ]
+          },
+          {
+            "screen_name": "rubyunderhood",
+            "name": "Ruby разработчик",
+            "id": 3341793591,
+            "id_str": "3341793591",
+            "indices": [
+              14,
+              28
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Oct 28 11:27:07 +0000 2015",
+      "id": 659330548788273200,
+      "id_str": "659330548788273153",
+      "text": "RT @fxposter: @rubyunderhood HTTP only\nallows you to send an idempotent request over a keep-alive connection,\nbecause if the connection clo…",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Wed Oct 28 11:04:21 +0000 2015",
+        "id": 659324819792642000,
+        "id_str": "659324819792642048",
+        "text": "@rubyunderhood HTTP only\nallows you to send an idempotent request over a keep-alive connection,\nbecause if the connection closes…",
+        "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 659324704658993200,
+        "in_reply_to_status_id_str": "659324704658993152",
+        "in_reply_to_user_id": 9013972,
+        "in_reply_to_user_id_str": "9013972",
+        "in_reply_to_screen_name": "fxposter",
+        "user": {
+          "id": 9013972,
+          "id_str": "9013972"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "fxposter",
+            "name": "Pavel Forkert",
+            "id": 9013972,
+            "id_str": "9013972",
+            "indices": [
+              3,
+              12
+            ]
+          },
+          {
+            "screen_name": "rubyunderhood",
+            "name": "Ruby разработчик",
+            "id": 3341793591,
+            "id_str": "3341793591",
+            "indices": [
+              14,
+              28
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Oct 28 11:00:56 +0000 2015",
+      "id": 659323961654816800,
+      "id_str": "659323961654816768",
+      "text": "/@fxposter хороший http-клиент должен также уметь таймауты",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 659323795052863500,
+      "in_reply_to_status_id_str": "659323795052863488",
+      "in_reply_to_user_id": 9013972,
+      "in_reply_to_user_id_str": "9013972",
+      "in_reply_to_screen_name": "fxposter",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "fxposter",
+            "name": "Pavel Forkert",
+            "id": 9013972,
+            "id_str": "9013972",
+            "indices": [
+              1,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 28 11:00:33 +0000 2015",
+      "id": 659323864011395100,
+      "id_str": "659323864011395072",
+      "text": "RT @fxposter: @rubyunderhood это чревато, потому что один коннекшен может залипнуть :)",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Wed Oct 28 11:00:17 +0000 2015",
+        "id": 659323795052863500,
+        "id_str": "659323795052863488",
+        "text": "@rubyunderhood это чревато, потому что один коннекшен может залипнуть :)",
+        "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 659323422598680600,
+        "in_reply_to_status_id_str": "659323422598680576",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 9013972,
+          "id_str": "9013972"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "fxposter",
+            "name": "Pavel Forkert",
+            "id": 9013972,
+            "id_str": "9013972",
+            "indices": [
+              3,
+              12
+            ]
+          },
+          {
+            "screen_name": "rubyunderhood",
+            "name": "Ruby разработчик",
+            "id": 3341793591,
+            "id_str": "3341793591",
+            "indices": [
+              14,
+              28
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 28 11:00:03 +0000 2015",
+      "id": 659323740287840300,
+      "id_str": "659323740287840256",
+      "text": "Посмотрите на Gun https://t.co/98DVpwYQaZ — вот таким и должен быть хороший http-клиент: easy to use, always connected.",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 2,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/98DVpwYQaZ",
+            "expanded_url": "https://github.com/ninenines/gun",
+            "display_url": "github.com/ninenines/gun",
+            "indices": [
+              18,
+              41
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Wed Oct 28 10:58:48 +0000 2015",
+      "id": 659323422598680600,
+      "id_str": "659323422598680576",
+      "text": "/@fxposter нет, мне нужен самый простой API, а коннекты/реконнекты должен брать на себя http-клиент.",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 659322978543534100,
+      "in_reply_to_status_id_str": "659322978543534080",
+      "in_reply_to_user_id": 9013972,
+      "in_reply_to_user_id_str": "9013972",
+      "in_reply_to_screen_name": "fxposter",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "fxposter",
+            "name": "Pavel Forkert",
+            "id": 9013972,
+            "id_str": "9013972",
+            "indices": [
+              1,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 28 10:57:39 +0000 2015",
+      "id": 659323134982623200,
+      "id_str": "659323134982623232",
+      "text": "RT @fxposter: @rubyunderhood если тебе нужен keep-alive - то тебе нужно апи ориентированное на tcp-коннекшены, а не на http-запросы.",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Wed Oct 28 10:57:02 +0000 2015",
+        "id": 659322978543534100,
+        "id_str": "659322978543534080",
+        "text": "@rubyunderhood если тебе нужен keep-alive - то тебе нужно апи ориентированное на tcp-коннекшены, а не на http-запросы.",
+        "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 659322732623044600,
+        "in_reply_to_status_id_str": "659322732623044608",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 9013972,
+          "id_str": "9013972"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "fxposter",
+            "name": "Pavel Forkert",
+            "id": 9013972,
+            "id_str": "9013972",
+            "indices": [
+              3,
+              12
+            ]
+          },
+          {
+            "screen_name": "rubyunderhood",
+            "name": "Ruby разработчик",
+            "id": 3341793591,
+            "id_str": "3341793591",
+            "indices": [
+              14,
+              28
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 28 10:57:01 +0000 2015",
+      "id": 659322974076608500,
+      "id_str": "659322974076608512",
+      "text": "/@fxposter как это не ориентирован? именно на них и ориентирован. инстанс фарадея == коннекшн.",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 659322653233324000,
+      "in_reply_to_status_id_str": "659322653233324032",
+      "in_reply_to_user_id": 9013972,
+      "in_reply_to_user_id_str": "9013972",
+      "in_reply_to_screen_name": "fxposter",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "fxposter",
+            "name": "Pavel Forkert",
+            "id": 9013972,
+            "id_str": "9013972",
+            "indices": [
+              1,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 28 10:56:24 +0000 2015",
+      "id": 659322817780031500,
+      "id_str": "659322817780031489",
+      "text": "RT @fxposter: @rubyunderhood ну фарадей не ориентирован на коннекшены, скорее на полные запросы. там можно кешировать эти http-обьекты…",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Wed Oct 28 10:55:44 +0000 2015",
+        "id": 659322653233324000,
+        "id_str": "659322653233324032",
+        "text": "@rubyunderhood ну фарадей не ориентирован на коннекшены, скорее на полные запросы. там можно кешировать эти http-обьекты…",
+        "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 659322156053045200,
+        "in_reply_to_status_id_str": "659322156053045248",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 9013972,
+          "id_str": "9013972"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "fxposter",
+            "name": "Pavel Forkert",
+            "id": 9013972,
+            "id_str": "9013972",
+            "indices": [
+              3,
+              12
+            ]
+          },
+          {
+            "screen_name": "rubyunderhood",
+            "name": "Ruby разработчик",
+            "id": 3341793591,
+            "id_str": "3341793591",
+            "indices": [
+              14,
+              28
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 28 10:56:03 +0000 2015",
+      "id": 659322732623044600,
+      "id_str": "659322732623044608",
+      "text": "/@fxposter фишка в том, что даже без блока API неудобный. другие-то http-клиенты *просто работают*.",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 659322156053045200,
+      "in_reply_to_status_id_str": "659322156053045248",
+      "in_reply_to_user_id": 3341793591,
+      "in_reply_to_user_id_str": "3341793591",
+      "in_reply_to_screen_name": "rubyunderhood",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "fxposter",
+            "name": "Pavel Forkert",
+            "id": 9013972,
+            "id_str": "9013972",
+            "indices": [
+              1,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 28 10:54:07 +0000 2015",
+      "id": 659322243869225000,
+      "id_str": "659322243869224961",
+      "text": "RT @scarfacedeb: @rubyunderhood Faraday неплох для каждодневных задач, но stream не поддерживает",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Wed Oct 28 10:52:17 +0000 2015",
+        "id": 659321784127369200,
+        "id_str": "659321784127369216",
+        "text": "@rubyunderhood Faraday неплох для каждодневных задач, но stream не поддерживает",
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 659321453993730000,
+        "in_reply_to_status_id_str": "659321453993730049",
+        "in_reply_to_user_id": 40921856,
+        "in_reply_to_user_id_str": "40921856",
+        "in_reply_to_screen_name": "scarfacedeb",
+        "user": {
+          "id": 40921856,
+          "id_str": "40921856"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+          "id": "7d44c7abd7396abe",
+          "url": "https://api.twitter.com/1.1/geo/id/7d44c7abd7396abe.json",
+          "place_type": "city",
+          "name": "Тюмень",
+          "full_name": "Тюмень, Тюменская область",
+          "country_code": "RU",
+          "country": "Rossiya",
+          "contained_within": [],
+          "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  65.2612523,
+                  56.994673
+                ],
+                [
+                  65.8524368,
+                  56.994673
+                ],
+                [
+                  65.8524368,
+                  57.3066131
+                ],
+                [
+                  65.2612523,
+                  57.3066131
+                ]
+              ]
+            ]
+          },
+          "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "scarfacedeb",
+            "name": "Andrew Volozhanin",
+            "id": 40921856,
+            "id_str": "40921856",
+            "indices": [
+              3,
+              15
+            ]
+          },
+          {
+            "screen_name": "rubyunderhood",
+            "name": "Ruby разработчик",
+            "id": 3341793591,
+            "id_str": "3341793591",
+            "indices": [
+              17,
+              31
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 28 10:53:46 +0000 2015",
+      "id": 659322156053045200,
+      "id_str": "659322156053045248",
+      "text": "/@fxposter гуд, я был не совсем прав. тогда тебе вопрос: почему start/finish не используется здесь https://t.co/QoKWvvGO79 и можно ли?",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 659321403704016900,
+      "in_reply_to_status_id_str": "659321403704016896",
+      "in_reply_to_user_id": 9013972,
+      "in_reply_to_user_id_str": "9013972",
+      "in_reply_to_screen_name": "fxposter",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "fxposter",
+            "name": "Pavel Forkert",
+            "id": 9013972,
+            "id_str": "9013972",
+            "indices": [
+              1,
+              10
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/QoKWvvGO79",
+            "expanded_url": "https://github.com/lostisland/faraday/blob/master/lib/faraday/adapter/net_http.rb",
+            "display_url": "github.com/lostisland/far…",
+            "indices": [
+              99,
+              122
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 28 10:52:26 +0000 2015",
+      "id": 659321820403888100,
+      "id_str": "659321820403888128",
+      "text": "RT @fxposter: @rubyunderhood https://t.co/Kc6ayHNd5M ну ведь нет же!",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Wed Oct 28 10:50:46 +0000 2015",
+        "id": 659321403704016900,
+        "id_str": "659321403704016896",
+        "text": "@rubyunderhood https://t.co/Kc6ayHNd5M ну ведь нет же!",
+        "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 659320631515873300,
+        "in_reply_to_status_id_str": "659320631515873280",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 9013972,
+          "id_str": "9013972"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/Kc6ayHNd5M",
+              "expanded_url": "https://gist.github.com/fxposter/cd4bd30e06de1478e6ba",
+              "display_url": "gist.github.com/fxposter/cd4bd…",
+              "indices": [
+                15,
+                38
+              ]
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "fxposter",
+            "name": "Pavel Forkert",
+            "id": 9013972,
+            "id_str": "9013972",
+            "indices": [
+              3,
+              12
+            ]
+          },
+          {
+            "screen_name": "rubyunderhood",
+            "name": "Ruby разработчик",
+            "id": 3341793591,
+            "id_str": "3341793591",
+            "indices": [
+              14,
+              28
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/Kc6ayHNd5M",
+            "expanded_url": "https://gist.github.com/fxposter/cd4bd30e06de1478e6ba",
+            "display_url": "gist.github.com/fxposter/cd4bd…",
+            "indices": [
+              29,
+              52
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 28 10:52:12 +0000 2015",
+      "id": 659321762237300700,
+      "id_str": "659321762237300736",
+      "text": "RT @scarfacedeb: @rubyunderhood net/http неудобно, curb/typhoeus segfaultится с sidekiq (в curl multi), Excon оч неудобное API на основе AS…",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Wed Oct 28 10:50:58 +0000 2015",
+        "id": 659321453993730000,
+        "id_str": "659321453993730049",
+        "text": "@rubyunderhood net/http неудобно, curb/typhoeus segfaultится с sidekiq (в curl multi), Excon оч неудобное API на основе AS::Notifications",
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 659320816086220800,
+        "in_reply_to_status_id_str": "659320816086220801",
+        "in_reply_to_user_id": 40921856,
+        "in_reply_to_user_id_str": "40921856",
+        "in_reply_to_screen_name": "scarfacedeb",
+        "user": {
+          "id": 40921856,
+          "id_str": "40921856"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+          "id": "7d44c7abd7396abe",
+          "url": "https://api.twitter.com/1.1/geo/id/7d44c7abd7396abe.json",
+          "place_type": "city",
+          "name": "Тюмень",
+          "full_name": "Тюмень, Тюменская область",
+          "country_code": "RU",
+          "country": "Rossiya",
+          "contained_within": [],
+          "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  65.2612523,
+                  56.994673
+                ],
+                [
+                  65.8524368,
+                  56.994673
+                ],
+                [
+                  65.8524368,
+                  57.3066131
+                ],
+                [
+                  65.2612523,
+                  57.3066131
+                ]
+              ]
+            ]
+          },
+          "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "sl"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "scarfacedeb",
+            "name": "Andrew Volozhanin",
+            "id": 40921856,
+            "id_str": "40921856",
+            "indices": [
+              3,
+              15
+            ]
+          },
+          {
+            "screen_name": "rubyunderhood",
+            "name": "Ruby разработчик",
+            "id": 3341793591,
+            "id_str": "3341793591",
+            "indices": [
+              17,
+              31
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "sl"
+    },
+    {
+      "created_at": "Wed Oct 28 10:48:38 +0000 2015",
+      "id": 659320863876104200,
+      "id_str": "659320863876104192",
+      "text": "RT @scarfacedeb: @rubyunderhood Правла для rest API она слишком низкоуровневая.",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Wed Oct 28 10:48:26 +0000 2015",
+        "id": 659320816086220800,
+        "id_str": "659320816086220801",
+        "text": "@rubyunderhood Правла для rest API она слишком низкоуровневая.",
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 659320606106767400,
+        "in_reply_to_status_id_str": "659320606106767360",
+        "in_reply_to_user_id": 40921856,
+        "in_reply_to_user_id_str": "40921856",
+        "in_reply_to_screen_name": "scarfacedeb",
+        "user": {
+          "id": 40921856,
+          "id_str": "40921856"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+          "id": "7d44c7abd7396abe",
+          "url": "https://api.twitter.com/1.1/geo/id/7d44c7abd7396abe.json",
+          "place_type": "city",
+          "name": "Тюмень",
+          "full_name": "Тюмень, Тюменская область",
+          "country_code": "RU",
+          "country": "Rossiya",
+          "contained_within": [],
+          "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  65.2612523,
+                  56.994673
+                ],
+                [
+                  65.8524368,
+                  56.994673
+                ],
+                [
+                  65.8524368,
+                  57.3066131
+                ],
+                [
+                  65.2612523,
+                  57.3066131
+                ]
+              ]
+            ]
+          },
+          "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "scarfacedeb",
+            "name": "Andrew Volozhanin",
+            "id": 40921856,
+            "id_str": "40921856",
+            "indices": [
+              3,
+              15
+            ]
+          },
+          {
+            "screen_name": "rubyunderhood",
+            "name": "Ruby разработчик",
+            "id": 3341793591,
+            "id_str": "3341793591",
+            "indices": [
+              17,
+              31
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 28 10:47:59 +0000 2015",
+      "id": 659320700340191200,
+      "id_str": "659320700340191232",
+      "text": "RT @scarfacedeb: @rubyunderhood Перепробовал почти все популярные http либы и http.rb самая удобная в плане API, скорости и отсутствия багов",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Wed Oct 28 10:47:36 +0000 2015",
+        "id": 659320606106767400,
+        "id_str": "659320606106767360",
+        "text": "@rubyunderhood Перепробовал почти все популярные http либы и http.rb самая удобная в плане API, скорости и отсутствия багов",
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 659311002232692700,
+        "in_reply_to_status_id_str": "659311002232692736",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 40921856,
+          "id_str": "40921856"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+          "id": "7d44c7abd7396abe",
+          "url": "https://api.twitter.com/1.1/geo/id/7d44c7abd7396abe.json",
+          "place_type": "city",
+          "name": "Тюмень",
+          "full_name": "Тюмень, Тюменская область",
+          "country_code": "RU",
+          "country": "Rossiya",
+          "contained_within": [],
+          "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  65.2612523,
+                  56.994673
+                ],
+                [
+                  65.8524368,
+                  56.994673
+                ],
+                [
+                  65.8524368,
+                  57.3066131
+                ],
+                [
+                  65.2612523,
+                  57.3066131
+                ]
+              ]
+            ]
+          },
+          "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "scarfacedeb",
+            "name": "Andrew Volozhanin",
+            "id": 40921856,
+            "id_str": "40921856",
+            "indices": [
+              3,
+              15
+            ]
+          },
+          {
+            "screen_name": "rubyunderhood",
+            "name": "Ruby разработчик",
+            "id": 3341793591,
+            "id_str": "3341793591",
+            "indices": [
+              17,
+              31
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 28 10:47:42 +0000 2015",
+      "id": 659320631515873300,
+      "id_str": "659320631515873280",
+      "text": "/@fxposter тем самым, невозможно просто иметь объект с *открытым* соединением. Можно только подключиться, выполнить N запросов и отключиться",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 659320377475244000,
+      "in_reply_to_status_id_str": "659320377475244033",
+      "in_reply_to_user_id": 3341793591,
+      "in_reply_to_user_id_str": "3341793591",
+      "in_reply_to_screen_name": "rubyunderhood",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "fxposter",
+            "name": "Pavel Forkert",
+            "id": 9013972,
+            "id_str": "9013972",
+            "indices": [
+              1,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 28 10:46:42 +0000 2015",
+      "id": 659320377475244000,
+      "id_str": "659320377475244033",
+      "text": "/@fxposter https://t.co/CSDcSLtUFy",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 659319264055267300,
+      "in_reply_to_status_id_str": "659319264055267328",
+      "in_reply_to_user_id": 9013972,
+      "in_reply_to_user_id_str": "9013972",
+      "in_reply_to_screen_name": "fxposter",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 659309028565237800,
+      "quoted_status_id_str": "659309028565237760",
+      "quoted_status": {
+        "created_at": "Wed Oct 28 10:01:36 +0000 2015",
+        "id": 659309028565237800,
+        "id_str": "659309028565237760",
+        "text": "/@anton_davydov поддержка персистентных соединений в Net::HTTP практически не юзабельная (нужно оборачиваться в блок).",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 659308084213477400,
+        "in_reply_to_status_id_str": "659308084213477376",
+        "in_reply_to_user_id": 539221178,
+        "in_reply_to_user_id_str": "539221178",
+        "in_reply_to_screen_name": "anton_davydov",
+        "user": {
+          "id": 3341793591,
+          "id_str": "3341793591"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "anton_davydov",
+              "name": "Davy Dovanton",
+              "id": 539221178,
+              "id_str": "539221178",
+              "indices": [
+                1,
+                15
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "fxposter",
+            "name": "Pavel Forkert",
+            "id": 9013972,
+            "id_str": "9013972",
+            "indices": [
+              1,
+              10
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/CSDcSLtUFy",
+            "expanded_url": "https://twitter.com/rubyunderhood/status/659309028565237760",
+            "display_url": "twitter.com/rubyunderhood/…",
+            "indices": [
+              11,
+              34
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Wed Oct 28 10:46:35 +0000 2015",
+      "id": 659320348027002900,
+      "id_str": "659320348027002880",
+      "text": "RT @fxposter: @rubyunderhood https://t.co/kiAF5bSLrs почему ты решил что net/http его не поддерживает",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Wed Oct 28 10:42:16 +0000 2015",
+        "id": 659319264055267300,
+        "id_str": "659319264055267328",
+        "text": "@rubyunderhood https://t.co/kiAF5bSLrs почему ты решил что net/http его не поддерживает",
+        "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 659310429475311600,
+        "in_reply_to_status_id_str": "659310429475311620",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 9013972,
+          "id_str": "9013972"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/kiAF5bSLrs",
+              "expanded_url": "https://www.igvita.com/2011/10/04/optimizing-http-keep-alive-and-pipelining/",
+              "display_url": "igvita.com/2011/10/04/opt…",
+              "indices": [
+                15,
+                38
+              ]
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "fxposter",
+            "name": "Pavel Forkert",
+            "id": 9013972,
+            "id_str": "9013972",
+            "indices": [
+              3,
+              12
+            ]
+          },
+          {
+            "screen_name": "rubyunderhood",
+            "name": "Ruby разработчик",
+            "id": 3341793591,
+            "id_str": "3341793591",
+            "indices": [
+              14,
+              28
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/kiAF5bSLrs",
+            "expanded_url": "https://www.igvita.com/2011/10/04/optimizing-http-keep-alive-and-pipelining/",
+            "display_url": "igvita.com/2011/10/04/opt…",
+            "indices": [
+              29,
+              52
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 28 10:37:37 +0000 2015",
+      "id": 659318090656829400,
+      "id_str": "659318090656829440",
+      "text": "/@Fodoj @suxxes если есть возможность исключить целый класс проблем, то почему нет?",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 659318054258647000,
+      "in_reply_to_status_id_str": "659318054258647049",
+      "in_reply_to_user_id": 3341793591,
+      "in_reply_to_user_id_str": "3341793591",
+      "in_reply_to_screen_name": "rubyunderhood",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Fodoj",
+            "name": "Kirill Shirinkin",
+            "id": 14741065,
+            "id_str": "14741065",
+            "indices": [
+              1,
+              7
+            ]
+          },
+          {
+            "screen_name": "suxxes",
+            "name": "Father Frodo",
+            "id": 14722814,
+            "id_str": "14722814",
+            "indices": [
+              8,
+              15
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 28 10:37:28 +0000 2015",
+      "id": 659318054258647000,
+      "id_str": "659318054258647049",
+      "text": "/@Fodoj @suxxes ну чего ты занудствуешь. понятно же, что речь о рисках, а не о конкретных багах.",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 659317551793619000,
+      "in_reply_to_status_id_str": "659317551793618944",
+      "in_reply_to_user_id": 14741065,
+      "in_reply_to_user_id_str": "14741065",
+      "in_reply_to_screen_name": "Fodoj",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Fodoj",
+            "name": "Kirill Shirinkin",
+            "id": 14741065,
+            "id_str": "14741065",
+            "indices": [
+              1,
+              7
+            ]
+          },
+          {
+            "screen_name": "suxxes",
+            "name": "Father Frodo",
+            "id": 14722814,
+            "id_str": "14722814",
+            "indices": [
+              8,
+              15
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 28 10:36:19 +0000 2015",
+      "id": 659317765396897800,
+      "id_str": "659317765396897792",
+      "text": "RT @Fodoj: @rubyunderhood @suxxes в какой ситуации мне придётся выбирать? Будет либо одно, либо другое",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Wed Oct 28 10:35:28 +0000 2015",
+        "id": 659317551793619000,
+        "id_str": "659317551793618944",
+        "text": "@rubyunderhood @suxxes в какой ситуации мне придётся выбирать? Будет либо одно, либо другое",
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 659317370364760000,
+        "in_reply_to_status_id_str": "659317370364760064",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 14741065,
+          "id_str": "14741065"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            },
+            {
+              "screen_name": "suxxes",
+              "name": "Father Frodo",
+              "id": 14722814,
+              "id_str": "14722814",
+              "indices": [
+                15,
+                22
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Fodoj",
+            "name": "Kirill Shirinkin",
+            "id": 14741065,
+            "id_str": "14741065",
+            "indices": [
+              3,
+              9
+            ]
+          },
+          {
+            "screen_name": "rubyunderhood",
+            "name": "Ruby разработчик",
+            "id": 3341793591,
+            "id_str": "3341793591",
+            "indices": [
+              11,
+              25
+            ]
+          },
+          {
+            "screen_name": "suxxes",
+            "name": "Father Frodo",
+            "id": 14722814,
+            "id_str": "14722814",
+            "indices": [
+              26,
+              33
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 28 10:35:33 +0000 2015",
+      "id": 659317571812986900,
+      "id_str": "659317571812986880",
+      "text": "/@Fodoj @suxxes по крайней мере не будет сегфолтов, которые вообще весь процесс убивают",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 659317148913934300,
+      "in_reply_to_status_id_str": "659317148913934336",
+      "in_reply_to_user_id": 14741065,
+      "in_reply_to_user_id_str": "14741065",
+      "in_reply_to_screen_name": "Fodoj",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Fodoj",
+            "name": "Kirill Shirinkin",
+            "id": 14741065,
+            "id_str": "14741065",
+            "indices": [
+              1,
+              7
+            ]
+          },
+          {
+            "screen_name": "suxxes",
+            "name": "Father Frodo",
+            "id": 14722814,
+            "id_str": "14722814",
+            "indices": [
+              8,
+              15
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 28 10:35:06 +0000 2015",
+      "id": 659317459544088600,
+      "id_str": "659317459544088576",
+      "text": "RT @Fodoj: @rubyunderhood @suxxes то есть раз на чистом руби, то проблем быть не может? :)",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Wed Oct 28 10:33:52 +0000 2015",
+        "id": 659317148913934300,
+        "id_str": "659317148913934336",
+        "text": "@rubyunderhood @suxxes то есть раз на чистом руби, то проблем быть не может? :)",
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 659316974040817700,
+        "in_reply_to_status_id_str": "659316974040817664",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 14741065,
+          "id_str": "14741065"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            },
+            {
+              "screen_name": "suxxes",
+              "name": "Father Frodo",
+              "id": 14722814,
+              "id_str": "14722814",
+              "indices": [
+                15,
+                22
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Fodoj",
+            "name": "Kirill Shirinkin",
+            "id": 14741065,
+            "id_str": "14741065",
+            "indices": [
+              3,
+              9
+            ]
+          },
+          {
+            "screen_name": "rubyunderhood",
+            "name": "Ruby разработчик",
+            "id": 3341793591,
+            "id_str": "3341793591",
+            "indices": [
+              11,
+              25
+            ]
+          },
+          {
+            "screen_name": "suxxes",
+            "name": "Father Frodo",
+            "id": 14722814,
+            "id_str": "14722814",
+            "indices": [
+              26,
+              33
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 28 10:34:45 +0000 2015",
+      "id": 659317370364760000,
+      "id_str": "659317370364760064",
+      "text": "/@Fodoj @suxxes например, выбирая из двух зол: NoMethodError и Segmentation Fault — что ты выберешь?",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 659316967975854100,
+      "in_reply_to_status_id_str": "659316967975854080",
+      "in_reply_to_user_id": 14741065,
+      "in_reply_to_user_id_str": "14741065",
+      "in_reply_to_screen_name": "Fodoj",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Fodoj",
+            "name": "Kirill Shirinkin",
+            "id": 14741065,
+            "id_str": "14741065",
+            "indices": [
+              1,
+              7
+            ]
+          },
+          {
+            "screen_name": "suxxes",
+            "name": "Father Frodo",
+            "id": 14722814,
+            "id_str": "14722814",
+            "indices": [
+              8,
+              15
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Wed Oct 28 10:33:55 +0000 2015",
+      "id": 659317162566426600,
+      "id_str": "659317162566426624",
+      "text": "RT @Fodoj: @rubyunderhood @suxxes я аргументов против не услышал все ещё (",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Wed Oct 28 10:33:09 +0000 2015",
+        "id": 659316967975854100,
+        "id_str": "659316967975854080",
+        "text": "@rubyunderhood @suxxes я аргументов против не услышал все ещё (",
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 659316835188387800,
+        "in_reply_to_status_id_str": "659316835188387840",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 14741065,
+          "id_str": "14741065"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            },
+            {
+              "screen_name": "suxxes",
+              "name": "Father Frodo",
+              "id": 14722814,
+              "id_str": "14722814",
+              "indices": [
+                15,
+                22
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Fodoj",
+            "name": "Kirill Shirinkin",
+            "id": 14741065,
+            "id_str": "14741065",
+            "indices": [
+              3,
+              9
+            ]
+          },
+          {
+            "screen_name": "rubyunderhood",
+            "name": "Ruby разработчик",
+            "id": 3341793591,
+            "id_str": "3341793591",
+            "indices": [
+              11,
+              25
+            ]
+          },
+          {
+            "screen_name": "suxxes",
+            "name": "Father Frodo",
+            "id": 14722814,
+            "id_str": "14722814",
+            "indices": [
+              26,
+              33
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 28 10:33:10 +0000 2015",
+      "id": 659316974040817700,
+      "id_str": "659316974040817664",
+      "text": "@Fodoj @suxxes но речь-то о том, что этой проблемы могло не быть в принципе, потому что есть Typhoeus на FFI, и есть клиенты на чистом Ruby.",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 659316835188387800,
+      "in_reply_to_status_id_str": "659316835188387840",
+      "in_reply_to_user_id": 3341793591,
+      "in_reply_to_user_id_str": "3341793591",
+      "in_reply_to_screen_name": "rubyunderhood",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Fodoj",
+            "name": "Kirill Shirinkin",
+            "id": 14741065,
+            "id_str": "14741065",
+            "indices": [
+              0,
+              6
+            ]
+          },
+          {
+            "screen_name": "suxxes",
+            "name": "Father Frodo",
+            "id": 14722814,
+            "id_str": "14722814",
+            "indices": [
+              7,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 28 10:32:37 +0000 2015",
+      "id": 659316835188387800,
+      "id_str": "659316835188387840",
+      "text": "@Fodoj @suxxes ты как-то тред избирательно читаешь. страха нет, я отдебажил patron и пофиксил в нём сегфолт.",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 659315824105230300,
+      "in_reply_to_status_id_str": "659315824105230336",
+      "in_reply_to_user_id": 14741065,
+      "in_reply_to_user_id_str": "14741065",
+      "in_reply_to_screen_name": "Fodoj",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Fodoj",
+            "name": "Kirill Shirinkin",
+            "id": 14741065,
+            "id_str": "14741065",
+            "indices": [
+              0,
+              6
+            ]
+          },
+          {
+            "screen_name": "suxxes",
+            "name": "Father Frodo",
+            "id": 14722814,
+            "id_str": "14722814",
+            "indices": [
+              7,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 28 10:31:02 +0000 2015",
+      "id": 659316434963669000,
+      "id_str": "659316434963668992",
+      "text": "/@Drakula2k ну есть ещё фичи типа pipelining, но аргумент с keep-alive считаю достаточно весомым.",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 659314543760244700,
+      "in_reply_to_status_id_str": "659314543760244736",
+      "in_reply_to_user_id": 17446201,
+      "in_reply_to_user_id_str": "17446201",
+      "in_reply_to_screen_name": "Drakula2k",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Drakula2k",
+            "name": "Vlad",
+            "id": 17446201,
+            "id_str": "17446201",
+            "indices": [
+              1,
+              11
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 28 10:30:19 +0000 2015",
+      "id": 659316254512013300,
+      "id_str": "659316254512013312",
+      "text": "RT @Drakula2k: @rubyunderhood т.е. других аргументов нет?",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Wed Oct 28 10:23:31 +0000 2015",
+        "id": 659314543760244700,
+        "id_str": "659314543760244736",
+        "text": "@rubyunderhood т.е. других аргументов нет?",
+        "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 659310429475311600,
+        "in_reply_to_status_id_str": "659310429475311620",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 17446201,
+          "id_str": "17446201"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Drakula2k",
+            "name": "Vlad",
+            "id": 17446201,
+            "id_str": "17446201",
+            "indices": [
+              3,
+              13
+            ]
+          },
+          {
+            "screen_name": "rubyunderhood",
+            "name": "Ruby разработчик",
+            "id": 3341793591,
+            "id_str": "3341793591",
+            "indices": [
+              15,
+              29
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 28 10:28:51 +0000 2015",
+      "id": 659315886055125000,
+      "id_str": "659315886055124992",
+      "text": "/@Fodoj @suxxes не плохи, но если есть возможность их не использовать (а тут она есть), то лучше не использовать.",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 659315309116043300,
+      "in_reply_to_status_id_str": "659315309116043264",
+      "in_reply_to_user_id": 14741065,
+      "in_reply_to_user_id_str": "14741065",
+      "in_reply_to_screen_name": "Fodoj",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Fodoj",
+            "name": "Kirill Shirinkin",
+            "id": 14741065,
+            "id_str": "14741065",
+            "indices": [
+              1,
+              7
+            ]
+          },
+          {
+            "screen_name": "suxxes",
+            "name": "Father Frodo",
+            "id": 14722814,
+            "id_str": "14722814",
+            "indices": [
+              8,
+              15
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 28 10:27:19 +0000 2015",
+      "id": 659315498975404000,
+      "id_str": "659315498975404032",
+      "text": "RT @Fodoj: @rubyunderhood @suxxes чем плохи C extensions?",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Wed Oct 28 10:26:33 +0000 2015",
+        "id": 659315309116043300,
+        "id_str": "659315309116043264",
+        "text": "@rubyunderhood @suxxes чем плохи C extensions?",
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 659314679609753600,
+        "in_reply_to_status_id_str": "659314679609753600",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 14741065,
+          "id_str": "14741065"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            },
+            {
+              "screen_name": "suxxes",
+              "name": "Father Frodo",
+              "id": 14722814,
+              "id_str": "14722814",
+              "indices": [
+                15,
+                22
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "und"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Fodoj",
+            "name": "Kirill Shirinkin",
+            "id": 14741065,
+            "id_str": "14741065",
+            "indices": [
+              3,
+              9
+            ]
+          },
+          {
+            "screen_name": "rubyunderhood",
+            "name": "Ruby разработчик",
+            "id": 3341793591,
+            "id_str": "3341793591",
+            "indices": [
+              11,
+              25
+            ]
+          },
+          {
+            "screen_name": "suxxes",
+            "name": "Father Frodo",
+            "id": 14722814,
+            "id_str": "14722814",
+            "indices": [
+              26,
+              33
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Wed Oct 28 10:26:45 +0000 2015",
+      "id": 659315360039088100,
+      "id_str": "659315360039088128",
+      "text": "/@suxxes но сколько еще таких магических сегфолтов встретишь? а в Typhoeus по идее такого быть не должно, потому что он реализован на FFI.",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 659314786468020200,
+      "in_reply_to_status_id_str": "659314786468020224",
+      "in_reply_to_user_id": 3341793591,
+      "in_reply_to_user_id_str": "3341793591",
+      "in_reply_to_screen_name": "rubyunderhood",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "suxxes",
+            "name": "Father Frodo",
+            "id": 14722814,
+            "id_str": "14722814",
+            "indices": [
+              1,
+              8
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 28 10:24:29 +0000 2015",
+      "id": 659314786468020200,
+      "id_str": "659314786468020224",
+      "text": "/@suxxes Например, я фиксил в patron следующие грустные вещи: https://t.co/NTqxtwPU7E, https://t.co/zs4Pwson0X",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 659314679609753600,
+      "in_reply_to_status_id_str": "659314679609753600",
+      "in_reply_to_user_id": 3341793591,
+      "in_reply_to_user_id_str": "3341793591",
+      "in_reply_to_screen_name": "rubyunderhood",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "suxxes",
+            "name": "Father Frodo",
+            "id": 14722814,
+            "id_str": "14722814",
+            "indices": [
+              1,
+              8
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/NTqxtwPU7E",
+            "expanded_url": "https://github.com/toland/patron/pull/92",
+            "display_url": "github.com/toland/patron/…",
+            "indices": [
+              62,
+              85
+            ]
+          },
+          {
+            "url": "https://t.co/zs4Pwson0X",
+            "expanded_url": "https://github.com/toland/patron/pull/93",
+            "display_url": "github.com/toland/patron/…",
+            "indices": [
+              87,
+              110
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 28 10:24:03 +0000 2015",
+      "id": 659314679609753600,
+      "id_str": "659314679609753600",
+      "text": "/@suxxes я не советую юзать patron и curb в кач-ве обертки над libcurl, потому что они реализованы как C-extensions.",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 659311252020293600,
+      "in_reply_to_status_id_str": "659311252020293633",
+      "in_reply_to_user_id": 3341793591,
+      "in_reply_to_user_id_str": "3341793591",
+      "in_reply_to_screen_name": "rubyunderhood",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "suxxes",
+            "name": "Father Frodo",
+            "id": 14722814,
+            "id_str": "14722814",
+            "indices": [
+              1,
+              8
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 28 10:10:26 +0000 2015",
+      "id": 659311252020293600,
+      "id_str": "659311252020293633",
+      "text": "/@suxxes насколько я успел оценить, если нужен биндинг над libcurl, то самое адекватное это typhoeus",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 659308336748302300,
+      "in_reply_to_status_id_str": "659308336748302336",
+      "in_reply_to_user_id": 14722814,
+      "in_reply_to_user_id_str": "14722814",
+      "in_reply_to_screen_name": "suxxes",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "suxxes",
+            "name": "Father Frodo",
+            "id": 14722814,
+            "id_str": "14722814",
+            "indices": [
+              1,
+              8
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 28 10:10:05 +0000 2015",
+      "id": 659311162979389400,
+      "id_str": "659311162979389440",
+      "text": "RT @suxxes: @rubyunderhood Curb?",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Wed Oct 28 09:58:51 +0000 2015",
+        "id": 659308336748302300,
+        "id_str": "659308336748302336",
+        "text": "@rubyunderhood Curb?",
+        "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 659306670506512400,
+        "in_reply_to_status_id_str": "659306670506512384",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 14722814,
+          "id_str": "14722814"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "suxxes",
+            "name": "Father Frodo",
+            "id": 14722814,
+            "id_str": "14722814",
+            "indices": [
+              3,
+              10
+            ]
+          },
+          {
+            "screen_name": "rubyunderhood",
+            "name": "Ruby разработчик",
+            "id": 3341793591,
+            "id_str": "3341793591",
+            "indices": [
+              12,
+              26
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Oct 28 10:09:47 +0000 2015",
+      "id": 659311088119496700,
+      "id_str": "659311088119496704",
+      "text": "RT @fxposter: @rubyunderhood https://t.co/8iv6WScHfN и https://t.co/d8jvWJZZno",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Wed Oct 28 09:54:24 +0000 2015",
+        "id": 659307216399417300,
+        "id_str": "659307216399417344",
+        "text": "@rubyunderhood https://t.co/8iv6WScHfN и https://t.co/d8jvWJZZno",
+        "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 659306670506512400,
+        "in_reply_to_status_id_str": "659306670506512384",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 9013972,
+          "id_str": "9013972"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 1,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/8iv6WScHfN",
+              "expanded_url": "http://devblog.avdi.org/2015/09/04/poll-whats-your-favorite-ruby-http-client-library/",
+              "display_url": "devblog.avdi.org/2015/09/04/pol…",
+              "indices": [
+                15,
+                38
+              ]
+            },
+            {
+              "url": "https://t.co/d8jvWJZZno",
+              "expanded_url": "http://devblog.avdi.org/2015/10/16/results-of-ruby-http-client-library-survey/",
+              "display_url": "devblog.avdi.org/2015/10/16/res…",
+              "indices": [
+                41,
+                64
+              ]
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "fxposter",
+            "name": "Pavel Forkert",
+            "id": 9013972,
+            "id_str": "9013972",
+            "indices": [
+              3,
+              12
+            ]
+          },
+          {
+            "screen_name": "rubyunderhood",
+            "name": "Ruby разработчик",
+            "id": 3341793591,
+            "id_str": "3341793591",
+            "indices": [
+              14,
+              28
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/8iv6WScHfN",
+            "expanded_url": "http://devblog.avdi.org/2015/09/04/poll-whats-your-favorite-ruby-http-client-library/",
+            "display_url": "devblog.avdi.org/2015/09/04/pol…",
+            "indices": [
+              29,
+              52
+            ]
+          },
+          {
+            "url": "https://t.co/d8jvWJZZno",
+            "expanded_url": "http://devblog.avdi.org/2015/10/16/results-of-ruby-http-client-library-survey/",
+            "display_url": "devblog.avdi.org/2015/10/16/res…",
+            "indices": [
+              55,
+              78
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 28 10:09:45 +0000 2015",
+      "id": 659311077918949400,
+      "id_str": "659311077918949376",
+      "text": "RT @thingsudintkno: @rubyunderhood у Avdi Grimm недавно был масштабный опрос среди читателей блога и подведение итогов по этому вопросу htt…",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Wed Oct 28 09:55:32 +0000 2015",
+        "id": 659307502685847600,
+        "id_str": "659307502685847553",
+        "text": "@rubyunderhood у Avdi Grimm недавно был масштабный опрос среди читателей блога и подведение итогов по этому вопросу https://t.co/nb78MSNIYe",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 659306670506512400,
+        "in_reply_to_status_id_str": "659306670506512384",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 465057073,
+          "id_str": "465057073"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 1,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/nb78MSNIYe",
+              "expanded_url": "http://devblog.avdi.org/2015/10/16/results-of-ruby-http-client-library-survey/",
+              "display_url": "devblog.avdi.org/2015/10/16/res…",
+              "indices": [
+                116,
+                139
+              ]
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "thingsudintkno",
+            "name": "zhenya",
+            "id": 465057073,
+            "id_str": "465057073",
+            "indices": [
+              3,
+              18
+            ]
+          },
+          {
+            "screen_name": "rubyunderhood",
+            "name": "Ruby разработчик",
+            "id": 3341793591,
+            "id_str": "3341793591",
+            "indices": [
+              20,
+              34
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/nb78MSNIYe",
+            "expanded_url": "http://devblog.avdi.org/2015/10/16/results-of-ruby-http-client-library-survey/",
+            "display_url": "devblog.avdi.org/2015/10/16/res…",
+            "indices": [
+              139,
+              140
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 28 10:09:26 +0000 2015",
+      "id": 659311002232692700,
+      "id_str": "659311002232692736",
+      "text": "Но буду рад послушать, чем хорош http.rb",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 28 10:08:37 +0000 2015",
+      "id": 659310792970498000,
+      "id_str": "659310792970498048",
+      "text": "Я очень часто использую gem 'httpclient'. Он хороший, умеет персист.соединения, написан на чистом Ruby.",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 2,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 28 10:07:10 +0000 2015",
+      "id": 659310429475311600,
+      "id_str": "659310429475311620",
+      "text": "Поддержка Keep-Alive — пожалуй, самая главная причина, почему стоит всегда принимать во внимание, какой HTTP-клиент используется.",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 659310090734932000,
+      "in_reply_to_status_id_str": "659310090734931968",
+      "in_reply_to_user_id": 3341793591,
+      "in_reply_to_user_id_str": "3341793591",
+      "in_reply_to_screen_name": "rubyunderhood",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 28 10:05:49 +0000 2015",
+      "id": 659310090734932000,
+      "id_str": "659310090734931968",
+      "text": "И если ты не ставил дополнительных гемов, то Faraday будет использовать Net::HTTP, который не будет уметь в персист.соединения (keep-alive).",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 659309919867424800,
+      "in_reply_to_status_id_str": "659309919867424768",
+      "in_reply_to_user_id": 3341793591,
+      "in_reply_to_user_id_str": "3341793591",
+      "in_reply_to_screen_name": "rubyunderhood",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 28 10:05:08 +0000 2015",
+      "id": 659309919867424800,
+      "id_str": "659309919867424768",
+      "text": "Далее, Elasticsearch::Transport использует Faraday для HTTP. Сам Faraday — лишь обертка над разными клиентами.",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 659309855610683400,
+      "in_reply_to_status_id_str": "659309855610683392",
+      "in_reply_to_user_id": 3341793591,
+      "in_reply_to_user_id_str": "3341793591",
+      "in_reply_to_screen_name": "rubyunderhood",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Wed Oct 28 10:04:53 +0000 2015",
+      "id": 659309855610683400,
+      "id_str": "659309855610683392",
+      "text": "\"When possible, consider using HTTP keep alive when connecting for better performance\"",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 659309787465826300,
+      "in_reply_to_status_id_str": "659309787465826304",
+      "in_reply_to_user_id": 3341793591,
+      "in_reply_to_user_id_str": "3341793591",
+      "in_reply_to_screen_name": "rubyunderhood",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Oct 28 10:04:37 +0000 2015",
+      "id": 659309787465826300,
+      "id_str": "659309787465826304",
+      "text": "Я приведу пример: ElasticSearch https://t.co/nHyssC03od",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/nHyssC03od",
+            "expanded_url": "https://www.elastic.co/guide/en/elasticsearch/reference/current/modules-http.html",
+            "display_url": "elastic.co/guide/en/elast…",
+            "indices": [
+              32,
+              55
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Wed Oct 28 10:01:36 +0000 2015",
+      "id": 659309028565237800,
+      "id_str": "659309028565237760",
+      "text": "/@anton_davydov поддержка персистентных соединений в Net::HTTP практически не юзабельная (нужно оборачиваться в блок).",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 659308084213477400,
+      "in_reply_to_status_id_str": "659308084213477376",
+      "in_reply_to_user_id": 539221178,
+      "in_reply_to_user_id_str": "539221178",
+      "in_reply_to_screen_name": "anton_davydov",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "anton_davydov",
+            "name": "Davy Dovanton",
+            "id": 539221178,
+            "id_str": "539221178",
+            "indices": [
+              1,
+              15
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 28 09:59:34 +0000 2015",
+      "id": 659308515232763900,
+      "id_str": "659308515232763904",
+      "text": "RT @anton_davydov: @rubyunderhood а что тебе в Net::HTTP не нравится?",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Wed Oct 28 09:57:51 +0000 2015",
+        "id": 659308084213477400,
+        "id_str": "659308084213477376",
+        "text": "@rubyunderhood а что тебе в Net::HTTP не нравится?",
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 659307661192777700,
+        "in_reply_to_status_id_str": "659307661192777728",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 539221178,
+          "id_str": "539221178"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "anton_davydov",
+            "name": "Davy Dovanton",
+            "id": 539221178,
+            "id_str": "539221178",
+            "indices": [
+              3,
+              17
+            ]
+          },
+          {
+            "screen_name": "rubyunderhood",
+            "name": "Ruby разработчик",
+            "id": 3341793591,
+            "id_str": "3341793591",
+            "indices": [
+              19,
+              33
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 28 09:56:10 +0000 2015",
+      "id": 659307661192777700,
+      "id_str": "659307661192777728",
+      "text": "Отдельное место в аду уготовано любителям HTTParty, который суть просто обёртка над Net::HTTP.",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 28 09:53:32 +0000 2015",
+      "id": 659307000074018800,
+      "id_str": "659307000074018816",
+      "text": "И тут не прокатит ваше лояльное \"зависит от задачи\". Я всегда яростно выпиливаю стандартный Net::HTTP из проектов, потому что нечего тут!",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 28 09:52:14 +0000 2015",
+      "id": 659306670506512400,
+      "id_str": "659306670506512384",
+      "text": "Поэтому назрел вопрос: какие http-клиенты в Ruby сакс, а какие маст хэв?",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 659306433440297000,
+      "in_reply_to_status_id_str": "659306433440296960",
+      "in_reply_to_user_id": 3341793591,
+      "in_reply_to_user_id_str": "3341793591",
+      "in_reply_to_screen_name": "rubyunderhood",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 28 09:51:17 +0000 2015",
+      "id": 659306433440297000,
+      "id_str": "659306433440296960",
+      "text": "А кому-то повезло меньше, и он пишет ВЕБ-СКРЕЙПЕРЫ",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 659306281677758500,
+      "in_reply_to_status_id_str": "659306281677758465",
+      "in_reply_to_user_id": 3341793591,
+      "in_reply_to_user_id_str": "3341793591",
+      "in_reply_to_screen_name": "rubyunderhood",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 28 09:50:41 +0000 2015",
+      "id": 659306281677758500,
+      "id_str": "659306281677758465",
+      "text": "Тут и API для одностраничных приложений, и микросервисы, и вещи типа Couchbase и Elastic.",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 659305982691033100,
+      "in_reply_to_status_id_str": "659305982691033088",
+      "in_reply_to_user_id": 3341793591,
+      "in_reply_to_user_id_str": "3341793591",
+      "in_reply_to_screen_name": "rubyunderhood",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 28 09:49:30 +0000 2015",
+      "id": 659305982691033100,
+      "id_str": "659305982691033088",
+      "text": "Ну что, рубисты, поговорим про HTTP. Сейчас HTTP-протокол используется далеко не только для того, чтобы отдавать сайты в браузер.",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 28 09:46:25 +0000 2015",
+      "id": 659305207281688600,
+      "id_str": "659305207281688576",
+      "text": "RT @Shiroginne: @nick_jastix @rubyunderhood у elixir тоже, оставим в стороне erlang",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Wed Oct 28 08:34:10 +0000 2015",
+        "id": 659287026769010700,
+        "id_str": "659287026769010688",
+        "text": "@nick_jastix @rubyunderhood у elixir тоже, оставим в стороне erlang",
+        "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 659286938466328600,
+        "in_reply_to_status_id_str": "659286938466328576",
+        "in_reply_to_user_id": 18577007,
+        "in_reply_to_user_id_str": "18577007",
+        "in_reply_to_screen_name": "nick_jastix",
+        "user": {
+          "id": 25733176,
+          "id_str": "25733176"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "nick_jastix",
+              "name": "Nikolay",
+              "id": 18577007,
+              "id_str": "18577007",
+              "indices": [
+                0,
+                12
+              ]
+            },
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                13,
+                27
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "uk"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Shiroginne",
+            "name": "Mac Shifford",
+            "id": 25733176,
+            "id_str": "25733176",
+            "indices": [
+              3,
+              14
+            ]
+          },
+          {
+            "screen_name": "nick_jastix",
+            "name": "Nikolay",
+            "id": 18577007,
+            "id_str": "18577007",
+            "indices": [
+              16,
+              28
+            ]
+          },
+          {
+            "screen_name": "rubyunderhood",
+            "name": "Ruby разработчик",
+            "id": 3341793591,
+            "id_str": "3341793591",
+            "indices": [
+              29,
+              43
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "uk"
+    },
+    {
+      "created_at": "Wed Oct 28 09:46:08 +0000 2015",
+      "id": 659305138163724300,
+      "id_str": "659305138163724288",
+      "text": "RT @nick_jastix: @Shiroginne @rubyunderhood у руби отличная экосистема для начала нового проекта.",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Wed Oct 28 08:33:49 +0000 2015",
+        "id": 659286938466328600,
+        "id_str": "659286938466328576",
+        "text": "@Shiroginne @rubyunderhood у руби отличная экосистема для начала нового проекта.",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 659282999851241500,
+        "in_reply_to_status_id_str": "659282999851241472",
+        "in_reply_to_user_id": 25733176,
+        "in_reply_to_user_id_str": "25733176",
+        "in_reply_to_screen_name": "Shiroginne",
+        "user": {
+          "id": 18577007,
+          "id_str": "18577007"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "Shiroginne",
+              "name": "Mac Shifford",
+              "id": 25733176,
+              "id_str": "25733176",
+              "indices": [
+                0,
+                11
+              ]
+            },
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                12,
+                26
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "nick_jastix",
+            "name": "Nikolay",
+            "id": 18577007,
+            "id_str": "18577007",
+            "indices": [
+              3,
+              15
+            ]
+          },
+          {
+            "screen_name": "Shiroginne",
+            "name": "Mac Shifford",
+            "id": 25733176,
+            "id_str": "25733176",
+            "indices": [
+              17,
+              28
+            ]
+          },
+          {
+            "screen_name": "rubyunderhood",
+            "name": "Ruby разработчик",
+            "id": 3341793591,
+            "id_str": "3341793591",
+            "indices": [
+              29,
+              43
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 28 09:45:08 +0000 2015",
+      "id": 659304885918302200,
+      "id_str": "659304885918302208",
+      "text": "В общем, двоемыслие какое-то. Все любят Ruby, но свалить хотят!",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 28 09:44:32 +0000 2015",
+      "id": 659304735493726200,
+      "id_str": "659304735493726208",
+      "text": "RT @bytecheg: @rubyunderhood люблю, если сваливать, то на Crystal",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Wed Oct 28 09:44:18 +0000 2015",
+        "id": 659304676672806900,
+        "id_str": "659304676672806912",
+        "text": "@rubyunderhood люблю, если сваливать, то на Crystal",
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 659108656143835100,
+        "in_reply_to_status_id_str": "659108656143835136",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 278923747,
+          "id_str": "278923747"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "bytecheg",
+            "name": "Denis Kuznetsov",
+            "id": 278923747,
+            "id_str": "278923747",
+            "indices": [
+              3,
+              12
+            ]
+          },
+          {
+            "screen_name": "rubyunderhood",
+            "name": "Ruby разработчик",
+            "id": 3341793591,
+            "id_str": "3341793591",
+            "indices": [
+              14,
+              28
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 28 09:27:48 +0000 2015",
+      "id": 659300523779227600,
+      "id_str": "659300523779227648",
+      "text": "RT @scarfacedeb: @rubyunderhood Ручками) http.rb + sidekiq",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Wed Oct 28 07:47:44 +0000 2015",
+        "id": 659275341102452700,
+        "id_str": "659275341102452736",
+        "text": "@rubyunderhood Ручками) http.rb + sidekiq",
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 659273927089332200,
+        "in_reply_to_status_id_str": "659273927089332224",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 40921856,
+          "id_str": "40921856"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+          "id": "7d44c7abd7396abe",
+          "url": "https://api.twitter.com/1.1/geo/id/7d44c7abd7396abe.json",
+          "place_type": "city",
+          "name": "Тюмень",
+          "full_name": "Тюмень, Тюменская область",
+          "country_code": "RU",
+          "country": "Rossiya",
+          "contained_within": [],
+          "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  65.2612523,
+                  56.994673
+                ],
+                [
+                  65.8524368,
+                  56.994673
+                ],
+                [
+                  65.8524368,
+                  57.3066131
+                ],
+                [
+                  65.2612523,
+                  57.3066131
+                ]
+              ]
+            ]
+          },
+          "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "und"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "scarfacedeb",
+            "name": "Andrew Volozhanin",
+            "id": 40921856,
+            "id_str": "40921856",
+            "indices": [
+              3,
+              15
+            ]
+          },
+          {
+            "screen_name": "rubyunderhood",
+            "name": "Ruby разработчик",
+            "id": 3341793591,
+            "id_str": "3341793591",
+            "indices": [
+              17,
+              31
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Wed Oct 28 09:27:45 +0000 2015",
+      "id": 659300509455687700,
+      "id_str": "659300509455687680",
+      "text": "RT @nick_jastix: @Shiroginne @rubyunderhood до миллионов запросов ещё нужно дорасти. А для сокетов есть Erlang.",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Wed Oct 28 08:08:05 +0000 2015",
+        "id": 659280462540623900,
+        "id_str": "659280462540623872",
+        "text": "@Shiroginne @rubyunderhood до миллионов запросов ещё нужно дорасти. А для сокетов есть Erlang.",
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 659271303560581100,
+        "in_reply_to_status_id_str": "659271303560581120",
+        "in_reply_to_user_id": 25733176,
+        "in_reply_to_user_id_str": "25733176",
+        "in_reply_to_screen_name": "Shiroginne",
+        "user": {
+          "id": 18577007,
+          "id_str": "18577007"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "Shiroginne",
+              "name": "Mac Shifford",
+              "id": 25733176,
+              "id_str": "25733176",
+              "indices": [
+                0,
+                11
+              ]
+            },
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                12,
+                26
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "nick_jastix",
+            "name": "Nikolay",
+            "id": 18577007,
+            "id_str": "18577007",
+            "indices": [
+              3,
+              15
+            ]
+          },
+          {
+            "screen_name": "Shiroginne",
+            "name": "Mac Shifford",
+            "id": 25733176,
+            "id_str": "25733176",
+            "indices": [
+              17,
+              28
+            ]
+          },
+          {
+            "screen_name": "rubyunderhood",
+            "name": "Ruby разработчик",
+            "id": 3341793591,
+            "id_str": "3341793591",
+            "indices": [
+              29,
+              43
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
       "created_at": "Wed Oct 28 07:42:07 +0000 2015",
       "id": 659273927089332200,
       "id_str": "659273927089332224",
@@ -2119,7 +6679,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 0,
-      "favorite_count": 0,
+      "favorite_count": 1,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -2373,7 +6933,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 0,
-      "favorite_count": 3,
+      "favorite_count": 2,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -3621,7 +8181,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 0,
-      "favorite_count": 2,
+      "favorite_count": 1,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -3814,7 +8374,7 @@
         "user_mentions": [
           {
             "screen_name": "ptico",
-            "name": "Andrey Savchenko",
+            "name": "Andriy Savchenko",
             "id": 16743832,
             "id_str": "16743832",
             "indices": [
@@ -4730,8 +9290,8 @@
         "lang": "ru"
       },
       "is_quote_status": true,
-      "retweet_count": 1,
-      "favorite_count": 1,
+      "retweet_count": 2,
+      "favorite_count": 2,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -6009,7 +10569,7 @@
         "contributors": null,
         "is_quote_status": false,
         "retweet_count": 1,
-        "favorite_count": 0,
+        "favorite_count": 1,
         "entities": {
           "hashtags": [],
           "symbols": [],
@@ -9998,8 +14558,8 @@
         "place": null,
         "contributors": null,
         "is_quote_status": false,
-        "retweet_count": 544,
-        "favorite_count": 303,
+        "retweet_count": 549,
+        "favorite_count": 311,
         "entities": {
           "hashtags": [],
           "symbols": [],
@@ -10011,7 +14571,7 @@
         "lang": "ru"
       },
       "is_quote_status": false,
-      "retweet_count": 544,
+      "retweet_count": 549,
       "favorite_count": 0,
       "entities": {
         "hashtags": [],
