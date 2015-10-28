@@ -41,22 +41,22 @@
   "friends_count": 9,
   "listed_count": 28,
   "created_at": "Mon Jun 22 18:43:03 +0000 2015",
-  "favourites_count": 79,
+  "favourites_count": 81,
   "utc_offset": -25200,
   "time_zone": "Pacific Time (US & Canada)",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 5142,
+  "statuses_count": 5272,
   "lang": "en",
   "status": {
-    "created_at": "Mon Oct 26 20:30:08 +0000 2015",
-    "id": 658742430389411800,
-    "id_str": "658742430389411840",
-    "text": "/@bytecheg нет, Дмитрий Маликов пишет на Haskell! https://t.co/Wan2J45b3P",
+    "created_at": "Wed Oct 28 07:42:07 +0000 2015",
+    "id": 659273927089332200,
+    "id_str": "659273927089332224",
+    "text": "@bytecheg web scraping",
     "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
     "truncated": false,
-    "in_reply_to_status_id": 658742049722626000,
-    "in_reply_to_status_id_str": "658742049722626048",
+    "in_reply_to_status_id": 659267433262391300,
+    "in_reply_to_status_id_str": "659267433262391296",
     "in_reply_to_user_id": 278923747,
     "in_reply_to_user_id_str": "278923747",
     "in_reply_to_screen_name": "bytecheg",
@@ -64,7 +64,7 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "retweet_count": 1,
+    "retweet_count": 0,
     "favorite_count": 0,
     "entities": {
       "hashtags": [],
@@ -76,27 +76,16 @@
           "id": 278923747,
           "id_str": "278923747",
           "indices": [
-            1,
-            10
+            0,
+            9
           ]
         }
       ],
-      "urls": [
-        {
-          "url": "https://t.co/Wan2J45b3P",
-          "expanded_url": "https://github.com/dmalikov",
-          "display_url": "github.com/dmalikov",
-          "indices": [
-            50,
-            73
-          ]
-        }
-      ]
+      "urls": []
     },
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "ru"
+    "lang": "en"
   },
   "contributors_enabled": false,
   "is_translator": false,
