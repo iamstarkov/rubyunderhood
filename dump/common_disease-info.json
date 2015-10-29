@@ -37,23 +37,23 @@
     }
   },
   "protected": false,
-  "followers_count": 624,
-  "friends_count": 9,
-  "listed_count": 28,
+  "followers_count": 626,
+  "friends_count": 10,
+  "listed_count": 29,
   "created_at": "Mon Jun 22 18:43:03 +0000 2015",
-  "favourites_count": 81,
+  "favourites_count": 82,
   "utc_offset": -25200,
   "time_zone": "Pacific Time (US & Canada)",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 5334,
+  "statuses_count": 5579,
   "lang": "en",
   "status": {
-    "created_at": "Wed Oct 28 13:57:47 +0000 2015",
-    "id": 659368465220960300,
-    "id_str": "659368465220960256",
-    "text": "Не о Ruby, но это тоже важно :( https://t.co/rjl9TIPXjl",
-    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "created_at": "Thu Oct 29 21:01:30 +0000 2015",
+    "id": 659837484084383700,
+    "id_str": "659837484084383745",
+    "text": "Ещё я не знаю, что такое rom-rb, так что вообще не в теме, о чём говорил @inem",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
     "truncated": false,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
@@ -69,22 +69,22 @@
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/rjl9TIPXjl",
-          "expanded_url": "https://twitter.com/kirshatrov/status/659362093930586112",
-          "display_url": "twitter.com/kirshatrov/sta…",
+          "screen_name": "inem",
+          "name": "Иван Немытченко",
+          "id": 7198692,
+          "id_str": "7198692",
           "indices": [
-            32,
-            55
+            73,
+            78
           ]
         }
-      ]
+      ],
+      "urls": []
     },
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
