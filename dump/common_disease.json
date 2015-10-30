@@ -5,6 +5,736 @@
   "post": false,
   "tweets": [
     {
+      "created_at": "Fri Oct 30 10:46:07 +0000 2015",
+      "id": 660045005944410100,
+      "id_str": "660045005944410112",
+      "text": "/@mpak999 @lisovskyvlad да, ведь мог бы вместо него быть НАСТОЯЩИЙ рубист!",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 660044804881911800,
+      "in_reply_to_status_id_str": "660044804881911809",
+      "in_reply_to_user_id": 18864603,
+      "in_reply_to_user_id_str": "18864603",
+      "in_reply_to_screen_name": "mpak999",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "mpak999",
+            "name": "MpaK",
+            "id": 18864603,
+            "id_str": "18864603",
+            "indices": [
+              1,
+              9
+            ]
+          },
+          {
+            "screen_name": "lisovskyvlad",
+            "name": "Влад Лисовский",
+            "id": 87775435,
+            "id_str": "87775435",
+            "indices": [
+              10,
+              23
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Oct 30 10:45:48 +0000 2015",
+      "id": 660044926516928500,
+      "id_str": "660044926516928512",
+      "text": "RT @mpak999: @rubyunderhood @lisovskyvlad т.е. этот знакомый редиска, он украл, чье-то рабочее место!",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Fri Oct 30 10:45:19 +0000 2015",
+        "id": 660044804881911800,
+        "id_str": "660044804881911809",
+        "text": "@rubyunderhood @lisovskyvlad т.е. этот знакомый редиска, он украл, чье-то рабочее место!",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 660044324466503700,
+        "in_reply_to_status_id_str": "660044324466503682",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 18864603,
+          "id_str": "18864603"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            },
+            {
+              "screen_name": "lisovskyvlad",
+              "name": "Влад Лисовский",
+              "id": 87775435,
+              "id_str": "87775435",
+              "indices": [
+                15,
+                28
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "mpak999",
+            "name": "MpaK",
+            "id": 18864603,
+            "id_str": "18864603",
+            "indices": [
+              3,
+              11
+            ]
+          },
+          {
+            "screen_name": "rubyunderhood",
+            "name": "Ruby разработчик",
+            "id": 3341793591,
+            "id_str": "3341793591",
+            "indices": [
+              13,
+              27
+            ]
+          },
+          {
+            "screen_name": "lisovskyvlad",
+            "name": "Влад Лисовский",
+            "id": 87775435,
+            "id_str": "87775435",
+            "indices": [
+              28,
+              41
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Oct 30 10:45:29 +0000 2015",
+      "id": 660044849790509000,
+      "id_str": "660044849790509056",
+      "text": "Это я к тому, что вредно причислять себя к \"рубистам\" или \"рельсовикам\". Это зона комфорта такая.",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 660044582604918800,
+      "in_reply_to_status_id_str": "660044582604918784",
+      "in_reply_to_user_id": 3341793591,
+      "in_reply_to_user_id_str": "3341793591",
+      "in_reply_to_screen_name": "rubyunderhood",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Oct 30 10:44:26 +0000 2015",
+      "id": 660044582604918800,
+      "id_str": "660044582604918784",
+      "text": "Это я просто к тому, что выучить рельсы не велика задача. Вон человек быстро сориентировался и выполнил тестовое задание.",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Oct 30 10:43:24 +0000 2015",
+      "id": 660044324466503700,
+      "id_str": "660044324466503682",
+      "text": "@lisovskyvlad да",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 660043978398675000,
+      "in_reply_to_status_id_str": "660043978398674944",
+      "in_reply_to_user_id": 87775435,
+      "in_reply_to_user_id_str": "87775435",
+      "in_reply_to_screen_name": "lisovskyvlad",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "lisovskyvlad",
+            "name": "Влад Лисовский",
+            "id": 87775435,
+            "id_str": "87775435",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Oct 30 10:39:06 +0000 2015",
+      "id": 660043242721923100,
+      "id_str": "660043242721923072",
+      "text": "/@mr_The да, писал",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 660043057442766800,
+      "in_reply_to_status_id_str": "660043057442766848",
+      "in_reply_to_user_id": 53967484,
+      "in_reply_to_user_id_str": "53967484",
+      "in_reply_to_screen_name": "mr_The",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "mr_The",
+            "name": "mr.The",
+            "id": 53967484,
+            "id_str": "53967484",
+            "indices": [
+              1,
+              8
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Oct 30 10:38:52 +0000 2015",
+      "id": 660043184131711000,
+      "id_str": "660043184131710976",
+      "text": "RT @mr_The: @rubyunderhood а он же до этого писал на чем-то? Если да - то наверняка разберется.",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Fri Oct 30 10:38:22 +0000 2015",
+        "id": 660043057442766800,
+        "id_str": "660043057442766848",
+        "text": "@rubyunderhood а он же до этого писал на чем-то? Если да - то наверняка разберется.",
+        "source": "<a href=\"http://github.com/remhume/Hermelin/\" rel=\"nofollow\">Hermelin</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 660042902576472000,
+        "in_reply_to_status_id_str": "660042902576472064",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 53967484,
+          "id_str": "53967484"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "mr_The",
+            "name": "mr.The",
+            "id": 53967484,
+            "id_str": "53967484",
+            "indices": [
+              3,
+              10
+            ]
+          },
+          {
+            "screen_name": "rubyunderhood",
+            "name": "Ruby разработчик",
+            "id": 3341793591,
+            "id_str": "3341793591",
+            "indices": [
+              12,
+              26
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Oct 30 10:37:45 +0000 2015",
+      "id": 660042902576472000,
+      "id_str": "660042902576472064",
+      "text": "Что бы вы ему посоветовали?",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 660042817381802000,
+      "in_reply_to_status_id_str": "660042817381801984",
+      "in_reply_to_user_id": 3341793591,
+      "in_reply_to_user_id_str": "3341793591",
+      "in_reply_to_screen_name": "rubyunderhood",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Oct 30 10:37:25 +0000 2015",
+      "id": 660042817381802000,
+      "id_str": "660042817381801984",
+      "text": "Давайте так: есть у меня один знакомый, который прошел собеседование и его взяли на работу. Ruby и Rails он до этого толком не знал.",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Oct 30 10:36:09 +0000 2015",
+      "id": 660042497561882600,
+      "id_str": "660042497561882624",
+      "text": "RT @mr_The: @rubyunderhood я бы вроде и не против, но руби выходит сильно сложный для новичков. Это уже не раз проверенно опытным путем.",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Fri Oct 30 10:35:24 +0000 2015",
+        "id": 660042311863267300,
+        "id_str": "660042311863267328",
+        "text": "@rubyunderhood я бы вроде и не против, но руби выходит сильно сложный для новичков. Это уже не раз проверенно опытным путем.",
+        "source": "<a href=\"http://github.com/remhume/Hermelin/\" rel=\"nofollow\">Hermelin</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 660032555803123700,
+        "in_reply_to_status_id_str": "660032555803123712",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 53967484,
+          "id_str": "53967484"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "mr_The",
+            "name": "mr.The",
+            "id": 53967484,
+            "id_str": "53967484",
+            "indices": [
+              3,
+              10
+            ]
+          },
+          {
+            "screen_name": "rubyunderhood",
+            "name": "Ruby разработчик",
+            "id": 3341793591,
+            "id_str": "3341793591",
+            "indices": [
+              12,
+              26
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Oct 30 10:36:00 +0000 2015",
+      "id": 660042462828871700,
+      "id_str": "660042462828871680",
+      "text": "/@ipronix хороший вопрос. не знаю, но изучение первого языка это как правило не только изучение языка — это ещё и обучение программированию",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 660033340582592500,
+      "in_reply_to_status_id_str": "660033340582592512",
+      "in_reply_to_user_id": 113404896,
+      "in_reply_to_user_id_str": "113404896",
+      "in_reply_to_screen_name": "ipronix",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ipronix",
+            "name": "pronix",
+            "id": 113404896,
+            "id_str": "113404896",
+            "indices": [
+              1,
+              9
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Oct 30 10:34:44 +0000 2015",
+      "id": 660042142077878300,
+      "id_str": "660042142077878272",
+      "text": "RT @ipronix: @rubyunderhood а первый язык влияет на что-то ?",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Fri Oct 30 09:59:45 +0000 2015",
+        "id": 660033340582592500,
+        "id_str": "660033340582592512",
+        "text": "@rubyunderhood а первый язык влияет на что-то ?",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 660032555803123700,
+        "in_reply_to_status_id_str": "660032555803123712",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 113404896,
+          "id_str": "113404896"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ipronix",
+            "name": "pronix",
+            "id": 113404896,
+            "id_str": "113404896",
+            "indices": [
+              3,
+              11
+            ]
+          },
+          {
+            "screen_name": "rubyunderhood",
+            "name": "Ruby разработчик",
+            "id": 3341793591,
+            "id_str": "3341793591",
+            "indices": [
+              13,
+              27
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
       "created_at": "Fri Oct 30 09:56:38 +0000 2015",
       "id": 660032555803123700,
       "id_str": "660032555803123712",
@@ -36996,8 +37726,8 @@
         "place": null,
         "contributors": null,
         "is_quote_status": false,
-        "retweet_count": 584,
-        "favorite_count": 337,
+        "retweet_count": 586,
+        "favorite_count": 338,
         "entities": {
           "hashtags": [],
           "symbols": [],
@@ -37009,7 +37739,7 @@
         "lang": "ru"
       },
       "is_quote_status": false,
-      "retweet_count": 584,
+      "retweet_count": 586,
       "favorite_count": 0,
       "entities": {
         "hashtags": [],
