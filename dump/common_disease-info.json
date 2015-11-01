@@ -37,22 +37,22 @@
     }
   },
   "protected": false,
-  "followers_count": 629,
+  "followers_count": 628,
   "friends_count": 25,
   "listed_count": 29,
   "created_at": "Mon Jun 22 18:43:03 +0000 2015",
-  "favourites_count": 83,
+  "favourites_count": 84,
   "utc_offset": -25200,
   "time_zone": "Pacific Time (US & Canada)",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 5758,
+  "statuses_count": 5801,
   "lang": "en",
   "status": {
-    "created_at": "Fri Oct 30 22:12:37 +0000 2015",
-    "id": 660217771616280600,
-    "id_str": "660217771616280576",
-    "text": "RT @gruz0: @rubyunderhood @anton_davydov он уже в корпоративном Телеграме отрывается и шумит :-D",
+    "created_at": "Sat Oct 31 23:12:55 +0000 2015",
+    "id": 660595333420998700,
+    "id_str": "660595333420998656",
+    "text": "Erlang, Elixir, and Hygenic Macros\nhttps://t.co/LG4HlzvgEa",
     "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
     "truncated": false,
     "in_reply_to_status_id": null,
@@ -64,97 +64,28 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "retweeted_status": {
-      "created_at": "Fri Oct 30 22:01:08 +0000 2015",
-      "id": 660214881338171400,
-      "id_str": "660214881338171392",
-      "text": "@rubyunderhood @anton_davydov он уже в корпоративном Телеграме отрывается и шумит :-D",
-      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-      "truncated": false,
-      "in_reply_to_status_id": 660211901968855000,
-      "in_reply_to_status_id_str": "660211901968855040",
-      "in_reply_to_user_id": 3341793591,
-      "in_reply_to_user_id_str": "3341793591",
-      "in_reply_to_screen_name": "rubyunderhood",
-      "geo": null,
-      "coordinates": null,
-      "place": null,
-      "contributors": null,
-      "retweet_count": 1,
-      "favorite_count": 0,
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [
-          {
-            "screen_name": "rubyunderhood",
-            "name": "Ruby разработчик",
-            "id": 3341793591,
-            "id_str": "3341793591",
-            "indices": [
-              0,
-              14
-            ]
-          },
-          {
-            "screen_name": "anton_davydov",
-            "name": "Davy Dovanton",
-            "id": 539221178,
-            "id_str": "539221178",
-            "indices": [
-              15,
-              29
-            ]
-          }
-        ],
-        "urls": []
-      },
-      "favorited": false,
-      "retweeted": false,
-      "lang": "ru"
-    },
-    "retweet_count": 1,
+    "retweet_count": 0,
     "favorite_count": 0,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
+      "user_mentions": [],
+      "urls": [
         {
-          "screen_name": "gruz0",
-          "name": "Sasha Gruzov (18+)",
-          "id": 179090653,
-          "id_str": "179090653",
+          "url": "https://t.co/LG4HlzvgEa",
+          "expanded_url": "http://www.jerrydantonio.com/elixir-and-erlang-macros/",
+          "display_url": "jerrydantonio.com/elixir-and-erl…",
           "indices": [
-            3,
-            9
-          ]
-        },
-        {
-          "screen_name": "rubyunderhood",
-          "name": "Ruby разработчик",
-          "id": 3341793591,
-          "id_str": "3341793591",
-          "indices": [
-            11,
-            25
-          ]
-        },
-        {
-          "screen_name": "anton_davydov",
-          "name": "Davy Dovanton",
-          "id": 539221178,
-          "id_str": "539221178",
-          "indices": [
-            26,
-            40
+            35,
+            58
           ]
         }
-      ],
-      "urls": []
+      ]
     },
     "favorited": false,
     "retweeted": false,
-    "lang": "ru"
+    "possibly_sensitive": false,
+    "lang": "de"
   },
   "contributors_enabled": false,
   "is_translator": false,
