@@ -26,29 +26,29 @@
     }
   },
   "protected": false,
-  "followers_count": 631,
+  "followers_count": 635,
   "friends_count": 25,
-  "listed_count": 29,
+  "listed_count": 30,
   "created_at": "Mon Jun 22 18:43:03 +0000 2015",
-  "favourites_count": 90,
+  "favourites_count": 91,
   "utc_offset": -28800,
   "time_zone": "Pacific Time (US & Canada)",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 5906,
+  "statuses_count": 5993,
   "lang": "en",
   "status": {
-    "created_at": "Mon Nov 02 09:06:26 +0000 2015",
-    "id": 661107083408973800,
-    "id_str": "661107083408973825",
-    "text": "Кстати, если у Вас есть интересующие вопросы ко мне - задавайте. Буду рад ответить на них :)",
-    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "created_at": "Mon Nov 02 11:11:18 +0000 2015",
+    "id": 661138510561345500,
+    "id_str": "661138510561345536",
+    "text": "Как говорил Matz - это может быть soft typing https://t.co/jm9ux0OAIX Но он не в восторге от этой идеи @ipronix",
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
     "truncated": false,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 661138130951651300,
+    "in_reply_to_status_id_str": "661138130951651329",
+    "in_reply_to_user_id": 113404896,
+    "in_reply_to_user_id_str": "113404896",
+    "in_reply_to_screen_name": "ipronix",
     "geo": null,
     "coordinates": null,
     "place": null,
@@ -58,11 +58,33 @@
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": []
+      "user_mentions": [
+        {
+          "screen_name": "ipronix",
+          "name": "pronix",
+          "id": 113404896,
+          "id_str": "113404896",
+          "indices": [
+            103,
+            111
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/jm9ux0OAIX",
+          "expanded_url": "https://www.omniref.com/blog/blog/2014/11/17/matz-at-rubyconf-2014-will-ruby-3-dot-0-be-statically-typed/",
+          "display_url": "omniref.com/blog/blog/2014…",
+          "indices": [
+            46,
+            69
+          ]
+        }
+      ]
     },
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,

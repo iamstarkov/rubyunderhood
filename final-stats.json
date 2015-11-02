@@ -223,7 +223,8 @@
       "retweetedKpi": 0.8,
       "favorited": 86,
       "favoritedKpi": 1.87,
-      "gainedFollowers": 45
+      "gainedFollowers": 45,
+      "maxOwnTweetsPercentage": true
     },
     {
       "username": "inem",
@@ -320,20 +321,19 @@
     {
       "username": "leopard_me",
       "index": 19,
-      "followers_count": 631,
-      "tweets": 3,
-      "ownTweets": 3,
-      "ownTweetsPercentage": 100,
-      "retweets": 0,
-      "retweetsPercentage": 0,
-      "replies": 0,
-      "repliesPercentage": 0,
-      "retweeted": 1,
-      "retweetedKpi": 0.33,
-      "favorited": 0,
-      "favoritedKpi": 0,
-      "gainedFollowers": 0,
-      "maxOwnTweetsPercentage": true
+      "followers_count": 635,
+      "tweets": 90,
+      "ownTweets": 15,
+      "ownTweetsPercentage": 16.666666666666668,
+      "retweets": 33,
+      "retweetsPercentage": 36.666666666666664,
+      "replies": 42,
+      "repliesPercentage": 46.666666666666664,
+      "retweeted": 4,
+      "retweetedKpi": 0.27,
+      "favorited": 6,
+      "favoritedKpi": 0.4,
+      "gainedFollowers": 4
     }
   ]
 }
