@@ -1,6 +1,6 @@
 export default [
   // post: false
-  { username: 'leopard_me',     start: '02 nov 2015', first: '661105000207269888', post: false },
+  { username: 'leopard_me',     start: '02 nov 2015', first: '661105000207269888' },
   { username: 'common_disease', start: '26 oct 2015', first: '658576374689636352' },
   { username: 'fxposter',       start: '19 oct 2015', first: '656019099215089664' },
   { username: 'kirshatrov',     start: '12 oct 2015', first: '653526849830678528' },
