@@ -37,22 +37,22 @@
     }
   },
   "protected": false,
-  "followers_count": 667,
+  "followers_count": 669,
   "friends_count": 26,
-  "listed_count": 32,
+  "listed_count": 33,
   "created_at": "Mon Jun 22 18:43:03 +0000 2015",
-  "favourites_count": 115,
+  "favourites_count": 118,
   "utc_offset": -28800,
   "time_zone": "Pacific Time (US & Canada)",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 6608,
+  "statuses_count": 6626,
   "lang": "en",
   "status": {
-    "created_at": "Mon Nov 09 18:21:54 +0000 2015",
-    "id": 663783587544698900,
-    "id_str": "663783587544698880",
-    "text": "На сегодня все. Всем спасибо за отличное общение. И не забывайте про life/work balance ;) Увидимся завтра",
+    "created_at": "Tue Nov 10 09:42:29 +0000 2015",
+    "id": 664015260542746600,
+    "id_str": "664015260542746624",
+    "text": "RT @nick_jastix: @rubyunderhood это знакомо. После рабочего дня: \"ты же был дома, почему не мог сделать это и то?\" :D",
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "truncated": false,
     "in_reply_to_status_id": null,
@@ -64,12 +64,72 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "retweet_count": 0,
+    "retweeted_status": {
+      "created_at": "Tue Nov 10 09:37:45 +0000 2015",
+      "id": 664014069037465600,
+      "id_str": "664014069037465600",
+      "text": "@rubyunderhood это знакомо. После рабочего дня: \"ты же был дома, почему не мог сделать это и то?\" :D",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 664013134559100900,
+      "in_reply_to_status_id_str": "664013134559100928",
+      "in_reply_to_user_id": 3341793591,
+      "in_reply_to_user_id_str": "3341793591",
+      "in_reply_to_screen_name": "rubyunderhood",
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "rubyunderhood",
+            "name": "Ruby разработчик",
+            "id": 3341793591,
+            "id_str": "3341793591",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    "retweet_count": 1,
     "favorite_count": 0,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "nick_jastix",
+          "name": "Nikolay",
+          "id": 18577007,
+          "id_str": "18577007",
+          "indices": [
+            3,
+            15
+          ]
+        },
+        {
+          "screen_name": "rubyunderhood",
+          "name": "Ruby разработчик",
+          "id": 3341793591,
+          "id_str": "3341793591",
+          "indices": [
+            17,
+            31
+          ]
+        }
+      ],
       "urls": []
     },
     "favorited": false,
