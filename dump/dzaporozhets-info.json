@@ -37,22 +37,22 @@
     }
   },
   "protected": false,
-  "followers_count": 687,
+  "followers_count": 691,
   "friends_count": 26,
-  "listed_count": 33,
+  "listed_count": 35,
   "created_at": "Mon Jun 22 18:43:03 +0000 2015",
-  "favourites_count": 147,
+  "favourites_count": 152,
   "utc_offset": -28800,
   "time_zone": "Pacific Time (US & Canada)",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 6789,
+  "statuses_count": 6791,
   "lang": "en",
   "status": {
-    "created_at": "Sat Nov 14 16:46:32 +0000 2015",
-    "id": 665571528474521600,
-    "id_str": "665571528474521602",
-    "text": "RT @KSDaemon: @backendsecret а мы вот тот, который с gitlab в комплекте осваиваем. Кажется норм и полная интеграция с гитлабом.",
+    "created_at": "Sun Nov 15 14:47:18 +0000 2015",
+    "id": 665903907315544000,
+    "id_str": "665903907315544064",
+    "text": "RT @mpak999: @rubyunderhood да, тебе спасибо, не плохая неделя и отличный у вас продукт!",
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "truncated": false,
     "in_reply_to_status_id": null,
@@ -65,65 +65,32 @@
     "place": null,
     "contributors": null,
     "retweeted_status": {
-      "created_at": "Sat Nov 14 15:38:50 +0000 2015",
-      "id": 665554491920490500,
-      "id_str": "665554491920490496",
-      "text": "@backendsecret а мы вот тот, который с gitlab в комплекте осваиваем. Кажется норм и полная интеграция с гитлабом.",
-      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "created_at": "Sun Nov 15 14:14:18 +0000 2015",
+      "id": 665895606318010400,
+      "id_str": "665895606318010368",
+      "text": "@rubyunderhood да, тебе спасибо, не плохая неделя и отличный у вас продукт!",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
       "truncated": false,
-      "in_reply_to_status_id": 665500490332053500,
-      "in_reply_to_status_id_str": "665500490332053504",
-      "in_reply_to_user_id": 3302551618,
-      "in_reply_to_user_id_str": "3302551618",
-      "in_reply_to_screen_name": "backendsecret",
+      "in_reply_to_status_id": 665894167000784900,
+      "in_reply_to_status_id_str": "665894167000784896",
+      "in_reply_to_user_id": 3341793591,
+      "in_reply_to_user_id_str": "3341793591",
+      "in_reply_to_screen_name": "rubyunderhood",
       "geo": null,
       "coordinates": null,
-      "place": {
-        "id": "22deffea18a2f1d2",
-        "url": "https://api.twitter.com/1.1/geo/id/22deffea18a2f1d2.json",
-        "place_type": "admin",
-        "name": "Moscow",
-        "full_name": "Moscow, Russia",
-        "country_code": "RU",
-        "country": "Rossiya",
-        "contained_within": [],
-        "bounding_box": {
-          "type": "Polygon",
-          "coordinates": [
-            [
-              [
-                37.1316733,
-                55.4908342
-              ],
-              [
-                37.9650116,
-                55.4908342
-              ],
-              [
-                37.9650116,
-                56.0209192
-              ],
-              [
-                37.1316733,
-                56.0209192
-              ]
-            ]
-          ]
-        },
-        "attributes": {}
-      },
+      "place": null,
       "contributors": null,
-      "retweet_count": 1,
+      "retweet_count": 2,
       "favorite_count": 1,
       "entities": {
         "hashtags": [],
         "symbols": [],
         "user_mentions": [
           {
-            "screen_name": "backendsecret",
-            "name": "Разработчик бэкенда",
-            "id": 3302551618,
-            "id_str": "3302551618",
+            "screen_name": "rubyunderhood",
+            "name": "Ruby разработчик",
+            "id": 3341793591,
+            "id_str": "3341793591",
             "indices": [
               0,
               14
@@ -136,30 +103,30 @@
       "retweeted": false,
       "lang": "ru"
     },
-    "retweet_count": 1,
+    "retweet_count": 2,
     "favorite_count": 0,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "KSDaemon",
-          "name": "Konstantin Burkalev",
-          "id": 103650148,
-          "id_str": "103650148",
+          "screen_name": "mpak999",
+          "name": "MpaK",
+          "id": 18864603,
+          "id_str": "18864603",
           "indices": [
             3,
-            12
+            11
           ]
         },
         {
-          "screen_name": "backendsecret",
-          "name": "Разработчик бэкенда",
-          "id": 3302551618,
-          "id_str": "3302551618",
+          "screen_name": "rubyunderhood",
+          "name": "Ruby разработчик",
+          "id": 3341793591,
+          "id_str": "3341793591",
           "indices": [
-            14,
-            28
+            13,
+            27
           ]
         }
       ],
