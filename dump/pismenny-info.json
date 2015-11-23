@@ -5,7 +5,7 @@
   "screen_name": "rubyunderhood",
   "location": "Cheboksary",
   "profile_location": null,
-  "description": "Коллективный твиттер-аккаунт для ruby-разработчиков с новым автором каждую неделю. В эфире с вами @dapi",
+  "description": "Коллективный твиттер-аккаунт для ruby-разработчиков с новым автором каждую неделю. В эфире с вами @pismenny https://t.co/qDevrUbFPM",
   "url": "https://t.co/0oyXOwheSB",
   "entities": {
     "url": {
@@ -22,11 +22,21 @@
       ]
     },
     "description": {
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/qDevrUbFPM",
+          "expanded_url": "https://github.com/dapi",
+          "display_url": "github.com/dapi",
+          "indices": [
+            108,
+            131
+          ]
+        }
+      ]
     }
   },
   "protected": false,
-  "followers_count": 705,
+  "followers_count": 714,
   "friends_count": 26,
   "listed_count": 36,
   "created_at": "Mon Jun 22 18:43:03 +0000 2015",
@@ -35,13 +45,13 @@
   "time_zone": "Pacific Time (US & Canada)",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 6856,
+  "statuses_count": 6872,
   "lang": "en",
   "status": {
-    "created_at": "Mon Nov 23 08:20:15 +0000 2015",
-    "id": 668705607105552400,
-    "id_str": "668705607105552384",
-    "text": "Буду идти по темам из списка - https://t.co/NcZ6eZbavR\nНадеюсь на большое количество вопросов.",
+    "created_at": "Mon Nov 23 13:05:05 +0000 2015",
+    "id": 668777289031753700,
+    "id_str": "668777289031753728",
+    "text": "Немножко про то как в taaasty.ru полностью отделили верстку, стили и скрипты от основного приложения на ruby - https://t.co/kvyuiChBGc",
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "truncated": false,
     "in_reply_to_status_id": null,
@@ -54,19 +64,19 @@
     "place": null,
     "contributors": null,
     "retweet_count": 0,
-    "favorite_count": 0,
+    "favorite_count": 2,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/NcZ6eZbavR",
-          "expanded_url": "https://rubyunderhood.ru/about/",
-          "display_url": "rubyunderhood.ru/about/",
+          "url": "https://t.co/kvyuiChBGc",
+          "expanded_url": "http://habrahabr.ru/post/271489/",
+          "display_url": "habrahabr.ru/post/271489/",
           "indices": [
-            31,
-            54
+            111,
+            134
           ]
         }
       ]
