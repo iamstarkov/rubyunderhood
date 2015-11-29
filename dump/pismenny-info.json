@@ -36,22 +36,22 @@
     }
   },
   "protected": false,
-  "followers_count": 727,
-  "friends_count": 33,
+  "followers_count": 733,
+  "friends_count": 34,
   "listed_count": 36,
   "created_at": "Mon Jun 22 18:43:03 +0000 2015",
-  "favourites_count": 154,
+  "favourites_count": 155,
   "utc_offset": -28800,
   "time_zone": "Pacific Time (US & Canada)",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 6999,
+  "statuses_count": 7030,
   "lang": "en",
   "status": {
-    "created_at": "Thu Nov 26 21:23:51 +0000 2015",
-    "id": 669989971902799900,
-    "id_str": "669989971902799872",
-    "text": "Если честно, злорадно надеялся что ReactJS не получит массового применения и останется хорошим конкурентным преимуществом",
+    "created_at": "Fri Nov 27 14:43:35 +0000 2015",
+    "id": 670251626905665500,
+    "id_str": "670251626905665538",
+    "text": "https://t.co/A2fWV8FA3L",
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "truncated": false,
     "in_reply_to_status_id": null,
@@ -63,17 +63,56 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "retweet_count": 0,
-    "favorite_count": 0,
+    "retweet_count": 11,
+    "favorite_count": 10,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": []
+      "urls": [],
+      "media": [
+        {
+          "id": 670251625559142400,
+          "id_str": "670251625559142401",
+          "indices": [
+            0,
+            23
+          ],
+          "media_url": "http://pbs.twimg.com/media/CU02TWOUsAEi8-0.png",
+          "media_url_https": "https://pbs.twimg.com/media/CU02TWOUsAEi8-0.png",
+          "url": "https://t.co/A2fWV8FA3L",
+          "display_url": "pic.twitter.com/A2fWV8FA3L",
+          "expanded_url": "http://twitter.com/rubyunderhood/status/670251626905665538/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 422,
+              "h": 241,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 422,
+              "h": 241,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 340,
+              "h": 194,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
     },
     "favorited": false,
     "retweeted": false,
-    "lang": "ru"
+    "possibly_sensitive": false,
+    "lang": "und"
   },
   "contributors_enabled": false,
   "is_translator": false,
