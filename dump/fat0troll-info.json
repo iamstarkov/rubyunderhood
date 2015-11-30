@@ -37,7 +37,7 @@
     }
   },
   "protected": false,
-  "followers_count": 739,
+  "followers_count": 743,
   "friends_count": 36,
   "listed_count": 36,
   "created_at": "Mon Jun 22 18:43:03 +0000 2015",
@@ -46,13 +46,13 @@
   "time_zone": "Pacific Time (US & Canada)",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 7114,
+  "statuses_count": 7144,
   "lang": "en",
   "status": {
-    "created_at": "Mon Nov 30 11:24:04 +0000 2015",
-    "id": 671288580581531600,
-    "id_str": "671288580581531648",
-    "text": "Да, после встречи с жабой и похапэ (тоже в этом году) я возлюбил руби всей душой :)",
+    "created_at": "Mon Nov 30 18:30:13 +0000 2015",
+    "id": 671395824262361100,
+    "id_str": "671395824262361088",
+    "text": "RT @POS_troi: В общем много букав :)\n@rubyunderhood @backendsecret @cssunderhood @jsunderhood @elixirunderhood \nhttps://t.co/yZNqaNgRAY",
     "source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix for Android</a>",
     "truncated": false,
     "in_reply_to_status_id": null,
@@ -60,65 +60,182 @@
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
     "in_reply_to_screen_name": null,
-    "geo": {
-      "type": "Point",
-      "coordinates": [
-        54.7643308,
-        32.0299394
-      ]
-    },
-    "coordinates": {
-      "type": "Point",
-      "coordinates": [
-        32.0299394,
-        54.7643308
-      ]
-    },
-    "place": {
-      "id": "7c811f547d7dde0f",
-      "url": "https://api.twitter.com/1.1/geo/id/7c811f547d7dde0f.json",
-      "place_type": "city",
-      "name": "Смоленск",
-      "full_name": "Смоленск, Смоленская область",
-      "country_code": "RU",
-      "country": "Rossiya",
-      "contained_within": [],
-      "bounding_box": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              31.787372,
-              54.7131373
-            ],
-            [
-              32.209311,
-              54.7131373
-            ],
-            [
-              32.209311,
-              54.8508753
-            ],
-            [
-              31.787372,
-              54.8508753
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Mon Nov 30 18:29:02 +0000 2015",
+      "id": 671395527637008400,
+      "id_str": "671395527637008385",
+      "text": "В общем много букав :)\n@rubyunderhood @backendsecret @cssunderhood @jsunderhood @elixirunderhood \nhttps://t.co/yZNqaNgRAY",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 1,
+      "favorite_count": 2,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "rubyunderhood",
+            "name": "Ruby разработчик",
+            "id": 3341793591,
+            "id_str": "3341793591",
+            "indices": [
+              23,
+              37
             ]
-          ]
+          },
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              38,
+              52
+            ]
+          },
+          {
+            "screen_name": "cssunderhood",
+            "name": "Верстальщик",
+            "id": 3376999971,
+            "id_str": "3376999971",
+            "indices": [
+              53,
+              66
+            ]
+          },
+          {
+            "screen_name": "jsunderhood",
+            "name": "React Разработчик",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              67,
+              79
+            ]
+          },
+          {
+            "screen_name": "elixirunderhood",
+            "name": "Elixir разработчик",
+            "id": 4196908936,
+            "id_str": "4196908936",
+            "indices": [
+              80,
+              96
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/yZNqaNgRAY",
+            "expanded_url": "https://github.com/under-hood/ORG",
+            "display_url": "github.com/under-hood/ORG",
+            "indices": [
+              98,
+              121
+            ]
+          }
         ]
       },
-      "attributes": {}
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
     },
-    "contributors": null,
-    "retweet_count": 0,
+    "retweet_count": 1,
     "favorite_count": 0,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": []
+      "user_mentions": [
+        {
+          "screen_name": "POS_troi",
+          "name": "POS_troi",
+          "id": 62336528,
+          "id_str": "62336528",
+          "indices": [
+            3,
+            12
+          ]
+        },
+        {
+          "screen_name": "rubyunderhood",
+          "name": "Ruby разработчик",
+          "id": 3341793591,
+          "id_str": "3341793591",
+          "indices": [
+            37,
+            51
+          ]
+        },
+        {
+          "screen_name": "backendsecret",
+          "name": "Разработчик бэкенда",
+          "id": 3302551618,
+          "id_str": "3302551618",
+          "indices": [
+            52,
+            66
+          ]
+        },
+        {
+          "screen_name": "cssunderhood",
+          "name": "Верстальщик",
+          "id": 3376999971,
+          "id_str": "3376999971",
+          "indices": [
+            67,
+            80
+          ]
+        },
+        {
+          "screen_name": "jsunderhood",
+          "name": "React Разработчик",
+          "id": 3014054307,
+          "id_str": "3014054307",
+          "indices": [
+            81,
+            93
+          ]
+        },
+        {
+          "screen_name": "elixirunderhood",
+          "name": "Elixir разработчик",
+          "id": 4196908936,
+          "id_str": "4196908936",
+          "indices": [
+            94,
+            110
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/yZNqaNgRAY",
+          "expanded_url": "https://github.com/under-hood/ORG",
+          "display_url": "github.com/under-hood/ORG",
+          "indices": [
+            112,
+            135
+          ]
+        }
+      ]
     },
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
