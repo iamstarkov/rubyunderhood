@@ -37,22 +37,22 @@
     }
   },
   "protected": false,
-  "followers_count": 743,
-  "friends_count": 36,
-  "listed_count": 36,
+  "followers_count": 742,
+  "friends_count": 37,
+  "listed_count": 37,
   "created_at": "Mon Jun 22 18:43:03 +0000 2015",
   "favourites_count": 155,
   "utc_offset": -28800,
   "time_zone": "Pacific Time (US & Canada)",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 7144,
+  "statuses_count": 7209,
   "lang": "en",
   "status": {
-    "created_at": "Mon Nov 30 18:30:13 +0000 2015",
-    "id": 671395824262361100,
-    "id_str": "671395824262361088",
-    "text": "RT @POS_troi: В общем много букав :)\n@rubyunderhood @backendsecret @cssunderhood @jsunderhood @elixirunderhood \nhttps://t.co/yZNqaNgRAY",
+    "created_at": "Tue Dec 01 12:18:16 +0000 2015",
+    "id": 671664609955348500,
+    "id_str": "671664609955348480",
+    "text": "RT @bytecheg: @rubyunderhood @ptico @return_none поюсую саблайм!",
     "source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix for Android</a>",
     "truncated": false,
     "in_reply_to_status_id": null,
@@ -65,23 +65,56 @@
     "place": null,
     "contributors": null,
     "retweeted_status": {
-      "created_at": "Mon Nov 30 18:29:02 +0000 2015",
-      "id": 671395527637008400,
-      "id_str": "671395527637008385",
-      "text": "В общем много букав :)\n@rubyunderhood @backendsecret @cssunderhood @jsunderhood @elixirunderhood \nhttps://t.co/yZNqaNgRAY",
-      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "created_at": "Tue Dec 01 12:09:29 +0000 2015",
+      "id": 671662399963996200,
+      "id_str": "671662399963996160",
+      "text": "@rubyunderhood @ptico @return_none поюсую саблайм!",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
       "truncated": false,
-      "in_reply_to_status_id": null,
-      "in_reply_to_status_id_str": null,
-      "in_reply_to_user_id": null,
-      "in_reply_to_user_id_str": null,
-      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": 671629108607086600,
+      "in_reply_to_status_id_str": "671629108607086592",
+      "in_reply_to_user_id": 3341793591,
+      "in_reply_to_user_id_str": "3341793591",
+      "in_reply_to_screen_name": "rubyunderhood",
       "geo": null,
       "coordinates": null,
-      "place": null,
+      "place": {
+        "id": "57966ac015103d70",
+        "url": "https://api.twitter.com/1.1/geo/id/57966ac015103d70.json",
+        "place_type": "admin",
+        "name": "Krasnogorskij Rajon",
+        "full_name": "Krasnogorskij Rajon, Moskovskaja oblast'",
+        "country_code": "RU",
+        "country": "Rossiya",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                37.0795288,
+                55.7319107
+              ],
+              [
+                37.4126113,
+                55.7319107
+              ],
+              [
+                37.4126113,
+                55.91679
+              ],
+              [
+                37.0795288,
+                55.91679
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
       "contributors": null,
       "retweet_count": 1,
-      "favorite_count": 2,
+      "favorite_count": 1,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -92,66 +125,35 @@
             "id": 3341793591,
             "id_str": "3341793591",
             "indices": [
-              23,
-              37
+              0,
+              14
             ]
           },
           {
-            "screen_name": "backendsecret",
-            "name": "Разработчик бэкенда",
-            "id": 3302551618,
-            "id_str": "3302551618",
+            "screen_name": "ptico",
+            "name": "Andriy Savchenko",
+            "id": 16743832,
+            "id_str": "16743832",
             "indices": [
-              38,
-              52
+              15,
+              21
             ]
           },
           {
-            "screen_name": "cssunderhood",
-            "name": "Верстальщик",
-            "id": 3376999971,
-            "id_str": "3376999971",
+            "screen_name": "return_none",
+            "name": "C1nde",
+            "id": 2281460254,
+            "id_str": "2281460254",
             "indices": [
-              53,
-              66
-            ]
-          },
-          {
-            "screen_name": "jsunderhood",
-            "name": "React Разработчик",
-            "id": 3014054307,
-            "id_str": "3014054307",
-            "indices": [
-              67,
-              79
-            ]
-          },
-          {
-            "screen_name": "elixirunderhood",
-            "name": "Elixir разработчик",
-            "id": 4196908936,
-            "id_str": "4196908936",
-            "indices": [
-              80,
-              96
+              22,
+              34
             ]
           }
         ],
-        "urls": [
-          {
-            "url": "https://t.co/yZNqaNgRAY",
-            "expanded_url": "https://github.com/under-hood/ORG",
-            "display_url": "github.com/under-hood/ORG",
-            "indices": [
-              98,
-              121
-            ]
-          }
-        ]
+        "urls": []
       },
       "favorited": false,
       "retweeted": false,
-      "possibly_sensitive": false,
       "lang": "ru"
     },
     "retweet_count": 1,
@@ -161,10 +163,10 @@
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "POS_troi",
-          "name": "POS_troi",
-          "id": 62336528,
-          "id_str": "62336528",
+          "screen_name": "bytecheg",
+          "name": "Denis Kuznetsov",
+          "id": 278923747,
+          "id_str": "278923747",
           "indices": [
             3,
             12
@@ -176,66 +178,35 @@
           "id": 3341793591,
           "id_str": "3341793591",
           "indices": [
-            37,
-            51
+            14,
+            28
           ]
         },
         {
-          "screen_name": "backendsecret",
-          "name": "Разработчик бэкенда",
-          "id": 3302551618,
-          "id_str": "3302551618",
+          "screen_name": "ptico",
+          "name": "Andriy Savchenko",
+          "id": 16743832,
+          "id_str": "16743832",
           "indices": [
-            52,
-            66
+            29,
+            35
           ]
         },
         {
-          "screen_name": "cssunderhood",
-          "name": "Верстальщик",
-          "id": 3376999971,
-          "id_str": "3376999971",
+          "screen_name": "return_none",
+          "name": "C1nde",
+          "id": 2281460254,
+          "id_str": "2281460254",
           "indices": [
-            67,
-            80
-          ]
-        },
-        {
-          "screen_name": "jsunderhood",
-          "name": "React Разработчик",
-          "id": 3014054307,
-          "id_str": "3014054307",
-          "indices": [
-            81,
-            93
-          ]
-        },
-        {
-          "screen_name": "elixirunderhood",
-          "name": "Elixir разработчик",
-          "id": 4196908936,
-          "id_str": "4196908936",
-          "indices": [
-            94,
-            110
+            36,
+            48
           ]
         }
       ],
-      "urls": [
-        {
-          "url": "https://t.co/yZNqaNgRAY",
-          "expanded_url": "https://github.com/under-hood/ORG",
-          "display_url": "github.com/under-hood/ORG",
-          "indices": [
-            112,
-            135
-          ]
-        }
-      ]
+      "urls": []
     },
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
