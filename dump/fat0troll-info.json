@@ -46,13 +46,13 @@
   "time_zone": "Pacific Time (US & Canada)",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 7276,
+  "statuses_count": 7288,
   "lang": "en",
   "status": {
-    "created_at": "Wed Dec 02 11:42:22 +0000 2015",
-    "id": 672017964783304700,
-    "id_str": "672017964783304705",
-    "text": "RT @vasilenkos: Так, вот, программисты и причастные! Слово «Функционал» используют только безграмотные ремесленники от разработки. Не унижа…",
+    "created_at": "Wed Dec 02 17:08:10 +0000 2015",
+    "id": 672099951137177600,
+    "id_str": "672099951137177600",
+    "text": "Ваш диалог доставляет, друзья :) https://t.co/uYADqw4zsI",
     "source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix for Android</a>",
     "truncated": false,
     "in_reply_to_status_id": null,
@@ -60,59 +60,76 @@
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
     "in_reply_to_screen_name": null,
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "retweeted_status": {
-      "created_at": "Wed Dec 02 08:17:32 +0000 2015",
-      "id": 671966415327526900,
-      "id_str": "671966415327526912",
-      "text": "Так, вот, программисты и причастные! Слово «Функционал» используют только безграмотные ремесленники от разработки. Не унижайте себя.",
-      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-      "truncated": false,
-      "in_reply_to_status_id": null,
-      "in_reply_to_status_id_str": null,
-      "in_reply_to_user_id": null,
-      "in_reply_to_user_id_str": null,
-      "in_reply_to_screen_name": null,
-      "geo": null,
-      "coordinates": null,
-      "place": null,
-      "contributors": null,
-      "retweet_count": 16,
-      "favorite_count": 3,
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [],
-        "urls": []
-      },
-      "favorited": false,
-      "retweeted": false,
-      "lang": "ru"
+    "geo": {
+      "type": "Point",
+      "coordinates": [
+        54.7903677,
+        32.0394383
+      ]
     },
-    "retweet_count": 16,
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        32.0394383,
+        54.7903677
+      ]
+    },
+    "place": {
+      "id": "7c811f547d7dde0f",
+      "url": "https://api.twitter.com/1.1/geo/id/7c811f547d7dde0f.json",
+      "place_type": "city",
+      "name": "Смоленск",
+      "full_name": "Смоленск, Смоленская область",
+      "country_code": "RU",
+      "country": "Rossiya",
+      "contained_within": [],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.787372,
+              54.7131373
+            ],
+            [
+              32.209311,
+              54.7131373
+            ],
+            [
+              32.209311,
+              54.8508753
+            ],
+            [
+              31.787372,
+              54.8508753
+            ]
+          ]
+        ]
+      },
+      "attributes": {}
+    },
+    "contributors": null,
+    "retweet_count": 0,
     "favorite_count": 0,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
+      "user_mentions": [],
+      "urls": [
         {
-          "screen_name": "vasilenkos",
-          "name": "80x86",
-          "id": 200062298,
-          "id_str": "200062298",
+          "url": "https://t.co/uYADqw4zsI",
+          "expanded_url": "https://twitter.com/artemeff/status/672098035938258945",
+          "display_url": "twitter.com/artemeff/statu…",
           "indices": [
-            3,
-            14
+            33,
+            56
           ]
         }
-      ],
-      "urls": []
+      ]
     },
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
