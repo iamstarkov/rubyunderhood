@@ -5,6 +5,5147 @@
   "post": false,
   "tweets": [
     {
+      "created_at": "Wed Dec 02 11:42:22 +0000 2015",
+      "id": 672017964783304700,
+      "id_str": "672017964783304705",
+      "text": "RT @vasilenkos: Так, вот, программисты и причастные! Слово «Функционал» используют только безграмотные ремесленники от разработки. Не унижа…",
+      "source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Wed Dec 02 08:17:32 +0000 2015",
+        "id": 671966415327526900,
+        "id_str": "671966415327526912",
+        "text": "Так, вот, программисты и причастные! Слово «Функционал» используют только безграмотные ремесленники от разработки. Не унижайте себя.",
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 200062298,
+          "id_str": "200062298"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 16,
+        "favorite_count": 3,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 16,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "vasilenkos",
+            "name": "80x86",
+            "id": 200062298,
+            "id_str": "200062298",
+            "indices": [
+              3,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Dec 02 09:34:56 +0000 2015",
+      "id": 671985895227134000,
+      "id_str": "671985895227133952",
+      "text": "Basecamp устроил хорошее трололо :) https://t.co/XB8Xhjhx2R",
+      "source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": {
+        "type": "Point",
+        "coordinates": [
+          54.7647702,
+          32.0309572
+        ]
+      },
+      "coordinates": {
+        "type": "Point",
+        "coordinates": [
+          32.0309572,
+          54.7647702
+        ]
+      },
+      "place": {
+        "id": "7c811f547d7dde0f",
+        "url": "https://api.twitter.com/1.1/geo/id/7c811f547d7dde0f.json",
+        "place_type": "city",
+        "name": "Смоленск",
+        "full_name": "Смоленск, Смоленская область",
+        "country_code": "RU",
+        "country": "Rossiya",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                31.787372,
+                54.7131373
+              ],
+              [
+                32.209311,
+                54.7131373
+              ],
+              [
+                32.209311,
+                54.8508753
+              ],
+              [
+                31.787372,
+                54.8508753
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/XB8Xhjhx2R",
+            "expanded_url": "https://vc.ru/p/bc?from=rss",
+            "display_url": "vc.ru/p/bc?from=rss",
+            "indices": [
+              36,
+              59
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Dec 02 07:44:28 +0000 2015",
+      "id": 671958092335181800,
+      "id_str": "671958092335181824",
+      "text": "RT @TheSunwave: @return_none @rubyunderhood за ≈2.5 года можно купить двушку.",
+      "source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Wed Dec 02 07:40:50 +0000 2015",
+        "id": 671957180782944300,
+        "id_str": "671957180782944256",
+        "text": "@return_none @rubyunderhood за ≈2.5 года можно купить двушку.",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 671942753522229200,
+        "in_reply_to_status_id_str": "671942753522229248",
+        "in_reply_to_user_id": 2281460254,
+        "in_reply_to_user_id_str": "2281460254",
+        "in_reply_to_screen_name": "return_none",
+        "user": {
+          "id": 45908996,
+          "id_str": "45908996"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "return_none",
+              "name": "C1nde",
+              "id": 2281460254,
+              "id_str": "2281460254",
+              "indices": [
+                0,
+                12
+              ]
+            },
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                13,
+                27
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "TheSunwave",
+            "name": "Arturio",
+            "id": 45908996,
+            "id_str": "45908996",
+            "indices": [
+              3,
+              14
+            ]
+          },
+          {
+            "screen_name": "return_none",
+            "name": "C1nde",
+            "id": 2281460254,
+            "id_str": "2281460254",
+            "indices": [
+              16,
+              28
+            ]
+          },
+          {
+            "screen_name": "rubyunderhood",
+            "name": "Ruby разработчик",
+            "id": 3341793591,
+            "id_str": "3341793591",
+            "indices": [
+              29,
+              43
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Dec 02 07:32:57 +0000 2015",
+      "id": 671955195081957400,
+      "id_str": "671955195081957377",
+      "text": "RT @tonymadbrain: @rubyunderhood @gorodishenin92 своя инфраструктура та ещё точка отказа.",
+      "source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Wed Dec 02 07:21:40 +0000 2015",
+        "id": 671952357597540400,
+        "id_str": "671952357597540352",
+        "text": "@rubyunderhood @gorodishenin92 своя инфраструктура та ещё точка отказа.",
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 671942279226110000,
+        "in_reply_to_status_id_str": "671942279226109953",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 266296729,
+          "id_str": "266296729"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            },
+            {
+              "screen_name": "gorodishenin92",
+              "name": "Anton Gorodishenin",
+              "id": 493818222,
+              "id_str": "493818222",
+              "indices": [
+                15,
+                30
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "tonymadbrain",
+            "name": "Anthony Ryabov",
+            "id": 266296729,
+            "id_str": "266296729",
+            "indices": [
+              3,
+              16
+            ]
+          },
+          {
+            "screen_name": "rubyunderhood",
+            "name": "Ruby разработчик",
+            "id": 3341793591,
+            "id_str": "3341793591",
+            "indices": [
+              18,
+              32
+            ]
+          },
+          {
+            "screen_name": "gorodishenin92",
+            "name": "Anton Gorodishenin",
+            "id": 493818222,
+            "id_str": "493818222",
+            "indices": [
+              33,
+              48
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Dec 02 07:01:17 +0000 2015",
+      "id": 671947224256004100,
+      "id_str": "671947224256004096",
+      "text": "Ну разработчику явно будет легче читать чужой код, если есть предсказуемая последовательность действий. https://t.co/jGL0TQsz59",
+      "source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": {
+        "type": "Point",
+        "coordinates": [
+          54.7669278,
+          32.0316601
+        ]
+      },
+      "coordinates": {
+        "type": "Point",
+        "coordinates": [
+          32.0316601,
+          54.7669278
+        ]
+      },
+      "place": {
+        "id": "7c811f547d7dde0f",
+        "url": "https://api.twitter.com/1.1/geo/id/7c811f547d7dde0f.json",
+        "place_type": "city",
+        "name": "Смоленск",
+        "full_name": "Смоленск, Смоленская область",
+        "country_code": "RU",
+        "country": "Rossiya",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                31.787372,
+                54.7131373
+              ],
+              [
+                32.209311,
+                54.7131373
+              ],
+              [
+                32.209311,
+                54.8508753
+              ],
+              [
+                31.787372,
+                54.8508753
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "quoted_status_id": 671945754659954700,
+      "quoted_status_id_str": "671945754659954688",
+      "quoted_status": {
+        "created_at": "Wed Dec 02 06:55:26 +0000 2015",
+        "id": 671945754659954700,
+        "id_str": "671945754659954688",
+        "text": "Как разработчику поможет алгоритм чужого кода разобраться в нем? https://t.co/DbFK5WoGrf",
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 3014054307,
+          "id_str": "3014054307"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "quoted_status_id": 671943316225830900,
+        "quoted_status_id_str": "671943316225830912",
+        "is_quote_status": true,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/DbFK5WoGrf",
+              "expanded_url": "https://twitter.com/rubyunderhood/status/671943316225830912",
+              "display_url": "twitter.com/rubyunderhood/…",
+              "indices": [
+                65,
+                88
+              ]
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/jGL0TQsz59",
+            "expanded_url": "https://twitter.com/jsunderhood/status/671945754659954688",
+            "display_url": "twitter.com/jsunderhood/st…",
+            "indices": [
+              104,
+              127
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Dec 02 06:51:24 +0000 2015",
+      "id": 671944738149441500,
+      "id_str": "671944738149441536",
+      "text": "Защиту от слива данных (подчеркиваю, данных! Я не только за исходники говорю) обеспечивают три русских буквы NDA. https://t.co/C7pki6OTw3",
+      "source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": {
+        "type": "Point",
+        "coordinates": [
+          54.7639645,
+          32.0326213
+        ]
+      },
+      "coordinates": {
+        "type": "Point",
+        "coordinates": [
+          32.0326213,
+          54.7639645
+        ]
+      },
+      "place": {
+        "id": "7c811f547d7dde0f",
+        "url": "https://api.twitter.com/1.1/geo/id/7c811f547d7dde0f.json",
+        "place_type": "city",
+        "name": "Смоленск",
+        "full_name": "Смоленск, Смоленская область",
+        "country_code": "RU",
+        "country": "Rossiya",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                31.787372,
+                54.7131373
+              ],
+              [
+                32.209311,
+                54.7131373
+              ],
+              [
+                32.209311,
+                54.8508753
+              ],
+              [
+                31.787372,
+                54.8508753
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "quoted_status_id": 671944321508208600,
+      "quoted_status_id_str": "671944321508208640",
+      "quoted_status": {
+        "created_at": "Wed Dec 02 06:49:45 +0000 2015",
+        "id": 671944321508208600,
+        "id_str": "671944321508208640",
+        "text": "@rubyunderhood согласен. Но тогда надо еще защищаться от слива исходников разработчиками. Запретить флешки, впн, ноутбуки, интернет",
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 671942536110411800,
+        "in_reply_to_status_id_str": "671942536110411776",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 493818222,
+          "id_str": "493818222"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/C7pki6OTw3",
+            "expanded_url": "https://twitter.com/gorodishenin92/status/671944321508208640",
+            "display_url": "twitter.com/gorodishenin92…",
+            "indices": [
+              114,
+              137
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Dec 02 06:49:27 +0000 2015",
+      "id": 671944248254705700,
+      "id_str": "671944248254705664",
+      "text": "Хорошо, хоть учебная https://t.co/7ET7meSwrA",
+      "source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": {
+        "type": "Point",
+        "coordinates": [
+          54.764017,
+          32.0324422
+        ]
+      },
+      "coordinates": {
+        "type": "Point",
+        "coordinates": [
+          32.0324422,
+          54.764017
+        ]
+      },
+      "place": {
+        "id": "7c811f547d7dde0f",
+        "url": "https://api.twitter.com/1.1/geo/id/7c811f547d7dde0f.json",
+        "place_type": "city",
+        "name": "Смоленск",
+        "full_name": "Смоленск, Смоленская область",
+        "country_code": "RU",
+        "country": "Rossiya",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                31.787372,
+                54.7131373
+              ],
+              [
+                32.209311,
+                54.7131373
+              ],
+              [
+                32.209311,
+                54.8508753
+              ],
+              [
+                31.787372,
+                54.8508753
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "quoted_status_id": 671944073570361300,
+      "quoted_status_id_str": "671944073570361344",
+      "quoted_status": {
+        "created_at": "Wed Dec 02 06:48:45 +0000 2015",
+        "id": 671944073570361300,
+        "id_str": "671944073570361344",
+        "text": "@rubyunderhood это да, как то услышал новые нотки в своём индастриале, оказалось учебная пожарная тревога",
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 671943546539257900,
+        "in_reply_to_status_id_str": "671943546539257856",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 2281460254,
+          "id_str": "2281460254"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/7ET7meSwrA",
+            "expanded_url": "https://twitter.com/return_none/status/671944073570361344",
+            "display_url": "twitter.com/return_none/st…",
+            "indices": [
+              21,
+              44
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Dec 02 06:49:01 +0000 2015",
+      "id": 671944139987132400,
+      "id_str": "671944139987132416",
+      "text": "Вопрос лишь в том, кто будет ответственным за факап.  https://t.co/vlHCeudDdw",
+      "source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": {
+        "type": "Point",
+        "coordinates": [
+          54.764017,
+          32.0324422
+        ]
+      },
+      "coordinates": {
+        "type": "Point",
+        "coordinates": [
+          32.0324422,
+          54.764017
+        ]
+      },
+      "place": {
+        "id": "7c811f547d7dde0f",
+        "url": "https://api.twitter.com/1.1/geo/id/7c811f547d7dde0f.json",
+        "place_type": "city",
+        "name": "Смоленск",
+        "full_name": "Смоленск, Смоленская область",
+        "country_code": "RU",
+        "country": "Rossiya",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                31.787372,
+                54.7131373
+              ],
+              [
+                32.209311,
+                54.7131373
+              ],
+              [
+                32.209311,
+                54.8508753
+              ],
+              [
+                31.787372,
+                54.8508753
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "quoted_status_id": 671943833467363300,
+      "quoted_status_id_str": "671943833467363328",
+      "quoted_status": {
+        "created_at": "Wed Dec 02 06:47:48 +0000 2015",
+        "id": 671943833467363300,
+        "id_str": "671943833467363328",
+        "text": "@rubyunderhood @gorodishenin92 этого никто не может гарантировать на 100%",
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 671939360221188100,
+        "in_reply_to_status_id_str": "671939360221188097",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 19009207,
+          "id_str": "19009207"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+          "id": "4303d1afc1e98c37",
+          "url": "https://api.twitter.com/1.1/geo/id/4303d1afc1e98c37.json",
+          "place_type": "city",
+          "name": "Moscow",
+          "full_name": "Moscow, Russia",
+          "country_code": "RU",
+          "country": "Rossiya",
+          "contained_within": [],
+          "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  37.1316733,
+                  55.4908342
+                ],
+                [
+                  37.9650116,
+                  55.4908342
+                ],
+                [
+                  37.9650116,
+                  56.0209192
+                ],
+                [
+                  37.1316733,
+                  56.0209192
+                ]
+              ]
+            ]
+          },
+          "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            },
+            {
+              "screen_name": "gorodishenin92",
+              "name": "Anton Gorodishenin",
+              "id": 493818222,
+              "id_str": "493818222",
+              "indices": [
+                15,
+                30
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/vlHCeudDdw",
+            "expanded_url": "https://twitter.com/dzuev/status/671943833467363328",
+            "display_url": "twitter.com/dzuev/status/6…",
+            "indices": [
+              54,
+              77
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Dec 02 06:46:40 +0000 2015",
+      "id": 671943546539257900,
+      "id_str": "671943546539257856",
+      "text": "Главное — не выключиться полностью. https://t.co/uG1Y0E9d0c",
+      "source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": {
+        "type": "Point",
+        "coordinates": [
+          54.7641991,
+          32.0329253
+        ]
+      },
+      "coordinates": {
+        "type": "Point",
+        "coordinates": [
+          32.0329253,
+          54.7641991
+        ]
+      },
+      "place": {
+        "id": "7c811f547d7dde0f",
+        "url": "https://api.twitter.com/1.1/geo/id/7c811f547d7dde0f.json",
+        "place_type": "city",
+        "name": "Смоленск",
+        "full_name": "Смоленск, Смоленская область",
+        "country_code": "RU",
+        "country": "Rossiya",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                31.787372,
+                54.7131373
+              ],
+              [
+                32.209311,
+                54.7131373
+              ],
+              [
+                32.209311,
+                54.8508753
+              ],
+              [
+                31.787372,
+                54.8508753
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "quoted_status_id": 671943189880795100,
+      "quoted_status_id_str": "671943189880795136",
+      "quoted_status": {
+        "created_at": "Wed Dec 02 06:45:15 +0000 2015",
+        "id": 671943189880795100,
+        "id_str": "671943189880795136",
+        "text": "@rubyunderhood да почти неважно, главное WiFi наушники и розетка. Очень сильно отключает от мира.",
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 671927178951598100,
+        "in_reply_to_status_id_str": "671927178951598080",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 2281460254,
+          "id_str": "2281460254"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/uG1Y0E9d0c",
+            "expanded_url": "https://twitter.com/return_none/status/671943189880795136",
+            "display_url": "twitter.com/return_none/st…",
+            "indices": [
+              36,
+              59
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Dec 02 06:45:45 +0000 2015",
+      "id": 671943316225830900,
+      "id_str": "671943316225830912",
+      "text": "А это точно задача ЯП, а не алгоритма, написанного программистом? https://t.co/qvgqKYaJdN",
+      "source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": {
+        "type": "Point",
+        "coordinates": [
+          54.7641991,
+          32.0329253
+        ]
+      },
+      "coordinates": {
+        "type": "Point",
+        "coordinates": [
+          32.0329253,
+          54.7641991
+        ]
+      },
+      "place": {
+        "id": "7c811f547d7dde0f",
+        "url": "https://api.twitter.com/1.1/geo/id/7c811f547d7dde0f.json",
+        "place_type": "city",
+        "name": "Смоленск",
+        "full_name": "Смоленск, Смоленская область",
+        "country_code": "RU",
+        "country": "Rossiya",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                31.787372,
+                54.7131373
+              ],
+              [
+                32.209311,
+                54.7131373
+              ],
+              [
+                32.209311,
+                54.8508753
+              ],
+              [
+                31.787372,
+                54.8508753
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "quoted_status_id": 671942713525276700,
+      "quoted_status_id_str": "671942713525276672",
+      "quoted_status": {
+        "created_at": "Wed Dec 02 06:43:21 +0000 2015",
+        "id": 671942713525276700,
+        "id_str": "671942713525276672",
+        "text": "Есть хотя бы один язык программирования, который мог быть ответить на вопрос \"откуда берётся это поле, как оно вычисляется и попадает сюда?\"",
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 3014054307,
+          "id_str": "3014054307"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 2,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/qvgqKYaJdN",
+            "expanded_url": "https://twitter.com/jsunderhood/status/671942713525276672",
+            "display_url": "twitter.com/jsunderhood/st…",
+            "indices": [
+              66,
+              89
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Dec 02 06:44:33 +0000 2015",
+      "id": 671943014319702000,
+      "id_str": "671943014319702018",
+      "text": "По моим прикидкам, с этими входными данными можно двушку за пять лет сделать. https://t.co/8WO9RMiAJz",
+      "source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": {
+        "type": "Point",
+        "coordinates": [
+          54.7641991,
+          32.0329253
+        ]
+      },
+      "coordinates": {
+        "type": "Point",
+        "coordinates": [
+          32.0329253,
+          54.7641991
+        ]
+      },
+      "place": {
+        "id": "7c811f547d7dde0f",
+        "url": "https://api.twitter.com/1.1/geo/id/7c811f547d7dde0f.json",
+        "place_type": "city",
+        "name": "Смоленск",
+        "full_name": "Смоленск, Смоленская область",
+        "country_code": "RU",
+        "country": "Rossiya",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                31.787372,
+                54.7131373
+              ],
+              [
+                32.209311,
+                54.7131373
+              ],
+              [
+                32.209311,
+                54.8508753
+              ],
+              [
+                31.787372,
+                54.8508753
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "quoted_status_id": 671942753522229200,
+      "quoted_status_id_str": "671942753522229248",
+      "quoted_status": {
+        "created_at": "Wed Dec 02 06:43:31 +0000 2015",
+        "id": 671942753522229200,
+        "id_str": "671942753522229248",
+        "text": "@TheSunwave @rubyunderhood в скором это каком? и о какой квартире речь?",
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 671940238961438700,
+        "in_reply_to_status_id_str": "671940238961438720",
+        "in_reply_to_user_id": 45908996,
+        "in_reply_to_user_id_str": "45908996",
+        "in_reply_to_screen_name": "TheSunwave",
+        "user": {
+          "id": 2281460254,
+          "id_str": "2281460254"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "TheSunwave",
+              "name": "Arturio",
+              "id": 45908996,
+              "id_str": "45908996",
+              "indices": [
+                0,
+                11
+              ]
+            },
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                12,
+                26
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/8WO9RMiAJz",
+            "expanded_url": "https://twitter.com/return_none/status/671942753522229248",
+            "display_url": "twitter.com/return_none/st…",
+            "indices": [
+              78,
+              101
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Dec 02 06:43:37 +0000 2015",
+      "id": 671942780625805300,
+      "id_str": "671942780625805315",
+      "text": "Я тут помню историю, когда у Амазона один сегмент облака отвалился, и потянул за собой добрый десяток популярных проектов.",
+      "source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": {
+        "type": "Point",
+        "coordinates": [
+          54.7642553,
+          32.0328029
+        ]
+      },
+      "coordinates": {
+        "type": "Point",
+        "coordinates": [
+          32.0328029,
+          54.7642553
+        ]
+      },
+      "place": {
+        "id": "7c811f547d7dde0f",
+        "url": "https://api.twitter.com/1.1/geo/id/7c811f547d7dde0f.json",
+        "place_type": "city",
+        "name": "Смоленск",
+        "full_name": "Смоленск, Смоленская область",
+        "country_code": "RU",
+        "country": "Rossiya",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                31.787372,
+                54.7131373
+              ],
+              [
+                32.209311,
+                54.7131373
+              ],
+              [
+                32.209311,
+                54.8508753
+              ],
+              [
+                31.787372,
+                54.8508753
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Dec 02 06:42:39 +0000 2015",
+      "id": 671942536110411800,
+      "id_str": "671942536110411776",
+      "text": "А насчёт степени закрытости кода решает не инженер, а владелец. Так-то можно и опенсорс на работе писать. https://t.co/pP6GDZCOFy",
+      "source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": {
+        "type": "Point",
+        "coordinates": [
+          54.7642553,
+          32.0328029
+        ]
+      },
+      "coordinates": {
+        "type": "Point",
+        "coordinates": [
+          32.0328029,
+          54.7642553
+        ]
+      },
+      "place": {
+        "id": "7c811f547d7dde0f",
+        "url": "https://api.twitter.com/1.1/geo/id/7c811f547d7dde0f.json",
+        "place_type": "city",
+        "name": "Смоленск",
+        "full_name": "Смоленск, Смоленская область",
+        "country_code": "RU",
+        "country": "Rossiya",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                31.787372,
+                54.7131373
+              ],
+              [
+                32.209311,
+                54.7131373
+              ],
+              [
+                32.209311,
+                54.8508753
+              ],
+              [
+                31.787372,
+                54.8508753
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "quoted_status_id": 671941293585637400,
+      "quoted_status_id_str": "671941293585637376",
+      "quoted_status": {
+        "created_at": "Wed Dec 02 06:37:43 +0000 2015",
+        "id": 671941293585637400,
+        "id_str": "671941293585637376",
+        "text": "@rubyunderhood собственная инфраструктура это гарантирует? И зачем строить продукт вокруг секретных алгоритмов, которые нужно так охранять?",
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 671939360221188100,
+        "in_reply_to_status_id_str": "671939360221188097",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 493818222,
+          "id_str": "493818222"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/pP6GDZCOFy",
+            "expanded_url": "https://twitter.com/gorodishenin92/status/671941293585637376",
+            "display_url": "twitter.com/gorodishenin92…",
+            "indices": [
+              106,
+              129
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Dec 02 06:41:38 +0000 2015",
+      "id": 671942279226110000,
+      "id_str": "671942279226109953",
+      "text": "Никто ничего не гарантирует. Но облака — это лишняя точка отказа. Хоть и весьма удобная. https://t.co/pP6GDZCOFy",
+      "source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": {
+        "type": "Point",
+        "coordinates": [
+          54.7642553,
+          32.0328029
+        ]
+      },
+      "coordinates": {
+        "type": "Point",
+        "coordinates": [
+          32.0328029,
+          54.7642553
+        ]
+      },
+      "place": {
+        "id": "7c811f547d7dde0f",
+        "url": "https://api.twitter.com/1.1/geo/id/7c811f547d7dde0f.json",
+        "place_type": "city",
+        "name": "Смоленск",
+        "full_name": "Смоленск, Смоленская область",
+        "country_code": "RU",
+        "country": "Rossiya",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                31.787372,
+                54.7131373
+              ],
+              [
+                32.209311,
+                54.7131373
+              ],
+              [
+                32.209311,
+                54.8508753
+              ],
+              [
+                31.787372,
+                54.8508753
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "quoted_status_id": 671941293585637400,
+      "quoted_status_id_str": "671941293585637376",
+      "quoted_status": {
+        "created_at": "Wed Dec 02 06:37:43 +0000 2015",
+        "id": 671941293585637400,
+        "id_str": "671941293585637376",
+        "text": "@rubyunderhood собственная инфраструктура это гарантирует? И зачем строить продукт вокруг секретных алгоритмов, которые нужно так охранять?",
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 671939360221188100,
+        "in_reply_to_status_id_str": "671939360221188097",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 493818222,
+          "id_str": "493818222"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/pP6GDZCOFy",
+            "expanded_url": "https://twitter.com/gorodishenin92/status/671941293585637376",
+            "display_url": "twitter.com/gorodishenin92…",
+            "indices": [
+              89,
+              112
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Dec 02 06:40:00 +0000 2015",
+      "id": 671941869711073300,
+      "id_str": "671941869711073280",
+      "text": "RT @timlar_ua: @rubyunderhood звучит как “в номинацию лучший автомобиль вышли ВАЗы и ТАЗы. Владельцы Тесла, вы были так близки” :)",
+      "source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Wed Dec 02 06:35:25 +0000 2015",
+        "id": 671940714696192000,
+        "id_str": "671940714696192001",
+        "text": "@rubyunderhood звучит как “в номинацию лучший автомобиль вышли ВАЗы и ТАЗы. Владельцы Тесла, вы были так близки” :)",
+        "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 671907476586045400,
+        "in_reply_to_status_id_str": "671907476586045440",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 141283971,
+          "id_str": "141283971"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+          "id": "084d0d0155787e9d",
+          "url": "https://api.twitter.com/1.1/geo/id/084d0d0155787e9d.json",
+          "place_type": "country",
+          "name": "Ukraine",
+          "full_name": "Ukraine",
+          "country_code": "UA",
+          "country": "Ukraina",
+          "contained_within": [],
+          "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  22.1357201,
+                  44.386383
+                ],
+                [
+                  40.227172,
+                  44.386383
+                ],
+                [
+                  40.227172,
+                  52.379475
+                ],
+                [
+                  22.1357201,
+                  52.379475
+                ]
+              ]
+            ]
+          },
+          "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 1,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "timlar_ua",
+            "name": "Dmitriy Grechukha",
+            "id": 141283971,
+            "id_str": "141283971",
+            "indices": [
+              3,
+              13
+            ]
+          },
+          {
+            "screen_name": "rubyunderhood",
+            "name": "Ruby разработчик",
+            "id": 3341793591,
+            "id_str": "3341793591",
+            "indices": [
+              15,
+              29
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Dec 02 06:34:38 +0000 2015",
+      "id": 671940520608968700,
+      "id_str": "671940520608968704",
+      "text": "Причём без ипотеки. https://t.co/E9uYHxUkLc",
+      "source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": {
+        "type": "Point",
+        "coordinates": [
+          54.7640249,
+          32.0326949
+        ]
+      },
+      "coordinates": {
+        "type": "Point",
+        "coordinates": [
+          32.0326949,
+          54.7640249
+        ]
+      },
+      "place": {
+        "id": "7c811f547d7dde0f",
+        "url": "https://api.twitter.com/1.1/geo/id/7c811f547d7dde0f.json",
+        "place_type": "city",
+        "name": "Смоленск",
+        "full_name": "Смоленск, Смоленская область",
+        "country_code": "RU",
+        "country": "Rossiya",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                31.787372,
+                54.7131373
+              ],
+              [
+                32.209311,
+                54.7131373
+              ],
+              [
+                32.209311,
+                54.8508753
+              ],
+              [
+                31.787372,
+                54.8508753
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "quoted_status_id": 671940238961438700,
+      "quoted_status_id_str": "671940238961438720",
+      "quoted_status": {
+        "created_at": "Wed Dec 02 06:33:31 +0000 2015",
+        "id": 671940238961438700,
+        "id_str": "671940238961438720",
+        "text": "@rubyunderhood опять же о провинции, если в семье два человека зарабатывают по 50к, то есть все шансы купить квартиру в скором времени.",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 671920664064958500,
+        "in_reply_to_status_id_str": "671920664064958464",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 45908996,
+          "id_str": "45908996"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/E9uYHxUkLc",
+            "expanded_url": "https://twitter.com/TheSunwave/status/671940238961438720",
+            "display_url": "twitter.com/TheSunwave/sta…",
+            "indices": [
+              20,
+              43
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Dec 02 06:30:02 +0000 2015",
+      "id": 671939360221188100,
+      "id_str": "671939360221188097",
+      "text": "Облака гарантируют сохранность данных, и то, что их никогда не сломают? https://t.co/9B1FNjrzKe",
+      "source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": {
+        "type": "Point",
+        "coordinates": [
+          54.763924,
+          32.032558
+        ]
+      },
+      "coordinates": {
+        "type": "Point",
+        "coordinates": [
+          32.032558,
+          54.763924
+        ]
+      },
+      "place": {
+        "id": "7c811f547d7dde0f",
+        "url": "https://api.twitter.com/1.1/geo/id/7c811f547d7dde0f.json",
+        "place_type": "city",
+        "name": "Смоленск",
+        "full_name": "Смоленск, Смоленская область",
+        "country_code": "RU",
+        "country": "Rossiya",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                31.787372,
+                54.7131373
+              ],
+              [
+                32.209311,
+                54.7131373
+              ],
+              [
+                32.209311,
+                54.8508753
+              ],
+              [
+                31.787372,
+                54.8508753
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "quoted_status_id": 671939070357041200,
+      "quoted_status_id_str": "671939070357041152",
+      "quoted_status": {
+        "created_at": "Wed Dec 02 06:28:53 +0000 2015",
+        "id": 671939070357041200,
+        "id_str": "671939070357041152",
+        "text": "@rubyunderhood зачем держать свою инфраструктуру, когда есть облака?",
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 671879788198387700,
+        "in_reply_to_status_id_str": "671879788198387712",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 493818222,
+          "id_str": "493818222"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/9B1FNjrzKe",
+            "expanded_url": "https://twitter.com/gorodishenin92/status/671939070357041152",
+            "display_url": "twitter.com/gorodishenin92…",
+            "indices": [
+              72,
+              95
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Dec 02 06:15:20 +0000 2015",
+      "id": 671935662954823700,
+      "id_str": "671935662954823680",
+      "text": "RT @artemeff: @rubyunderhood @killthekitten чувствую себя бомжарой после этого, а я еще удивляюсь чего это я так быстро все пропиваю",
+      "source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Wed Dec 02 06:13:38 +0000 2015",
+        "id": 671935234313748500,
+        "id_str": "671935234313748480",
+        "text": "@rubyunderhood @killthekitten чувствую себя бомжарой после этого, а я еще удивляюсь чего это я так быстро все пропиваю",
+        "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 671873993968918500,
+        "in_reply_to_status_id_str": "671873993968918531",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 137293049,
+          "id_str": "137293049"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            },
+            {
+              "screen_name": "killthekitten",
+              "name": "Nikolay Shebanov",
+              "id": 77381915,
+              "id_str": "77381915",
+              "indices": [
+                15,
+                29
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "artemeff",
+            "name": "Хорсе Девелопер",
+            "id": 137293049,
+            "id_str": "137293049",
+            "indices": [
+              3,
+              12
+            ]
+          },
+          {
+            "screen_name": "rubyunderhood",
+            "name": "Ruby разработчик",
+            "id": 3341793591,
+            "id_str": "3341793591",
+            "indices": [
+              14,
+              28
+            ]
+          },
+          {
+            "screen_name": "killthekitten",
+            "name": "Nikolay Shebanov",
+            "id": 77381915,
+            "id_str": "77381915",
+            "indices": [
+              29,
+              43
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Dec 02 05:56:50 +0000 2015",
+      "id": 671931008334348300,
+      "id_str": "671931008334348289",
+      "text": "Во время активной работы я чаще всего слушаю какой-нибудь метал средней тяжести.",
+      "source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": {
+        "type": "Point",
+        "coordinates": [
+          54.7640568,
+          32.0325319
+        ]
+      },
+      "coordinates": {
+        "type": "Point",
+        "coordinates": [
+          32.0325319,
+          54.7640568
+        ]
+      },
+      "place": {
+        "id": "7c811f547d7dde0f",
+        "url": "https://api.twitter.com/1.1/geo/id/7c811f547d7dde0f.json",
+        "place_type": "city",
+        "name": "Смоленск",
+        "full_name": "Смоленск, Смоленская область",
+        "country_code": "RU",
+        "country": "Rossiya",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                31.787372,
+                54.7131373
+              ],
+              [
+                32.209311,
+                54.7131373
+              ],
+              [
+                32.209311,
+                54.8508753
+              ],
+              [
+                31.787372,
+                54.8508753
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Dec 02 05:53:40 +0000 2015",
+      "id": 671930209441042400,
+      "id_str": "671930209441042434",
+      "text": "Обязательно — наушники с шумодавом. Для удаленки, когда работаешь из дома — мастхэв.",
+      "source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": {
+        "type": "Point",
+        "coordinates": [
+          54.7659506,
+          32.0310721
+        ]
+      },
+      "coordinates": {
+        "type": "Point",
+        "coordinates": [
+          32.0310721,
+          54.7659506
+        ]
+      },
+      "place": {
+        "id": "7c811f547d7dde0f",
+        "url": "https://api.twitter.com/1.1/geo/id/7c811f547d7dde0f.json",
+        "place_type": "city",
+        "name": "Смоленск",
+        "full_name": "Смоленск, Смоленская область",
+        "country_code": "RU",
+        "country": "Rossiya",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                31.787372,
+                54.7131373
+              ],
+              [
+                32.209311,
+                54.7131373
+              ],
+              [
+                32.209311,
+                54.8508753
+              ],
+              [
+                31.787372,
+                54.8508753
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Dec 02 05:53:02 +0000 2015",
+      "id": 671930051819126800,
+      "id_str": "671930051819126784",
+      "text": "Ну, вот моё рабочее место — ноутбук на подставке, кресло на колесиках, справа всякое лежит. Руки на весу не держу. https://t.co/W0tIE04Dcz",
+      "source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": {
+        "type": "Point",
+        "coordinates": [
+          54.7640142,
+          32.0326746
+        ]
+      },
+      "coordinates": {
+        "type": "Point",
+        "coordinates": [
+          32.0326746,
+          54.7640142
+        ]
+      },
+      "place": {
+        "id": "7c811f547d7dde0f",
+        "url": "https://api.twitter.com/1.1/geo/id/7c811f547d7dde0f.json",
+        "place_type": "city",
+        "name": "Смоленск",
+        "full_name": "Смоленск, Смоленская область",
+        "country_code": "RU",
+        "country": "Rossiya",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                31.787372,
+                54.7131373
+              ],
+              [
+                32.209311,
+                54.7131373
+              ],
+              [
+                32.209311,
+                54.8508753
+              ],
+              [
+                31.787372,
+                54.8508753
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "quoted_status_id": 671928342321496000,
+      "quoted_status_id_str": "671928342321496064",
+      "quoted_status": {
+        "created_at": "Wed Dec 02 05:46:15 +0000 2015",
+        "id": 671928342321496000,
+        "id_str": "671928342321496064",
+        "text": "@rubyunderhood подай пример комфортного рабочего места :)",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 671927178951598100,
+        "in_reply_to_status_id_str": "671927178951598080",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 18577007,
+          "id_str": "18577007"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/W0tIE04Dcz",
+            "expanded_url": "https://twitter.com/nick_jastix/status/671928342321496064",
+            "display_url": "twitter.com/nick_jastix/st…",
+            "indices": [
+              115,
+              138
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Dec 02 05:51:27 +0000 2015",
+      "id": 671929651489542100,
+      "id_str": "671929651489542144",
+      "text": "RT @nick_jastix: @rubyunderhood подай пример комфортного рабочего места :)",
+      "source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Wed Dec 02 05:46:15 +0000 2015",
+        "id": 671928342321496000,
+        "id_str": "671928342321496064",
+        "text": "@rubyunderhood подай пример комфортного рабочего места :)",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 671927178951598100,
+        "in_reply_to_status_id_str": "671927178951598080",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 18577007,
+          "id_str": "18577007"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "nick_jastix",
+            "name": "Nikolay",
+            "id": 18577007,
+            "id_str": "18577007",
+            "indices": [
+              3,
+              15
+            ]
+          },
+          {
+            "screen_name": "rubyunderhood",
+            "name": "Ruby разработчик",
+            "id": 3341793591,
+            "id_str": "3341793591",
+            "indices": [
+              17,
+              31
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Dec 02 05:41:52 +0000 2015",
+      "id": 671927239525728300,
+      "id_str": "671927239525728256",
+      "text": "(Чувствую себя бьютиблоггером)",
+      "source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": {
+        "type": "Point",
+        "coordinates": [
+          54.7640808,
+          32.0326345
+        ]
+      },
+      "coordinates": {
+        "type": "Point",
+        "coordinates": [
+          32.0326345,
+          54.7640808
+        ]
+      },
+      "place": {
+        "id": "7c811f547d7dde0f",
+        "url": "https://api.twitter.com/1.1/geo/id/7c811f547d7dde0f.json",
+        "place_type": "city",
+        "name": "Смоленск",
+        "full_name": "Смоленск, Смоленская область",
+        "country_code": "RU",
+        "country": "Rossiya",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                31.787372,
+                54.7131373
+              ],
+              [
+                32.209311,
+                54.7131373
+              ],
+              [
+                32.209311,
+                54.8508753
+              ],
+              [
+                31.787372,
+                54.8508753
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Dec 02 05:41:37 +0000 2015",
+      "id": 671927178951598100,
+      "id_str": "671927178951598080",
+      "text": "Считаете ли вы своё рабочее место удобным? Как вы обеспечиваете себе комфорт во время затяжного кодинга?",
+      "source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": {
+        "type": "Point",
+        "coordinates": [
+          54.7640274,
+          32.0327015
+        ]
+      },
+      "coordinates": {
+        "type": "Point",
+        "coordinates": [
+          32.0327015,
+          54.7640274
+        ]
+      },
+      "place": {
+        "id": "7c811f547d7dde0f",
+        "url": "https://api.twitter.com/1.1/geo/id/7c811f547d7dde0f.json",
+        "place_type": "city",
+        "name": "Смоленск",
+        "full_name": "Смоленск, Смоленская область",
+        "country_code": "RU",
+        "country": "Rossiya",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                31.787372,
+                54.7131373
+              ],
+              [
+                32.209311,
+                54.7131373
+              ],
+              [
+                32.209311,
+                54.8508753
+              ],
+              [
+                31.787372,
+                54.8508753
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Dec 02 05:40:14 +0000 2015",
+      "id": 671926828609744900,
+      "id_str": "671926828609744896",
+      "text": "А давайте поговорим о комфорте. Ведь производительность инженера зависит, в том числе, и от удобства его рабочего места, не так ли?",
+      "source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": {
+        "type": "Point",
+        "coordinates": [
+          54.7640274,
+          32.0327015
+        ]
+      },
+      "coordinates": {
+        "type": "Point",
+        "coordinates": [
+          32.0327015,
+          54.7640274
+        ]
+      },
+      "place": {
+        "id": "7c811f547d7dde0f",
+        "url": "https://api.twitter.com/1.1/geo/id/7c811f547d7dde0f.json",
+        "place_type": "city",
+        "name": "Смоленск",
+        "full_name": "Смоленск, Смоленская область",
+        "country_code": "RU",
+        "country": "Rossiya",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                31.787372,
+                54.7131373
+              ],
+              [
+                32.209311,
+                54.7131373
+              ],
+              [
+                32.209311,
+                54.8508753
+              ],
+              [
+                31.787372,
+                54.8508753
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Dec 02 05:38:31 +0000 2015",
+      "id": 671926396365758500,
+      "id_str": "671926396365758465",
+      "text": "RT @gruz0: @rubyunderhood, это не мы были близки, а не-вимеры почти приблизились к нам :-)",
+      "source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Wed Dec 02 05:11:44 +0000 2015",
+        "id": 671919657603997700,
+        "id_str": "671919657603997696",
+        "text": "@rubyunderhood, это не мы были близки, а не-вимеры почти приблизились к нам :-)",
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 671907476586045400,
+        "in_reply_to_status_id_str": "671907476586045440",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 179090653,
+          "id_str": "179090653"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "gruz0",
+            "name": "Sasha Gruzov (18+)",
+            "id": 179090653,
+            "id_str": "179090653",
+            "indices": [
+              3,
+              9
+            ]
+          },
+          {
+            "screen_name": "rubyunderhood",
+            "name": "Ruby разработчик",
+            "id": 3341793591,
+            "id_str": "3341793591",
+            "indices": [
+              11,
+              25
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Dec 02 05:38:20 +0000 2015",
+      "id": 671926352434569200,
+      "id_str": "671926352434569217",
+      "text": "Он проиграл первый тур :) В новом голосовании четыре новых редактора. Завтра будет финал. https://t.co/IR4vurHs6v",
+      "source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": {
+        "type": "Point",
+        "coordinates": [
+          54.7640274,
+          32.0327015
+        ]
+      },
+      "coordinates": {
+        "type": "Point",
+        "coordinates": [
+          32.0327015,
+          54.7640274
+        ]
+      },
+      "place": {
+        "id": "7c811f547d7dde0f",
+        "url": "https://api.twitter.com/1.1/geo/id/7c811f547d7dde0f.json",
+        "place_type": "city",
+        "name": "Смоленск",
+        "full_name": "Смоленск, Смоленская область",
+        "country_code": "RU",
+        "country": "Rossiya",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                31.787372,
+                54.7131373
+              ],
+              [
+                32.209311,
+                54.7131373
+              ],
+              [
+                32.209311,
+                54.8508753
+              ],
+              [
+                31.787372,
+                54.8508753
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "quoted_status_id": 671926125979951100,
+      "quoted_status_id_str": "671926125979951104",
+      "quoted_status": {
+        "created_at": "Wed Dec 02 05:37:26 +0000 2015",
+        "id": 671926125979951100,
+        "id_str": "671926125979951104",
+        "text": "@gruz0 @rubyunderhood почему emacs убрали?",
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 671919657603997700,
+        "in_reply_to_status_id_str": "671919657603997696",
+        "in_reply_to_user_id": 179090653,
+        "in_reply_to_user_id_str": "179090653",
+        "in_reply_to_screen_name": "gruz0",
+        "user": {
+          "id": 50432082,
+          "id_str": "50432082"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "gruz0",
+              "name": "Sasha Gruzov (18+)",
+              "id": 179090653,
+              "id_str": "179090653",
+              "indices": [
+                0,
+                6
+              ]
+            },
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                7,
+                21
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/IR4vurHs6v",
+            "expanded_url": "https://twitter.com/webusnix/status/671926125979951104",
+            "display_url": "twitter.com/webusnix/statu…",
+            "indices": [
+              90,
+              113
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Dec 02 05:29:51 +0000 2015",
+      "id": 671924214681727000,
+      "id_str": "671924214681726976",
+      "text": "Это зависит от целей и задач. Если работа отдается на аутсорс, то параноика включать бессмысленно. https://t.co/vocT0Dvj3K",
+      "source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": {
+        "type": "Point",
+        "coordinates": [
+          54.7641709,
+          32.0328639
+        ]
+      },
+      "coordinates": {
+        "type": "Point",
+        "coordinates": [
+          32.0328639,
+          54.7641709
+        ]
+      },
+      "place": {
+        "id": "7c811f547d7dde0f",
+        "url": "https://api.twitter.com/1.1/geo/id/7c811f547d7dde0f.json",
+        "place_type": "city",
+        "name": "Смоленск",
+        "full_name": "Смоленск, Смоленская область",
+        "country_code": "RU",
+        "country": "Rossiya",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                31.787372,
+                54.7131373
+              ],
+              [
+                32.209311,
+                54.7131373
+              ],
+              [
+                32.209311,
+                54.8508753
+              ],
+              [
+                31.787372,
+                54.8508753
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "quoted_status_id": 671919516843180000,
+      "quoted_status_id_str": "671919516843180032",
+      "quoted_status": {
+        "created_at": "Wed Dec 02 05:11:11 +0000 2015",
+        "id": 671919516843180000,
+        "id_str": "671919516843180032",
+        "text": "@rubyunderhood а что скажешь о бизнесе отдающем часть дел на аутсорс? По-моему, лучше гитхаб, где работают умные дядьки, чем тратить время.",
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 671879788198387700,
+        "in_reply_to_status_id_str": "671879788198387712",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 45908996,
+          "id_str": "45908996"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/vocT0Dvj3K",
+            "expanded_url": "https://twitter.com/TheSunwave/status/671919516843180032",
+            "display_url": "twitter.com/TheSunwave/sta…",
+            "indices": [
+              99,
+              122
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Dec 02 05:28:17 +0000 2015",
+      "id": 671923822044577800,
+      "id_str": "671923822044577795",
+      "text": "RT @gruz0: @rubyunderhood, мало – если надо снимать квартиру. При наличии уже существующей, сотки – более чем достаточно.",
+      "source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Wed Dec 02 05:15:59 +0000 2015",
+        "id": 671920726388117500,
+        "id_str": "671920726388117504",
+        "text": "@rubyunderhood, мало – если надо снимать квартиру. При наличии уже существующей, сотки – более чем достаточно.",
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 671875122274435100,
+        "in_reply_to_status_id_str": "671875122274435073",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 179090653,
+          "id_str": "179090653"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "gruz0",
+            "name": "Sasha Gruzov (18+)",
+            "id": 179090653,
+            "id_str": "179090653",
+            "indices": [
+              3,
+              9
+            ]
+          },
+          {
+            "screen_name": "rubyunderhood",
+            "name": "Ruby разработчик",
+            "id": 3341793591,
+            "id_str": "3341793591",
+            "indices": [
+              11,
+              25
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Dec 02 05:24:56 +0000 2015",
+      "id": 671922977508876300,
+      "id_str": "671922977508876288",
+      "text": "Я не знаю :) https://t.co/Z7nOjiHiti",
+      "source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": {
+        "type": "Point",
+        "coordinates": [
+          54.7641638,
+          32.032715
+        ]
+      },
+      "coordinates": {
+        "type": "Point",
+        "coordinates": [
+          32.032715,
+          54.7641638
+        ]
+      },
+      "place": {
+        "id": "7c811f547d7dde0f",
+        "url": "https://api.twitter.com/1.1/geo/id/7c811f547d7dde0f.json",
+        "place_type": "city",
+        "name": "Смоленск",
+        "full_name": "Смоленск, Смоленская область",
+        "country_code": "RU",
+        "country": "Rossiya",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                31.787372,
+                54.7131373
+              ],
+              [
+                32.209311,
+                54.7131373
+              ],
+              [
+                32.209311,
+                54.8508753
+              ],
+              [
+                31.787372,
+                54.8508753
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "quoted_status_id": 671920491339325400,
+      "quoted_status_id_str": "671920491339325440",
+      "quoted_status": {
+        "created_at": "Wed Dec 02 05:15:03 +0000 2015",
+        "id": 671920491339325400,
+        "id_str": "671920491339325440",
+        "text": "@rubyunderhood в следующем году DHH не планирует быть на RailsConf! Что бы это могло значить? Неужто спа важнее Rails?",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 18577007,
+          "id_str": "18577007"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/Z7nOjiHiti",
+            "expanded_url": "https://twitter.com/nick_jastix/status/671920491339325440",
+            "display_url": "twitter.com/nick_jastix/st…",
+            "indices": [
+              13,
+              36
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Dec 02 05:15:44 +0000 2015",
+      "id": 671920664064958500,
+      "id_str": "671920664064958464",
+      "text": "Если ты уже купил свою квартиру — да. https://t.co/jrLALISWXg",
+      "source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": {
+        "type": "Point",
+        "coordinates": [
+          54.7646265,
+          32.0304941
+        ]
+      },
+      "coordinates": {
+        "type": "Point",
+        "coordinates": [
+          32.0304941,
+          54.7646265
+        ]
+      },
+      "place": {
+        "id": "7c811f547d7dde0f",
+        "url": "https://api.twitter.com/1.1/geo/id/7c811f547d7dde0f.json",
+        "place_type": "city",
+        "name": "Смоленск",
+        "full_name": "Смоленск, Смоленская область",
+        "country_code": "RU",
+        "country": "Rossiya",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                31.787372,
+                54.7131373
+              ],
+              [
+                32.209311,
+                54.7131373
+              ],
+              [
+                32.209311,
+                54.8508753
+              ],
+              [
+                31.787372,
+                54.8508753
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "quoted_status_id": 671912661366513700,
+      "quoted_status_id_str": "671912661366513668",
+      "quoted_status": {
+        "created_at": "Wed Dec 02 04:43:56 +0000 2015",
+        "id": 671912661366513700,
+        "id_str": "671912661366513668",
+        "text": "@rubyunderhood в провинции с доходом в 50к, ты принцесска.",
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 671875122274435100,
+        "in_reply_to_status_id_str": "671875122274435073",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 45908996,
+          "id_str": "45908996"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/jrLALISWXg",
+            "expanded_url": "https://twitter.com/TheSunwave/status/671912661366513668",
+            "display_url": "twitter.com/TheSunwave/sta…",
+            "indices": [
+              38,
+              61
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Dec 02 04:23:20 +0000 2015",
+      "id": 671907476586045400,
+      "id_str": "671907476586045440",
+      "text": "Вимеры, вы были так близки... :)",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Dec 02 04:22:47 +0000 2015",
+      "id": 671907336487895000,
+      "id_str": "671907336487895041",
+      "text": "А первый полуфинал выиграли Atom и RubyMine :)",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Dec 02 04:22:06 +0000 2015",
+      "id": 671907164215255000,
+      "id_str": "671907164215255041",
+      "text": "Доброе утро!",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Dec 02 04:19:35 +0000 2015",
+      "id": 671906534239166500,
+      "id_str": "671906534239166464",
+      "text": "RT @kotchuprik: @rubyunderhood найти заказ на фуллтайм можно, работать продуктивно 8 часов в день это сложно. кто-то любит курить, а кто-то…",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Wed Dec 02 03:01:22 +0000 2015",
+        "id": 671886850789912600,
+        "id_str": "671886850789912577",
+        "text": "@rubyunderhood найти заказ на фуллтайм можно, работать продуктивно 8 часов в день это сложно. кто-то любит курить, а кто-то чай пить",
+        "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 671874862516969500,
+        "in_reply_to_status_id_str": "671874862516969472",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 145469624,
+          "id_str": "145469624"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "kotchuprik",
+            "name": "Constantine",
+            "id": 145469624,
+            "id_str": "145469624",
+            "indices": [
+              3,
+              14
+            ]
+          },
+          {
+            "screen_name": "rubyunderhood",
+            "name": "Ruby разработчик",
+            "id": 3341793591,
+            "id_str": "3341793591",
+            "indices": [
+              16,
+              30
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Dec 02 02:46:02 +0000 2015",
+      "id": 671882988125347800,
+      "id_str": "671882988125347841",
+      "text": "Остался один час, и первый полуфинал нашего баттла о редакторах завершится. https://t.co/rIHqSnMR0v",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 671542628299776000,
+      "quoted_status_id_str": "671542628299776001",
+      "quoted_status": {
+        "created_at": "Tue Dec 01 04:13:33 +0000 2015",
+        "id": 671542628299776000,
+        "id_str": "671542628299776001",
+        "text": "Доброе утро, господа!",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 3341793591,
+          "id_str": "3341793591"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "bg"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/rIHqSnMR0v",
+            "expanded_url": "https://twitter.com/rubyunderhood/status/671542628299776001",
+            "display_url": "twitter.com/rubyunderhood/…",
+            "indices": [
+              76,
+              99
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Dec 02 02:33:19 +0000 2015",
+      "id": 671879788198387700,
+      "id_str": "671879788198387712",
+      "text": "Если ты пишешь код для фирмы - внутри фирмы должен быть свой Git-сервер и инфраструктура для хранения данных. Сейчас её нетрудно создать.",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Dec 02 02:32:31 +0000 2015",
+      "id": 671879588197306400,
+      "id_str": "671879588197306368",
+      "text": "Можете называть меня параноиком, но я считаю, что код, написанный \"для работы\", не должен хоститься на сторонних сервисах.",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Dec 02 02:29:38 +0000 2015",
+      "id": 671878861341225000,
+      "id_str": "671878861341224961",
+      "text": "Хранение кода на сторонних сервисах типа Bitbucket/Gitlab я понимаю чуть больше, чем \"cloud coding\". Но все равно считаю это ненормальным.",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Dec 02 02:26:56 +0000 2015",
+      "id": 671878182346358800,
+      "id_str": "671878182346358784",
+      "text": "И редактировать код на сервере у какого-то левого сервиса это очень странно.",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Dec 02 02:26:13 +0000 2015",
+      "id": 671878004021268500,
+      "id_str": "671878004021268480",
+      "text": "2) большая часть кода, которую пишет любой разработчик - closed source под NDA (код для рабочих проектов).",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Dec 02 02:25:05 +0000 2015",
+      "id": 671877716757581800,
+      "id_str": "671877716757581824",
+      "text": "1) оно же МЕДЛЕННОЕ до ужаса. Прям как Атом в день релиза первой беты.",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Dec 02 02:24:40 +0000 2015",
+      "id": 671877611409289200,
+      "id_str": "671877611409289216",
+      "text": "Никогда не понимал всех этих \"облачные IDE\", \"cloud coding\".",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Dec 02 02:24:10 +0000 2015",
+      "id": 671877485617901600,
+      "id_str": "671877485617901568",
+      "text": "Эклипс - чё? https://t.co/XcJoHKjG7k",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/XcJoHKjG7k",
+            "expanded_url": "https://eclipse.org/che/",
+            "display_url": "eclipse.org/che/",
+            "indices": [
+              13,
+              36
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Dec 02 02:22:00 +0000 2015",
+      "id": 671876943940329500,
+      "id_str": "671876943940329472",
+      "text": "Открыл свой одеск. Там не 16.67$ стоит, а 6.67$ :D Вот что значит \"завёл профиль и забил\" - даже не знаю, что там написано.",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Dec 02 02:19:27 +0000 2015",
+      "id": 671876299070300200,
+      "id_str": "671876299070300160",
+      "text": "Мне на глаза там часто попадались профили с рейтом в 5$/час.",
+      "source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": {
+        "type": "Point",
+        "coordinates": [
+          54.7903314,
+          32.0394621
+        ]
+      },
+      "coordinates": {
+        "type": "Point",
+        "coordinates": [
+          32.0394621,
+          54.7903314
+        ]
+      },
+      "place": {
+        "id": "7c811f547d7dde0f",
+        "url": "https://api.twitter.com/1.1/geo/id/7c811f547d7dde0f.json",
+        "place_type": "city",
+        "name": "Смоленск",
+        "full_name": "Смоленск, Смоленская область",
+        "country_code": "RU",
+        "country": "Rossiya",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                31.787372,
+                54.7131373
+              ],
+              [
+                32.209311,
+                54.7131373
+              ],
+              [
+                32.209311,
+                54.8508753
+              ],
+              [
+                31.787372,
+                54.8508753
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Dec 02 02:18:50 +0000 2015",
+      "id": 671876146431189000,
+      "id_str": "671876146431188992",
+      "text": "Иногда, когда на основной работе нет задач, я вечерами смотрю на предложения на одеске. Там царство демпингующих индусов.",
+      "source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": {
+        "type": "Point",
+        "coordinates": [
+          54.7903314,
+          32.0394621
+        ]
+      },
+      "coordinates": {
+        "type": "Point",
+        "coordinates": [
+          32.0394621,
+          54.7903314
+        ]
+      },
+      "place": {
+        "id": "7c811f547d7dde0f",
+        "url": "https://api.twitter.com/1.1/geo/id/7c811f547d7dde0f.json",
+        "place_type": "city",
+        "name": "Смоленск",
+        "full_name": "Смоленск, Смоленская область",
+        "country_code": "RU",
+        "country": "Rossiya",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                31.787372,
+                54.7131373
+              ],
+              [
+                32.209311,
+                54.7131373
+              ],
+              [
+                32.209311,
+                54.8508753
+              ],
+              [
+                31.787372,
+                54.8508753
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Dec 02 02:17:22 +0000 2015",
+      "id": 671875775386267600,
+      "id_str": "671875775386267648",
+      "text": "Я на одеске завёл профиль и забил на него. Мне хватает постоянной удалённой работы. https://t.co/8xTN4P06Xw",
+      "source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": {
+        "type": "Point",
+        "coordinates": [
+          54.7903406,
+          32.0394327
+        ]
+      },
+      "coordinates": {
+        "type": "Point",
+        "coordinates": [
+          32.0394327,
+          54.7903406
+        ]
+      },
+      "place": {
+        "id": "7c811f547d7dde0f",
+        "url": "https://api.twitter.com/1.1/geo/id/7c811f547d7dde0f.json",
+        "place_type": "city",
+        "name": "Смоленск",
+        "full_name": "Смоленск, Смоленская область",
+        "country_code": "RU",
+        "country": "Rossiya",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                31.787372,
+                54.7131373
+              ],
+              [
+                32.209311,
+                54.7131373
+              ],
+              [
+                32.209311,
+                54.8508753
+              ],
+              [
+                31.787372,
+                54.8508753
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "quoted_status_id": 671875561921323000,
+      "quoted_status_id_str": "671875561921323008",
+      "quoted_status": {
+        "created_at": "Wed Dec 02 02:16:31 +0000 2015",
+        "id": 671875561921323000,
+        "id_str": "671875561921323008",
+        "text": "@rubyunderhood это твой основной заработок?",
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 671873993968918500,
+        "in_reply_to_status_id_str": "671873993968918531",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 77381915,
+          "id_str": "77381915"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/8xTN4P06Xw",
+            "expanded_url": "https://twitter.com/killthekitten/status/671875561921323008",
+            "display_url": "twitter.com/killthekitten/…",
+            "indices": [
+              84,
+              107
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Dec 02 02:14:46 +0000 2015",
+      "id": 671875122274435100,
+      "id_str": "671875122274435073",
+      "text": "Для того, чтобы жить в Москве, 100к/месяц -- явно мало. В провинции же с таким доходом ты будешь жить, как король.",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Dec 02 02:14:17 +0000 2015",
+      "id": 671875001277116400,
+      "id_str": "671875001277116416",
+      "text": "Если допустить, что он тратит на поиск работы 50% рабочего времени, то получается, что он получает чуть больше сотни тысяч рублей в месяц.",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Dec 02 02:13:44 +0000 2015",
+      "id": 671874862516969500,
+      "id_str": "671874862516969472",
+      "text": "Находит ли типичный фрилансер заказов на полную занятость? Вряд ли.",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Dec 02 02:12:54 +0000 2015",
+      "id": 671874653787455500,
+      "id_str": "671874653787455489",
+      "text": "20$/час это примерно 230 тысяч рублей в месяц по текущему курсу, если с таким рейтом работать 40 часов в неделю.",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Dec 02 02:10:17 +0000 2015",
+      "id": 671873993968918500,
+      "id_str": "671873993968918531",
+      "text": "Ничего себе. Я-то думал, что мой рейт в $16.67 в одеске это дофига… @killthekitten",
+      "source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 671870658196938800,
+      "in_reply_to_status_id_str": "671870658196938753",
+      "in_reply_to_user_id": 77381915,
+      "in_reply_to_user_id_str": "77381915",
+      "in_reply_to_screen_name": "killthekitten",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": {
+        "type": "Point",
+        "coordinates": [
+          54.7903445,
+          32.0394131
+        ]
+      },
+      "coordinates": {
+        "type": "Point",
+        "coordinates": [
+          32.0394131,
+          54.7903445
+        ]
+      },
+      "place": {
+        "id": "7c811f547d7dde0f",
+        "url": "https://api.twitter.com/1.1/geo/id/7c811f547d7dde0f.json",
+        "place_type": "city",
+        "name": "Смоленск",
+        "full_name": "Смоленск, Смоленская область",
+        "country_code": "RU",
+        "country": "Rossiya",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                31.787372,
+                54.7131373
+              ],
+              [
+                32.209311,
+                54.7131373
+              ],
+              [
+                32.209311,
+                54.8508753
+              ],
+              [
+                31.787372,
+                54.8508753
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "killthekitten",
+            "name": "Nikolay Shebanov",
+            "id": 77381915,
+            "id_str": "77381915",
+            "indices": [
+              68,
+              82
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Dec 02 02:09:26 +0000 2015",
+      "id": 671873777794445300,
+      "id_str": "671873777794445313",
+      "text": "RT @killthekitten: @rubyunderhood ну для рублевого написателя формочек, да с текущим курсом, это норм,  но там же не все подряд за рубли ку…",
+      "source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Wed Dec 02 01:57:02 +0000 2015",
+        "id": 671870658196938800,
+        "id_str": "671870658196938753",
+        "text": "@rubyunderhood ну для рублевого написателя формочек, да с текущим курсом, это норм,  но там же не все подряд за рубли кушают",
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 671869899980079100,
+        "in_reply_to_status_id_str": "671869899980079104",
+        "in_reply_to_user_id": 77381915,
+        "in_reply_to_user_id_str": "77381915",
+        "in_reply_to_screen_name": "killthekitten",
+        "user": {
+          "id": 77381915,
+          "id_str": "77381915"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 1,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "killthekitten",
+            "name": "Nikolay Shebanov",
+            "id": 77381915,
+            "id_str": "77381915",
+            "indices": [
+              3,
+              17
+            ]
+          },
+          {
+            "screen_name": "rubyunderhood",
+            "name": "Ruby разработчик",
+            "id": 3341793591,
+            "id_str": "3341793591",
+            "indices": [
+              19,
+              33
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Dec 02 02:09:23 +0000 2015",
+      "id": 671873765152813000,
+      "id_str": "671873765152813057",
+      "text": "RT @killthekitten: @rubyunderhood ничтожно мало",
+      "source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Wed Dec 02 01:54:01 +0000 2015",
+        "id": 671869899980079100,
+        "id_str": "671869899980079104",
+        "text": "@rubyunderhood ничтожно мало",
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 671869437365088300,
+        "in_reply_to_status_id_str": "671869437365088256",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 77381915,
+          "id_str": "77381915"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 1,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "killthekitten",
+            "name": "Nikolay Shebanov",
+            "id": 77381915,
+            "id_str": "77381915",
+            "indices": [
+              3,
+              17
+            ]
+          },
+          {
+            "screen_name": "rubyunderhood",
+            "name": "Ruby разработчик",
+            "id": 3341793591,
+            "id_str": "3341793591",
+            "indices": [
+              19,
+              33
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Dec 02 02:08:24 +0000 2015",
+      "id": 671873518083178500,
+      "id_str": "671873518083178496",
+      "text": "RT @kirylkiryl: @rubyunderhood свежемолотый",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Wed Dec 02 01:58:14 +0000 2015",
+        "id": 671870959482204200,
+        "id_str": "671870959482204161",
+        "text": "@rubyunderhood свежемолотый",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 671741365282304000,
+        "in_reply_to_status_id_str": "671741365282304001",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 14015932,
+          "id_str": "14015932"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "kirylkiryl",
+            "name": "kiryl",
+            "id": 14015932,
+            "id_str": "14015932",
+            "indices": [
+              3,
+              14
+            ]
+          },
+          {
+            "screen_name": "rubyunderhood",
+            "name": "Ruby разработчик",
+            "id": 3341793591,
+            "id_str": "3341793591",
+            "indices": [
+              16,
+              30
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Dec 02 01:52:11 +0000 2015",
+      "id": 671869437365088300,
+      "id_str": "671869437365088256",
+      "text": "20$/час это много, или мало? https://t.co/VGByEY0x1t",
+      "source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": {
+        "type": "Point",
+        "coordinates": [
+          54.790334,
+          32.0394391
+        ]
+      },
+      "coordinates": {
+        "type": "Point",
+        "coordinates": [
+          32.0394391,
+          54.790334
+        ]
+      },
+      "place": {
+        "id": "7c811f547d7dde0f",
+        "url": "https://api.twitter.com/1.1/geo/id/7c811f547d7dde0f.json",
+        "place_type": "city",
+        "name": "Смоленск",
+        "full_name": "Смоленск, Смоленская область",
+        "country_code": "RU",
+        "country": "Rossiya",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                31.787372,
+                54.7131373
+              ],
+              [
+                32.209311,
+                54.7131373
+              ],
+              [
+                32.209311,
+                54.8508753
+              ],
+              [
+                31.787372,
+                54.8508753
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "quoted_status_id": 671867255811129300,
+      "quoted_status_id_str": "671867255811129344",
+      "quoted_status": {
+        "created_at": "Wed Dec 02 01:43:31 +0000 2015",
+        "id": 671867255811129300,
+        "id_str": "671867255811129344",
+        "text": "Кто все эти люди,  которые просят на одеске за свои услуги $20/час? Они управляют пулом бесплатных индусов?",
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 77381915,
+          "id_str": "77381915"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/VGByEY0x1t",
+            "expanded_url": "https://twitter.com/killthekitten/status/671867255811129344",
+            "display_url": "twitter.com/killthekitten/…",
+            "indices": [
+              29,
+              52
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
       "created_at": "Tue Dec 01 22:34:34 +0000 2015",
       "id": 671819705766813700,
       "id_str": "671819705766813696",
@@ -2192,7 +7333,7 @@
       },
       "is_quote_status": true,
       "retweet_count": 0,
-      "favorite_count": 0,
+      "favorite_count": 1,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -9558,7 +14699,7 @@
             },
             {
               "screen_name": "jsunderhood",
-              "name": "React Разработчик",
+              "name": "Разработчик",
               "id": 3014054307,
               "id_str": "3014054307",
               "indices": [
@@ -9682,7 +14823,7 @@
           },
           {
             "screen_name": "jsunderhood",
-            "name": "React Разработчик",
+            "name": "Разработчик",
             "id": 3014054307,
             "id_str": "3014054307",
             "indices": [
