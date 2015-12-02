@@ -37,22 +37,22 @@
     }
   },
   "protected": false,
-  "followers_count": 742,
+  "followers_count": 741,
   "friends_count": 37,
-  "listed_count": 37,
+  "listed_count": 38,
   "created_at": "Mon Jun 22 18:43:03 +0000 2015",
   "favourites_count": 155,
   "utc_offset": -28800,
   "time_zone": "Pacific Time (US & Canada)",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 7209,
+  "statuses_count": 7219,
   "lang": "en",
   "status": {
-    "created_at": "Tue Dec 01 12:18:16 +0000 2015",
-    "id": 671664609955348500,
-    "id_str": "671664609955348480",
-    "text": "RT @bytecheg: @rubyunderhood @ptico @return_none поюсую саблайм!",
+    "created_at": "Tue Dec 01 22:34:34 +0000 2015",
+    "id": 671819705766813700,
+    "id_str": "671819705766813696",
+    "text": "RT @ad__astra: @rubyunderhood Lofbergs Magnifika наше всё. Такой шоколадный слегка.",
     "source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix for Android</a>",
     "truncated": false,
     "in_reply_to_status_id": null,
@@ -65,56 +65,23 @@
     "place": null,
     "contributors": null,
     "retweeted_status": {
-      "created_at": "Tue Dec 01 12:09:29 +0000 2015",
-      "id": 671662399963996200,
-      "id_str": "671662399963996160",
-      "text": "@rubyunderhood @ptico @return_none поюсую саблайм!",
+      "created_at": "Tue Dec 01 18:15:25 +0000 2015",
+      "id": 671754487267246100,
+      "id_str": "671754487267246080",
+      "text": "@rubyunderhood Lofbergs Magnifika наше всё. Такой шоколадный слегка.",
       "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
       "truncated": false,
-      "in_reply_to_status_id": 671629108607086600,
-      "in_reply_to_status_id_str": "671629108607086592",
+      "in_reply_to_status_id": 671741365282304000,
+      "in_reply_to_status_id_str": "671741365282304001",
       "in_reply_to_user_id": 3341793591,
       "in_reply_to_user_id_str": "3341793591",
       "in_reply_to_screen_name": "rubyunderhood",
       "geo": null,
       "coordinates": null,
-      "place": {
-        "id": "57966ac015103d70",
-        "url": "https://api.twitter.com/1.1/geo/id/57966ac015103d70.json",
-        "place_type": "admin",
-        "name": "Krasnogorskij Rajon",
-        "full_name": "Krasnogorskij Rajon, Moskovskaja oblast'",
-        "country_code": "RU",
-        "country": "Rossiya",
-        "contained_within": [],
-        "bounding_box": {
-          "type": "Polygon",
-          "coordinates": [
-            [
-              [
-                37.0795288,
-                55.7319107
-              ],
-              [
-                37.4126113,
-                55.7319107
-              ],
-              [
-                37.4126113,
-                55.91679
-              ],
-              [
-                37.0795288,
-                55.91679
-              ]
-            ]
-          ]
-        },
-        "attributes": {}
-      },
+      "place": null,
       "contributors": null,
       "retweet_count": 1,
-      "favorite_count": 1,
+      "favorite_count": 0,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -127,26 +94,6 @@
             "indices": [
               0,
               14
-            ]
-          },
-          {
-            "screen_name": "ptico",
-            "name": "Andriy Savchenko",
-            "id": 16743832,
-            "id_str": "16743832",
-            "indices": [
-              15,
-              21
-            ]
-          },
-          {
-            "screen_name": "return_none",
-            "name": "C1nde",
-            "id": 2281460254,
-            "id_str": "2281460254",
-            "indices": [
-              22,
-              34
             ]
           }
         ],
@@ -163,13 +110,13 @@
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "bytecheg",
-          "name": "Denis Kuznetsov",
-          "id": 278923747,
-          "id_str": "278923747",
+          "screen_name": "ad__astra",
+          "name": "Ad Astra",
+          "id": 15351905,
+          "id_str": "15351905",
           "indices": [
             3,
-            12
+            13
           ]
         },
         {
@@ -178,28 +125,8 @@
           "id": 3341793591,
           "id_str": "3341793591",
           "indices": [
-            14,
-            28
-          ]
-        },
-        {
-          "screen_name": "ptico",
-          "name": "Andriy Savchenko",
-          "id": 16743832,
-          "id_str": "16743832",
-          "indices": [
-            29,
-            35
-          ]
-        },
-        {
-          "screen_name": "return_none",
-          "name": "C1nde",
-          "id": 2281460254,
-          "id_str": "2281460254",
-          "indices": [
-            36,
-            48
+            15,
+            29
           ]
         }
       ],
