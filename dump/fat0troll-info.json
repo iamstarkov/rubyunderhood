@@ -37,7 +37,7 @@
     }
   },
   "protected": false,
-  "followers_count": 746,
+  "followers_count": 748,
   "friends_count": 37,
   "listed_count": 40,
   "created_at": "Mon Jun 22 18:43:03 +0000 2015",
@@ -46,13 +46,13 @@
   "time_zone": "Pacific Time (US & Canada)",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 7313,
+  "statuses_count": 7324,
   "lang": "en",
   "status": {
-    "created_at": "Thu Dec 03 11:24:51 +0000 2015",
-    "id": 672375942778626000,
-    "id_str": "672375942778626048",
-    "text": "Тексмейт проиграл вчерашний полуфинал. https://t.co/ritFHhFxRv",
+    "created_at": "Thu Dec 03 17:41:59 +0000 2015",
+    "id": 672470850101227500,
+    "id_str": "672470850101227520",
+    "text": "RT @rainrb: @rubyunderhood на руби сейчас Энтерпрайз пилят, какое хипстерство",
     "source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix for Android</a>",
     "truncated": false,
     "in_reply_to_status_id": null,
@@ -60,76 +60,80 @@
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
     "in_reply_to_screen_name": null,
-    "geo": {
-      "type": "Point",
-      "coordinates": [
-        54.7644745,
-        32.031238
-      ]
-    },
-    "coordinates": {
-      "type": "Point",
-      "coordinates": [
-        32.031238,
-        54.7644745
-      ]
-    },
-    "place": {
-      "id": "7c811f547d7dde0f",
-      "url": "https://api.twitter.com/1.1/geo/id/7c811f547d7dde0f.json",
-      "place_type": "city",
-      "name": "Смоленск",
-      "full_name": "Смоленск, Смоленская область",
-      "country_code": "RU",
-      "country": "Rossiya",
-      "contained_within": [],
-      "bounding_box": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              31.787372,
-              54.7131373
-            ],
-            [
-              32.209311,
-              54.7131373
-            ],
-            [
-              32.209311,
-              54.8508753
-            ],
-            [
-              31.787372,
-              54.8508753
-            ]
-          ]
-        ]
-      },
-      "attributes": {}
-    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
     "contributors": null,
-    "retweet_count": 0,
+    "retweeted_status": {
+      "created_at": "Thu Dec 03 17:38:21 +0000 2015",
+      "id": 672469938767007700,
+      "id_str": "672469938767007749",
+      "text": "@rubyunderhood на руби сейчас Энтерпрайз пилят, какое хипстерство",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 672462282463584300,
+      "in_reply_to_status_id_str": "672462282463584256",
+      "in_reply_to_user_id": 3341793591,
+      "in_reply_to_user_id_str": "3341793591",
+      "in_reply_to_screen_name": "rubyunderhood",
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "rubyunderhood",
+            "name": "Ruby разработчик",
+            "id": 3341793591,
+            "id_str": "3341793591",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    "retweet_count": 1,
     "favorite_count": 0,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/ritFHhFxRv",
-          "expanded_url": "https://twitter.com/ptico/status/672370318846095360",
-          "display_url": "twitter.com/ptico/status/6…",
+          "screen_name": "rainrb",
+          "name": "rainrb",
+          "id": 92529952,
+          "id_str": "92529952",
           "indices": [
-            39,
-            62
+            3,
+            10
+          ]
+        },
+        {
+          "screen_name": "rubyunderhood",
+          "name": "Ruby разработчик",
+          "id": 3341793591,
+          "id_str": "3341793591",
+          "indices": [
+            12,
+            26
           ]
         }
-      ]
+      ],
+      "urls": []
     },
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
