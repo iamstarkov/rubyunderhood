@@ -39,20 +39,20 @@
   "protected": false,
   "followers_count": 748,
   "friends_count": 37,
-  "listed_count": 41,
+  "listed_count": 42,
   "created_at": "Mon Jun 22 18:43:03 +0000 2015",
   "favourites_count": 155,
   "utc_offset": -28800,
   "time_zone": "Pacific Time (US & Canada)",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 7525,
+  "statuses_count": 7587,
   "lang": "en",
   "status": {
-    "created_at": "Sun Dec 06 12:59:24 +0000 2015",
-    "id": 673486900234231800,
-    "id_str": "673486900234231808",
-    "text": "Слава богу, среди читателей нет тех, кто начинал с макбука :)",
+    "created_at": "Sun Dec 06 18:00:56 +0000 2015",
+    "id": 673562782047039500,
+    "id_str": "673562782047039488",
+    "text": "Воскресенье, 21:00. С вами в эфире был Владимир @fat0troll Козлов. Всем пока! :)",
     "source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix for Android</a>",
     "truncated": false,
     "in_reply_to_status_id": null,
@@ -63,15 +63,15 @@
     "geo": {
       "type": "Point",
       "coordinates": [
-        54.7903332,
-        32.0395008
+        54.7903527,
+        32.0394791
       ]
     },
     "coordinates": {
       "type": "Point",
       "coordinates": [
-        32.0395008,
-        54.7903332
+        32.0394791,
+        54.7903527
       ]
     },
     "place": {
@@ -109,12 +109,23 @@
       "attributes": {}
     },
     "contributors": null,
-    "retweet_count": 0,
-    "favorite_count": 0,
+    "retweet_count": 1,
+    "favorite_count": 1,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "fat0troll",
+          "name": "Valdos Sine",
+          "id": 245281863,
+          "id_str": "245281863",
+          "indices": [
+            48,
+            58
+          ]
+        }
+      ],
       "urls": []
     },
     "favorited": false,
