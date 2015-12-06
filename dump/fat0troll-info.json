@@ -37,7 +37,7 @@
     }
   },
   "protected": false,
-  "followers_count": 749,
+  "followers_count": 748,
   "friends_count": 37,
   "listed_count": 41,
   "created_at": "Mon Jun 22 18:43:03 +0000 2015",
@@ -46,13 +46,13 @@
   "time_zone": "Pacific Time (US & Canada)",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 7491,
+  "statuses_count": 7525,
   "lang": "en",
   "status": {
-    "created_at": "Sat Dec 05 17:44:05 +0000 2015",
-    "id": 673196153429762000,
-    "id_str": "673196153429762048",
-    "text": "RT @ajieks: @artofhuman @rubyunderhood железо в том плане что тогда брать apple, а не например asus/lenovo/acer/etc",
+    "created_at": "Sun Dec 06 12:59:24 +0000 2015",
+    "id": 673486900234231800,
+    "id_str": "673486900234231808",
+    "text": "Слава богу, среди читателей нет тех, кто начинал с макбука :)",
     "source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix for Android</a>",
     "truncated": false,
     "in_reply_to_status_id": null,
@@ -60,96 +60,61 @@
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
     "in_reply_to_screen_name": null,
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "retweeted_status": {
-      "created_at": "Sat Dec 05 17:39:12 +0000 2015",
-      "id": 673194928328024000,
-      "id_str": "673194928328024064",
-      "text": "@artofhuman @rubyunderhood железо в том плане что тогда брать apple, а не например asus/lenovo/acer/etc",
-      "source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows Phone</a>",
-      "truncated": false,
-      "in_reply_to_status_id": 673193457922412500,
-      "in_reply_to_status_id_str": "673193457922412544",
-      "in_reply_to_user_id": 61177267,
-      "in_reply_to_user_id_str": "61177267",
-      "in_reply_to_screen_name": "artofhuman",
-      "geo": null,
-      "coordinates": null,
-      "place": null,
-      "contributors": null,
-      "retweet_count": 1,
-      "favorite_count": 0,
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [
-          {
-            "screen_name": "artofhuman",
-            "name": "Sam",
-            "id": 61177267,
-            "id_str": "61177267",
-            "indices": [
-              0,
-              11
-            ]
-          },
-          {
-            "screen_name": "rubyunderhood",
-            "name": "Ruby разработчик",
-            "id": 3341793591,
-            "id_str": "3341793591",
-            "indices": [
-              12,
-              26
-            ]
-          }
-        ],
-        "urls": []
-      },
-      "favorited": false,
-      "retweeted": false,
-      "lang": "ru"
+    "geo": {
+      "type": "Point",
+      "coordinates": [
+        54.7903332,
+        32.0395008
+      ]
     },
-    "retweet_count": 1,
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        32.0395008,
+        54.7903332
+      ]
+    },
+    "place": {
+      "id": "7c811f547d7dde0f",
+      "url": "https://api.twitter.com/1.1/geo/id/7c811f547d7dde0f.json",
+      "place_type": "city",
+      "name": "Смоленск",
+      "full_name": "Смоленск, Смоленская область",
+      "country_code": "RU",
+      "country": "Rossiya",
+      "contained_within": [],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.787372,
+              54.7131373
+            ],
+            [
+              32.209311,
+              54.7131373
+            ],
+            [
+              32.209311,
+              54.8508753
+            ],
+            [
+              31.787372,
+              54.8508753
+            ]
+          ]
+        ]
+      },
+      "attributes": {}
+    },
+    "contributors": null,
+    "retweet_count": 0,
     "favorite_count": 0,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
-        {
-          "screen_name": "ajieks",
-          "name": "Alexey Shcherbakov",
-          "id": 103034931,
-          "id_str": "103034931",
-          "indices": [
-            3,
-            10
-          ]
-        },
-        {
-          "screen_name": "artofhuman",
-          "name": "Sam",
-          "id": 61177267,
-          "id_str": "61177267",
-          "indices": [
-            12,
-            23
-          ]
-        },
-        {
-          "screen_name": "rubyunderhood",
-          "name": "Ruby разработчик",
-          "id": 3341793591,
-          "id_str": "3341793591",
-          "indices": [
-            24,
-            38
-          ]
-        }
-      ],
+      "user_mentions": [],
       "urls": []
     },
     "favorited": false,
