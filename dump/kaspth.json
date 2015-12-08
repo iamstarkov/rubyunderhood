@@ -5,6 +5,1107 @@
   "post": false,
   "tweets": [
     {
+      "created_at": "Tue Dec 08 16:25:24 +0000 2015",
+      "id": 674263516535242800,
+      "id_str": "674263516535242752",
+      "text": "Our app has enough complexity elsewhere 🤓\n\nhttps://t.co/VEslYRp4vL",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 674261253431410700,
+      "quoted_status_id_str": "674261253431410688",
+      "quoted_status": {
+        "created_at": "Tue Dec 08 16:16:24 +0000 2015",
+        "id": 674261253431410700,
+        "id_str": "674261253431410688",
+        "text": "@rubyunderhood If somebody wants to make a complex fronted separated angular/backbone app+rails as an API will be better imo",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 674196385273659400,
+        "in_reply_to_status_id_str": "674196385273659392",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 92529952,
+          "id_str": "92529952"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby developer",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "is_quote_status": true,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/VEslYRp4vL",
+            "expanded_url": "https://twitter.com/rainrb/status/674261253431410688",
+            "display_url": "twitter.com/rainrb/status/…",
+            "indices": [
+              43,
+              66
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Dec 08 16:24:34 +0000 2015",
+      "id": 674263306870399000,
+      "id_str": "674263306870398976",
+      "text": "@rainrb We'll see, and thanks for your input :D",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 674262825855033300,
+      "in_reply_to_status_id_str": "674262825855033344",
+      "in_reply_to_user_id": 92529952,
+      "in_reply_to_user_id_str": "92529952",
+      "in_reply_to_screen_name": "rainrb",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "rainrb",
+            "name": "rainrb",
+            "id": 92529952,
+            "id_str": "92529952",
+            "indices": [
+              0,
+              7
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Dec 08 16:23:12 +0000 2015",
+      "id": 674262965827293200,
+      "id_str": "674262965827293185",
+      "text": "Nice! :D\n\nhttps://t.co/cmH545u3p5",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 674260273549676500,
+      "quoted_status_id_str": "674260273549676544",
+      "quoted_status": {
+        "created_at": "Tue Dec 08 16:12:31 +0000 2015",
+        "id": 674260273549676500,
+        "id_str": "674260273549676544",
+        "text": "@rubyunderhood link:\nhttps://t.co/x9Byce019U",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 674258997034225700,
+        "in_reply_to_status_id_str": "674258997034225664",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 539221178,
+          "id_str": "539221178"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby developer",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/x9Byce019U",
+              "expanded_url": "http://github.com/davydovanton/sidekiq-statistic",
+              "display_url": "github.com/davydovanton/s…",
+              "indices": [
+                21,
+                44
+              ]
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/cmH545u3p5",
+            "expanded_url": "https://twitter.com/anton_davydov/status/674260273549676544",
+            "display_url": "twitter.com/anton_davydov/…",
+            "indices": [
+              10,
+              33
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Dec 08 16:22:40 +0000 2015",
+      "id": 674262828484833300,
+      "id_str": "674262828484833280",
+      "text": "Every time I hear that I think about Shopify: https://t.co/CctwXfRGKo.\n\nThe end result sounds far nicer :)\n\nhttps://t.co/VEslYRp4vL",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 674261253431410700,
+      "quoted_status_id_str": "674261253431410688",
+      "quoted_status": {
+        "created_at": "Tue Dec 08 16:16:24 +0000 2015",
+        "id": 674261253431410700,
+        "id_str": "674261253431410688",
+        "text": "@rubyunderhood If somebody wants to make a complex fronted separated angular/backbone app+rails as an API will be better imo",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 674196385273659400,
+        "in_reply_to_status_id_str": "674196385273659392",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 92529952,
+          "id_str": "92529952"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby developer",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/CctwXfRGKo",
+            "expanded_url": "https://www.shopify.com/technology/15646068-rebuilding-the-shopify-admin-improving-developer-productivity-by-deleting-28-000-lines-of-javascript",
+            "display_url": "shopify.com/technology/156…",
+            "indices": [
+              46,
+              69
+            ]
+          },
+          {
+            "url": "https://t.co/VEslYRp4vL",
+            "expanded_url": "https://twitter.com/rainrb/status/674261253431410688",
+            "display_url": "twitter.com/rainrb/status/…",
+            "indices": [
+              108,
+              131
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Dec 08 16:20:52 +0000 2015",
+      "id": 674262378675073000,
+      "id_str": "674262378675073024",
+      "text": "@rainrb You're right. It isn't needed, but we'd like to iterate during the transition :)",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 674261128269209600,
+      "in_reply_to_status_id_str": "674261128269209601",
+      "in_reply_to_user_id": 92529952,
+      "in_reply_to_user_id_str": "92529952",
+      "in_reply_to_screen_name": "rainrb",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "rainrb",
+            "name": "rainrb",
+            "id": 92529952,
+            "id_str": "92529952",
+            "indices": [
+              0,
+              7
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Dec 08 16:19:29 +0000 2015",
+      "id": 674262028979208200,
+      "id_str": "674262028979208192",
+      "text": "@anton_davydov Yeah, that's the one!",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 674260936799162400,
+      "in_reply_to_status_id_str": "674260936799162373",
+      "in_reply_to_user_id": 539221178,
+      "in_reply_to_user_id_str": "539221178",
+      "in_reply_to_screen_name": "anton_davydov",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "anton_davydov",
+            "name": "Davy Dovanton",
+            "id": 539221178,
+            "id_str": "539221178",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Dec 08 16:19:03 +0000 2015",
+      "id": 674261920313180200,
+      "id_str": "674261920313180161",
+      "text": "Jim Weirich gave a talk about the SICP book from the course:\n\nhttps://t.co/Vfqw6bPtK7\n\nWell, the first two \"mind-blowing\" chapters :)",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 674258645341872100,
+      "in_reply_to_status_id_str": "674258645341872132",
+      "in_reply_to_user_id": 3341793591,
+      "in_reply_to_user_id_str": "3341793591",
+      "in_reply_to_screen_name": "rubyunderhood",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/Vfqw6bPtK7",
+            "expanded_url": "http://confreaks.tv/videos/gogaruco2010-keynote-parenthetically-speaking",
+            "display_url": "confreaks.tv/videos/gogaruc…",
+            "indices": [
+              62,
+              85
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Dec 08 16:12:00 +0000 2015",
+      "id": 674260143501090800,
+      "id_str": "674260143501090816",
+      "text": "That matters a lot for our team of 4 developers :)",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 674260049167048700,
+      "in_reply_to_status_id_str": "674260049167048704",
+      "in_reply_to_user_id": 3341793591,
+      "in_reply_to_user_id_str": "3341793591",
+      "in_reply_to_screen_name": "rubyunderhood",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Dec 08 16:11:37 +0000 2015",
+      "id": 674260049167048700,
+      "id_str": "674260049167048704",
+      "text": "Facebook and Google always have a surplus of programmers to throw at React and Angular, while Basecamp still keeps it to 10-12.",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 674259777061539800,
+      "in_reply_to_status_id_str": "674259777061539842",
+      "in_reply_to_user_id": 3341793591,
+      "in_reply_to_user_id_str": "3341793591",
+      "in_reply_to_screen_name": "rubyunderhood",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Dec 08 16:10:32 +0000 2015",
+      "id": 674259777061539800,
+      "id_str": "674259777061539842",
+      "text": "I like Turbolinks partly because it's not meant as a blackhole.\n\nhttps://t.co/3V7rF91NiS",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 674206101680844800,
+      "quoted_status_id_str": "674206101680844800",
+      "quoted_status": {
+        "created_at": "Tue Dec 08 12:37:15 +0000 2015",
+        "id": 674206101680844800,
+        "id_str": "674206101680844800",
+        "text": "@anton_davydov @rubyunderhood I remove Turbolinks at once when I start new project =)",
+        "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 674199297265659900,
+        "in_reply_to_status_id_str": "674199297265659905",
+        "in_reply_to_user_id": 539221178,
+        "in_reply_to_user_id_str": "539221178",
+        "in_reply_to_screen_name": "anton_davydov",
+        "user": {
+          "id": 61177267,
+          "id_str": "61177267"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "anton_davydov",
+              "name": "Davy Dovanton",
+              "id": 539221178,
+              "id_str": "539221178",
+              "indices": [
+                0,
+                14
+              ]
+            },
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby developer",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                15,
+                29
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/3V7rF91NiS",
+            "expanded_url": "https://twitter.com/artofhuman/status/674206101680844800",
+            "display_url": "twitter.com/artofhuman/sta…",
+            "indices": [
+              65,
+              88
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Dec 08 16:07:26 +0000 2015",
+      "id": 674258997034225700,
+      "id_str": "674258997034225664",
+      "text": "Ah, really! What was the project? :)\n\n(Yes, I have a 2013 student t-shirt and a 2015 mentor one)\n\nhttps://t.co/GiQZ1KIW7V",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 674203207623684100,
+      "quoted_status_id_str": "674203207623684096",
+      "quoted_status": {
+        "created_at": "Tue Dec 08 12:25:45 +0000 2015",
+        "id": 674203207623684100,
+        "id_str": "674203207623684096",
+        "text": "@rubyunderhood and little talk about GSoC, I completed GSoC15 and it was amazing. What you can say about this? :) Do you have a T-short? :D",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 539221178,
+          "id_str": "539221178"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby developer",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/GiQZ1KIW7V",
+            "expanded_url": "https://twitter.com/anton_davydov/status/674203207623684096",
+            "display_url": "twitter.com/anton_davydov/…",
+            "indices": [
+              98,
+              121
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Dec 08 16:06:02 +0000 2015",
+      "id": 674258645341872100,
+      "id_str": "674258645341872132",
+      "text": "About Lisp, I've watched most of 80's MIT's computing intro lectures: https://t.co/MAp4Fk3zWF — holds up well!\n\nhttps://t.co/JLhS9EzRjL",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 674203478735118300,
+      "quoted_status_id_str": "674203478735118336",
+      "quoted_status": {
+        "created_at": "Tue Dec 08 12:26:50 +0000 2015",
+        "id": 674203478735118300,
+        "id_str": "674203478735118336",
+        "text": "@dcromster @rubyunderhood i want to learn common lisp, lol",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 674202877792010200,
+        "in_reply_to_status_id_str": "674202877792010240",
+        "in_reply_to_user_id": 81103006,
+        "in_reply_to_user_id_str": "81103006",
+        "in_reply_to_screen_name": "dcromster",
+        "user": {
+          "id": 539221178,
+          "id_str": "539221178"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "dcromster",
+              "name": "Roman Milovskiy",
+              "id": 81103006,
+              "id_str": "81103006",
+              "indices": [
+                0,
+                10
+              ]
+            },
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby developer",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                11,
+                25
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "is_quote_status": true,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/MAp4Fk3zWF",
+            "expanded_url": "http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures/",
+            "display_url": "ocw.mit.edu/courses/electr…",
+            "indices": [
+              70,
+              93
+            ]
+          },
+          {
+            "url": "https://t.co/JLhS9EzRjL",
+            "expanded_url": "https://twitter.com/anton_davydov/status/674203478735118336",
+            "display_url": "twitter.com/anton_davydov/…",
+            "indices": [
+              112,
+              135
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Dec 08 16:02:20 +0000 2015",
+      "id": 674257713992454100,
+      "id_str": "674257713992454144",
+      "text": "Haven’t looked very much into them. I have heard Go being thrown around a lot lately for what that’s worth. https://t.co/bmPaMGDxoS",
+      "source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 674202269953482800,
+      "quoted_status_id_str": "674202269953482752",
+      "quoted_status": {
+        "created_at": "Tue Dec 08 12:22:01 +0000 2015",
+        "id": 674202269953482800,
+        "id_str": "674202269953482752",
+        "text": "@rubyunderhood what do you think about other languages? For example clojure or go lang?",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 539221178,
+          "id_str": "539221178"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby developer",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/bmPaMGDxoS",
+            "expanded_url": "http://twitter.com/anton_davydov/status/674202269953482752",
+            "display_url": "twitter.com/anton_davydov/…",
+            "indices": [
+              108,
+              131
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Dec 08 16:00:59 +0000 2015",
+      "id": 674257374933336000,
+      "id_str": "674257374933336064",
+      "text": "The Leprechaun got out of the console 😁 https://t.co/to6sECvGQ4",
+      "source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 674199297265659900,
+      "quoted_status_id_str": "674199297265659905",
+      "quoted_status": {
+        "created_at": "Tue Dec 08 12:10:13 +0000 2015",
+        "id": 674199297265659900,
+        "id_str": "674199297265659905",
+        "text": "@rubyunderhood for me Turbolinks is like spring but in frontend :D",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 674196385273659400,
+        "in_reply_to_status_id_str": "674196385273659392",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 539221178,
+          "id_str": "539221178"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby developer",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "is_quote_status": true,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/to6sECvGQ4",
+            "expanded_url": "http://twitter.com/anton_davydov/status/674199297265659905",
+            "display_url": "twitter.com/anton_davydov/…",
+            "indices": [
+              40,
+              63
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Dec 08 16:00:00 +0000 2015",
+      "id": 674257123954589700,
+      "id_str": "674257123954589699",
+      "text": "Aww, that sucks. Are you just running without a JS framework? :) https://t.co/FBe0jYAph3",
+      "source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 674199145444429800,
+      "quoted_status_id_str": "674199145444429824",
+      "quoted_status": {
+        "created_at": "Tue Dec 08 12:09:36 +0000 2015",
+        "id": 674199145444429800,
+        "id_str": "674199145444429824",
+        "text": "@rubyunderhood I used Turbolinks in one my job project, but after one bug which I debug around 4 hours I remove this gem :(",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 674196385273659400,
+        "in_reply_to_status_id_str": "674196385273659392",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 539221178,
+          "id_str": "539221178"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby developer",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/FBe0jYAph3",
+            "expanded_url": "http://twitter.com/anton_davydov/status/674199145444429824",
+            "display_url": "twitter.com/anton_davydov/…",
+            "indices": [
+              65,
+              88
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
       "created_at": "Tue Dec 08 12:01:24 +0000 2015",
       "id": 674197080148152300,
       "id_str": "674197080148152320",
