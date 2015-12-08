@@ -5,6 +5,572 @@
   "post": false,
   "tweets": [
     {
+      "created_at": "Tue Dec 08 12:01:24 +0000 2015",
+      "id": 674197080148152300,
+      "id_str": "674197080148152320",
+      "text": "In other words we’re not making an ambitious web application as Ember puts it 😁",
+      "source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 674196704766386200,
+      "in_reply_to_status_id_str": "674196704766386176",
+      "in_reply_to_user_id": 3341793591,
+      "in_reply_to_user_id_str": "3341793591",
+      "in_reply_to_screen_name": "rubyunderhood",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Dec 08 11:59:55 +0000 2015",
+      "id": 674196704766386200,
+      "id_str": "674196704766386176",
+      "text": ".@Firmafon is a carrier, so just having software that is intuitive and works is a blessing for people.",
+      "source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 674196385273659400,
+      "in_reply_to_status_id_str": "674196385273659392",
+      "in_reply_to_user_id": 3341793591,
+      "in_reply_to_user_id_str": "3341793591",
+      "in_reply_to_screen_name": "rubyunderhood",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Firmafon",
+            "name": "Firmafon",
+            "id": 54284740,
+            "id_str": "54284740",
+            "indices": [
+              1,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Dec 08 11:58:38 +0000 2015",
+      "id": 674196385273659400,
+      "id_str": "674196385273659392",
+      "text": "Has anybody tried Turbolinks in their apps? We have an Angular setup, but would like to switch to less academic JS.",
+      "source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Dec 08 11:55:53 +0000 2015",
+      "id": 674195693381288000,
+      "id_str": "674195693381287938",
+      "text": "I was pretty staunch about not taking a formal CS degree. Already great at “school”, I wanted something were I was in charge.",
+      "source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 674195051061362700,
+      "in_reply_to_status_id_str": "674195051061362688",
+      "in_reply_to_user_id": 3341793591,
+      "in_reply_to_user_id_str": "3341793591",
+      "in_reply_to_screen_name": "rubyunderhood",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Dec 08 11:53:20 +0000 2015",
+      "id": 674195051061362700,
+      "id_str": "674195051061362688",
+      "text": "Which, partly means, I suck at choosing. For better or worse, most of my life has been drifting.",
+      "source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 674194602262405100,
+      "in_reply_to_status_id_str": "674194602262405120",
+      "in_reply_to_user_id": 3341793591,
+      "in_reply_to_user_id_str": "3341793591",
+      "in_reply_to_screen_name": "rubyunderhood",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Dec 08 11:51:33 +0000 2015",
+      "id": 674194602262405100,
+      "id_str": "674194602262405120",
+      "text": "Less cheeky: have no idea. Don’t think you choose your profession as much as your profession chooses you.",
+      "source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 674194151613866000,
+      "in_reply_to_status_id_str": "674194151613865984",
+      "in_reply_to_user_id": 3341793591,
+      "in_reply_to_user_id_str": "3341793591",
+      "in_reply_to_screen_name": "rubyunderhood",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Dec 08 11:49:46 +0000 2015",
+      "id": 674194151613866000,
+      "id_str": "674194151613865984",
+      "text": "Make software development exist 🤓 https://t.co/19fe4Gu221",
+      "source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 674122321125314600,
+      "quoted_status_id_str": "674122321125314560",
+      "quoted_status": {
+        "created_at": "Tue Dec 08 07:04:20 +0000 2015",
+        "id": 674122321125314600,
+        "id_str": "674122321125314560",
+        "text": "@rubyunderhood What would you do if one day software development does not exist anymore? Which profession would you choose?",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 18577007,
+          "id_str": "18577007"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby developer",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/19fe4Gu221",
+            "expanded_url": "http://twitter.com/nick_jastix/status/674122321125314560",
+            "display_url": "twitter.com/nick_jastix/st…",
+            "indices": [
+              34,
+              57
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Dec 08 11:47:27 +0000 2015",
+      "id": 674193567842222100,
+      "id_str": "674193567842222080",
+      "text": "@vassilevsky @pinyslutty damn straight ;)",
+      "source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 673960546983628800,
+      "in_reply_to_status_id_str": "673960546983628800",
+      "in_reply_to_user_id": 53391978,
+      "in_reply_to_user_id_str": "53391978",
+      "in_reply_to_screen_name": "vassilevsky",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "vassilevsky",
+            "name": "White Russian",
+            "id": 53391978,
+            "id_str": "53391978",
+            "indices": [
+              0,
+              12
+            ]
+          },
+          {
+            "screen_name": "pinyslutty",
+            "name": "Порнозвезда Твиттера",
+            "id": 159136782,
+            "id_str": "159136782",
+            "indices": [
+              13,
+              24
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Dec 07 18:12:33 +0000 2015",
+      "id": 673928094152044500,
+      "id_str": "673928094152044544",
+      "text": "Great! More Rails for the rest of us 😎\n\nhttps://t.co/lSdoD5gBXC",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 673927563408969700,
+      "quoted_status_id_str": "673927563408969728",
+      "quoted_status": {
+        "created_at": "Mon Dec 07 18:10:26 +0000 2015",
+        "id": 673927563408969700,
+        "id_str": "673927563408969728",
+        "text": "@rubyunderhood soon it will make more sense to just use Phoenix instead of Rails ;)",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 673927032712077300,
+        "in_reply_to_status_id_str": "673927032712077313",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 18577007,
+          "id_str": "18577007"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby developer",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/lSdoD5gBXC",
+            "expanded_url": "https://twitter.com/nick_jastix/status/673927563408969728",
+            "display_url": "twitter.com/nick_jastix/st…",
+            "indices": [
+              40,
+              63
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Dec 07 18:08:20 +0000 2015",
+      "id": 673927032712077300,
+      "id_str": "673927032712077313",
+      "text": "By the way, Pheonix's model for Web Sockets were an inspiration to Action Cable ;)",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 673926708463059000,
+      "in_reply_to_status_id_str": "673926708463058944",
+      "in_reply_to_user_id": 3341793591,
+      "in_reply_to_user_id_str": "3341793591",
+      "in_reply_to_screen_name": "rubyunderhood",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Dec 07 18:07:02 +0000 2015",
+      "id": 673926708463059000,
+      "id_str": "673926708463058944",
+      "text": "Just trying to get better at Ruby mostly. I hear good things about it though :)\n\nhttps://t.co/BzpGdQADWJ",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 673919338357899300,
+      "quoted_status_id_str": "673919338357899264",
+      "quoted_status": {
+        "created_at": "Mon Dec 07 17:37:45 +0000 2015",
+        "id": 673919338357899300,
+        "id_str": "673919338357899264",
+        "text": "@rubyunderhood What you think about elixir and phoenixframework?",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 4136207541,
+          "id_str": "4136207541"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby developer",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/BzpGdQADWJ",
+            "expanded_url": "https://twitter.com/thetaktes/status/673919338357899264",
+            "display_url": "twitter.com/thetaktes/stat…",
+            "indices": [
+              81,
+              104
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
       "created_at": "Mon Dec 07 17:33:28 +0000 2015",
       "id": 673918257745821700,
       "id_str": "673918257745821698",
@@ -238,7 +804,7 @@
       },
       "is_quote_status": true,
       "retweet_count": 0,
-      "favorite_count": 1,
+      "favorite_count": 2,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -328,7 +894,7 @@
       },
       "is_quote_status": true,
       "retweet_count": 1,
-      "favorite_count": 0,
+      "favorite_count": 1,
       "entities": {
         "hashtags": [],
         "symbols": [],
