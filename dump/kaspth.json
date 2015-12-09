@@ -5,6 +5,1369 @@
   "post": false,
   "tweets": [
     {
+      "created_at": "Wed Dec 09 20:44:51 +0000 2015",
+      "id": 674691197391228900,
+      "id_str": "674691197391228929",
+      "text": "They’d save time if they did, I think 😁 https://t.co/gOTUBC4FLY",
+      "source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 674689004261023700,
+      "quoted_status_id_str": "674689004261023746",
+      "quoted_status": {
+        "created_at": "Wed Dec 09 20:36:08 +0000 2015",
+        "id": 674689004261023700,
+        "id_str": "674689004261023746",
+        "text": "@rubyunderhood because few people have read the docs :)",
+        "source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix for Android</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 674685546724204500,
+        "in_reply_to_status_id_str": "674685546724204544",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 245281863,
+          "id_str": "245281863"
+        },
+        "geo": {
+          "type": "Point",
+          "coordinates": [
+            54.7903383,
+            32.0395163
+          ]
+        },
+        "coordinates": {
+          "type": "Point",
+          "coordinates": [
+            32.0395163,
+            54.7903383
+          ]
+        },
+        "place": {
+          "id": "7c811f547d7dde0f",
+          "url": "https://api.twitter.com/1.1/geo/id/7c811f547d7dde0f.json",
+          "place_type": "city",
+          "name": "Смоленск",
+          "full_name": "Смоленск, Смоленская область",
+          "country_code": "RU",
+          "country": "Rossiya",
+          "contained_within": [],
+          "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  31.787372,
+                  54.7131373
+                ],
+                [
+                  32.209311,
+                  54.7131373
+                ],
+                [
+                  32.209311,
+                  54.8508753
+                ],
+                [
+                  31.787372,
+                  54.8508753
+                ]
+              ]
+            ]
+          },
+          "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby developer",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/gOTUBC4FLY",
+            "expanded_url": "http://twitter.com/fat0troll/status/674689004261023746",
+            "display_url": "twitter.com/fat0troll/stat…",
+            "indices": [
+              40,
+              63
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Dec 09 20:42:23 +0000 2015",
+      "id": 674690579025027100,
+      "id_str": "674690579025027072",
+      "text": "Thanks! I’ll look into it :) https://t.co/TMNKJ2xL2n",
+      "source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 674612559622705200,
+      "quoted_status_id_str": "674612559622705152",
+      "quoted_status": {
+        "created_at": "Wed Dec 09 15:32:22 +0000 2015",
+        "id": 674612559622705200,
+        "id_str": "674612559622705152",
+        "text": ".@rubyunderhood Take a look at Pjax. Here @StarrHorne talks about their experience and why they picked Pjax over TL https://t.co/3vajNvJHkA",
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 674196385273659400,
+        "in_reply_to_status_id_str": "674196385273659392",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 20910792,
+          "id_str": "20910792"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 1,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby developer",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                1,
+                15
+              ]
+            },
+            {
+              "screen_name": "StarrHorne",
+              "name": "Starr Horne",
+              "id": 14744286,
+              "id_str": "14744286",
+              "indices": [
+                42,
+                53
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/3vajNvJHkA",
+              "expanded_url": "http://confreaks.tv/videos/madisonruby2015-why-we-ditched-our-single-page-application",
+              "display_url": "confreaks.tv/videos/madison…",
+              "indices": [
+                116,
+                139
+              ]
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/TMNKJ2xL2n",
+            "expanded_url": "http://twitter.com/listochkin/status/674612559622705152",
+            "display_url": "twitter.com/listochkin/sta…",
+            "indices": [
+              29,
+              52
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Dec 09 20:41:16 +0000 2015",
+      "id": 674690294546321400,
+      "id_str": "674690294546321408",
+      "text": "Do use Vim for commit messages, so I get trained slowly.",
+      "source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 674690068154622000,
+      "in_reply_to_status_id_str": "674690068154621952",
+      "in_reply_to_user_id": 3341793591,
+      "in_reply_to_user_id_str": "3341793591",
+      "in_reply_to_screen_name": "rubyunderhood",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Dec 09 20:40:22 +0000 2015",
+      "id": 674690068154622000,
+      "id_str": "674690068154621952",
+      "text": "I’m even more esoteric than DHH here. I use Chocolat, which does the job and looks like a Mac app. https://t.co/O0PpM5tfjO",
+      "source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 674471306344202200,
+      "quoted_status_id_str": "674471306344202240",
+      "quoted_status": {
+        "created_at": "Wed Dec 09 06:11:05 +0000 2015",
+        "id": 674471306344202200,
+        "id_str": "674471306344202240",
+        "text": "@rubyunderhood What is your code editor of choice? Vim, right? ;)",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 18577007,
+          "id_str": "18577007"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby developer",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/O0PpM5tfjO",
+            "expanded_url": "http://twitter.com/nick_jastix/status/674471306344202240",
+            "display_url": "twitter.com/nick_jastix/st…",
+            "indices": [
+              99,
+              122
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Dec 09 20:38:19 +0000 2015",
+      "id": 674689554222305300,
+      "id_str": "674689554222305280",
+      "text": "Good point. It’s not a direct apples to apples comparison.\n\nPublic framework usually beats homegrown. https://t.co/gEnk8UMCt3",
+      "source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 674278494717804500,
+      "quoted_status_id_str": "674278494717804544",
+      "quoted_status": {
+        "created_at": "Tue Dec 08 17:24:55 +0000 2015",
+        "id": 674278494717804500,
+        "id_str": "674278494717804544",
+        "text": "@rubyunderhood to be fair, shopify removed their own thing called batman.js, maintaining it was wasting their time too.",
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 674262828484833300,
+        "in_reply_to_status_id_str": "674262828484833280",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 1104986353,
+          "id_str": "1104986353"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby developer",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/gEnk8UMCt3",
+            "expanded_url": "http://twitter.com/common_disease/status/674278494717804544",
+            "display_url": "twitter.com/common_disease…",
+            "indices": [
+              102,
+              125
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Dec 09 20:36:53 +0000 2015",
+      "id": 674689193340231700,
+      "id_str": "674689193340231681",
+      "text": "I was drifting toward university too because I’d taken dogma as fact: “you got good grades, you *ought* to go to university”. Bah, humbug!",
+      "source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 674688756667064300,
+      "in_reply_to_status_id_str": "674688756667064321",
+      "in_reply_to_user_id": 3341793591,
+      "in_reply_to_user_id_str": "3341793591",
+      "in_reply_to_screen_name": "rubyunderhood",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Dec 09 20:35:09 +0000 2015",
+      "id": 674688756667064300,
+      "id_str": "674688756667064321",
+      "text": "My pedigree is no degree 😁\n\nHow much of school is self funded in Russia? In Denmark the government pays all. https://t.co/qCb7mvGZuh",
+      "source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 674276325125943300,
+      "quoted_status_id_str": "674276325125943296",
+      "quoted_status": {
+        "created_at": "Tue Dec 08 17:16:18 +0000 2015",
+        "id": 674276325125943300,
+        "id_str": "674276325125943296",
+        "text": "@rubyunderhood so you don't have a degree? in russia many people are drifting to university after school just because their mothers want it.",
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 674195693381288000,
+        "in_reply_to_status_id_str": "674195693381287938",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 1104986353,
+          "id_str": "1104986353"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby developer",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/qCb7mvGZuh",
+            "expanded_url": "http://twitter.com/common_disease/status/674276325125943296",
+            "display_url": "twitter.com/common_disease…",
+            "indices": [
+              109,
+              132
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Dec 09 20:32:01 +0000 2015",
+      "id": 674687968100110300,
+      "id_str": "674687968100110337",
+      "text": "method_source is also cool (which pry uses I believe). Have never been a big pry guy. What do you like about it? :) https://t.co/mIHAbSaQD2",
+      "source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 674270826477260800,
+      "quoted_status_id_str": "674270826477260800",
+      "quoted_status": {
+        "created_at": "Tue Dec 08 16:54:27 +0000 2015",
+        "id": 674270826477260800,
+        "id_str": "674270826477260800",
+        "text": "@rubyunderhood for example I always add pry and awesome_print to new Gemfile:)",
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 674270549737136100,
+        "in_reply_to_status_id_str": "674270549737136128",
+        "in_reply_to_user_id": 92529952,
+        "in_reply_to_user_id_str": "92529952",
+        "in_reply_to_screen_name": "rainrb",
+        "user": {
+          "id": 92529952,
+          "id_str": "92529952"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby developer",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/mIHAbSaQD2",
+            "expanded_url": "http://twitter.com/rainrb/status/674270826477260800",
+            "display_url": "twitter.com/rainrb/status/…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Dec 09 20:29:23 +0000 2015",
+      "id": 674687305894993900,
+      "id_str": "674687305894993921",
+      "text": "Personally I can only stand a 24 hour dose in a day #pun",
+      "source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 674687164815380500,
+      "in_reply_to_status_id_str": "674687164815380480",
+      "in_reply_to_user_id": 3341793591,
+      "in_reply_to_user_id_str": "3341793591",
+      "in_reply_to_screen_name": "rubyunderhood",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "pun",
+            "indices": [
+              52,
+              56
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Dec 09 20:28:49 +0000 2015",
+      "id": 674687164815380500,
+      "id_str": "674687164815380480",
+      "text": "Depends on how you like your Monday’s, I guess.",
+      "source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 674686907926868000,
+      "in_reply_to_status_id_str": "674686907926867968",
+      "in_reply_to_user_id": 3341793591,
+      "in_reply_to_user_id_str": "3341793591",
+      "in_reply_to_screen_name": "rubyunderhood",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Dec 09 20:27:48 +0000 2015",
+      "id": 674686907926868000,
+      "id_str": "674686907926867968",
+      "text": "We just switched to Rails 4.2 Monday, and nearly got caught in a virtuous cycle of dependency upgrade forcing another upgrade :/",
+      "source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 674686494427234300,
+      "in_reply_to_status_id_str": "674686494427234305",
+      "in_reply_to_user_id": 3341793591,
+      "in_reply_to_user_id_str": "3341793591",
+      "in_reply_to_screen_name": "rubyunderhood",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Dec 09 20:26:09 +0000 2015",
+      "id": 674686494427234300,
+      "id_str": "674686494427234305",
+      "text": "Otherwise being the designated Rails upgrader at our company, I’d say the fewer dependencies the better.",
+      "source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 674686279557206000,
+      "in_reply_to_status_id_str": "674686279557206016",
+      "in_reply_to_user_id": 3341793591,
+      "in_reply_to_user_id_str": "3341793591",
+      "in_reply_to_screen_name": "rubyunderhood",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Dec 09 20:25:18 +0000 2015",
+      "id": 674686279557206000,
+      "id_str": "674686279557206016",
+      "text": "minitest-focus is pretty neat. I usually go for byebug if I need a debugger. https://t.co/gJVm24l4q2",
+      "source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 674270549737136100,
+      "quoted_status_id_str": "674270549737136128",
+      "quoted_status": {
+        "created_at": "Tue Dec 08 16:53:21 +0000 2015",
+        "id": 674270549737136100,
+        "id_str": "674270549737136128",
+        "text": "@rubyunderhood Which gems are most useful for new application on rails from your point of view?) Can you recommend something “must have”?)",
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 92529952,
+          "id_str": "92529952"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby developer",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "is_quote_status": true,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/gJVm24l4q2",
+            "expanded_url": "http://twitter.com/rainrb/status/674270549737136128",
+            "display_url": "twitter.com/rainrb/status/…",
+            "indices": [
+              77,
+              100
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Dec 09 20:23:59 +0000 2015",
+      "id": 674685947125084200,
+      "id_str": "674685947125084160",
+      "text": "@rainrb @common_disease lol 😎",
+      "source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 674268818202599400,
+      "in_reply_to_status_id_str": "674268818202599424",
+      "in_reply_to_user_id": 92529952,
+      "in_reply_to_user_id_str": "92529952",
+      "in_reply_to_screen_name": "rainrb",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "rainrb",
+            "name": "rainrb",
+            "id": 92529952,
+            "id_str": "92529952",
+            "indices": [
+              0,
+              7
+            ]
+          },
+          {
+            "screen_name": "common_disease",
+            "name": "киберпанк и паранойя",
+            "id": 1104986353,
+            "id_str": "1104986353",
+            "indices": [
+              8,
+              23
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Wed Dec 09 20:23:34 +0000 2015",
+      "id": 674685842053558300,
+      "id_str": "674685842053558273",
+      "text": "Yeah, from what I’ve seen it is less complex. https://t.co/zSaZUuU2TG",
+      "source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 674267778019426300,
+      "quoted_status_id_str": "674267778019426304",
+      "quoted_status": {
+        "created_at": "Tue Dec 08 16:42:20 +0000 2015",
+        "id": 674267778019426300,
+        "id_str": "674267778019426304",
+        "text": "@common_disease @rubyunderhood I think that backbone is less academic))",
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 674267280176496600,
+        "in_reply_to_status_id_str": "674267280176496641",
+        "in_reply_to_user_id": 1104986353,
+        "in_reply_to_user_id_str": "1104986353",
+        "in_reply_to_screen_name": "common_disease",
+        "user": {
+          "id": 92529952,
+          "id_str": "92529952"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "common_disease",
+              "name": "киберпанк и паранойя",
+              "id": 1104986353,
+              "id_str": "1104986353",
+              "indices": [
+                0,
+                15
+              ]
+            },
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby developer",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                16,
+                30
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/zSaZUuU2TG",
+            "expanded_url": "http://twitter.com/rainrb/status/674267778019426304",
+            "display_url": "twitter.com/rainrb/status/…",
+            "indices": [
+              46,
+              69
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Dec 09 20:22:24 +0000 2015",
+      "id": 674685546724204500,
+      "id_str": "674685546724204544",
+      "text": "Funny how many say they remove Turbolinks from new apps, but I haven’t seen any mention --skip-turbolinks 😁",
+      "source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Dec 09 20:21:32 +0000 2015",
+      "id": 674685331644530700,
+      "id_str": "674685331644530688",
+      "text": "RT @listochkin: .@rubyunderhood Take a look at Pjax. Here @StarrHorne talks about their experience and why they picked Pjax over TL https:/…",
+      "source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Wed Dec 09 15:32:22 +0000 2015",
+        "id": 674612559622705200,
+        "id_str": "674612559622705152",
+        "text": ".@rubyunderhood Take a look at Pjax. Here @StarrHorne talks about their experience and why they picked Pjax over TL https://t.co/3vajNvJHkA",
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 674196385273659400,
+        "in_reply_to_status_id_str": "674196385273659392",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 20910792,
+          "id_str": "20910792"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 1,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby developer",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                1,
+                15
+              ]
+            },
+            {
+              "screen_name": "StarrHorne",
+              "name": "Starr Horne",
+              "id": 14744286,
+              "id_str": "14744286",
+              "indices": [
+                42,
+                53
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/3vajNvJHkA",
+              "expanded_url": "http://confreaks.tv/videos/madisonruby2015-why-we-ditched-our-single-page-application",
+              "display_url": "confreaks.tv/videos/madison…",
+              "indices": [
+                116,
+                139
+              ]
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "listochkin",
+            "name": "Андрей Листочкин",
+            "id": 20910792,
+            "id_str": "20910792",
+            "indices": [
+              3,
+              14
+            ]
+          },
+          {
+            "screen_name": "rubyunderhood",
+            "name": "Ruby developer",
+            "id": 3341793591,
+            "id_str": "3341793591",
+            "indices": [
+              17,
+              31
+            ]
+          },
+          {
+            "screen_name": "StarrHorne",
+            "name": "Starr Horne",
+            "id": 14744286,
+            "id_str": "14744286",
+            "indices": [
+              58,
+              69
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/3vajNvJHkA",
+            "expanded_url": "http://confreaks.tv/videos/madisonruby2015-why-we-ditched-our-single-page-application",
+            "display_url": "confreaks.tv/videos/madison…",
+            "indices": [
+              139,
+              140
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Dec 09 20:21:05 +0000 2015",
+      "id": 674685219203625000,
+      "id_str": "674685219203624960",
+      "text": "Yes, “fun”! You get way more cred for using one of those frameworks. Turbolinks is boring. https://t.co/LgRtDhUZLv",
+      "source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 674268223144087600,
+      "quoted_status_id_str": "674268223144087552",
+      "quoted_status": {
+        "created_at": "Tue Dec 08 16:44:06 +0000 2015",
+        "id": 674268223144087600,
+        "id_str": "674268223144087552",
+        "text": "@rubyunderhood and you know these js people would prefer ember/angular/react because they're more fun and well documented.",
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 674267753482756100,
+        "in_reply_to_status_id_str": "674267753482756096",
+        "in_reply_to_user_id": 1104986353,
+        "in_reply_to_user_id_str": "1104986353",
+        "in_reply_to_screen_name": "common_disease",
+        "user": {
+          "id": 1104986353,
+          "id_str": "1104986353"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby developer",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/LgRtDhUZLv",
+            "expanded_url": "http://twitter.com/common_disease/status/674268223144087552",
+            "display_url": "twitter.com/common_disease…",
+            "indices": [
+              91,
+              114
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Dec 09 20:19:15 +0000 2015",
+      "id": 674684757381357600,
+      "id_str": "674684757381357569",
+      "text": "@common_disease ha, probably! :)\nStill one guy sounds better than 4 or more.",
+      "source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 674267753482756100,
+      "in_reply_to_status_id_str": "674267753482756096",
+      "in_reply_to_user_id": 1104986353,
+      "in_reply_to_user_id_str": "1104986353",
+      "in_reply_to_screen_name": "common_disease",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "common_disease",
+            "name": "киберпанк и паранойя",
+            "id": 1104986353,
+            "id_str": "1104986353",
+            "indices": [
+              0,
+              15
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
       "created_at": "Tue Dec 08 16:25:24 +0000 2015",
       "id": 674263516535242800,
       "id_str": "674263516535242752",
@@ -307,7 +1670,7 @@
       },
       "is_quote_status": true,
       "retweet_count": 0,
-      "favorite_count": 2,
+      "favorite_count": 3,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -448,7 +1811,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 0,
-      "favorite_count": 0,
+      "favorite_count": 1,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -1270,7 +2633,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 0,
-      "favorite_count": 0,
+      "favorite_count": 1,
       "entities": {
         "hashtags": [],
         "symbols": [],
