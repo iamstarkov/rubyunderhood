@@ -35,13 +35,13 @@
   "time_zone": "Pacific Time (US & Canada)",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 7691,
+  "statuses_count": 7693,
   "lang": "en",
   "status": {
-    "created_at": "Sat Dec 12 20:39:25 +0000 2015",
-    "id": 675776996559966200,
-    "id_str": "675776996559966208",
-    "text": "I think so. We need a higher median. https://t.co/pKbXIuRfP4",
+    "created_at": "Sun Dec 13 21:05:47 +0000 2015",
+    "id": 676146019860619300,
+    "id_str": "676146019860619265",
+    "text": "Alright, folks! This has been a blast. Thanks for the good questions.\n\n@kaspth, signing off. Na Zdorovie!",
     "source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
     "truncated": false,
     "in_reply_to_status_id": null,
@@ -54,26 +54,26 @@
     "place": null,
     "contributors": null,
     "retweet_count": 0,
-    "favorite_count": 1,
+    "favorite_count": 0,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/pKbXIuRfP4",
-          "expanded_url": "http://twitter.com/common_disease/status/675338658828914688",
-          "display_url": "twitter.com/common_disease…",
+          "screen_name": "kaspth",
+          "name": "Kasper Timm Hansen",
+          "id": 38452139,
+          "id_str": "38452139",
           "indices": [
-            37,
-            60
+            71,
+            78
           ]
         }
-      ]
+      ],
+      "urls": []
     },
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "en"
   },
   "contributors_enabled": false,
