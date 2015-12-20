@@ -41,19 +41,19 @@
   "friends_count": 37,
   "listed_count": 41,
   "created_at": "Mon Jun 22 18:43:03 +0000 2015",
-  "favourites_count": 154,
+  "favourites_count": 153,
   "utc_offset": -28800,
   "time_zone": "Pacific Time (US & Canada)",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 7773,
+  "statuses_count": 7763,
   "lang": "en",
   "status": {
-    "created_at": "Fri Dec 18 16:55:31 +0000 2015",
-    "id": 677894976743804900,
-    "id_str": "677894976743804928",
-    "text": "Нет, настройки проекта лучше  в переменных окружения все хранить https://t.co/59qq21cAYc",
-    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "created_at": "Sun Dec 20 21:26:34 +0000 2015",
+    "id": 678687961865695200,
+    "id_str": "678687961865695233",
+    "text": "Настало время прощаться. Всем спасибо, на этой неделе с вами был  @KELiON, подписывайтесь! :)",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "truncated": false,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
@@ -65,26 +65,26 @@
     "place": null,
     "contributors": null,
     "retweet_count": 0,
-    "favorite_count": 0,
+    "favorite_count": 1,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/59qq21cAYc",
-          "expanded_url": "https://twitter.com/mgrachev/status/677892836625395712",
-          "display_url": "twitter.com/mgrachev/statu…",
+          "screen_name": "KELiON",
+          "name": "Alexandr Subbotin",
+          "id": 19027556,
+          "id_str": "19027556",
           "indices": [
-            65,
-            88
+            66,
+            73
           ]
         }
-      ]
+      ],
+      "urls": []
     },
-    "favorited": false,
+    "favorited": true,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
