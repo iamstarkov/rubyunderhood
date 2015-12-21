@@ -26,43 +26,94 @@
     }
   },
   "protected": false,
-  "followers_count": 780,
+  "followers_count": 784,
   "friends_count": 37,
   "listed_count": 42,
   "created_at": "Mon Jun 22 18:43:03 +0000 2015",
-  "favourites_count": 153,
+  "favourites_count": 154,
   "utc_offset": -28800,
   "time_zone": "Pacific Time (US & Canada)",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 7820,
+  "statuses_count": 7856,
   "lang": "en",
   "status": {
-    "created_at": "Mon Dec 21 08:31:18 +0000 2015",
-    "id": 678855249906520000,
-    "id_str": "678855249906520064",
-    "text": "Сейчас кажется, что могу писать на любом языке или технологии, если надо будет можно выучить, нет ничего невозможного, лишь бы время было.",
+    "created_at": "Mon Dec 21 17:16:49 +0000 2015",
+    "id": 678987501466468400,
+    "id_str": "678987501466468354",
+    "text": "хочется чтобы Volt взлетел https://t.co/oPG4UP8UO1 там клиентская часть на Opal'е https://t.co/JqJfmcMCE5 @pinyslutty @neyronius @tanraya",
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "truncated": false,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 678986287320272900,
+    "in_reply_to_status_id_str": "678986287320272896",
+    "in_reply_to_user_id": 159136782,
+    "in_reply_to_user_id_str": "159136782",
+    "in_reply_to_screen_name": "pinyslutty",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "retweet_count": 0,
-    "favorite_count": 0,
+    "favorite_count": 1,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": []
+      "user_mentions": [
+        {
+          "screen_name": "pinyslutty",
+          "name": "Порнозвезда Твиттера",
+          "id": 159136782,
+          "id_str": "159136782",
+          "indices": [
+            106,
+            117
+          ]
+        },
+        {
+          "screen_name": "neyronius",
+          "name": "Vladislav Samokhin",
+          "id": 17926198,
+          "id_str": "17926198",
+          "indices": [
+            118,
+            128
+          ]
+        },
+        {
+          "screen_name": "tanraya",
+          "name": "Велосипеды и Люди",
+          "id": 105853027,
+          "id_str": "105853027",
+          "indices": [
+            129,
+            137
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/oPG4UP8UO1",
+          "expanded_url": "http://voltframework.com/",
+          "display_url": "voltframework.com",
+          "indices": [
+            27,
+            50
+          ]
+        },
+        {
+          "url": "https://t.co/JqJfmcMCE5",
+          "expanded_url": "http://opalrb.org/",
+          "display_url": "opalrb.org",
+          "indices": [
+            82,
+            105
+          ]
+        }
+      ]
     },
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
