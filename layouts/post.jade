@@ -1,0 +1,36 @@
+div(class= 'row')
+  div(class= 'col-md-11 col-md-offset-1')
+    h1= author.username
+
+    p
+      i= d(author.tweets[author.tweets.length - 1].created_at)
+
+each weekday in tweetsByWeekday
+  div(class= 'row')
+    div(class= 'col-md-11 col-md-offset-1')
+      h2
+        =capitalize(weekday.weekday)
+        =' '
+        small=tweetsUnit(weekday.tweets.length)
+      br
+      br
+  each tweet in weekday.tweets
+    div(class='row')
+      div(class='col-md-1')
+        a(class= 'text-muted', href= 'https://twitter.com/rubyunderhood/status/#{tweet.id_str}')= t(tweet.created_at)
+      div(class='col-md-11')
+        if tweet.in_reply_to_status && tweet.in_reply_to_screen_name !== 'rubyunderhood'
+          p
+            small(class= 'text-muted')
+              | RE: @#{tweet.in_reply_to_screen_name}: !{bake(tweet.in_reply_to_status)}
+              =' '
+              a(href= 'https://twitter.com/#{tweet.in_reply_to_screen_name}/status/#{tweet.in_reply_to_status_id_str}') #
+
+        p(class= (tweet.favorite_count + tweet.retweet_count > importantTreshold) ? 'lead' : '') !{bake(tweet)}
+        if tweet.entities.media
+          p
+            a(href= tweet.entities.media[0].media_url)
+              img(src= tweet.entities.media[0].media_url + ':small')
+        br
+
+  br
