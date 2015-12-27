@@ -1,6 +1,6 @@
 export default [
   // post: false
-  { username: 'mpak999',        start: '21 dec 2015', first: '678792199212048384', post: false },
+  { username: 'mpak999',        start: '21 dec 2015', first: '678792199212048384' },
   { username: 'KELiON',         start: '14 dec 2015', first: '676320380273954816' },
   { username: 'kaspth',         start: '07 dec 2015', first: '673788711340023809' },
   { username: 'fat0troll',      start: '30 nov 2015', first: '671073239632912384' },
