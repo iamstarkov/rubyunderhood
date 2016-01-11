@@ -1,5 +1,6 @@
 export default [
   // post: false
+  { username: 'killthekitten',  start: '11 jan 2016', first: '686414428183621633' },
   { username: 'mpak999',        start: '21 dec 2015', first: '678792199212048384' },
   { username: 'KELiON',         start: '14 dec 2015', first: '676320380273954816' },
   { username: 'kaspth',         start: '07 dec 2015', first: '673788711340023809' },
