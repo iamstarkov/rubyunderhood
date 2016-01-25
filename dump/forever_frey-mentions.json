@@ -1,3 +1,247 @@
 {
-  "mentions": []
+  "mentions": [
+    {
+      "created_at": "Mon Jan 25 20:29:29 +0000 2016",
+      "id": 691719561947803600,
+      "id_str": "691719561947803648",
+      "text": "@anton_davydov если бы вы задавали чуть конкретнее а так Strategic для разделения домена и властвования, потом уже Tactical тупо для кодинга",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 691718455893082100,
+      "in_reply_to_status_id_str": "691718455893082113",
+      "in_reply_to_user_id": 539221178,
+      "in_reply_to_user_id_str": "539221178",
+      "in_reply_to_screen_name": "anton_davydov",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "anton_davydov",
+            "name": "Davy Dovanton",
+            "id": 539221178,
+            "id_str": "539221178",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 25 20:38:34 +0000 2016",
+      "id": 691721846857793500,
+      "id_str": "691721846857793540",
+      "text": "@anton_davydov читал в таком порядке:\nhttps://t.co/VlXf6bcvsG\nhttps://t.co/NBHFPlqeua\nhttps://t.co/yOZaEDrJhb\nhttps://t.co/M3n8BTSJV6",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 691719896418377700,
+      "in_reply_to_status_id_str": "691719896418377728",
+      "in_reply_to_user_id": 539221178,
+      "in_reply_to_user_id_str": "539221178",
+      "in_reply_to_screen_name": "anton_davydov",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 2,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "anton_davydov",
+            "name": "Davy Dovanton",
+            "id": 539221178,
+            "id_str": "539221178",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/VlXf6bcvsG",
+            "expanded_url": "http://www.infoq.com/minibooks/domain-driven-design-quickly",
+            "display_url": "infoq.com/minibooks/doma…",
+            "indices": [
+              38,
+              61
+            ]
+          },
+          {
+            "url": "https://t.co/NBHFPlqeua",
+            "expanded_url": "http://www.amazon.com/Applying-Domain-Driven-Design-Patterns-Examples/dp/0321268202",
+            "display_url": "amazon.com/Applying-Domai…",
+            "indices": [
+              62,
+              85
+            ]
+          },
+          {
+            "url": "https://t.co/yOZaEDrJhb",
+            "expanded_url": "http://www.amazon.com/NET-Domain-Driven-Design-Problem-Solution/dp/0470147563",
+            "display_url": "amazon.com/NET-Domain-Dri…",
+            "indices": [
+              86,
+              109
+            ]
+          },
+          {
+            "url": "https://t.co/M3n8BTSJV6",
+            "expanded_url": "http://www.amazon.com/Implementing-Domain-Driven-Design-Vaughn-Vernon/dp/0321834577",
+            "display_url": "amazon.com/Implementing-D…",
+            "indices": [
+              110,
+              133
+            ]
+          }
+        ]
+      },
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 25 20:39:08 +0000 2016",
+      "id": 691721989426430000,
+      "id_str": "691721989426429952",
+      "text": "@anton_davydov помимо конечно Эванса и всяких блогов, но зачастую в блогах капитанят жестко вида \"валидация email это не domain спека и т п\"",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 691721846857793500,
+      "in_reply_to_status_id_str": "691721846857793540",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "anton_davydov",
+            "name": "Davy Dovanton",
+            "id": 539221178,
+            "id_str": "539221178",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": true,
+      "retweeted": true,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 25 20:44:56 +0000 2016",
+      "id": 691723450801614800,
+      "id_str": "691723450801614850",
+      "text": "@anton_davydov туда же всякие ссылки на сорсы и прочее вида \nhttps://t.co/sFWD604EeO\nhttps://t.co/UPolPbvIDr\nhttps://t.co/qwkfghML79",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 691722115041660900,
+      "in_reply_to_status_id_str": "691722115041660929",
+      "in_reply_to_user_id": 539221178,
+      "in_reply_to_user_id_str": "539221178",
+      "in_reply_to_screen_name": "anton_davydov",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "anton_davydov",
+            "name": "Davy Dovanton",
+            "id": 539221178,
+            "id_str": "539221178",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/sFWD604EeO",
+            "expanded_url": "https://dddsamplenet.codeplex.com/SourceControl/latest",
+            "display_url": "dddsamplenet.codeplex.com/SourceControl/…",
+            "indices": [
+              61,
+              84
+            ]
+          },
+          {
+            "url": "https://t.co/UPolPbvIDr",
+            "expanded_url": "https://github.com/PhpFriendsOfDdd/state-of-the-union",
+            "display_url": "github.com/PhpFriendsOfDd…",
+            "indices": [
+              85,
+              108
+            ]
+          },
+          {
+            "url": "https://t.co/qwkfghML79",
+            "expanded_url": "https://github.com/VaughnVernon/IDDD_Samples",
+            "display_url": "github.com/VaughnVernon/I…",
+            "indices": [
+              109,
+              132
+            ]
+          }
+        ]
+      },
+      "favorited": true,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    }
+  ]
 }
