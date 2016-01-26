@@ -26,22 +26,22 @@
     }
   },
   "protected": false,
-  "followers_count": 852,
+  "followers_count": 857,
   "friends_count": 44,
-  "listed_count": 48,
+  "listed_count": 49,
   "created_at": "Mon Jun 22 18:43:03 +0000 2015",
   "favourites_count": 207,
   "utc_offset": -28800,
   "time_zone": "Pacific Time (US & Canada)",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 9250,
+  "statuses_count": 9299,
   "lang": "en",
   "status": {
-    "created_at": "Mon Jan 25 20:57:36 +0000 2016",
-    "id": 691726634827800600,
-    "id_str": "691726634827800576",
-    "text": "Ну что же, день прошел тихо и спокойно. Завтра я расскажу, как я собирал сообщество и что из этого в итоге получилось :)",
+    "created_at": "Tue Jan 26 17:17:43 +0000 2016",
+    "id": 692033690113826800,
+    "id_str": "692033690113826818",
+    "text": "RT @dzuev: @rubyunderhood @kelyar ещё же Амазон недавно начал сертификаты выдавать бесплатные своим клиентам",
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
     "truncated": false,
     "in_reply_to_status_id": null,
@@ -53,13 +53,94 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
+    "retweeted_status": {
+      "created_at": "Tue Jan 26 17:17:36 +0000 2016",
+      "id": 692033658006405100,
+      "id_str": "692033658006405120",
+      "text": "@rubyunderhood @kelyar ещё же Амазон недавно начал сертификаты выдавать бесплатные своим клиентам",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 691999755291992000,
+      "in_reply_to_status_id_str": "691999755291992064",
+      "in_reply_to_user_id": 3341793591,
+      "in_reply_to_user_id_str": "3341793591",
+      "in_reply_to_screen_name": "rubyunderhood",
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "rubyunderhood",
+            "name": "Ruby-разработчик",
+            "id": 3341793591,
+            "id_str": "3341793591",
+            "indices": [
+              0,
+              14
+            ]
+          },
+          {
+            "screen_name": "kelyar",
+            "name": "Evgeniy K",
+            "id": 733513,
+            "id_str": "733513",
+            "indices": [
+              15,
+              22
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
     "is_quote_status": false,
-    "retweet_count": 0,
+    "retweet_count": 1,
     "favorite_count": 0,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "dzuev",
+          "name": "Dmitry Zuev",
+          "id": 19009207,
+          "id_str": "19009207",
+          "indices": [
+            3,
+            9
+          ]
+        },
+        {
+          "screen_name": "rubyunderhood",
+          "name": "Ruby-разработчик",
+          "id": 3341793591,
+          "id_str": "3341793591",
+          "indices": [
+            11,
+            25
+          ]
+        },
+        {
+          "screen_name": "kelyar",
+          "name": "Evgeniy K",
+          "id": 733513,
+          "id_str": "733513",
+          "indices": [
+            26,
+            33
+          ]
+        }
+      ],
       "urls": []
     },
     "favorited": false,
