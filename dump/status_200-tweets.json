@@ -581,6 +581,796 @@
       "favorited": false,
       "retweeted": false,
       "lang": "en"
+    },
+    {
+      "created_at": "Mon Feb 01 12:10:33 +0000 2016",
+      "id": 694130715601080300,
+      "id_str": "694130715601080324",
+      "text": "Расскажу немного об архитектуре наших Ruby-приложений, таких как lenta.ru, moslenta.ru, motor.ru, https://t.co/f20pAQvHfC",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/f20pAQvHfC",
+            "expanded_url": "http://rns.online",
+            "display_url": "rns.online",
+            "indices": [
+              98,
+              121
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 01 12:12:00 +0000 2016",
+      "id": 694131081600208900,
+      "id_str": "694131081600208896",
+      "text": "Специфика многих наших приложений такова, что нагрузка на запись очень очень мала, а нагрузка на чтение наоборот, высокая",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 01 12:17:03 +0000 2016",
+      "id": 694132352038125600,
+      "id_str": "694132352038125568",
+      "text": "Поэтому было принято разделить каждый портал на два приложения: админка (CMS, внутренний инструмент) и сайт, доступный всем пользователям",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 01 12:19:42 +0000 2016",
+      "id": 694133018554953700,
+      "id_str": "694133018554953729",
+      "text": "В CMS редактора создают и обвертывают контент, загружают картинки. Все данные попадают в Postgres, откуда через Resque попадают в MongoDB...",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 01 12:22:23 +0000 2016",
+      "id": 694133692411842600,
+      "id_str": "694133692411842560",
+      "text": "Сайт читает готовые документы из слэйва Монги и отображает пользователю. На всех фронт-энд серверах крутятся 6 - 12 юникорнов + nginx...",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 01 12:24:05 +0000 2016",
+      "id": 694134122315432000,
+      "id_str": "694134122315431936",
+      "text": "Активно используем nginx ssi, чтобы кэшить куски вьюх. Вся статика отдается nginx'ом.",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 01 12:24:55 +0000 2016",
+      "id": 694134331602767900,
+      "id_str": "694134331602767872",
+      "text": "@lisovskyvlad именно так",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 694132322510213100,
+      "in_reply_to_status_id_str": "694132322510213120",
+      "in_reply_to_user_id": 87775435,
+      "in_reply_to_user_id_str": "87775435",
+      "in_reply_to_screen_name": "lisovskyvlad",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "lisovskyvlad",
+            "name": "Vladislav Lisovskii",
+            "id": 87775435,
+            "id_str": "87775435",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 01 12:26:21 +0000 2016",
+      "id": 694134690886893600,
+      "id_str": "694134690886893568",
+      "text": "Такой вот CQRS на уровне приложений. А как вы справляетесь с нагрузкой?",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 01 12:30:45 +0000 2016",
+      "id": 694135800418668500,
+      "id_str": "694135800418668545",
+      "text": "@ajieks вопрос хороший. Честно, не пробовали. Говорят что puma лучше работает с JRuby или Rubinius Поделишься опытом, бэнчмарками, граблями?",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 694134515602735100,
+      "in_reply_to_status_id_str": "694134515602735104",
+      "in_reply_to_user_id": 103034931,
+      "in_reply_to_user_id_str": "103034931",
+      "in_reply_to_screen_name": "ajieks",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ajieks",
+            "name": "Alexey Shcherbakov",
+            "id": 103034931,
+            "id_str": "103034931",
+            "indices": [
+              0,
+              7
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 01 12:36:14 +0000 2016",
+      "id": 694137176766967800,
+      "id_str": "694137176766967808",
+      "text": "@ajieks вот и Heroku рекомендует puma: https://t.co/TJAbc1S5J1",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 694136812244176900,
+      "in_reply_to_status_id_str": "694136812244176901",
+      "in_reply_to_user_id": 103034931,
+      "in_reply_to_user_id_str": "103034931",
+      "in_reply_to_screen_name": "ajieks",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ajieks",
+            "name": "Alexey Shcherbakov",
+            "id": 103034931,
+            "id_str": "103034931",
+            "indices": [
+              0,
+              7
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/TJAbc1S5J1",
+            "expanded_url": "https://devcenter.heroku.com/changelog-items/594",
+            "display_url": "devcenter.heroku.com/changelog-item…",
+            "indices": [
+              39,
+              62
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Mon Feb 01 12:47:12 +0000 2016",
+      "id": 694139937235570700,
+      "id_str": "694139937235570689",
+      "text": "@ajieks из того что видел не рекомендуют использовать unicorn по двум причинам: 1) ест много памяти (много процессов); 2) медленные запросы",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 694134515602735100,
+      "in_reply_to_status_id_str": "694134515602735104",
+      "in_reply_to_user_id": 103034931,
+      "in_reply_to_user_id_str": "103034931",
+      "in_reply_to_screen_name": "ajieks",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ajieks",
+            "name": "Alexey Shcherbakov",
+            "id": 103034931,
+            "id_str": "103034931",
+            "indices": [
+              0,
+              7
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 01 12:53:14 +0000 2016",
+      "id": 694141457825947600,
+      "id_str": "694141457825947649",
+      "text": "@ajieks память нынче не слишком дорогая, медленные запросы тоже не проблема: файлы отдаем nginx'ом, медленные запросы в базу оптимизируем",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 694139937235570700,
+      "in_reply_to_status_id_str": "694139937235570689",
+      "in_reply_to_user_id": 3341793591,
+      "in_reply_to_user_id_str": "3341793591",
+      "in_reply_to_screen_name": "rubyunderhood",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ajieks",
+            "name": "Alexey Shcherbakov",
+            "id": 103034931,
+            "id_str": "103034931",
+            "indices": [
+              0,
+              7
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 01 13:03:48 +0000 2016",
+      "id": 694144117245345800,
+      "id_str": "694144117245345792",
+      "text": "RT @ajieks: @rubyunderhood да в 80% запросов все равно все упрётся в IO, все же приятней когда при прочих равных можно эту память эффективн…",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon Feb 01 12:56:33 +0000 2016",
+        "id": 694142289564831700,
+        "id_str": "694142289564831745",
+        "text": "@rubyunderhood да в 80% запросов все равно все упрётся в IO, все же приятней когда при прочих равных можно эту память эффективней забить.",
+        "source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows Phone</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 694141457825947600,
+        "in_reply_to_status_id_str": "694141457825947649",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 103034931,
+          "id_str": "103034931"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby-разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ajieks",
+            "name": "Alexey Shcherbakov",
+            "id": 103034931,
+            "id_str": "103034931",
+            "indices": [
+              3,
+              10
+            ]
+          },
+          {
+            "screen_name": "rubyunderhood",
+            "name": "Ruby-разработчик",
+            "id": 3341793591,
+            "id_str": "3341793591",
+            "indices": [
+              12,
+              26
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 01 13:12:49 +0000 2016",
+      "id": 694146384925179900,
+      "id_str": "694146384925179905",
+      "text": "@ajieks частично, по историческим причинам, частично из-за того, что любим mongodb aggregate framework + админы знают как ее готовить",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 694145552255225900,
+      "in_reply_to_status_id_str": "694145552255225857",
+      "in_reply_to_user_id": 103034931,
+      "in_reply_to_user_id_str": "103034931",
+      "in_reply_to_screen_name": "ajieks",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ajieks",
+            "name": "Alexey Shcherbakov",
+            "id": 103034931,
+            "id_str": "103034931",
+            "indices": [
+              0,
+              7
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 01 13:16:08 +0000 2016",
+      "id": 694147221579784200,
+      "id_str": "694147221579784192",
+      "text": "@ajieks на альтернативы смотрим: Postgres JSONB, tarantool, но пока только в качестве эксперемента",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 694145552255225900,
+      "in_reply_to_status_id_str": "694145552255225857",
+      "in_reply_to_user_id": 103034931,
+      "in_reply_to_user_id_str": "103034931",
+      "in_reply_to_screen_name": "ajieks",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ajieks",
+            "name": "Alexey Shcherbakov",
+            "id": 103034931,
+            "id_str": "103034931",
+            "indices": [
+              0,
+              7
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 01 13:50:05 +0000 2016",
+      "id": 694155762499768300,
+      "id_str": "694155762499768320",
+      "text": "RT @ajieks: @rubyunderhood еще видел экзотику, когда предлагали эластик использовать для подобного.",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon Feb 01 13:19:03 +0000 2016",
+        "id": 694147953343225900,
+        "id_str": "694147953343225856",
+        "text": "@rubyunderhood еще видел экзотику, когда предлагали эластик использовать для подобного.",
+        "source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows Phone</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 694147221579784200,
+        "in_reply_to_status_id_str": "694147221579784192",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 103034931,
+          "id_str": "103034931"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby-разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ajieks",
+            "name": "Alexey Shcherbakov",
+            "id": 103034931,
+            "id_str": "103034931",
+            "indices": [
+              3,
+              10
+            ]
+          },
+          {
+            "screen_name": "rubyunderhood",
+            "name": "Ruby-разработчик",
+            "id": 3341793591,
+            "id_str": "3341793591",
+            "indices": [
+              12,
+              26
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 01 19:20:37 +0000 2016",
+      "id": 694238946289655800,
+      "id_str": "694238946289655808",
+      "text": "Ну и раз уж разговор зашел о скорости, вопрос: какие инструменты/сервисы  вы используете для мониторинга/профайлинга?",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }
