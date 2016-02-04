@@ -37,7 +37,7 @@
     }
   },
   "protected": false,
-  "followers_count": 867,
+  "followers_count": 868,
   "friends_count": 46,
   "listed_count": 49,
   "created_at": "Mon Jun 22 18:43:03 +0000 2015",
@@ -46,57 +46,46 @@
   "time_zone": "Pacific Time (US & Canada)",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 9522,
+  "statuses_count": 9526,
   "lang": "en",
   "status": {
-    "created_at": "Thu Feb 04 08:15:47 +0000 2016",
-    "id": 695158798185586700,
-    "id_str": "695158798185586689",
-    "text": "Борис Кузнецов, Evrone. Сборщик мусора под микроскопом: https://t.co/vXnSGeVgev @railsclub_ru",
+    "created_at": "Thu Feb 04 11:00:16 +0000 2016",
+    "id": 695200191432036400,
+    "id_str": "695200191432036352",
+    "text": "@ajieks мы тоже отказались в пользу Ubuntu",
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "truncated": false,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 695199271130415100,
+    "in_reply_to_status_id_str": "695199271130415104",
+    "in_reply_to_user_id": 103034931,
+    "in_reply_to_user_id_str": "103034931",
+    "in_reply_to_screen_name": "ajieks",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 3,
+    "favorite_count": 0,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "railsclub_ru",
-          "name": "Rails Club",
-          "id": 38414855,
-          "id_str": "38414855",
+          "screen_name": "ajieks",
+          "name": "Alexey Shcherbakov",
+          "id": 103034931,
+          "id_str": "103034931",
           "indices": [
-            80,
-            93
+            0,
+            7
           ]
         }
       ],
-      "urls": [
-        {
-          "url": "https://t.co/vXnSGeVgev",
-          "expanded_url": "https://youtu.be/feRtDZtty-M",
-          "display_url": "youtu.be/feRtDZtty-M",
-          "indices": [
-            56,
-            79
-          ]
-        }
-      ]
+      "urls": []
     },
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
