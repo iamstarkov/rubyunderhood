@@ -1,6 +1,6 @@
 export default [
   // post: false
-  { username: 'KernelMadness',  start: '08 feb 2016', first: '696637329222537216', post: false },
+  { username: 'KernelMadness',  start: '08 feb 2016', first: '696637329222537216' },
   { username: 'status_200',     start: '01 feb 2016', first: '694081522123554816' },
   { username: 'forever_frey',   start: '25 jan 2016', first: '691490650949292032' },
   { username: 'ksunkk',         start: '18 jan 2016', first: '688980130442653696' },
