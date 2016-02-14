@@ -1892,6 +1892,60 @@
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Sun Feb 14 21:04:34 +0000 2016",
+      "id": 698976149234389000,
+      "id_str": "698976149234388998",
+      "text": "@rubyunderhood @anton_davydov а не наоборот? 😉",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 698942176353480700,
+      "in_reply_to_status_id_str": "698942176353480704",
+      "in_reply_to_user_id": 3341793591,
+      "in_reply_to_user_id_str": "3341793591",
+      "in_reply_to_screen_name": "rubyunderhood",
+      "user": {
+        "id": 183525360,
+        "id_str": "183525360"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "rubyunderhood",
+            "name": "Ruby-разработчик",
+            "id": 3341793591,
+            "id_str": "3341793591",
+            "indices": [
+              0,
+              14
+            ]
+          },
+          {
+            "screen_name": "anton_davydov",
+            "name": "Davy Dovanton",
+            "id": 539221178,
+            "id_str": "539221178",
+            "indices": [
+              15,
+              29
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }
