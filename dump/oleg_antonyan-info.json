@@ -17,14 +17,14 @@
     "attributes": {}
   },
   "description": "На этой неделе с вами @oleg_antonyan",
-  "url": "https://t.co/0oyXOwyQhb",
+  "url": "https://t.co/BLACVbQn7C",
   "entities": {
     "url": {
       "urls": [
         {
-          "url": "https://t.co/0oyXOwyQhb",
-          "expanded_url": "https://rubyunderhood.ru",
-          "display_url": "rubyunderhood.ru",
+          "url": "https://t.co/BLACVbQn7C",
+          "expanded_url": "http://undefined-reference.org/",
+          "display_url": "undefined-reference.org",
           "indices": [
             0,
             23
@@ -37,22 +37,22 @@
     }
   },
   "protected": false,
-  "followers_count": 884,
-  "friends_count": 46,
+  "followers_count": 887,
+  "friends_count": 48,
   "listed_count": 49,
   "created_at": "Mon Jun 22 18:43:03 +0000 2015",
-  "favourites_count": 222,
+  "favourites_count": 246,
   "utc_offset": -28800,
   "time_zone": "Pacific Time (US & Canada)",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 9708,
+  "statuses_count": 9855,
   "lang": "en",
   "status": {
-    "created_at": "Mon Feb 15 13:34:28 +0000 2016",
-    "id": 699225264853745700,
-    "id_str": "699225264853745664",
-    "text": "мне его ниша не понятна. рельса крута скоростью создания mvp. но для mvp едва ли нужна 2-сторонняя связь https://t.co/svnNXm3Bbs",
+    "created_at": "Sun Feb 21 18:04:19 +0000 2016",
+    "id": 701467500006006800,
+    "id_str": "701467500006006784",
+    "text": "Заканчивается неделя. Всем спасибо за внимание и участие! С вами был стартапер и ex-железячник @oleg_antonyan из дождливого Калининграда",
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "truncated": false,
     "in_reply_to_status_id": null,
@@ -64,30 +64,28 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "quoted_status_id": 699223137800605700,
-    "quoted_status_id_str": "699223137800605696",
-    "is_quote_status": true,
-    "retweet_count": 0,
-    "favorite_count": 0,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 1,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/svnNXm3Bbs",
-          "expanded_url": "https://twitter.com/pimpmyhand/status/699223137800605696",
-          "display_url": "twitter.com/pimpmyhand/sta…",
+          "screen_name": "oleg_antonyan",
+          "name": "Oleg Antonyan",
+          "id": 1941508063,
+          "id_str": "1941508063",
           "indices": [
-            105,
-            128
+            95,
+            109
           ]
         }
-      ]
+      ],
+      "urls": []
     },
     "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
+    "retweeted": true,
     "lang": "ru"
   },
   "contributors_enabled": false,
