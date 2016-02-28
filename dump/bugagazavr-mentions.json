@@ -1,0 +1,101 @@
+{
+  "mentions": [
+    {
+      "created_at": "Sun Feb 28 21:46:02 +0000 2016",
+      "id": 704060014827327500,
+      "id_str": "704060014827327488",
+      "text": "@anton_davydov which pages specifically? Some are open source, others not. /cc @dnsimple @jodosha",
+      "truncated": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 704057385955008500,
+      "in_reply_to_status_id_str": "704057385955008512",
+      "in_reply_to_user_id": 539221178,
+      "in_reply_to_user_id_str": "539221178",
+      "in_reply_to_screen_name": "anton_davydov",
+      "user": {
+        "id": 15903882,
+        "id_str": "15903882"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "7d588036fe12e124",
+        "url": "https://api.twitter.com/1.1/geo/id/7d588036fe12e124.json",
+        "place_type": "city",
+        "name": "Roma",
+        "full_name": "Roma, Lazio",
+        "country_code": "IT",
+        "country": "Italia",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                12.2344266,
+                41.6558738
+              ],
+              [
+                12.8558641,
+                41.6558738
+              ],
+              [
+                12.8558641,
+                42.140959
+              ],
+              [
+                12.2344266,
+                42.140959
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "anton_davydov",
+            "name": "Davy Dovanton",
+            "id": 539221178,
+            "id_str": "539221178",
+            "indices": [
+              0,
+              14
+            ]
+          },
+          {
+            "screen_name": "dnsimple",
+            "name": "DNSimple",
+            "id": 148198686,
+            "id_str": "148198686",
+            "indices": [
+              79,
+              88
+            ]
+          },
+          {
+            "screen_name": "jodosha",
+            "name": "Luca Guidi",
+            "id": 724493,
+            "id_str": "724493",
+            "indices": [
+              89,
+              97
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    }
+  ]
+}
