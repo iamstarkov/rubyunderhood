@@ -96,6 +96,488 @@
       "favorited": false,
       "retweeted": false,
       "lang": "en"
+    },
+    {
+      "created_at": "Sun Feb 28 21:52:34 +0000 2016",
+      "id": 704061655873921000,
+      "id_str": "704061655873921024",
+      "text": "@anton_davydov I blame @jodosha, he knows why. FYI, that page is not open source. Just send us the preferred logo to support at dnsimple. :)",
+      "truncated": false,
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": 704060468911013900,
+      "in_reply_to_status_id_str": "704060468911013888",
+      "in_reply_to_user_id": 539221178,
+      "in_reply_to_user_id_str": "539221178",
+      "in_reply_to_screen_name": "anton_davydov",
+      "user": {
+        "id": 15903882,
+        "id_str": "15903882"
+      },
+      "geo": {
+        "type": "Point",
+        "coordinates": [
+          41.89267184,
+          12.55787697
+        ]
+      },
+      "coordinates": {
+        "type": "Point",
+        "coordinates": [
+          12.55787697,
+          41.89267184
+        ]
+      },
+      "place": {
+        "id": "7d588036fe12e124",
+        "url": "https://api.twitter.com/1.1/geo/id/7d588036fe12e124.json",
+        "place_type": "city",
+        "name": "Roma",
+        "full_name": "Roma, Lazio",
+        "country_code": "IT",
+        "country": "Italia",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                12.2344266,
+                41.6558738
+              ],
+              [
+                12.8558641,
+                41.6558738
+              ],
+              [
+                12.8558641,
+                42.140959
+              ],
+              [
+                12.2344266,
+                42.140959
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "anton_davydov",
+            "name": "Davy Dovanton",
+            "id": 539221178,
+            "id_str": "539221178",
+            "indices": [
+              0,
+              14
+            ]
+          },
+          {
+            "screen_name": "jodosha",
+            "name": "Luca Guidi",
+            "id": 724493,
+            "id_str": "724493",
+            "indices": [
+              23,
+              31
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Sun Feb 28 22:01:09 +0000 2016",
+      "id": 704063819035840500,
+      "id_str": "704063819035840514",
+      "text": "@anton_davydov no problem at all! ;) We'll update that tomorrow, thanks for the ping! /cc @jodosha",
+      "truncated": false,
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": 704063513677975600,
+      "in_reply_to_status_id_str": "704063513677975553",
+      "in_reply_to_user_id": 539221178,
+      "in_reply_to_user_id_str": "539221178",
+      "in_reply_to_screen_name": "anton_davydov",
+      "user": {
+        "id": 15903882,
+        "id_str": "15903882"
+      },
+      "geo": {
+        "type": "Point",
+        "coordinates": [
+          41.8926802,
+          12.55792307
+        ]
+      },
+      "coordinates": {
+        "type": "Point",
+        "coordinates": [
+          12.55792307,
+          41.8926802
+        ]
+      },
+      "place": {
+        "id": "7d588036fe12e124",
+        "url": "https://api.twitter.com/1.1/geo/id/7d588036fe12e124.json",
+        "place_type": "city",
+        "name": "Roma",
+        "full_name": "Roma, Lazio",
+        "country_code": "IT",
+        "country": "Italia",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                12.2344266,
+                41.6558738
+              ],
+              [
+                12.8558641,
+                41.6558738
+              ],
+              [
+                12.8558641,
+                42.140959
+              ],
+              [
+                12.2344266,
+                42.140959
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "anton_davydov",
+            "name": "Davy Dovanton",
+            "id": 539221178,
+            "id_str": "539221178",
+            "indices": [
+              0,
+              14
+            ]
+          },
+          {
+            "screen_name": "jodosha",
+            "name": "Luca Guidi",
+            "id": 724493,
+            "id_str": "724493",
+            "indices": [
+              90,
+              98
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Feb 29 09:20:36 +0000 2016",
+      "id": 704234804561231900,
+      "id_str": "704234804561231872",
+      "text": "В ближайших планах есть желание прочесть Рефакторинг от Бека. @anton_davydov уже давно мне его продает",
+      "truncated": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "anton_davydov",
+            "name": "Davy Dovanton",
+            "id": 539221178,
+            "id_str": "539221178",
+            "indices": [
+              62,
+              76
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": true,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 29 11:26:31 +0000 2016",
+      "id": 704266494104969200,
+      "id_str": "704266494104969216",
+      "text": "@anton_davydov айда",
+      "truncated": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 704265381012185100,
+      "in_reply_to_status_id_str": "704265381012185089",
+      "in_reply_to_user_id": 539221178,
+      "in_reply_to_user_id_str": "539221178",
+      "in_reply_to_screen_name": "anton_davydov",
+      "user": {
+        "id": 14787975,
+        "id_str": "14787975"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "anton_davydov",
+            "name": "Davy Dovanton",
+            "id": 539221178,
+            "id_str": "539221178",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 29 16:13:15 +0000 2016",
+      "id": 704338654886535200,
+      "id_str": "704338654886535170",
+      "text": "вот я кстати настраивать деплой и деплоить люблю, но не по пятницам @anton_davydov",
+      "truncated": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 704338387403214800,
+      "in_reply_to_status_id_str": "704338387403214848",
+      "in_reply_to_user_id": 539221178,
+      "in_reply_to_user_id_str": "539221178",
+      "in_reply_to_screen_name": "anton_davydov",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "anton_davydov",
+            "name": "Davy Dovanton",
+            "id": 539221178,
+            "id_str": "539221178",
+            "indices": [
+              68,
+              82
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 29 16:15:14 +0000 2016",
+      "id": 704339150930120700,
+      "id_str": "704339150930120706",
+      "text": "@rubyunderhood никакой романтики :( @anton_davydov",
+      "truncated": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 704338654886535200,
+      "in_reply_to_status_id_str": "704338654886535170",
+      "in_reply_to_user_id": 3341793591,
+      "in_reply_to_user_id_str": "3341793591",
+      "in_reply_to_screen_name": "rubyunderhood",
+      "user": {
+        "id": 62336528,
+        "id_str": "62336528"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "rubyunderhood",
+            "name": "Ruby-разработчик",
+            "id": 3341793591,
+            "id_str": "3341793591",
+            "indices": [
+              0,
+              14
+            ]
+          },
+          {
+            "screen_name": "anton_davydov",
+            "name": "Davy Dovanton",
+            "id": 539221178,
+            "id_str": "539221178",
+            "indices": [
+              36,
+              50
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 29 16:20:13 +0000 2016",
+      "id": 704340406813761500,
+      "id_str": "704340406813761536",
+      "text": "сидишь себе, пьешь чай, смотришь как капистрано сам деплоит на стейдж после зеленых тестов, красота же @anton_davydov",
+      "truncated": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 704339972715839500,
+      "in_reply_to_status_id_str": "704339972715839489",
+      "in_reply_to_user_id": 539221178,
+      "in_reply_to_user_id_str": "539221178",
+      "in_reply_to_screen_name": "anton_davydov",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "anton_davydov",
+            "name": "Davy Dovanton",
+            "id": 539221178,
+            "id_str": "539221178",
+            "indices": [
+              103,
+              117
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 29 16:24:28 +0000 2016",
+      "id": 704341475451117600,
+      "id_str": "704341475451117568",
+      "text": "@anton_davydov @rubyunderhood вот говорюж никакой романтики, деплой в пятницу нини, тесты пишут. Нет бы как нормальные - тяп,ляп и в прод :)",
+      "truncated": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 704340719868231700,
+      "in_reply_to_status_id_str": "704340719868231680",
+      "in_reply_to_user_id": 539221178,
+      "in_reply_to_user_id_str": "539221178",
+      "in_reply_to_screen_name": "anton_davydov",
+      "user": {
+        "id": 62336528,
+        "id_str": "62336528"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "anton_davydov",
+            "name": "Davy Dovanton",
+            "id": 539221178,
+            "id_str": "539221178",
+            "indices": [
+              0,
+              14
+            ]
+          },
+          {
+            "screen_name": "rubyunderhood",
+            "name": "Ruby-разработчик",
+            "id": 3341793591,
+            "id_str": "3341793591",
+            "indices": [
+              15,
+              29
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }
