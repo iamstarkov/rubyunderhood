@@ -632,6 +632,630 @@
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Wed Mar 02 07:56:49 +0000 2016",
+      "id": 704938497925378000,
+      "id_str": "704938497925378048",
+      "text": "Впрочем, я считаю, что придирчивость зависит от проекта, лично я считаю, что для rails - это оправдано, но @anton_davydov не согласен с этим",
+      "truncated": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "anton_davydov",
+            "name": "Davy Dovanton",
+            "id": 539221178,
+            "id_str": "539221178",
+            "indices": [
+              107,
+              121
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Mar 02 08:14:03 +0000 2016",
+      "id": 704942834571481100,
+      "id_str": "704942834571481089",
+      "text": "@anton_davydov @rubyunderhood Докапываться до символа в комментариях к коду есть, так как они парсятся в официальные доки.",
+      "truncated": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 704939755906195500,
+      "in_reply_to_status_id_str": "704939755906195456",
+      "in_reply_to_user_id": 539221178,
+      "in_reply_to_user_id_str": "539221178",
+      "in_reply_to_screen_name": "anton_davydov",
+      "user": {
+        "id": 312906249,
+        "id_str": "312906249"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "anton_davydov",
+            "name": "Davy Dovanton",
+            "id": 539221178,
+            "id_str": "539221178",
+            "indices": [
+              0,
+              14
+            ]
+          },
+          {
+            "screen_name": "rubyunderhood",
+            "name": "Ruby-разработчик",
+            "id": 3341793591,
+            "id_str": "3341793591",
+            "indices": [
+              15,
+              29
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Mar 02 08:15:06 +0000 2016",
+      "id": 704943096467988500,
+      "id_str": "704943096467988480",
+      "text": "@anton_davydov @rubyunderhood А чистота кода - вообще святое.",
+      "truncated": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 704942834571481100,
+      "in_reply_to_status_id_str": "704942834571481089",
+      "in_reply_to_user_id": 312906249,
+      "in_reply_to_user_id_str": "312906249",
+      "in_reply_to_screen_name": "AlexWayfer",
+      "user": {
+        "id": 312906249,
+        "id_str": "312906249"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "anton_davydov",
+            "name": "Davy Dovanton",
+            "id": 539221178,
+            "id_str": "539221178",
+            "indices": [
+              0,
+              14
+            ]
+          },
+          {
+            "screen_name": "rubyunderhood",
+            "name": "Ruby-разработчик",
+            "id": 3341793591,
+            "id_str": "3341793591",
+            "indices": [
+              15,
+              29
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Mar 02 08:18:05 +0000 2016",
+      "id": 704943848095670300,
+      "id_str": "704943848095670272",
+      "text": "@anton_davydov @rubyunderhood Вот, например. Работало и без этого. Но ведь так лучше, не правда ли? https://t.co/jssDXO6Jol",
+      "truncated": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 704943096467988500,
+      "in_reply_to_status_id_str": "704943096467988480",
+      "in_reply_to_user_id": 312906249,
+      "in_reply_to_user_id_str": "312906249",
+      "in_reply_to_screen_name": "AlexWayfer",
+      "user": {
+        "id": 312906249,
+        "id_str": "312906249"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "anton_davydov",
+            "name": "Davy Dovanton",
+            "id": 539221178,
+            "id_str": "539221178",
+            "indices": [
+              0,
+              14
+            ]
+          },
+          {
+            "screen_name": "rubyunderhood",
+            "name": "Ruby-разработчик",
+            "id": 3341793591,
+            "id_str": "3341793591",
+            "indices": [
+              15,
+              29
+            ]
+          }
+        ],
+        "urls": [],
+        "media": [
+          {
+            "id": 704943846971588600,
+            "id_str": "704943846971588610",
+            "indices": [
+              100,
+              123
+            ],
+            "media_url": "http://pbs.twimg.com/media/Cch2saFWwAIW7_z.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cch2saFWwAIW7_z.jpg",
+            "url": "https://t.co/jssDXO6Jol",
+            "display_url": "pic.twitter.com/jssDXO6Jol",
+            "expanded_url": "http://twitter.com/AlexWayfer/status/704943848095670272/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 417,
+                "h": 172,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 417,
+                "h": 172,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 140,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 704943846971588600,
+            "id_str": "704943846971588610",
+            "indices": [
+              100,
+              123
+            ],
+            "media_url": "http://pbs.twimg.com/media/Cch2saFWwAIW7_z.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cch2saFWwAIW7_z.jpg",
+            "url": "https://t.co/jssDXO6Jol",
+            "display_url": "pic.twitter.com/jssDXO6Jol",
+            "expanded_url": "http://twitter.com/AlexWayfer/status/704943848095670272/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 417,
+                "h": 172,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 417,
+                "h": 172,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 140,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Mar 02 08:32:42 +0000 2016",
+      "id": 704947528198987800,
+      "id_str": "704947528198987777",
+      "text": "@anton_davydov @rubyunderhood я как-то раз поправил README и меня пригласили на собеседование",
+      "truncated": false,
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 704939920243232800,
+      "in_reply_to_status_id_str": "704939920243232768",
+      "in_reply_to_user_id": 539221178,
+      "in_reply_to_user_id_str": "539221178",
+      "in_reply_to_screen_name": "anton_davydov",
+      "user": {
+        "id": 53391978,
+        "id_str": "53391978"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "anton_davydov",
+            "name": "Davy Dovanton",
+            "id": 539221178,
+            "id_str": "539221178",
+            "indices": [
+              0,
+              14
+            ]
+          },
+          {
+            "screen_name": "rubyunderhood",
+            "name": "Ruby-разработчик",
+            "id": 3341793591,
+            "id_str": "3341793591",
+            "indices": [
+              15,
+              29
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": true,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Mar 02 09:01:21 +0000 2016",
+      "id": 704954738593366000,
+      "id_str": "704954738593366017",
+      "text": "@vassilevsky @anton_davydov @rubyunderhood не знаю, я с тестов начинал.",
+      "truncated": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 704947528198987800,
+      "in_reply_to_status_id_str": "704947528198987777",
+      "in_reply_to_user_id": 53391978,
+      "in_reply_to_user_id_str": "53391978",
+      "in_reply_to_screen_name": "vassilevsky",
+      "user": {
+        "id": 223273129,
+        "id_str": "223273129"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "vassilevsky",
+            "name": "White Russian",
+            "id": 53391978,
+            "id_str": "53391978",
+            "indices": [
+              0,
+              12
+            ]
+          },
+          {
+            "screen_name": "anton_davydov",
+            "name": "Davy Dovanton",
+            "id": 539221178,
+            "id_str": "539221178",
+            "indices": [
+              13,
+              27
+            ]
+          },
+          {
+            "screen_name": "rubyunderhood",
+            "name": "Ruby-разработчик",
+            "id": 3341793591,
+            "id_str": "3341793591",
+            "indices": [
+              28,
+              42
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Mar 02 14:32:22 +0000 2016",
+      "id": 705038040687837200,
+      "id_str": "705038040687837184",
+      "text": "Антон, @anton_davydov, так и должно быть или это опечатка? :) https://t.co/UBedcwLJoI",
+      "truncated": false,
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 84440440,
+        "id_str": "84440440"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "anton_davydov",
+            "name": "Davy Dovanton",
+            "id": 539221178,
+            "id_str": "539221178",
+            "indices": [
+              7,
+              21
+            ]
+          }
+        ],
+        "urls": [],
+        "media": [
+          {
+            "id": 705038035092684800,
+            "id_str": "705038035092684802",
+            "indices": [
+              62,
+              85
+            ],
+            "media_url": "http://pbs.twimg.com/media/CcjMW4LWwAIkXrE.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CcjMW4LWwAIkXrE.jpg",
+            "url": "https://t.co/UBedcwLJoI",
+            "display_url": "pic.twitter.com/UBedcwLJoI",
+            "expanded_url": "http://twitter.com/harry_blunt/status/705038040687837184/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 340,
+                "h": 122,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 600,
+                "h": 214,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1024,
+                "h": 366,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 705038035092684800,
+            "id_str": "705038035092684802",
+            "indices": [
+              62,
+              85
+            ],
+            "media_url": "http://pbs.twimg.com/media/CcjMW4LWwAIkXrE.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CcjMW4LWwAIkXrE.jpg",
+            "url": "https://t.co/UBedcwLJoI",
+            "display_url": "pic.twitter.com/UBedcwLJoI",
+            "expanded_url": "http://twitter.com/harry_blunt/status/705038040687837184/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 340,
+                "h": 122,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 600,
+                "h": 214,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1024,
+                "h": 366,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Mar 02 16:44:34 +0000 2016",
+      "id": 705071309265440800,
+      "id_str": "705071309265440769",
+      "text": "@anton_davydov @andrzejkrzywda what about ternary operator? :)",
+      "truncated": false,
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 705067280317677600,
+      "in_reply_to_status_id_str": "705067280317677568",
+      "in_reply_to_user_id": 539221178,
+      "in_reply_to_user_id_str": "539221178",
+      "in_reply_to_screen_name": "anton_davydov",
+      "user": {
+        "id": 415384395,
+        "id_str": "415384395"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "anton_davydov",
+            "name": "Davy Dovanton",
+            "id": 539221178,
+            "id_str": "539221178",
+            "indices": [
+              0,
+              14
+            ]
+          },
+          {
+            "screen_name": "andrzejkrzywda",
+            "name": "Andrzej Krzywda",
+            "id": 8067312,
+            "id_str": "8067312",
+            "indices": [
+              15,
+              30
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Mar 02 21:10:44 +0000 2016",
+      "id": 705138293218869200,
+      "id_str": "705138293218869249",
+      "text": "@anton_davydov Congrats!",
+      "truncated": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 705138123441836000,
+      "in_reply_to_status_id_str": "705138123441836032",
+      "in_reply_to_user_id": 539221178,
+      "in_reply_to_user_id_str": "539221178",
+      "in_reply_to_screen_name": "anton_davydov",
+      "user": {
+        "id": 159136782,
+        "id_str": "159136782"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "anton_davydov",
+            "name": "Davy Dovanton",
+            "id": 539221178,
+            "id_str": "539221178",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
     }
   ]
 }

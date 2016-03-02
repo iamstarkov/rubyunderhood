@@ -28,22 +28,22 @@
   "protected": false,
   "followers_count": 900,
   "friends_count": 49,
-  "listed_count": 52,
+  "listed_count": 53,
   "created_at": "Mon Jun 22 18:43:03 +0000 2015",
   "favourites_count": 249,
   "utc_offset": -28800,
   "time_zone": "Pacific Time (US & Canada)",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 10228,
+  "statuses_count": 10257,
   "lang": "en",
   "status": {
-    "created_at": "Tue Mar 01 15:47:18 +0000 2016",
-    "id": 704694510958329900,
-    "id_str": "704694510958329857",
-    "text": "RT @ad__astra: @rubyunderhood Scala 💟 - по-моему, кто писал на Ruby, тот Скалу поймет легко, у них много общих принципов.",
+    "created_at": "Wed Mar 02 09:01:49 +0000 2016",
+    "id": 704954855870341100,
+    "id_str": "704954855870341120",
+    "text": "RT @vanadium23: @vassilevsky @anton_davydov @rubyunderhood не знаю, я с тестов начинал.",
     "truncated": false,
-    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
@@ -54,36 +54,56 @@
     "place": null,
     "contributors": null,
     "retweeted_status": {
-      "created_at": "Tue Mar 01 15:43:28 +0000 2016",
-      "id": 704693545215651800,
-      "id_str": "704693545215651842",
-      "text": "@rubyunderhood Scala 💟 - по-моему, кто писал на Ruby, тот Скалу поймет легко, у них много общих принципов.",
+      "created_at": "Wed Mar 02 09:01:21 +0000 2016",
+      "id": 704954738593366000,
+      "id_str": "704954738593366017",
+      "text": "@vassilevsky @anton_davydov @rubyunderhood не знаю, я с тестов начинал.",
       "truncated": false,
-      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-      "in_reply_to_status_id": 704278462022950900,
-      "in_reply_to_status_id_str": "704278462022950913",
-      "in_reply_to_user_id": 3341793591,
-      "in_reply_to_user_id_str": "3341793591",
-      "in_reply_to_screen_name": "rubyunderhood",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 704947528198987800,
+      "in_reply_to_status_id_str": "704947528198987777",
+      "in_reply_to_user_id": 53391978,
+      "in_reply_to_user_id_str": "53391978",
+      "in_reply_to_screen_name": "vassilevsky",
       "geo": null,
       "coordinates": null,
       "place": null,
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 1,
-      "favorite_count": 1,
+      "favorite_count": 0,
       "entities": {
         "hashtags": [],
         "symbols": [],
         "user_mentions": [
+          {
+            "screen_name": "vassilevsky",
+            "name": "White Russian",
+            "id": 53391978,
+            "id_str": "53391978",
+            "indices": [
+              0,
+              12
+            ]
+          },
+          {
+            "screen_name": "anton_davydov",
+            "name": "Davy Dovanton",
+            "id": 539221178,
+            "id_str": "539221178",
+            "indices": [
+              13,
+              27
+            ]
+          },
           {
             "screen_name": "rubyunderhood",
             "name": "Ruby-разработчик",
             "id": 3341793591,
             "id_str": "3341793591",
             "indices": [
-              0,
-              14
+              28,
+              42
             ]
           }
         ],
@@ -101,13 +121,33 @@
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "ad__astra",
-          "name": "Ad Astra",
-          "id": 15351905,
-          "id_str": "15351905",
+          "screen_name": "vanadium23",
+          "name": "vanadium23",
+          "id": 223273129,
+          "id_str": "223273129",
           "indices": [
             3,
-            13
+            14
+          ]
+        },
+        {
+          "screen_name": "vassilevsky",
+          "name": "White Russian",
+          "id": 53391978,
+          "id_str": "53391978",
+          "indices": [
+            16,
+            28
+          ]
+        },
+        {
+          "screen_name": "anton_davydov",
+          "name": "Davy Dovanton",
+          "id": 539221178,
+          "id_str": "539221178",
+          "indices": [
+            29,
+            43
           ]
         },
         {
@@ -116,8 +156,8 @@
           "id": 3341793591,
           "id_str": "3341793591",
           "indices": [
-            15,
-            29
+            44,
+            58
           ]
         }
       ],
