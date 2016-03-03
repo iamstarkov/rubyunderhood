@@ -1256,6 +1256,60 @@
       "favorited": false,
       "retweeted": false,
       "lang": "en"
+    },
+    {
+      "created_at": "Thu Mar 03 07:35:32 +0000 2016",
+      "id": 705295529765429200,
+      "id_str": "705295529765429248",
+      "text": "Тут кстати @anton_davydov активно продвигает @hanamirb, лично я пока не пробовал, но если есть вопросы, вызнаете кого трясти (:",
+      "truncated": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "anton_davydov",
+            "name": "Davy Dovanton",
+            "id": 539221178,
+            "id_str": "539221178",
+            "indices": [
+              11,
+              25
+            ]
+          },
+          {
+            "screen_name": "hanamirb",
+            "name": "Hanami",
+            "id": 3007705839,
+            "id_str": "3007705839",
+            "indices": [
+              45,
+              54
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }
