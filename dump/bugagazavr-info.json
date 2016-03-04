@@ -26,7 +26,7 @@
     }
   },
   "protected": false,
-  "followers_count": 899,
+  "followers_count": 901,
   "friends_count": 49,
   "listed_count": 53,
   "created_at": "Mon Jun 22 18:43:03 +0000 2015",
@@ -35,15 +35,15 @@
   "time_zone": "Pacific Time (US & Canada)",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 10354,
+  "statuses_count": 10368,
   "lang": "en",
   "status": {
-    "created_at": "Fri Mar 04 11:51:08 +0000 2016",
-    "id": 705722240231411700,
-    "id_str": "705722240231411712",
-    "text": "RT @listochkin: @shved270189 например, нельзя по cmd+d выбирать слова целиком. Или буферы текста требует хосранять при закрытии @artemeff @…",
+    "created_at": "Fri Mar 04 21:36:28 +0000 2016",
+    "id": 705869545437843500,
+    "id_str": "705869545437843456",
+    "text": "RT @platonov_kd: @alexwayfer @rubyunderhood очень помогла книга https://t.co/lfdPPiujNg и примеры из https://t.co/h4t3YYwFVi",
     "truncated": false,
-    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
@@ -54,17 +54,17 @@
     "place": null,
     "contributors": null,
     "retweeted_status": {
-      "created_at": "Fri Mar 04 11:49:45 +0000 2016",
-      "id": 705721894545330200,
-      "id_str": "705721894545330176",
-      "text": "@shved270189 например, нельзя по cmd+d выбирать слова целиком. Или буферы текста требует хосранять при закрытии @artemeff @rubyunderhood",
+      "created_at": "Fri Mar 04 20:19:15 +0000 2016",
+      "id": 705850110425604100,
+      "id_str": "705850110425604096",
+      "text": "@alexwayfer @rubyunderhood очень помогла книга https://t.co/lfdPPiujNg и примеры из https://t.co/h4t3YYwFVi",
       "truncated": false,
-      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-      "in_reply_to_status_id": 705721661329379300,
-      "in_reply_to_status_id_str": "705721661329379328",
-      "in_reply_to_user_id": 20910792,
-      "in_reply_to_user_id_str": "20910792",
-      "in_reply_to_screen_name": "listochkin",
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 705849706958725100,
+      "in_reply_to_status_id_str": "705849706958725120",
+      "in_reply_to_user_id": 212541573,
+      "in_reply_to_user_id_str": "212541573",
+      "in_reply_to_screen_name": "platonov_kd",
       "geo": null,
       "coordinates": null,
       "place": null,
@@ -77,23 +77,13 @@
         "symbols": [],
         "user_mentions": [
           {
-            "screen_name": "shved270189",
-            "name": "Ivan Bondarenko",
-            "id": 350442764,
-            "id_str": "350442764",
+            "screen_name": "AlexWayfer",
+            "name": "Alexander Popov",
+            "id": 312906249,
+            "id_str": "312906249",
             "indices": [
               0,
-              12
-            ]
-          },
-          {
-            "screen_name": "artemeff",
-            "name": "усы джо армстронга",
-            "id": 137293049,
-            "id_str": "137293049",
-            "indices": [
-              112,
-              121
+              11
             ]
           },
           {
@@ -102,15 +92,35 @@
             "id": 3341793591,
             "id_str": "3341793591",
             "indices": [
-              122,
-              136
+              12,
+              26
             ]
           }
         ],
-        "urls": []
+        "urls": [
+          {
+            "url": "https://t.co/lfdPPiujNg",
+            "expanded_url": "http://shop.oreilly.com/product/0636920035626.do",
+            "display_url": "shop.oreilly.com/product/063692…",
+            "indices": [
+              47,
+              70
+            ]
+          },
+          {
+            "url": "https://t.co/h4t3YYwFVi",
+            "expanded_url": "https://railsbox.io/",
+            "display_url": "railsbox.io",
+            "indices": [
+              84,
+              107
+            ]
+          }
+        ]
       },
       "favorited": false,
       "retweeted": false,
+      "possibly_sensitive": false,
       "lang": "ru"
     },
     "is_quote_status": false,
@@ -121,33 +131,23 @@
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "listochkin",
-          "name": "Андрей Листочкин",
-          "id": 20910792,
-          "id_str": "20910792",
+          "screen_name": "platonov_kd",
+          "name": "Kirill Platonov",
+          "id": 212541573,
+          "id_str": "212541573",
           "indices": [
             3,
-            14
+            15
           ]
         },
         {
-          "screen_name": "shved270189",
-          "name": "Ivan Bondarenko",
-          "id": 350442764,
-          "id_str": "350442764",
+          "screen_name": "AlexWayfer",
+          "name": "Alexander Popov",
+          "id": 312906249,
+          "id_str": "312906249",
           "indices": [
-            16,
+            17,
             28
-          ]
-        },
-        {
-          "screen_name": "artemeff",
-          "name": "усы джо армстронга",
-          "id": 137293049,
-          "id_str": "137293049",
-          "indices": [
-            128,
-            137
           ]
         },
         {
@@ -156,15 +156,35 @@
           "id": 3341793591,
           "id_str": "3341793591",
           "indices": [
-            139,
-            140
+            29,
+            43
           ]
         }
       ],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/lfdPPiujNg",
+          "expanded_url": "http://shop.oreilly.com/product/0636920035626.do",
+          "display_url": "shop.oreilly.com/product/063692…",
+          "indices": [
+            64,
+            87
+          ]
+        },
+        {
+          "url": "https://t.co/h4t3YYwFVi",
+          "expanded_url": "https://railsbox.io/",
+          "display_url": "railsbox.io",
+          "indices": [
+            101,
+            124
+          ]
+        }
+      ]
     },
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
