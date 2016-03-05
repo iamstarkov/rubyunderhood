@@ -35,13 +35,13 @@
   "time_zone": "Pacific Time (US & Canada)",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 10368,
+  "statuses_count": 10377,
   "lang": "en",
   "status": {
-    "created_at": "Fri Mar 04 21:36:28 +0000 2016",
-    "id": 705869545437843500,
-    "id_str": "705869545437843456",
-    "text": "RT @platonov_kd: @alexwayfer @rubyunderhood очень помогла книга https://t.co/lfdPPiujNg и примеры из https://t.co/h4t3YYwFVi",
+    "created_at": "Sat Mar 05 20:24:32 +0000 2016",
+    "id": 706213831266144300,
+    "id_str": "706213831266144257",
+    "text": "RT @vassilevsky: @rubyunderhood еще после обеда поспал",
     "truncated": false,
     "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
     "in_reply_to_status_id": null,
@@ -54,17 +54,17 @@
     "place": null,
     "contributors": null,
     "retweeted_status": {
-      "created_at": "Fri Mar 04 20:19:15 +0000 2016",
-      "id": 705850110425604100,
-      "id_str": "705850110425604096",
-      "text": "@alexwayfer @rubyunderhood очень помогла книга https://t.co/lfdPPiujNg и примеры из https://t.co/h4t3YYwFVi",
+      "created_at": "Sat Mar 05 17:52:47 +0000 2016",
+      "id": 706175642136662000,
+      "id_str": "706175642136662016",
+      "text": "@rubyunderhood еще после обеда поспал",
       "truncated": false,
-      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
-      "in_reply_to_status_id": 705849706958725100,
-      "in_reply_to_status_id_str": "705849706958725120",
-      "in_reply_to_user_id": 212541573,
-      "in_reply_to_user_id_str": "212541573",
-      "in_reply_to_screen_name": "platonov_kd",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 706058620748828700,
+      "in_reply_to_status_id_str": "706058620748828672",
+      "in_reply_to_user_id": 3341793591,
+      "in_reply_to_user_id_str": "3341793591",
+      "in_reply_to_screen_name": "rubyunderhood",
       "geo": null,
       "coordinates": null,
       "place": null,
@@ -77,50 +77,20 @@
         "symbols": [],
         "user_mentions": [
           {
-            "screen_name": "AlexWayfer",
-            "name": "Alexander Popov",
-            "id": 312906249,
-            "id_str": "312906249",
-            "indices": [
-              0,
-              11
-            ]
-          },
-          {
             "screen_name": "rubyunderhood",
             "name": "Ruby-разработчик",
             "id": 3341793591,
             "id_str": "3341793591",
             "indices": [
-              12,
-              26
+              0,
+              14
             ]
           }
         ],
-        "urls": [
-          {
-            "url": "https://t.co/lfdPPiujNg",
-            "expanded_url": "http://shop.oreilly.com/product/0636920035626.do",
-            "display_url": "shop.oreilly.com/product/063692…",
-            "indices": [
-              47,
-              70
-            ]
-          },
-          {
-            "url": "https://t.co/h4t3YYwFVi",
-            "expanded_url": "https://railsbox.io/",
-            "display_url": "railsbox.io",
-            "indices": [
-              84,
-              107
-            ]
-          }
-        ]
+        "urls": []
       },
       "favorited": false,
       "retweeted": false,
-      "possibly_sensitive": false,
       "lang": "ru"
     },
     "is_quote_status": false,
@@ -131,23 +101,13 @@
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "platonov_kd",
-          "name": "Kirill Platonov",
-          "id": 212541573,
-          "id_str": "212541573",
+          "screen_name": "vassilevsky",
+          "name": "White Russian",
+          "id": 53391978,
+          "id_str": "53391978",
           "indices": [
             3,
             15
-          ]
-        },
-        {
-          "screen_name": "AlexWayfer",
-          "name": "Alexander Popov",
-          "id": 312906249,
-          "id_str": "312906249",
-          "indices": [
-            17,
-            28
           ]
         },
         {
@@ -156,35 +116,15 @@
           "id": 3341793591,
           "id_str": "3341793591",
           "indices": [
-            29,
-            43
+            17,
+            31
           ]
         }
       ],
-      "urls": [
-        {
-          "url": "https://t.co/lfdPPiujNg",
-          "expanded_url": "http://shop.oreilly.com/product/0636920035626.do",
-          "display_url": "shop.oreilly.com/product/063692…",
-          "indices": [
-            64,
-            87
-          ]
-        },
-        {
-          "url": "https://t.co/h4t3YYwFVi",
-          "expanded_url": "https://railsbox.io/",
-          "display_url": "railsbox.io",
-          "indices": [
-            101,
-            124
-          ]
-        }
-      ]
+      "urls": []
     },
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
