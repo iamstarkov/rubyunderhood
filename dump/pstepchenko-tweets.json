@@ -15586,6 +15586,2668 @@
       "retweeted": false,
       "possibly_sensitive": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Sun Mar 13 07:18:25 +0000 2016",
+      "id": 708915098081824800,
+      "id_str": "708915098081824768",
+      "text": "RT @vassilevsky: @rubyunderhood в чем подготовить документацию на API, чтобы потом можно было запускать некую тулзу, которая валидирует по …",
+      "truncated": false,
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Sat Mar 12 23:16:06 +0000 2016",
+        "id": 708793722784317400,
+        "id_str": "708793722784317440",
+        "text": "@rubyunderhood в чем подготовить документацию на API, чтобы потом можно было запускать некую тулзу, которая валидирует по ней имплементацию?",
+        "truncated": false,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 53391978,
+          "id_str": "53391978"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 2,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby-разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "vassilevsky",
+            "name": "White Russian",
+            "id": 53391978,
+            "id_str": "53391978",
+            "indices": [
+              3,
+              15
+            ]
+          },
+          {
+            "screen_name": "rubyunderhood",
+            "name": "Ruby-разработчик",
+            "id": 3341793591,
+            "id_str": "3341793591",
+            "indices": [
+              17,
+              31
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Mar 13 07:18:27 +0000 2016",
+      "id": 708915108320161800,
+      "id_str": "708915108320161792",
+      "text": "RT @oleg_antonyan: @vassilevsky @rubyunderhood https://t.co/5yK2WyLI8O",
+      "truncated": false,
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Sun Mar 13 03:46:47 +0000 2016",
+        "id": 708861842119139300,
+        "id_str": "708861842119139332",
+        "text": "@vassilevsky @rubyunderhood https://t.co/5yK2WyLI8O",
+        "truncated": false,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 708793722784317400,
+        "in_reply_to_status_id_str": "708793722784317440",
+        "in_reply_to_user_id": 53391978,
+        "in_reply_to_user_id_str": "53391978",
+        "in_reply_to_screen_name": "vassilevsky",
+        "user": {
+          "id": 1941508063,
+          "id_str": "1941508063"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 1,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "vassilevsky",
+              "name": "White Russian",
+              "id": 53391978,
+              "id_str": "53391978",
+              "indices": [
+                0,
+                12
+              ]
+            },
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby-разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                13,
+                27
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/5yK2WyLI8O",
+              "expanded_url": "https://github.com/zipmark/rspec_api_documentation",
+              "display_url": "github.com/zipmark/rspec_…",
+              "indices": [
+                28,
+                51
+              ]
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "und"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "oleg_antonyan",
+            "name": "Oleg Antonyan",
+            "id": 1941508063,
+            "id_str": "1941508063",
+            "indices": [
+              3,
+              17
+            ]
+          },
+          {
+            "screen_name": "vassilevsky",
+            "name": "White Russian",
+            "id": 53391978,
+            "id_str": "53391978",
+            "indices": [
+              19,
+              31
+            ]
+          },
+          {
+            "screen_name": "rubyunderhood",
+            "name": "Ruby-разработчик",
+            "id": 3341793591,
+            "id_str": "3341793591",
+            "indices": [
+              32,
+              46
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/5yK2WyLI8O",
+            "expanded_url": "https://github.com/zipmark/rspec_api_documentation",
+            "display_url": "github.com/zipmark/rspec_…",
+            "indices": [
+              47,
+              70
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Sun Mar 13 07:21:08 +0000 2016",
+      "id": 708915784773296100,
+      "id_str": "708915784773296128",
+      "text": "Пробовал пару лет назад, не очень понравился. Не люблю всю бюрократия, я за максимальную простоту в разработке https://t.co/h7hAkvA6qO",
+      "truncated": false,
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 708369320867401700,
+      "quoted_status_id_str": "708369320867401728",
+      "quoted_status": {
+        "created_at": "Fri Mar 11 19:09:41 +0000 2016",
+        "id": 708369320867401700,
+        "id_str": "708369320867401728",
+        "text": "@rubyunderhood а youtrack пробовал?",
+        "truncated": false,
+        "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+        "in_reply_to_status_id": 707175527136661500,
+        "in_reply_to_status_id_str": "707175527136661505",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 2643551337,
+          "id_str": "2643551337"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby-разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "und"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/h7hAkvA6qO",
+            "expanded_url": "https://twitter.com/RNaumetoff/status/708369320867401728",
+            "display_url": "twitter.com/RNaumetoff/sta…",
+            "indices": [
+              111,
+              134
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Mar 13 07:47:19 +0000 2016",
+      "id": 708922372577841200,
+      "id_str": "708922372577841152",
+      "text": "Давайте немного помечтаем и поговорим о том, что такое работа мечты",
+      "truncated": false,
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Mar 13 07:47:54 +0000 2016",
+      "id": 708922517839159300,
+      "id_str": "708922517839159297",
+      "text": "Для меня не сильно важно, какой офис и условия, гораздо важнее над чем и с кем работать",
+      "truncated": false,
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": 708922372577841200,
+      "in_reply_to_status_id_str": "708922372577841152",
+      "in_reply_to_user_id": 3341793591,
+      "in_reply_to_user_id_str": "3341793591",
+      "in_reply_to_screen_name": "rubyunderhood",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Mar 13 07:48:26 +0000 2016",
+      "id": 708922655873769500,
+      "id_str": "708922655873769472",
+      "text": "С детства прихожу в восхищение от компаний которые меняют мир или делают какие-то сложные вещи доступнее для людей",
+      "truncated": false,
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": 708922517839159300,
+      "in_reply_to_status_id_str": "708922517839159297",
+      "in_reply_to_user_id": 3341793591,
+      "in_reply_to_user_id_str": "3341793591",
+      "in_reply_to_screen_name": "rubyunderhood",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Mar 13 07:49:11 +0000 2016",
+      "id": 708922841995944000,
+      "id_str": "708922841995943936",
+      "text": "Наверное желание менять мир вокруг себя и привело меня в разработку",
+      "truncated": false,
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": 708922655873769500,
+      "in_reply_to_status_id_str": "708922655873769472",
+      "in_reply_to_user_id": 3341793591,
+      "in_reply_to_user_id_str": "3341793591",
+      "in_reply_to_screen_name": "rubyunderhood",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Mar 13 07:50:00 +0000 2016",
+      "id": 708923047621726200,
+      "id_str": "708923047621726208",
+      "text": "Сейчас я занимаюсь продвижением и упрощением онлайн покупки билетов в Азии и мне это очень нравится",
+      "truncated": false,
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": 708922841995944000,
+      "in_reply_to_status_id_str": "708922841995943936",
+      "in_reply_to_user_id": 3341793591,
+      "in_reply_to_user_id_str": "3341793591",
+      "in_reply_to_screen_name": "rubyunderhood",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Mar 13 07:50:48 +0000 2016",
+      "id": 708923249984294900,
+      "id_str": "708923249984294912",
+      "text": "Когда-нибудь в будущем, я хотел бы приложить свою руку к таким проектам как SpaceX или к разработкам искусственного интеллекта",
+      "truncated": false,
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": 708923047621726200,
+      "in_reply_to_status_id_str": "708923047621726208",
+      "in_reply_to_user_id": 3341793591,
+      "in_reply_to_user_id_str": "3341793591",
+      "in_reply_to_screen_name": "rubyunderhood",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Mar 13 07:51:46 +0000 2016",
+      "id": 708923494067605500,
+      "id_str": "708923494067605504",
+      "text": "Ведь делая потрясающие вещи, от которых сам приходишь в восторг, с удовольствием приходишь на работу и никогда не бывает прокрастинации",
+      "truncated": false,
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": 708923249984294900,
+      "in_reply_to_status_id_str": "708923249984294912",
+      "in_reply_to_user_id": 3341793591,
+      "in_reply_to_user_id_str": "3341793591",
+      "in_reply_to_screen_name": "rubyunderhood",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Mar 13 07:52:17 +0000 2016",
+      "id": 708923620744015900,
+      "id_str": "708923620744015872",
+      "text": "А что для вас работа мечты или может какая компания?",
+      "truncated": false,
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": 708923494067605500,
+      "in_reply_to_status_id_str": "708923494067605504",
+      "in_reply_to_user_id": 3341793591,
+      "in_reply_to_user_id_str": "3341793591",
+      "in_reply_to_screen_name": "rubyunderhood",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Mar 13 08:01:09 +0000 2016",
+      "id": 708925852474417200,
+      "id_str": "708925852474417152",
+      "text": "Что тебя так привлекло и разожгло желание переезда?  https://t.co/usRD4kXt2d",
+      "truncated": false,
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 708924596171497500,
+      "quoted_status_id_str": "708924596171497473",
+      "quoted_status": {
+        "created_at": "Sun Mar 13 07:56:09 +0000 2016",
+        "id": 708924596171497500,
+        "id_str": "708924596171497473",
+        "text": "@rubyunderhood я ещё не понял, что есть работа мечты, но почитав сегодня @abroadunderhood, я понял где я хочу быть через несколько лет",
+        "truncated": false,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 708923620744015900,
+        "in_reply_to_status_id_str": "708923620744015872",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 45908996,
+          "id_str": "45908996"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby-разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            },
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андэрхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                73,
+                89
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/usRD4kXt2d",
+            "expanded_url": "https://twitter.com/TheSunwave/status/708924596171497473",
+            "display_url": "twitter.com/TheSunwave/sta…",
+            "indices": [
+              53,
+              76
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Mar 13 10:03:16 +0000 2016",
+      "id": 708956584890662900,
+      "id_str": "708956584890662912",
+      "text": "RT @artemeff: @vassilevsky @rubyunderhood https://t.co/e51LnuMCod API Blueprint + Dredd",
+      "truncated": false,
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Sun Mar 13 09:59:34 +0000 2016",
+        "id": 708955654967447600,
+        "id_str": "708955654967447552",
+        "text": "@vassilevsky @rubyunderhood https://t.co/e51LnuMCod API Blueprint + Dredd",
+        "truncated": false,
+        "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+        "in_reply_to_status_id": 708793722784317400,
+        "in_reply_to_status_id_str": "708793722784317440",
+        "in_reply_to_user_id": 53391978,
+        "in_reply_to_user_id_str": "53391978",
+        "in_reply_to_screen_name": "vassilevsky",
+        "user": {
+          "id": 137293049,
+          "id_str": "137293049"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 2,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "vassilevsky",
+              "name": "White Russian",
+              "id": 53391978,
+              "id_str": "53391978",
+              "indices": [
+                0,
+                12
+              ]
+            },
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby-разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                13,
+                27
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/e51LnuMCod",
+              "expanded_url": "https://apiary.io/",
+              "display_url": "apiary.io",
+              "indices": [
+                28,
+                51
+              ]
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "no"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "artemeff",
+            "name": "усы джо армстронга",
+            "id": 137293049,
+            "id_str": "137293049",
+            "indices": [
+              3,
+              12
+            ]
+          },
+          {
+            "screen_name": "vassilevsky",
+            "name": "White Russian",
+            "id": 53391978,
+            "id_str": "53391978",
+            "indices": [
+              14,
+              26
+            ]
+          },
+          {
+            "screen_name": "rubyunderhood",
+            "name": "Ruby-разработчик",
+            "id": 3341793591,
+            "id_str": "3341793591",
+            "indices": [
+              27,
+              41
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/e51LnuMCod",
+            "expanded_url": "https://apiary.io/",
+            "display_url": "apiary.io",
+            "indices": [
+              42,
+              65
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "no"
+    },
+    {
+      "created_at": "Sun Mar 13 12:15:29 +0000 2016",
+      "id": 708989859524780000,
+      "id_str": "708989859524780033",
+      "text": "RT @Fodoj: @rubyunderhood это та, которую готов делать бесплатно ☺️",
+      "truncated": false,
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Sun Mar 13 11:19:09 +0000 2016",
+        "id": 708975684480278500,
+        "id_str": "708975684480278528",
+        "text": "@rubyunderhood это та, которую готов делать бесплатно ☺️",
+        "truncated": false,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 708922372577841200,
+        "in_reply_to_status_id_str": "708922372577841152",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 14741065,
+          "id_str": "14741065"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby-разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Fodoj",
+            "name": "Kirill Shirinkin",
+            "id": 14741065,
+            "id_str": "14741065",
+            "indices": [
+              3,
+              9
+            ]
+          },
+          {
+            "screen_name": "rubyunderhood",
+            "name": "Ruby-разработчик",
+            "id": 3341793591,
+            "id_str": "3341793591",
+            "indices": [
+              11,
+              25
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Mar 13 14:34:59 +0000 2016",
+      "id": 709024963542458400,
+      "id_str": "709024963542458368",
+      "text": "Пока я еще не отдал этот аккаунт, хотелось поднять последнюю тему, а именно обсудить депрессии и психические расстройства",
+      "truncated": false,
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 4,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Mar 13 14:36:10 +0000 2016",
+      "id": 709025264856997900,
+      "id_str": "709025264856997888",
+      "text": "У большинства из нас бывают депрессии, выгорания и тяжелые периоды. Об этом и как с этим бороться писали уже множество раз",
+      "truncated": false,
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": 709024963542458400,
+      "in_reply_to_status_id_str": "709024963542458368",
+      "in_reply_to_user_id": 3341793591,
+      "in_reply_to_user_id_str": "3341793591",
+      "in_reply_to_screen_name": "rubyunderhood",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Mar 13 14:37:09 +0000 2016",
+      "id": 709025511989579800,
+      "id_str": "709025511989579776",
+      "text": "Но бывают более сложные случаи в которых все методы бесполезны, чаще всего это психические расстройства",
+      "truncated": false,
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": 709025264856997900,
+      "in_reply_to_status_id_str": "709025264856997888",
+      "in_reply_to_user_id": 3341793591,
+      "in_reply_to_user_id_str": "3341793591",
+      "in_reply_to_screen_name": "rubyunderhood",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Mar 13 14:39:07 +0000 2016",
+      "id": 709026004208001000,
+      "id_str": "709026004208001024",
+      "text": "Я говорю об этом в сообществе разработчиков, потому что среди нас это сильно распространённое явление",
+      "truncated": false,
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": 709025511989579800,
+      "in_reply_to_status_id_str": "709025511989579776",
+      "in_reply_to_user_id": 3341793591,
+      "in_reply_to_user_id_str": "3341793591",
+      "in_reply_to_screen_name": "rubyunderhood",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Mar 13 14:40:02 +0000 2016",
+      "id": 709026238052982800,
+      "id_str": "709026238052982784",
+      "text": "Как не крути профессия откладывает большой отпечаток на нашей жизни и мышлении",
+      "truncated": false,
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": 709026004208001000,
+      "in_reply_to_status_id_str": "709026004208001024",
+      "in_reply_to_user_id": 3341793591,
+      "in_reply_to_user_id_str": "3341793591",
+      "in_reply_to_screen_name": "rubyunderhood",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Mar 13 14:41:16 +0000 2016",
+      "id": 709026548913844200,
+      "id_str": "709026548913844224",
+      "text": "Лично я знаю 2х людей с психическими расстройствами среди разработчиков, вряд ли это просто случайность",
+      "truncated": false,
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": 709026238052982800,
+      "in_reply_to_status_id_str": "709026238052982784",
+      "in_reply_to_user_id": 3341793591,
+      "in_reply_to_user_id_str": "3341793591",
+      "in_reply_to_screen_name": "rubyunderhood",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Mar 13 14:42:26 +0000 2016",
+      "id": 709026838887010300,
+      "id_str": "709026838887010305",
+      "text": "О данной проблеме не принято говорить, окружающие могут неодобрительно отнестись и даже для себя люди не готовы признавать что больны",
+      "truncated": false,
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": 709026548913844200,
+      "in_reply_to_status_id_str": "709026548913844224",
+      "in_reply_to_user_id": 3341793591,
+      "in_reply_to_user_id_str": "3341793591",
+      "in_reply_to_screen_name": "rubyunderhood",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Mar 13 14:43:45 +0000 2016",
+      "id": 709027173659578400,
+      "id_str": "709027173659578368",
+      "text": "Вам стоит задуматься и возможно обратиться к психологу в следующих случаях:",
+      "truncated": false,
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": 709026838887010300,
+      "in_reply_to_status_id_str": "709026838887010305",
+      "in_reply_to_user_id": 3341793591,
+      "in_reply_to_user_id_str": "3341793591",
+      "in_reply_to_screen_name": "rubyunderhood",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Mar 13 14:44:18 +0000 2016",
+      "id": 709027310028984300,
+      "id_str": "709027310028984322",
+      "text": "1. У вас циклично повторяются периоды хорошего и плохого настроения без объективных на то причин",
+      "truncated": false,
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": 709027173659578400,
+      "in_reply_to_status_id_str": "709027173659578368",
+      "in_reply_to_user_id": 3341793591,
+      "in_reply_to_user_id_str": "3341793591",
+      "in_reply_to_screen_name": "rubyunderhood",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Mar 13 14:44:56 +0000 2016",
+      "id": 709027468250775600,
+      "id_str": "709027468250775552",
+      "text": "2. Бывает такое что все в порядке и у вас резко пропадает настроение, вам кажется что вы худший человек на свете, что вы никому не нужны",
+      "truncated": false,
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": 709027310028984300,
+      "in_reply_to_status_id_str": "709027310028984322",
+      "in_reply_to_user_id": 3341793591,
+      "in_reply_to_user_id_str": "3341793591",
+      "in_reply_to_screen_name": "rubyunderhood",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Mar 13 14:45:49 +0000 2016",
+      "id": 709027693900075000,
+      "id_str": "709027693900075008",
+      "text": "3. У вас периодически пропадает интерес ко всему, хочется одиночества и много спать",
+      "truncated": false,
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": 709027468250775600,
+      "in_reply_to_status_id_str": "709027468250775552",
+      "in_reply_to_user_id": 3341793591,
+      "in_reply_to_user_id_str": "3341793591",
+      "in_reply_to_screen_name": "rubyunderhood",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Mar 13 14:46:40 +0000 2016",
+      "id": 709027906677116900,
+      "id_str": "709027906677116929",
+      "text": "С такими признаками вполне вероятно, что у вас биполярное расстройство, часто встречающиеся у ученых и людей связанных с искусством",
+      "truncated": false,
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": 709027693900075000,
+      "in_reply_to_status_id_str": "709027693900075008",
+      "in_reply_to_user_id": 3341793591,
+      "in_reply_to_user_id_str": "3341793591",
+      "in_reply_to_screen_name": "rubyunderhood",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Mar 13 14:47:27 +0000 2016",
+      "id": 709028103188680700,
+      "id_str": "709028103188680705",
+      "text": "В таком случаи желательно обратиться к специалисту, особенно если вы сами не можете с этим справляться",
+      "truncated": false,
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": 709027906677116900,
+      "in_reply_to_status_id_str": "709027906677116929",
+      "in_reply_to_user_id": 3341793591,
+      "in_reply_to_user_id_str": "3341793591",
+      "in_reply_to_screen_name": "rubyunderhood",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Mar 13 14:49:42 +0000 2016",
+      "id": 709028670019473400,
+      "id_str": "709028670019473408",
+      "text": "Многие могут сказать что это технический аккаунт и тут такое не нужно, но не будьте так равнодушны, это не где-то далеко, это рядом с вами",
+      "truncated": false,
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": 709028103188680700,
+      "in_reply_to_status_id_str": "709028103188680705",
+      "in_reply_to_user_id": 3341793591,
+      "in_reply_to_user_id_str": "3341793591",
+      "in_reply_to_screen_name": "rubyunderhood",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Mar 13 14:50:44 +0000 2016",
+      "id": 709028930959740900,
+      "id_str": "709028930959740930",
+      "text": "Бывает такое, что отличный сотрудник начинает неожиданно хуже работать, все чаще пропускать работу, придумывая разные причины",
+      "truncated": false,
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": 709028670019473400,
+      "in_reply_to_status_id_str": "709028670019473408",
+      "in_reply_to_user_id": 3341793591,
+      "in_reply_to_user_id_str": "3341793591",
+      "in_reply_to_screen_name": "rubyunderhood",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Mar 13 14:51:48 +0000 2016",
+      "id": 709029198677934100,
+      "id_str": "709029198677934081",
+      "text": "В такие моменты присмотритесь внимательней к ним и вполне вероятно можете увидеть симптомы",
+      "truncated": false,
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": 709028670019473400,
+      "in_reply_to_status_id_str": "709028670019473408",
+      "in_reply_to_user_id": 3341793591,
+      "in_reply_to_user_id_str": "3341793591",
+      "in_reply_to_screen_name": "rubyunderhood",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Mar 13 14:53:03 +0000 2016",
+      "id": 709029512743235600,
+      "id_str": "709029512743235584",
+      "text": "Люди хорошо умеют скрывать что с ними происходит, так что это может быть тот на кого вы никогда не могли подумать, например ваш близкий друг",
+      "truncated": false,
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": 709029198677934100,
+      "in_reply_to_status_id_str": "709029198677934081",
+      "in_reply_to_user_id": 3341793591,
+      "in_reply_to_user_id_str": "3341793591",
+      "in_reply_to_screen_name": "rubyunderhood",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Mar 13 14:54:30 +0000 2016",
+      "id": 709029877723168800,
+      "id_str": "709029877723168769",
+      "text": "Возможно в эти моменты им нужна помощь, но сами они не могут это понять и занимаются самолечением, от которого может стать хуже",
+      "truncated": false,
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": 709029512743235600,
+      "in_reply_to_status_id_str": "709029512743235584",
+      "in_reply_to_user_id": 3341793591,
+      "in_reply_to_user_id_str": "3341793591",
+      "in_reply_to_screen_name": "rubyunderhood",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Mar 13 14:55:23 +0000 2016",
+      "id": 709030100293984300,
+      "id_str": "709030100293984257",
+      "text": "Данную тему очень хорошо осветил на своем примере Greg Bauges на rubyconf 2013, по ссылке перевод и сам доклад https://t.co/UBVmeHxdkY",
+      "truncated": false,
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": 709029877723168800,
+      "in_reply_to_status_id_str": "709029877723168769",
+      "in_reply_to_user_id": 3341793591,
+      "in_reply_to_user_id_str": "3341793591",
+      "in_reply_to_screen_name": "rubyunderhood",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 6,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/UBVmeHxdkY",
+            "expanded_url": "https://habrahabr.ru/post/260249/",
+            "display_url": "habrahabr.ru/post/260249/",
+            "indices": [
+              111,
+              134
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Mar 13 14:56:23 +0000 2016",
+      "id": 709030350647795700,
+      "id_str": "709030350647795713",
+      "text": "@CoderRemix нет, только двух, все не на столько плохо",
+      "truncated": false,
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": 709029258593755100,
+      "in_reply_to_status_id_str": "709029258593755136",
+      "in_reply_to_user_id": 1864626524,
+      "in_reply_to_user_id_str": "1864626524",
+      "in_reply_to_screen_name": "CoderRemix",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "CoderRemix",
+            "name": "Дмитрий",
+            "id": 1864626524,
+            "id_str": "1864626524",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Mar 13 15:00:43 +0000 2016",
+      "id": 709031442035048400,
+      "id_str": "709031442035048448",
+      "text": "Как получилось вернуться к работе?  https://t.co/trxQdaS7q5",
+      "truncated": false,
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 709030428284420100,
+      "quoted_status_id_str": "709030428284420096",
+      "quoted_status": {
+        "created_at": "Sun Mar 13 14:56:41 +0000 2016",
+        "id": 709030428284420100,
+        "id_str": "709030428284420096",
+        "text": "@rubyunderhood по традиции напишу. я с такой штукой столкнулся и вылетел с работы, а потом не мог прикасаться к коду в течении 3 месяцев",
+        "truncated": false,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 709028930959740900,
+        "in_reply_to_status_id_str": "709028930959740930",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 438639319,
+          "id_str": "438639319"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby-разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/trxQdaS7q5",
+            "expanded_url": "https://twitter.com/DimaSharikov/status/709030428284420096",
+            "display_url": "twitter.com/DimaSharikov/s…",
+            "indices": [
+              36,
+              59
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Mar 13 15:37:34 +0000 2016",
+      "id": 709040714869379100,
+      "id_str": "709040714869379072",
+      "text": "о себе ничего точно сказать не могу, есть признаки, но к психологу не обращался https://t.co/xcpofgqorw",
+      "truncated": false,
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 709039792214941700,
+      "quoted_status_id_str": "709039792214941698",
+      "quoted_status": {
+        "created_at": "Sun Mar 13 15:33:54 +0000 2016",
+        "id": 709039792214941700,
+        "id_str": "709039792214941698",
+        "text": "@rubyunderhood и как? Тебе помог психолог?",
+        "truncated": false,
+        "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+        "in_reply_to_status_id": 709027906677116900,
+        "in_reply_to_status_id_str": "709027906677116929",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 214580679,
+          "id_str": "214580679"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby-разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/xcpofgqorw",
+            "expanded_url": "https://twitter.com/shuvalov_anton/status/709039792214941698",
+            "display_url": "twitter.com/shuvalov_anton…",
+            "indices": [
+              80,
+              103
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Mar 13 15:55:04 +0000 2016",
+      "id": 709045119794589700,
+      "id_str": "709045119794589697",
+      "text": "Я выпадал из жизни на пару месяцев, за это время переругавшись с большинством друзей и потеряв свою любовь https://t.co/6K21MyqaIh",
+      "truncated": false,
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 709041141593694200,
+      "quoted_status_id_str": "709041141593694209",
+      "quoted_status": {
+        "created_at": "Sun Mar 13 15:39:16 +0000 2016",
+        "id": 709041141593694200,
+        "id_str": "709041141593694209",
+        "text": "@rubyunderhood просто немножко странно советовать психолога если сам не пробовал. Уэльбек бы не одобрил. Только рефлексии, только хардкор!",
+        "truncated": false,
+        "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+        "in_reply_to_status_id": 709040714869379100,
+        "in_reply_to_status_id_str": "709040714869379072",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 214580679,
+          "id_str": "214580679"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby-разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/6K21MyqaIh",
+            "expanded_url": "https://twitter.com/shuvalov_anton/status/709041141593694209",
+            "display_url": "twitter.com/shuvalov_anton…",
+            "indices": [
+              107,
+              130
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Mar 13 15:55:17 +0000 2016",
+      "id": 709045172823154700,
+      "id_str": "709045172823154688",
+      "text": "Вряд ли это был БАР, но сейчас вернувшись в то время, я дал бы себе пинка и отправил к психологу",
+      "truncated": false,
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": 709045119794589700,
+      "in_reply_to_status_id_str": "709045119794589697",
+      "in_reply_to_user_id": 3341793591,
+      "in_reply_to_user_id_str": "3341793591",
+      "in_reply_to_screen_name": "rubyunderhood",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Mar 13 15:55:55 +0000 2016",
+      "id": 709045334278692900,
+      "id_str": "709045334278692864",
+      "text": "Поэтому не хочу что бы люди допускали такие ошибки и занимались самолечением. Признать это самое сложное.",
+      "truncated": false,
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": 709045172823154700,
+      "in_reply_to_status_id_str": "709045172823154688",
+      "in_reply_to_user_id": 3341793591,
+      "in_reply_to_user_id_str": "3341793591",
+      "in_reply_to_screen_name": "rubyunderhood",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Mar 13 15:58:11 +0000 2016",
+      "id": 709045905484156900,
+      "id_str": "709045905484156928",
+      "text": "Не думаю что это сильно зависит от амбиций. Нестыковка реальности и желаний все же немного другое и более частое  https://t.co/h3F027G8Ya",
+      "truncated": false,
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 709042143529193500,
+      "quoted_status_id_str": "709042143529193472",
+      "quoted_status": {
+        "created_at": "Sun Mar 13 15:43:15 +0000 2016",
+        "id": 709042143529193500,
+        "id_str": "709042143529193472",
+        "text": "@rubyunderhood думал о сабже и пришел к тому, что лучше работать с разрабами, у которых простая мотивация. У звезд на кону слишком много",
+        "truncated": false,
+        "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+        "in_reply_to_status_id": 709041141593694200,
+        "in_reply_to_status_id_str": "709041141593694209",
+        "in_reply_to_user_id": 214580679,
+        "in_reply_to_user_id_str": "214580679",
+        "in_reply_to_screen_name": "shuvalov_anton",
+        "user": {
+          "id": 214580679,
+          "id_str": "214580679"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby-разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/h3F027G8Ya",
+            "expanded_url": "https://twitter.com/shuvalov_anton/status/709042143529193472",
+            "display_url": "twitter.com/shuvalov_anton…",
+            "indices": [
+              114,
+              137
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Mar 13 16:15:11 +0000 2016",
+      "id": 709050180696313900,
+      "id_str": "709050180696313856",
+      "text": "RT @shuvalov_anton: @rubyunderhood я работал в компании, гда оффер давали людям, которые знают, что такое шаблонизатор, и зрелость разрабов…",
+      "truncated": false,
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Sun Mar 13 16:04:11 +0000 2016",
+        "id": 709047414351667200,
+        "id_str": "709047414351667201",
+        "text": "@rubyunderhood я работал в компании, гда оффер давали людям, которые знают, что такое шаблонизатор, и зрелость разрабов как людей была уныла",
+        "truncated": false,
+        "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+        "in_reply_to_status_id": 709045905484156900,
+        "in_reply_to_status_id_str": "709045905484156928",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 214580679,
+          "id_str": "214580679"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby-разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "shuvalov_anton",
+            "name": "Darth Shuvalov",
+            "id": 214580679,
+            "id_str": "214580679",
+            "indices": [
+              3,
+              18
+            ]
+          },
+          {
+            "screen_name": "rubyunderhood",
+            "name": "Ruby-разработчик",
+            "id": 3341793591,
+            "id_str": "3341793591",
+            "indices": [
+              20,
+              34
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Mar 13 16:15:13 +0000 2016",
+      "id": 709050189772763100,
+      "id_str": "709050189772763136",
+      "text": "RT @shuvalov_anton: @rubyunderhood у меня были задачи, которые удовлетворяли амбиции, но окружение меня бесило и я выглядел там чванливым в…",
+      "truncated": false,
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Sun Mar 13 16:05:51 +0000 2016",
+        "id": 709047834486706200,
+        "id_str": "709047834486706176",
+        "text": "@rubyunderhood у меня были задачи, которые удовлетворяли амбиции, но окружение меня бесило и я выглядел там чванливым высокомерным мудаком",
+        "truncated": false,
+        "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+        "in_reply_to_status_id": 709045905484156900,
+        "in_reply_to_status_id_str": "709045905484156928",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 214580679,
+          "id_str": "214580679"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby-разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "shuvalov_anton",
+            "name": "Darth Shuvalov",
+            "id": 214580679,
+            "id_str": "214580679",
+            "indices": [
+              3,
+              18
+            ]
+          },
+          {
+            "screen_name": "rubyunderhood",
+            "name": "Ruby-разработчик",
+            "id": 3341793591,
+            "id_str": "3341793591",
+            "indices": [
+              20,
+              34
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Mar 13 16:15:18 +0000 2016",
+      "id": 709050211134365700,
+      "id_str": "709050211134365696",
+      "text": "RT @shuvalov_anton: @rubyunderhood я поменял работу,  изменил требования к другим делегированием ответственности. Ремунерация теперь — разв…",
+      "truncated": false,
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Sun Mar 13 16:08:56 +0000 2016",
+        "id": 709048609266933800,
+        "id_str": "709048609266933760",
+        "text": "@rubyunderhood я поменял работу,  изменил требования к другим делегированием ответственности. Ремунерация теперь — развлечения и алкоголь.",
+        "truncated": false,
+        "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+        "in_reply_to_status_id": 709045905484156900,
+        "in_reply_to_status_id_str": "709045905484156928",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 214580679,
+          "id_str": "214580679"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby-разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "shuvalov_anton",
+            "name": "Darth Shuvalov",
+            "id": 214580679,
+            "id_str": "214580679",
+            "indices": [
+              3,
+              18
+            ]
+          },
+          {
+            "screen_name": "rubyunderhood",
+            "name": "Ruby-разработчик",
+            "id": 3341793591,
+            "id_str": "3341793591",
+            "indices": [
+              20,
+              34
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Mar 13 16:15:21 +0000 2016",
+      "id": 709050222924550100,
+      "id_str": "709050222924550145",
+      "text": "RT @shuvalov_anton: @rubyunderhood тем не менее мне до сих пор сложно говорить о программировании — это чаще напоминает мне фаллометрию, а …",
+      "truncated": false,
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Sun Mar 13 16:10:54 +0000 2016",
+        "id": 709049103817285600,
+        "id_str": "709049103817285637",
+        "text": "@rubyunderhood тем не менее мне до сих пор сложно говорить о программировании — это чаще напоминает мне фаллометрию, а меряться мне не нужно",
+        "truncated": false,
+        "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+        "in_reply_to_status_id": 709045905484156900,
+        "in_reply_to_status_id_str": "709045905484156928",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 214580679,
+          "id_str": "214580679"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby-разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "shuvalov_anton",
+            "name": "Darth Shuvalov",
+            "id": 214580679,
+            "id_str": "214580679",
+            "indices": [
+              3,
+              18
+            ]
+          },
+          {
+            "screen_name": "rubyunderhood",
+            "name": "Ruby-разработчик",
+            "id": 3341793591,
+            "id_str": "3341793591",
+            "indices": [
+              20,
+              34
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Mar 13 17:21:03 +0000 2016",
+      "id": 709066758783524900,
+      "id_str": "709066758783524864",
+      "text": "У меня уже наступила ночь и на этом я с вами прощаюсь. Если заинтересовал и хотите продолжить общение, подписывайтесь на меня @pstepchenko",
+      "truncated": false,
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 3,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "pstepchenko",
+            "name": "Petr Stepchenko",
+            "id": 218202172,
+            "id_str": "218202172",
+            "indices": [
+              126,
+              138
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": true,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Mar 13 19:06:12 +0000 2016",
+      "id": 709093220748120000,
+      "id_str": "709093220748120064",
+      "text": "😅 Так и есть, с девушками все сложнее, вряд ли я могу что-то советовать  https://t.co/5hlmdZ5mZq",
+      "truncated": false,
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 709091872141090800,
+      "quoted_status_id_str": "709091872141090819",
+      "quoted_status": {
+        "created_at": "Sun Mar 13 19:00:51 +0000 2016",
+        "id": 709091872141090800,
+        "id_str": "709091872141090819",
+        "text": "@rubyunderhood вот ощущение такое, что тут ты пишешь исключительно про мальчиков",
+        "truncated": false,
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 709027310028984300,
+        "in_reply_to_status_id_str": "709027310028984322",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 183525360,
+          "id_str": "183525360"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby-разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/5hlmdZ5mZq",
+            "expanded_url": "https://twitter.com/gaar4ica/status/709091872141090819",
+            "display_url": "twitter.com/gaar4ica/statu…",
+            "indices": [
+              73,
+              96
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Mar 13 20:15:01 +0000 2016",
+      "id": 709110539247464400,
+      "id_str": "709110539247464449",
+      "text": "RT @gaar4ica: @rubyunderhood с девушками, проще иметь под рукой другую девушку, которая сможет быть индикатором адекватности первой. Все пр…",
+      "truncated": false,
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Sun Mar 13 20:13:52 +0000 2016",
+        "id": 709110247479255000,
+        "id_str": "709110247479255042",
+        "text": "@rubyunderhood с девушками, проще иметь под рукой другую девушку, которая сможет быть индикатором адекватности первой. Все просто 😊",
+        "truncated": false,
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 709093220748120000,
+        "in_reply_to_status_id_str": "709093220748120064",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 183525360,
+          "id_str": "183525360"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby-разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "gaar4ica",
+            "name": "Anna Shcherbinina",
+            "id": 183525360,
+            "id_str": "183525360",
+            "indices": [
+              3,
+              12
+            ]
+          },
+          {
+            "screen_name": "rubyunderhood",
+            "name": "Ruby-разработчик",
+            "id": 3341793591,
+            "id_str": "3341793591",
+            "indices": [
+              14,
+              28
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }
