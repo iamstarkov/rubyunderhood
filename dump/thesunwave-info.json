@@ -37,56 +37,58 @@
     }
   },
   "protected": false,
-  "followers_count": 924,
+  "followers_count": 927,
   "friends_count": 49,
   "listed_count": 54,
   "created_at": "Mon Jun 22 18:43:03 +0000 2015",
-  "favourites_count": 248,
+  "favourites_count": 249,
   "utc_offset": -25200,
   "time_zone": "Pacific Time (US & Canada)",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 10714,
+  "statuses_count": 10733,
   "lang": "en",
   "status": {
-    "created_at": "Mon Mar 14 18:27:43 +0000 2016",
-    "id": 709445924746104800,
-    "id_str": "709445924746104832",
-    "text": "Как насчет VSCode? Слышал отзывы некоторых разработчиков, им очень нравится @jsunderhood",
+    "created_at": "Tue Mar 15 15:23:35 +0000 2016",
+    "id": 709761972015919100,
+    "id_str": "709761972015919105",
+    "text": "Open Source Software https://t.co/Q4vcQ7Uce2",
     "truncated": false,
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-    "in_reply_to_status_id": 709434349821812700,
-    "in_reply_to_status_id_str": "709434349821812736",
-    "in_reply_to_user_id": 3014054307,
-    "in_reply_to_user_id_str": "3014054307",
-    "in_reply_to_screen_name": "jsunderhood",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": false,
+    "quoted_status_id": 709761780059402200,
+    "quoted_status_id_str": "709761780059402241",
+    "is_quote_status": true,
     "retweet_count": 0,
     "favorite_count": 0,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
+      "user_mentions": [],
+      "urls": [
         {
-          "screen_name": "jsunderhood",
-          "name": "Разработчик",
-          "id": 3014054307,
-          "id_str": "3014054307",
+          "url": "https://t.co/Q4vcQ7Uce2",
+          "expanded_url": "https://twitter.com/shved270189/status/709761780059402241",
+          "display_url": "twitter.com/shved270189/st…",
           "indices": [
-            76,
-            88
+            21,
+            44
           ]
         }
-      ],
-      "urls": []
+      ]
     },
     "favorited": false,
     "retweeted": false,
-    "lang": "ru"
+    "possibly_sensitive": false,
+    "lang": "cs"
   },
   "contributors_enabled": false,
   "is_translator": false,
