@@ -37,7 +37,7 @@
     }
   },
   "protected": false,
-  "followers_count": 936,
+  "followers_count": 939,
   "friends_count": 49,
   "listed_count": 54,
   "created_at": "Mon Jun 22 18:43:03 +0000 2015",
@@ -46,47 +46,119 @@
   "time_zone": "Pacific Time (US & Canada)",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 10788,
+  "statuses_count": 10792,
   "lang": "en",
   "status": {
-    "created_at": "Mon Mar 21 11:49:55 +0000 2016",
-    "id": 711882529356308500,
-    "id_str": "711882529356308480",
-    "text": "@TheSunwave про меня иногда тоже так думают, запишу в минусы работы на удалёнке :))",
+    "created_at": "Mon Mar 21 14:48:25 +0000 2016",
+    "id": 711927450121478100,
+    "id_str": "711927450121478144",
+    "text": "RT @_solnic_: Custom type-casting with ActiveRecord, Virtus and dry-types - Arkency Blog https://t.co/wY0YvJi88M via @arkency",
     "truncated": false,
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-    "in_reply_to_status_id": 711881942170538000,
-    "in_reply_to_status_id_str": "711881942170537984",
-    "in_reply_to_user_id": 45908996,
-    "in_reply_to_user_id_str": "45908996",
-    "in_reply_to_screen_name": "TheSunwave",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
+    "retweeted_status": {
+      "created_at": "Mon Mar 21 13:51:33 +0000 2016",
+      "id": 711913140120920000,
+      "id_str": "711913140120920066",
+      "text": "Custom type-casting with ActiveRecord, Virtus and dry-types - Arkency Blog https://t.co/wY0YvJi88M via @arkency",
+      "truncated": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 4,
+      "favorite_count": 3,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "arkency",
+            "name": "Arkency",
+            "id": 411018033,
+            "id_str": "411018033",
+            "indices": [
+              103,
+              111
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/wY0YvJi88M",
+            "expanded_url": "http://blog.arkency.com/2016/03/custom-typecasting-with-activerecord-virtus-and-dry-types/",
+            "display_url": "blog.arkency.com/2016/03/custom…",
+            "indices": [
+              75,
+              98
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
     "is_quote_status": false,
-    "retweet_count": 0,
+    "retweet_count": 4,
     "favorite_count": 0,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "TheSunwave",
-          "name": "Arturio",
-          "id": 45908996,
-          "id_str": "45908996",
+          "screen_name": "_solnic_",
+          "name": "Piotr Solnica",
+          "id": 14698700,
+          "id_str": "14698700",
           "indices": [
-            0,
-            11
+            3,
+            12
+          ]
+        },
+        {
+          "screen_name": "arkency",
+          "name": "Arkency",
+          "id": 411018033,
+          "id_str": "411018033",
+          "indices": [
+            117,
+            125
           ]
         }
       ],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/wY0YvJi88M",
+          "expanded_url": "http://blog.arkency.com/2016/03/custom-typecasting-with-activerecord-virtus-and-dry-types/",
+          "display_url": "blog.arkency.com/2016/03/custom…",
+          "indices": [
+            89,
+            112
+          ]
+        }
+      ]
     },
     "favorited": false,
     "retweeted": false,
-    "lang": "ru"
+    "possibly_sensitive": false,
+    "lang": "en"
   },
   "contributors_enabled": false,
   "is_translator": false,
