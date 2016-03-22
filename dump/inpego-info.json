@@ -37,22 +37,22 @@
     }
   },
   "protected": false,
-  "followers_count": 939,
+  "followers_count": 940,
   "friends_count": 49,
   "listed_count": 54,
   "created_at": "Mon Jun 22 18:43:03 +0000 2015",
-  "favourites_count": 271,
+  "favourites_count": 276,
   "utc_offset": -25200,
   "time_zone": "Pacific Time (US & Canada)",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 10792,
+  "statuses_count": 10822,
   "lang": "en",
   "status": {
-    "created_at": "Mon Mar 21 14:48:25 +0000 2016",
-    "id": 711927450121478100,
-    "id_str": "711927450121478144",
-    "text": "RT @_solnic_: Custom type-casting with ActiveRecord, Virtus and dry-types - Arkency Blog https://t.co/wY0YvJi88M via @arkency",
+    "created_at": "Tue Mar 22 11:26:43 +0000 2016",
+    "id": 712239079132373000,
+    "id_str": "712239079132372992",
+    "text": "RT @RubyConfBY: Laurent Sansonetti @lrz, HipByte founder and the original RubyMotion developer, will join us for #rubyconfby! Yay! https://…",
     "truncated": false,
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "in_reply_to_status_id": null,
@@ -65,10 +65,10 @@
     "place": null,
     "contributors": null,
     "retweeted_status": {
-      "created_at": "Mon Mar 21 13:51:33 +0000 2016",
-      "id": 711913140120920000,
-      "id_str": "711913140120920066",
-      "text": "Custom type-casting with ActiveRecord, Virtus and dry-types - Arkency Blog https://t.co/wY0YvJi88M via @arkency",
+      "created_at": "Mon Mar 21 10:31:58 +0000 2016",
+      "id": 711862912344789000,
+      "id_str": "711862912344788992",
+      "text": "Laurent Sansonetti @lrz, HipByte founder and the original RubyMotion developer, will join us for #rubyconfby! Yay! https://t.co/b3bz9eJojz",
       "truncated": false,
       "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
       "in_reply_to_status_id": null,
@@ -81,32 +81,108 @@
       "place": null,
       "contributors": null,
       "is_quote_status": false,
-      "retweet_count": 4,
-      "favorite_count": 3,
+      "retweet_count": 1,
+      "favorite_count": 0,
       "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [
+        "hashtags": [
           {
-            "screen_name": "arkency",
-            "name": "Arkency",
-            "id": 411018033,
-            "id_str": "411018033",
+            "text": "rubyconfby",
             "indices": [
-              103,
-              111
+              97,
+              108
             ]
           }
         ],
-        "urls": [
+        "symbols": [],
+        "user_mentions": [
           {
-            "url": "https://t.co/wY0YvJi88M",
-            "expanded_url": "http://blog.arkency.com/2016/03/custom-typecasting-with-activerecord-virtus-and-dry-types/",
-            "display_url": "blog.arkency.com/2016/03/custom…",
+            "screen_name": "lrz",
+            "name": "Laurent Sansonetti",
+            "id": 10452222,
+            "id_str": "10452222",
             "indices": [
-              75,
-              98
+              19,
+              23
             ]
+          }
+        ],
+        "urls": [],
+        "media": [
+          {
+            "id": 711862911212331000,
+            "id_str": "711862911212331008",
+            "indices": [
+              115,
+              138
+            ],
+            "media_url": "http://pbs.twimg.com/media/CeELi8-WIAAbyC-.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CeELi8-WIAAbyC-.jpg",
+            "url": "https://t.co/b3bz9eJojz",
+            "display_url": "pic.twitter.com/b3bz9eJojz",
+            "expanded_url": "http://twitter.com/RubyConfBY/status/711862912344788992/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1024,
+                "h": 536,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 178,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 600,
+                "h": 314,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 711862911212331000,
+            "id_str": "711862911212331008",
+            "indices": [
+              115,
+              138
+            ],
+            "media_url": "http://pbs.twimg.com/media/CeELi8-WIAAbyC-.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CeELi8-WIAAbyC-.jpg",
+            "url": "https://t.co/b3bz9eJojz",
+            "display_url": "pic.twitter.com/b3bz9eJojz",
+            "expanded_url": "http://twitter.com/RubyConfBY/status/711862912344788992/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1024,
+                "h": 536,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 178,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 600,
+                "h": 314,
+                "resize": "fit"
+              }
+            }
           }
         ]
       },
@@ -116,42 +192,126 @@
       "lang": "en"
     },
     "is_quote_status": false,
-    "retweet_count": 4,
+    "retweet_count": 1,
     "favorite_count": 0,
     "entities": {
-      "hashtags": [],
-      "symbols": [],
-      "user_mentions": [
+      "hashtags": [
         {
-          "screen_name": "_solnic_",
-          "name": "Piotr Solnica",
-          "id": 14698700,
-          "id_str": "14698700",
+          "text": "rubyconfby",
           "indices": [
-            3,
-            12
-          ]
-        },
-        {
-          "screen_name": "arkency",
-          "name": "Arkency",
-          "id": 411018033,
-          "id_str": "411018033",
-          "indices": [
-            117,
-            125
+            113,
+            124
           ]
         }
       ],
-      "urls": [
+      "symbols": [],
+      "user_mentions": [
         {
-          "url": "https://t.co/wY0YvJi88M",
-          "expanded_url": "http://blog.arkency.com/2016/03/custom-typecasting-with-activerecord-virtus-and-dry-types/",
-          "display_url": "blog.arkency.com/2016/03/custom…",
+          "screen_name": "RubyConfBY",
+          "name": "Ruby Conference BY",
+          "id": 3082001283,
+          "id_str": "3082001283",
           "indices": [
-            89,
-            112
+            3,
+            14
           ]
+        },
+        {
+          "screen_name": "lrz",
+          "name": "Laurent Sansonetti",
+          "id": 10452222,
+          "id_str": "10452222",
+          "indices": [
+            35,
+            39
+          ]
+        }
+      ],
+      "urls": [],
+      "media": [
+        {
+          "id": 711862911212331000,
+          "id_str": "711862911212331008",
+          "indices": [
+            139,
+            140
+          ],
+          "media_url": "http://pbs.twimg.com/media/CeELi8-WIAAbyC-.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CeELi8-WIAAbyC-.jpg",
+          "url": "https://t.co/b3bz9eJojz",
+          "display_url": "pic.twitter.com/b3bz9eJojz",
+          "expanded_url": "http://twitter.com/RubyConfBY/status/711862912344788992/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1024,
+              "h": 536,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 340,
+              "h": 178,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 600,
+              "h": 314,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 711862912344789000,
+          "source_status_id_str": "711862912344788992",
+          "source_user_id": 3082001283,
+          "source_user_id_str": "3082001283"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 711862911212331000,
+          "id_str": "711862911212331008",
+          "indices": [
+            139,
+            140
+          ],
+          "media_url": "http://pbs.twimg.com/media/CeELi8-WIAAbyC-.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CeELi8-WIAAbyC-.jpg",
+          "url": "https://t.co/b3bz9eJojz",
+          "display_url": "pic.twitter.com/b3bz9eJojz",
+          "expanded_url": "http://twitter.com/RubyConfBY/status/711862912344788992/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1024,
+              "h": 536,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 340,
+              "h": 178,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 600,
+              "h": 314,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 711862912344789000,
+          "source_status_id_str": "711862912344788992",
+          "source_user_id": 3082001283,
+          "source_user_id_str": "3082001283"
         }
       ]
     },
