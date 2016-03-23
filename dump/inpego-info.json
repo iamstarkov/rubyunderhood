@@ -41,284 +41,52 @@
   "friends_count": 49,
   "listed_count": 54,
   "created_at": "Mon Jun 22 18:43:03 +0000 2015",
-  "favourites_count": 276,
+  "favourites_count": 287,
   "utc_offset": -25200,
   "time_zone": "Pacific Time (US & Canada)",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 10822,
+  "statuses_count": 10850,
   "lang": "en",
   "status": {
-    "created_at": "Tue Mar 22 11:26:43 +0000 2016",
-    "id": 712239079132373000,
-    "id_str": "712239079132372992",
-    "text": "RT @RubyConfBY: Laurent Sansonetti @lrz, HipByte founder and the original RubyMotion developer, will join us for #rubyconfby! Yay! https://…",
+    "created_at": "Wed Mar 23 13:31:41 +0000 2016",
+    "id": 712632913196621800,
+    "id_str": "712632913196621824",
+    "text": "@TheSunwave вот щас обидно было((",
     "truncated": false,
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 712627428611518500,
+    "in_reply_to_status_id_str": "712627428611518465",
+    "in_reply_to_user_id": 45908996,
+    "in_reply_to_user_id_str": "45908996",
+    "in_reply_to_screen_name": "TheSunwave",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "retweeted_status": {
-      "created_at": "Mon Mar 21 10:31:58 +0000 2016",
-      "id": 711862912344789000,
-      "id_str": "711862912344788992",
-      "text": "Laurent Sansonetti @lrz, HipByte founder and the original RubyMotion developer, will join us for #rubyconfby! Yay! https://t.co/b3bz9eJojz",
-      "truncated": false,
-      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-      "in_reply_to_status_id": null,
-      "in_reply_to_status_id_str": null,
-      "in_reply_to_user_id": null,
-      "in_reply_to_user_id_str": null,
-      "in_reply_to_screen_name": null,
-      "geo": null,
-      "coordinates": null,
-      "place": null,
-      "contributors": null,
-      "is_quote_status": false,
-      "retweet_count": 1,
-      "favorite_count": 0,
-      "entities": {
-        "hashtags": [
-          {
-            "text": "rubyconfby",
-            "indices": [
-              97,
-              108
-            ]
-          }
-        ],
-        "symbols": [],
-        "user_mentions": [
-          {
-            "screen_name": "lrz",
-            "name": "Laurent Sansonetti",
-            "id": 10452222,
-            "id_str": "10452222",
-            "indices": [
-              19,
-              23
-            ]
-          }
-        ],
-        "urls": [],
-        "media": [
-          {
-            "id": 711862911212331000,
-            "id_str": "711862911212331008",
-            "indices": [
-              115,
-              138
-            ],
-            "media_url": "http://pbs.twimg.com/media/CeELi8-WIAAbyC-.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/CeELi8-WIAAbyC-.jpg",
-            "url": "https://t.co/b3bz9eJojz",
-            "display_url": "pic.twitter.com/b3bz9eJojz",
-            "expanded_url": "http://twitter.com/RubyConfBY/status/711862912344788992/photo/1",
-            "type": "photo",
-            "sizes": {
-              "large": {
-                "w": 1024,
-                "h": 536,
-                "resize": "fit"
-              },
-              "small": {
-                "w": 340,
-                "h": 178,
-                "resize": "fit"
-              },
-              "thumb": {
-                "w": 150,
-                "h": 150,
-                "resize": "crop"
-              },
-              "medium": {
-                "w": 600,
-                "h": 314,
-                "resize": "fit"
-              }
-            }
-          }
-        ]
-      },
-      "extended_entities": {
-        "media": [
-          {
-            "id": 711862911212331000,
-            "id_str": "711862911212331008",
-            "indices": [
-              115,
-              138
-            ],
-            "media_url": "http://pbs.twimg.com/media/CeELi8-WIAAbyC-.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/CeELi8-WIAAbyC-.jpg",
-            "url": "https://t.co/b3bz9eJojz",
-            "display_url": "pic.twitter.com/b3bz9eJojz",
-            "expanded_url": "http://twitter.com/RubyConfBY/status/711862912344788992/photo/1",
-            "type": "photo",
-            "sizes": {
-              "large": {
-                "w": 1024,
-                "h": 536,
-                "resize": "fit"
-              },
-              "small": {
-                "w": 340,
-                "h": 178,
-                "resize": "fit"
-              },
-              "thumb": {
-                "w": 150,
-                "h": 150,
-                "resize": "crop"
-              },
-              "medium": {
-                "w": 600,
-                "h": 314,
-                "resize": "fit"
-              }
-            }
-          }
-        ]
-      },
-      "favorited": false,
-      "retweeted": false,
-      "possibly_sensitive": false,
-      "lang": "en"
-    },
     "is_quote_status": false,
-    "retweet_count": 1,
+    "retweet_count": 0,
     "favorite_count": 0,
     "entities": {
-      "hashtags": [
-        {
-          "text": "rubyconfby",
-          "indices": [
-            113,
-            124
-          ]
-        }
-      ],
+      "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "RubyConfBY",
-          "name": "Ruby Conference BY",
-          "id": 3082001283,
-          "id_str": "3082001283",
+          "screen_name": "TheSunwave",
+          "name": "Arturio",
+          "id": 45908996,
+          "id_str": "45908996",
           "indices": [
-            3,
-            14
-          ]
-        },
-        {
-          "screen_name": "lrz",
-          "name": "Laurent Sansonetti",
-          "id": 10452222,
-          "id_str": "10452222",
-          "indices": [
-            35,
-            39
+            0,
+            11
           ]
         }
       ],
-      "urls": [],
-      "media": [
-        {
-          "id": 711862911212331000,
-          "id_str": "711862911212331008",
-          "indices": [
-            139,
-            140
-          ],
-          "media_url": "http://pbs.twimg.com/media/CeELi8-WIAAbyC-.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/CeELi8-WIAAbyC-.jpg",
-          "url": "https://t.co/b3bz9eJojz",
-          "display_url": "pic.twitter.com/b3bz9eJojz",
-          "expanded_url": "http://twitter.com/RubyConfBY/status/711862912344788992/photo/1",
-          "type": "photo",
-          "sizes": {
-            "large": {
-              "w": 1024,
-              "h": 536,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 340,
-              "h": 178,
-              "resize": "fit"
-            },
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "medium": {
-              "w": 600,
-              "h": 314,
-              "resize": "fit"
-            }
-          },
-          "source_status_id": 711862912344789000,
-          "source_status_id_str": "711862912344788992",
-          "source_user_id": 3082001283,
-          "source_user_id_str": "3082001283"
-        }
-      ]
-    },
-    "extended_entities": {
-      "media": [
-        {
-          "id": 711862911212331000,
-          "id_str": "711862911212331008",
-          "indices": [
-            139,
-            140
-          ],
-          "media_url": "http://pbs.twimg.com/media/CeELi8-WIAAbyC-.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/CeELi8-WIAAbyC-.jpg",
-          "url": "https://t.co/b3bz9eJojz",
-          "display_url": "pic.twitter.com/b3bz9eJojz",
-          "expanded_url": "http://twitter.com/RubyConfBY/status/711862912344788992/photo/1",
-          "type": "photo",
-          "sizes": {
-            "large": {
-              "w": 1024,
-              "h": 536,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 340,
-              "h": 178,
-              "resize": "fit"
-            },
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "medium": {
-              "w": 600,
-              "h": 314,
-              "resize": "fit"
-            }
-          },
-          "source_status_id": 711862912344789000,
-          "source_status_id_str": "711862912344788992",
-          "source_user_id": 3082001283,
-          "source_user_id_str": "3082001283"
-        }
-      ]
+      "urls": []
     },
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    "lang": "ru"
   },
   "contributors_enabled": false,
   "is_translator": false,
