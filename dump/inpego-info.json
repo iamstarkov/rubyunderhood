@@ -37,7 +37,7 @@
     }
   },
   "protected": false,
-  "followers_count": 944,
+  "followers_count": 945,
   "friends_count": 49,
   "listed_count": 55,
   "created_at": "Mon Jun 22 18:43:03 +0000 2015",
@@ -46,13 +46,13 @@
   "time_zone": "Pacific Time (US & Canada)",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 10865,
+  "statuses_count": 10866,
   "lang": "en",
   "status": {
-    "created_at": "Thu Mar 24 11:38:15 +0000 2016",
-    "id": 712966753672949800,
-    "id_str": "712966753672949760",
-    "text": "RT @ruby_news: A noob's perspective on transition to Elixir from Ruby https://t.co/hIX5YAr5zW",
+    "created_at": "Thu Mar 24 13:22:25 +0000 2016",
+    "id": 712992970694377500,
+    "id_str": "712992970694377473",
+    "text": "RT @RubyConfBY: Aleksandr Kirillov, Russia - Continuous Integration under microscope. Do not miss #rubyconfby https://t.co/kyOevfL3vX",
     "truncated": false,
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "in_reply_to_status_id": null,
@@ -65,12 +65,12 @@
     "place": null,
     "contributors": null,
     "retweeted_status": {
-      "created_at": "Thu Mar 24 10:53:14 +0000 2016",
-      "id": 712955427047215100,
-      "id_str": "712955427047215104",
-      "text": "A noob's perspective on transition to Elixir from Ruby https://t.co/hIX5YAr5zW",
+      "created_at": "Thu Mar 24 11:47:51 +0000 2016",
+      "id": 712969171324239900,
+      "id_str": "712969171324239873",
+      "text": "Aleksandr Kirillov, Russia - Continuous Integration under microscope. Do not miss #rubyconfby https://t.co/kyOevfL3vX",
       "truncated": false,
-      "source": "<a href=\"http://testtesttest.juice10.com/test\" rel=\"nofollow\">Test ruby-news</a>",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
       "in_reply_to_status_id": null,
       "in_reply_to_status_id_str": null,
       "in_reply_to_user_id": null,
@@ -81,61 +81,221 @@
       "place": null,
       "contributors": null,
       "is_quote_status": false,
-      "retweet_count": 6,
-      "favorite_count": 5,
+      "retweet_count": 5,
+      "favorite_count": 1,
       "entities": {
-        "hashtags": [],
+        "hashtags": [
+          {
+            "text": "rubyconfby",
+            "indices": [
+              82,
+              93
+            ]
+          }
+        ],
         "symbols": [],
         "user_mentions": [],
-        "urls": [
+        "urls": [],
+        "media": [
           {
-            "url": "https://t.co/hIX5YAr5zW",
-            "expanded_url": "https://medium.com/tiny-tech-tales/ruby-elixir-669cf31caf78",
-            "display_url": "medium.com/tiny-tech-tale…",
+            "id": 712969169818542100,
+            "id_str": "712969169818542080",
             "indices": [
-              55,
-              78
-            ]
+              94,
+              117
+            ],
+            "media_url": "http://pbs.twimg.com/media/CeT5rrbW4AA7rfZ.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CeT5rrbW4AA7rfZ.jpg",
+            "url": "https://t.co/kyOevfL3vX",
+            "display_url": "pic.twitter.com/kyOevfL3vX",
+            "expanded_url": "http://twitter.com/RubyConfBY/status/712969171324239873/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 600,
+                "h": 314,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 178,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1024,
+                "h": 536,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 712969169818542100,
+            "id_str": "712969169818542080",
+            "indices": [
+              94,
+              117
+            ],
+            "media_url": "http://pbs.twimg.com/media/CeT5rrbW4AA7rfZ.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CeT5rrbW4AA7rfZ.jpg",
+            "url": "https://t.co/kyOevfL3vX",
+            "display_url": "pic.twitter.com/kyOevfL3vX",
+            "expanded_url": "http://twitter.com/RubyConfBY/status/712969171324239873/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 600,
+                "h": 314,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 178,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1024,
+                "h": 536,
+                "resize": "fit"
+              }
+            }
           }
         ]
       },
       "favorited": false,
-      "retweeted": false,
+      "retweeted": true,
       "possibly_sensitive": false,
       "lang": "en"
     },
     "is_quote_status": false,
-    "retweet_count": 6,
+    "retweet_count": 5,
     "favorite_count": 0,
     "entities": {
-      "hashtags": [],
-      "symbols": [],
-      "user_mentions": [
+      "hashtags": [
         {
-          "screen_name": "ruby_news",
-          "name": "Ruby News",
-          "id": 16903992,
-          "id_str": "16903992",
+          "text": "rubyconfby",
           "indices": [
-            3,
-            13
+            98,
+            109
           ]
         }
       ],
-      "urls": [
+      "symbols": [],
+      "user_mentions": [
         {
-          "url": "https://t.co/hIX5YAr5zW",
-          "expanded_url": "https://medium.com/tiny-tech-tales/ruby-elixir-669cf31caf78",
-          "display_url": "medium.com/tiny-tech-tale…",
+          "screen_name": "RubyConfBY",
+          "name": "Ruby Conference BY",
+          "id": 3082001283,
+          "id_str": "3082001283",
           "indices": [
-            70,
-            93
+            3,
+            14
           ]
+        }
+      ],
+      "urls": [],
+      "media": [
+        {
+          "id": 712969169818542100,
+          "id_str": "712969169818542080",
+          "indices": [
+            110,
+            133
+          ],
+          "media_url": "http://pbs.twimg.com/media/CeT5rrbW4AA7rfZ.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CeT5rrbW4AA7rfZ.jpg",
+          "url": "https://t.co/kyOevfL3vX",
+          "display_url": "pic.twitter.com/kyOevfL3vX",
+          "expanded_url": "http://twitter.com/RubyConfBY/status/712969171324239873/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 600,
+              "h": 314,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 340,
+              "h": 178,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1024,
+              "h": 536,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 712969171324239900,
+          "source_status_id_str": "712969171324239873",
+          "source_user_id": 3082001283,
+          "source_user_id_str": "3082001283"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 712969169818542100,
+          "id_str": "712969169818542080",
+          "indices": [
+            110,
+            133
+          ],
+          "media_url": "http://pbs.twimg.com/media/CeT5rrbW4AA7rfZ.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CeT5rrbW4AA7rfZ.jpg",
+          "url": "https://t.co/kyOevfL3vX",
+          "display_url": "pic.twitter.com/kyOevfL3vX",
+          "expanded_url": "http://twitter.com/RubyConfBY/status/712969171324239873/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 600,
+              "h": 314,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 340,
+              "h": 178,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1024,
+              "h": 536,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 712969171324239900,
+          "source_status_id_str": "712969171324239873",
+          "source_user_id": 3082001283,
+          "source_user_id_str": "3082001283"
         }
       ]
     },
     "favorited": false,
-    "retweeted": false,
+    "retweeted": true,
     "possibly_sensitive": false,
     "lang": "en"
   },
