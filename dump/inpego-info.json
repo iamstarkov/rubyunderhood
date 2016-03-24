@@ -37,56 +37,107 @@
     }
   },
   "protected": false,
-  "followers_count": 940,
+  "followers_count": 944,
   "friends_count": 49,
-  "listed_count": 54,
+  "listed_count": 55,
   "created_at": "Mon Jun 22 18:43:03 +0000 2015",
   "favourites_count": 287,
   "utc_offset": -25200,
   "time_zone": "Pacific Time (US & Canada)",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 10850,
+  "statuses_count": 10865,
   "lang": "en",
   "status": {
-    "created_at": "Wed Mar 23 13:31:41 +0000 2016",
-    "id": 712632913196621800,
-    "id_str": "712632913196621824",
-    "text": "@TheSunwave вот щас обидно было((",
+    "created_at": "Thu Mar 24 11:38:15 +0000 2016",
+    "id": 712966753672949800,
+    "id_str": "712966753672949760",
+    "text": "RT @ruby_news: A noob's perspective on transition to Elixir from Ruby https://t.co/hIX5YAr5zW",
     "truncated": false,
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-    "in_reply_to_status_id": 712627428611518500,
-    "in_reply_to_status_id_str": "712627428611518465",
-    "in_reply_to_user_id": 45908996,
-    "in_reply_to_user_id_str": "45908996",
-    "in_reply_to_screen_name": "TheSunwave",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Mar 24 10:53:14 +0000 2016",
+      "id": 712955427047215100,
+      "id_str": "712955427047215104",
+      "text": "A noob's perspective on transition to Elixir from Ruby https://t.co/hIX5YAr5zW",
+      "truncated": false,
+      "source": "<a href=\"http://testtesttest.juice10.com/test\" rel=\"nofollow\">Test ruby-news</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 6,
+      "favorite_count": 5,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/hIX5YAr5zW",
+            "expanded_url": "https://medium.com/tiny-tech-tales/ruby-elixir-669cf31caf78",
+            "display_url": "medium.com/tiny-tech-tale…",
+            "indices": [
+              55,
+              78
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
     "is_quote_status": false,
-    "retweet_count": 0,
+    "retweet_count": 6,
     "favorite_count": 0,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "TheSunwave",
-          "name": "Arturio",
-          "id": 45908996,
-          "id_str": "45908996",
+          "screen_name": "ruby_news",
+          "name": "Ruby News",
+          "id": 16903992,
+          "id_str": "16903992",
           "indices": [
-            0,
-            11
+            3,
+            13
           ]
         }
       ],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/hIX5YAr5zW",
+          "expanded_url": "https://medium.com/tiny-tech-tales/ruby-elixir-669cf31caf78",
+          "display_url": "medium.com/tiny-tech-tale…",
+          "indices": [
+            70,
+            93
+          ]
+        }
+      ]
     },
     "favorited": false,
     "retweeted": false,
-    "lang": "ru"
+    "possibly_sensitive": false,
+    "lang": "en"
   },
   "contributors_enabled": false,
   "is_translator": false,
