@@ -26,22 +26,22 @@
     }
   },
   "protected": false,
-  "followers_count": 952,
+  "followers_count": 955,
   "friends_count": 50,
-  "listed_count": 55,
+  "listed_count": 56,
   "created_at": "Mon Jun 22 18:43:03 +0000 2015",
   "favourites_count": 292,
   "utc_offset": -25200,
   "time_zone": "Pacific Time (US & Canada)",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 10899,
+  "statuses_count": 10917,
   "lang": "en",
   "status": {
-    "created_at": "Mon Mar 28 07:10:51 +0000 2016",
-    "id": 714349011675775000,
-    "id_str": "714349011675774976",
-    "text": "У нас есть свой data pipeline, который наша компания к тому же продает в виде сервиса - https://t.co/Z2aA2BSTh7",
+    "created_at": "Mon Mar 28 16:18:18 +0000 2016",
+    "id": 714486782985900000,
+    "id_str": "714486782985900032",
+    "text": "Да и бэкенд тоже https://t.co/7sPii29Kyq",
     "truncated": false,
     "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
     "in_reply_to_status_id": null,
@@ -53,7 +53,9 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": false,
+    "quoted_status_id": 714485102642917400,
+    "quoted_status_id_str": "714485102642917377",
+    "is_quote_status": true,
     "retweet_count": 0,
     "favorite_count": 0,
     "entities": {
@@ -62,12 +64,12 @@
       "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/Z2aA2BSTh7",
-          "expanded_url": "https://aws.amazon.com/redshift/partners-detail/ironbeast/",
-          "display_url": "aws.amazon.com/redshift/partn…",
+          "url": "https://t.co/7sPii29Kyq",
+          "expanded_url": "https://twitter.com/_asci/status/714485102642917377",
+          "display_url": "twitter.com/_asci/status/7…",
           "indices": [
-            88,
-            111
+            17,
+            40
           ]
         }
       ]
