@@ -1,6 +1,6 @@
 export default [
   // post: false
-  { username: 'ad__astra',      start: '02 may 2016', first: '727047465636139008', post: false },
+  { username: 'ad__astra',      start: '02 may 2016', first: '727047465636139008' },
   { username: 'netoneko',       start: '28 mar 2016', first: '714347660208128000' },
   { username: 'inpego',         start: '21 mar 2016', first: '711801033027149824' },
   { username: 'thesunwave',     start: '14 mar 2016', first: '706794350722703360' },
