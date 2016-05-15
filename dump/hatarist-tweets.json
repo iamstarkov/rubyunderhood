@@ -1196,6 +1196,1495 @@
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 09 18:30:56 +0000 2016",
+      "id": 729740452153462800,
+      "id_str": "729740452153462784",
+      "text": "Но минимализму Синатры и Ruby в целом я сейчас просто поражаюсь. Даже после https://t.co/oBW4HBc4iP в синатре столько неведомой магии!",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/oBW4HBc4iP",
+            "expanded_url": "http://flask.pocoo.org/",
+            "display_url": "flask.pocoo.org",
+            "indices": [
+              76,
+              99
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 09 18:49:47 +0000 2016",
+      "id": 729745195495985200,
+      "id_str": "729745195495985152",
+      "text": "RT @ptico: @ajieks @rubyunderhood вы просто не умеете его готовить https://t.co/I2YvCgSt1b",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ptico",
+            "name": "Andriy Savchenko",
+            "id": 16743832,
+            "id_str": "16743832",
+            "indices": [
+              3,
+              9
+            ]
+          },
+          {
+            "screen_name": "ajieks",
+            "name": "Alexey Shcherbakov",
+            "id": 103034931,
+            "id_str": "103034931",
+            "indices": [
+              11,
+              18
+            ]
+          },
+          {
+            "screen_name": "rubyunderhood",
+            "name": "Ruby-разработчик",
+            "id": 3341793591,
+            "id_str": "3341793591",
+            "indices": [
+              19,
+              33
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/I2YvCgSt1b",
+            "expanded_url": "https://speakerdeck.com/ptico/building-web-api-without-rails-registration-or-sms",
+            "display_url": "speakerdeck.com/ptico/building…",
+            "indices": [
+              67,
+              90
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon May 09 18:46:30 +0000 2016",
+        "id": 729744371302682600,
+        "id_str": "729744371302682624",
+        "text": "@ajieks @rubyunderhood вы просто не умеете его готовить https://t.co/I2YvCgSt1b",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "ajieks",
+              "name": "Alexey Shcherbakov",
+              "id": 103034931,
+              "id_str": "103034931",
+              "indices": [
+                0,
+                7
+              ]
+            },
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby-разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                8,
+                22
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/I2YvCgSt1b",
+              "expanded_url": "https://speakerdeck.com/ptico/building-web-api-without-rails-registration-or-sms",
+              "display_url": "speakerdeck.com/ptico/building…",
+              "indices": [
+                56,
+                79
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 729705614440583200,
+        "in_reply_to_status_id_str": "729705614440583169",
+        "in_reply_to_user_id": 103034931,
+        "in_reply_to_user_id_str": "103034931",
+        "in_reply_to_screen_name": "ajieks",
+        "user": {
+          "id": 16743832,
+          "id_str": "16743832"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 7,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed May 11 09:13:35 +0000 2016",
+      "id": 730324964889464800,
+      "id_str": "730324964889464832",
+      "text": "Прошу прощения за тишину в эфире, работа накладывает свои отпечатки на свободное время. Зато флуда в ленте меньше!",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed May 11 09:13:38 +0000 2016",
+      "id": 730324977937952800,
+      "id_str": "730324977937952768",
+      "text": "Хочу поделиться интересными фичами iTerm, о которых вряд ли знают все. Кстати, сейчас в бете третья версия (2.9), она на удивление стабильна",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed May 11 09:13:42 +0000 2016",
+      "id": 730324996028039200,
+      "id_str": "730324996028039168",
+      "text": "...и стала приятнее глазу, особенно табы. Скачать бета-версию - https://t.co/c7uBEtSsO1, почитать про фичи - https://t.co/4rHqwWByiU",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/c7uBEtSsO1",
+            "expanded_url": "http://iterm2.com/downloads.html",
+            "display_url": "iterm2.com/downloads.html",
+            "indices": [
+              64,
+              87
+            ]
+          },
+          {
+            "url": "https://t.co/4rHqwWByiU",
+            "expanded_url": "http://iterm2.com/features.html",
+            "display_url": "iterm2.com/features.html",
+            "indices": [
+              109,
+              132
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed May 11 09:13:55 +0000 2016",
+      "id": 730325051682230300,
+      "id_str": "730325051682230273",
+      "text": "Запустили долгую команду (гитлаб поставить, например :D) и позже решили узнать, сколько она выполнялась? ⌘⇧E - https://t.co/mmHexjwSds",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 730325047219499000,
+            "id_str": "730325047219499008",
+            "indices": [
+              111,
+              134
+            ],
+            "media_url": "http://pbs.twimg.com/media/CiKiwtIWsAA2tFk.png",
+            "media_url_https": "https://pbs.twimg.com/media/CiKiwtIWsAA2tFk.png",
+            "url": "https://t.co/mmHexjwSds",
+            "display_url": "pic.twitter.com/mmHexjwSds",
+            "expanded_url": "http://twitter.com/rubyunderhood/status/730325051682230273/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 976,
+                "h": 586,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 204,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 600,
+                "h": 360,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 730325047219499000,
+            "id_str": "730325047219499008",
+            "indices": [
+              111,
+              134
+            ],
+            "media_url": "http://pbs.twimg.com/media/CiKiwtIWsAA2tFk.png",
+            "media_url_https": "https://pbs.twimg.com/media/CiKiwtIWsAA2tFk.png",
+            "url": "https://t.co/mmHexjwSds",
+            "display_url": "pic.twitter.com/mmHexjwSds",
+            "expanded_url": "http://twitter.com/rubyunderhood/status/730325051682230273/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 976,
+                "h": 586,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 204,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 600,
+                "h": 360,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 7,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed May 11 09:14:03 +0000 2016",
+      "id": 730325082627817500,
+      "id_str": "730325082627817473",
+      "text": "Любите работать со сплитами? ⌥⌘I - и не надо писать \"cd ~/Projects/myproject\" в каждом из них https://t.co/tWpV8M4x0T",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 730325078110523400,
+            "id_str": "730325078110523392",
+            "indices": [
+              94,
+              117
+            ],
+            "media_url": "http://pbs.twimg.com/media/CiKiygNWUAALj2x.png",
+            "media_url_https": "https://pbs.twimg.com/media/CiKiygNWUAALj2x.png",
+            "url": "https://t.co/tWpV8M4x0T",
+            "display_url": "pic.twitter.com/tWpV8M4x0T",
+            "expanded_url": "http://twitter.com/rubyunderhood/status/730325082627817473/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1024,
+                "h": 532,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 600,
+                "h": 312,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 177,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 730325078110523400,
+            "id_str": "730325078110523392",
+            "indices": [
+              94,
+              117
+            ],
+            "media_url": "http://pbs.twimg.com/media/CiKiygNWUAALj2x.png",
+            "media_url_https": "https://pbs.twimg.com/media/CiKiygNWUAALj2x.png",
+            "url": "https://t.co/tWpV8M4x0T",
+            "display_url": "pic.twitter.com/tWpV8M4x0T",
+            "expanded_url": "http://twitter.com/rubyunderhood/status/730325082627817473/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1024,
+                "h": 532,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 600,
+                "h": 312,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 177,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed May 11 09:14:05 +0000 2016",
+      "id": 730325093935648800,
+      "id_str": "730325093935648768",
+      "text": "Текущий сплит можно развернуть на полный экран (⇧⌘↩), чтобы было удобнее читать логи, маны и прочее.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed May 11 09:14:13 +0000 2016",
+      "id": 730325126147870700,
+      "id_str": "730325126147870720",
+      "text": "И самое прекрасное и бесполезное одновременно - потеряли курсор? ⌘/ https://t.co/HirzWTtf5J",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 730325121605509100,
+            "id_str": "730325121605509120",
+            "indices": [
+              68,
+              91
+            ],
+            "media_url": "http://pbs.twimg.com/media/CiKi1CPXIAA-b2v.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CiKi1CPXIAA-b2v.jpg",
+            "url": "https://t.co/HirzWTtf5J",
+            "display_url": "pic.twitter.com/HirzWTtf5J",
+            "expanded_url": "http://twitter.com/rubyunderhood/status/730325126147870720/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 600,
+                "h": 335,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 190,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1024,
+                "h": 572,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 730325121605509100,
+            "id_str": "730325121605509120",
+            "indices": [
+              68,
+              91
+            ],
+            "media_url": "http://pbs.twimg.com/media/CiKi1CPXIAA-b2v.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CiKi1CPXIAA-b2v.jpg",
+            "url": "https://t.co/HirzWTtf5J",
+            "display_url": "pic.twitter.com/HirzWTtf5J",
+            "expanded_url": "http://twitter.com/rubyunderhood/status/730325126147870720/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 600,
+                "h": 335,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 190,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1024,
+                "h": 572,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed May 11 09:17:36 +0000 2016",
+      "id": 730325976786309100,
+      "id_str": "730325976786309120",
+      "text": "RT @ynelin: @rubyunderhood будет, наверное, правильно к этому твиту упомянуть книжку Efficient Rails\n https://t.co/YnpV6vNg28 ну просто мас…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ynelin",
+            "name": "Yarik",
+            "id": 99072035,
+            "id_str": "99072035",
+            "indices": [
+              3,
+              10
+            ]
+          },
+          {
+            "screen_name": "rubyunderhood",
+            "name": "Ruby-разработчик",
+            "id": 3341793591,
+            "id_str": "3341793591",
+            "indices": [
+              12,
+              26
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/YnpV6vNg28",
+            "expanded_url": "https://habrahabr.ru/post/282936/",
+            "display_url": "habrahabr.ru/post/282936/",
+            "indices": [
+              102,
+              125
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Wed May 11 09:17:24 +0000 2016",
+        "id": 730325928044269600,
+        "id_str": "730325928044269568",
+        "text": "@rubyunderhood будет, наверное, правильно к этому твиту упомянуть книжку Efficient Rails\n https://t.co/YnpV6vNg28 ну просто маст рид :)",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby-разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/YnpV6vNg28",
+              "expanded_url": "https://habrahabr.ru/post/282936/",
+              "display_url": "habrahabr.ru/post/282936/",
+              "indices": [
+                90,
+                113
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+        "in_reply_to_status_id": 730324977937952800,
+        "in_reply_to_status_id_str": "730324977937952768",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 99072035,
+          "id_str": "99072035"
+        },
+        "geo": {
+          "type": "Point",
+          "coordinates": [
+            50.44590036,
+            30.49711836
+          ]
+        },
+        "coordinates": {
+          "type": "Point",
+          "coordinates": [
+            30.49711836,
+            50.44590036
+          ]
+        },
+        "place": {
+          "id": "084d0d0155787e9d",
+          "url": "https://api.twitter.com/1.1/geo/id/084d0d0155787e9d.json",
+          "place_type": "country",
+          "name": "Україна",
+          "full_name": "Україна",
+          "country_code": "UA",
+          "country": "Україна",
+          "contained_within": [],
+          "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  22.1357201,
+                  44.386383
+                ],
+                [
+                  40.227172,
+                  44.386383
+                ],
+                [
+                  40.227172,
+                  52.379475
+                ],
+                [
+                  22.1357201,
+                  52.379475
+                ]
+              ]
+            ]
+          },
+          "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 5,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed May 11 09:20:26 +0000 2016",
+      "id": 730326690405199900,
+      "id_str": "730326690405199873",
+      "text": "В третьей версии появилась интеграция с шеллом (bash, zsh, fish), которая работает даже на remote серверах (при условиии настроенного .shrc)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed May 11 09:20:37 +0000 2016",
+      "id": 730326738639720400,
+      "id_str": "730326738639720448",
+      "text": "Можно переходить к строчкам, на которых выполнялись прошлые команды: https://t.co/aCqYJ3jXt1 ; drag'n'dropать файлики с передачей по scp...",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/aCqYJ3jXt1",
+            "expanded_url": "http://iterm2.com/img/screenshots/v3-screen-shots/iterm2-shell-integration-navigation-demo.gif",
+            "display_url": "iterm2.com/img/screenshot…",
+            "indices": [
+              69,
+              92
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed May 11 13:14:01 +0000 2016",
+      "id": 730385474628558800,
+      "id_str": "730385474628558848",
+      "text": "и у iTerm с ним, к слову, очень крутая интеграция! https://t.co/X1VpLaWnRL",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/X1VpLaWnRL",
+            "expanded_url": "https://twitter.com/rainrb/status/730381511904645121",
+            "display_url": "twitter.com/rainrb/status/…",
+            "indices": [
+              51,
+              74
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 730381511904645100,
+      "quoted_status_id_str": "730381511904645121",
+      "quoted_status": {
+        "created_at": "Wed May 11 12:58:16 +0000 2016",
+        "id": 730381511904645100,
+        "id_str": "730381511904645121",
+        "text": "@rubyunderhood использую для этого tmux:)",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby-разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 730325082627817500,
+        "in_reply_to_status_id_str": "730325082627817473",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 92529952,
+          "id_str": "92529952"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed May 11 13:57:52 +0000 2016",
+      "id": 730396507535507500,
+      "id_str": "730396507535507456",
+      "text": "А для Sublime Text есть хорошие плагины, которые делают поведение работы с панелями/сплитами похожим на iTerm'овское:",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed May 11 13:57:56 +0000 2016",
+      "id": 730396523666739200,
+      "id_str": "730396523666739200",
+      "text": "1) InactivePanes делает неактивные окна более бледными - проще различать, в каком находишься сейчас https://t.co/DqvwBzjI55",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 730396518948212700,
+            "id_str": "730396518948212736",
+            "indices": [
+              100,
+              123
+            ],
+            "media_url": "http://pbs.twimg.com/media/CiLjw6EXEAADRVF.png",
+            "media_url_https": "https://pbs.twimg.com/media/CiLjw6EXEAADRVF.png",
+            "url": "https://t.co/DqvwBzjI55",
+            "display_url": "pic.twitter.com/DqvwBzjI55",
+            "expanded_url": "http://twitter.com/rubyunderhood/status/730396523666739200/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 600,
+                "h": 426,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 340,
+                "h": 241,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1024,
+                "h": 727,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 730396518948212700,
+            "id_str": "730396518948212736",
+            "indices": [
+              100,
+              123
+            ],
+            "media_url": "http://pbs.twimg.com/media/CiLjw6EXEAADRVF.png",
+            "media_url_https": "https://pbs.twimg.com/media/CiLjw6EXEAADRVF.png",
+            "url": "https://t.co/DqvwBzjI55",
+            "display_url": "pic.twitter.com/DqvwBzjI55",
+            "expanded_url": "http://twitter.com/rubyunderhood/status/730396523666739200/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 600,
+                "h": 426,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 340,
+                "h": 241,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1024,
+                "h": 727,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed May 11 13:57:58 +0000 2016",
+      "id": 730396534408396800,
+      "id_str": "730396534408396800",
+      "text": "2) MaxPane умеет разворачивать активный сплит на весь экран (и переключаться между сплитами, но это и Origami может)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed May 11 13:58:04 +0000 2016",
+      "id": 730396560979337200,
+      "id_str": "730396560979337216",
+      "text": "3) Switch View in Group переключает между табами в пределах одной панели, а то next_view/next_view_in_stack по умолчанию странно себя ведут.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu May 12 12:10:45 +0000 2016",
+      "id": 730731938668007400,
+      "id_str": "730731938668007424",
+      "text": "RT @ad__astra: На той неделе я в @rubyunderhood линковала Эпичный Труд, 100$ на Amazon: https://t.co/zOYZfw2tJQ ... ловите момент, на распр…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ad__astra",
+            "name": "Ad Astra",
+            "id": 15351905,
+            "id_str": "15351905",
+            "indices": [
+              3,
+              13
+            ]
+          },
+          {
+            "screen_name": "rubyunderhood",
+            "name": "Ruby-разработчик",
+            "id": 3341793591,
+            "id_str": "3341793591",
+            "indices": [
+              33,
+              47
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/zOYZfw2tJQ",
+            "expanded_url": "http://www.piter.com/collection/klassika-computer-science/product/kompyuternye-seti-5-e-izd-3",
+            "display_url": "piter.com/collection/kla…",
+            "indices": [
+              88,
+              111
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Thu May 12 12:10:07 +0000 2016",
+        "id": 730731779250901000,
+        "id_str": "730731779250900992",
+        "text": "На той неделе я в @rubyunderhood линковала Эпичный Труд, 100$ на Amazon: https://t.co/zOYZfw2tJQ ... ловите момент, на распродаже - копейки!",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby-разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                18,
+                32
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/zOYZfw2tJQ",
+              "expanded_url": "http://www.piter.com/collection/klassika-computer-science/product/kompyuternye-seti-5-e-izd-3",
+              "display_url": "piter.com/collection/kla…",
+              "indices": [
+                73,
+                96
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 15351905,
+          "id_str": "15351905"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat May 14 09:15:25 +0000 2016",
+      "id": 731412591369695200,
+      "id_str": "731412591369695233",
+      "text": "RT @moscowrb: Напоминаем, что наша майская встреча пройдёт 28 числа. Ждём всех в пивбаре на Китай городе!",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "moscowrb",
+            "name": "Moscow.rb",
+            "id": 3236369360,
+            "id_str": "3236369360",
+            "indices": [
+              3,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Fri May 13 15:47:11 +0000 2016",
+        "id": 731148796944613400,
+        "id_str": "731148796944613376",
+        "text": "Напоминаем, что наша майская встреча пройдёт 28 числа. Ждём всех в пивбаре на Китай городе!",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 3236369360,
+          "id_str": "3236369360"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 3,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": true,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat May 14 09:15:27 +0000 2016",
+      "id": 731412601503133700,
+      "id_str": "731412601503133696",
+      "text": "RT @moscowrb: А так же, к нам в гости приедет всё ярославское руби и эрланг комьюнити, так что не пропустите!",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "moscowrb",
+            "name": "Moscow.rb",
+            "id": 3236369360,
+            "id_str": "3236369360",
+            "indices": [
+              3,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Fri May 13 15:48:04 +0000 2016",
+        "id": 731149017716019200,
+        "id_str": "731149017716019200",
+        "text": "А так же, к нам в гости приедет всё ярославское руби и эрланг комьюнити, так что не пропустите!",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 3236369360,
+          "id_str": "3236369360"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 3,
+        "favorite_count": 2,
+        "favorited": false,
+        "retweeted": true,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "ru"
     }
   ]
 }
