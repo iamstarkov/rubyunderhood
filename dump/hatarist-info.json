@@ -37,7 +37,7 @@
     }
   },
   "protected": false,
-  "followers_count": 1044,
+  "followers_count": 1057,
   "friends_count": 50,
   "listed_count": 57,
   "created_at": "Mon Jun 22 18:43:03 +0000 2015",
@@ -46,32 +46,42 @@
   "time_zone": "Pacific Time (US & Canada)",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 11405,
+  "statuses_count": 11408,
   "lang": "en",
   "status": {
-    "created_at": "Sat May 14 09:15:27 +0000 2016",
-    "id": 731412601503133700,
-    "id_str": "731412601503133696",
-    "text": "RT @moscowrb: А так же, к нам в гости приедет всё ярославское руби и эрланг комьюнити, так что не пропустите!",
+    "created_at": "Fri May 20 10:08:51 +0000 2016",
+    "id": 733600367313887200,
+    "id_str": "733600367313887233",
+    "text": "RT @7rulnik: Йо, мы ищем Ruby разработчика!\nhttps://t.co/4mc6BNk7uO",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "moscowrb",
-          "name": "Moscow.rb",
-          "id": 3236369360,
-          "id_str": "3236369360",
+          "screen_name": "7rulnik",
+          "name": "Valentin Semirulnik",
+          "id": 449464925,
+          "id_str": "449464925",
           "indices": [
             3,
-            12
+            11
           ]
         }
       ],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/4mc6BNk7uO",
+          "expanded_url": "https://spb.hh.ru/vacancy/16971256",
+          "display_url": "spb.hh.ru/vacancy/169712…",
+          "indices": [
+            44,
+            67
+          ]
+        }
+      ]
     },
-    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix for Android</a>",
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
@@ -82,18 +92,28 @@
     "place": null,
     "contributors": null,
     "retweeted_status": {
-      "created_at": "Fri May 13 15:48:04 +0000 2016",
-      "id": 731149017716019200,
-      "id_str": "731149017716019200",
-      "text": "А так же, к нам в гости приедет всё ярославское руби и эрланг комьюнити, так что не пропустите!",
+      "created_at": "Thu May 19 07:33:12 +0000 2016",
+      "id": 733198808520261600,
+      "id_str": "733198808520261632",
+      "text": "Йо, мы ищем Ruby разработчика!\nhttps://t.co/4mc6BNk7uO",
       "truncated": false,
       "entities": {
         "hashtags": [],
         "symbols": [],
         "user_mentions": [],
-        "urls": []
+        "urls": [
+          {
+            "url": "https://t.co/4mc6BNk7uO",
+            "expanded_url": "https://spb.hh.ru/vacancy/16971256",
+            "display_url": "spb.hh.ru/vacancy/169712…",
+            "indices": [
+              31,
+              54
+            ]
+          }
+        ]
       },
-      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
       "in_reply_to_status_id": null,
       "in_reply_to_status_id_str": null,
       "in_reply_to_user_id": null,
@@ -104,17 +124,19 @@
       "place": null,
       "contributors": null,
       "is_quote_status": false,
-      "retweet_count": 3,
-      "favorite_count": 2,
+      "retweet_count": 1,
+      "favorite_count": 1,
       "favorited": false,
-      "retweeted": true,
+      "retweeted": false,
+      "possibly_sensitive": false,
       "lang": "ru"
     },
     "is_quote_status": false,
-    "retweet_count": 3,
+    "retweet_count": 1,
     "favorite_count": 0,
     "favorited": false,
-    "retweeted": true,
+    "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
