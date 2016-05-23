@@ -1,6 +1,6 @@
 export default [
   // post: false
-  { username: 'hatarist',      start: '09 may 2016', first: '729697873835765760', post: false },
+  { username: 'hatarist',       start: '09 may 2016', first: '729697873835765760' },
   { username: 'ad__astra',      start: '02 may 2016', first: '727047465636139008' },
   { username: 'netoneko',       start: '28 mar 2016', first: '714347660208128000' },
   { username: 'inpego',         start: '21 mar 2016', first: '711801033027149824' },
