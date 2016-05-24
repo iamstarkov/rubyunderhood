@@ -1,0 +1,1305 @@
+{
+  "tweets": [
+    {
+      "created_at": "Tue May 24 07:22:06 +0000 2016",
+      "id": 735007953523232800,
+      "id_str": "735007953523232768",
+      "text": "Привет всем. Меня зовут Дима. Я RoR разработчик из Минска. Работаю на большом проекте уже 3 года. Втихоря пишу стартапы. Катаю на лонге",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue May 24 07:38:12 +0000 2016",
+      "id": 735012005917130800,
+      "id_str": "735012005917130752",
+      "text": "Попросил купить медбол в офис. Теперь обсуждаем новые фичи бросая мячом друг в друга  https://t.co/eafBUlxOIf https://t.co/u1KCiEWyGC",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/eafBUlxOIf",
+            "expanded_url": "https://www.youtube.com/watch?v=MxAgjbQFoww",
+            "display_url": "youtube.com/watch?v=MxAgjb…",
+            "indices": [
+              86,
+              109
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 735012004428193800,
+            "id_str": "735012004428193792",
+            "indices": [
+              110,
+              133
+            ],
+            "media_url": "http://pbs.twimg.com/media/CjNJhhWXIAAqBsX.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CjNJhhWXIAAqBsX.jpg",
+            "url": "https://t.co/u1KCiEWyGC",
+            "display_url": "pic.twitter.com/u1KCiEWyGC",
+            "expanded_url": "http://twitter.com/rubyunderhood/status/735012005917130752/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 600,
+                "h": 800,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 453,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1024,
+                "h": 1365,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 735012004428193800,
+            "id_str": "735012004428193792",
+            "indices": [
+              110,
+              133
+            ],
+            "media_url": "http://pbs.twimg.com/media/CjNJhhWXIAAqBsX.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CjNJhhWXIAAqBsX.jpg",
+            "url": "https://t.co/u1KCiEWyGC",
+            "display_url": "pic.twitter.com/u1KCiEWyGC",
+            "expanded_url": "http://twitter.com/rubyunderhood/status/735012005917130752/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 600,
+                "h": 800,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 453,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1024,
+                "h": 1365,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue May 24 07:42:20 +0000 2016",
+      "id": 735013045479592000,
+      "id_str": "735013045479591936",
+      "text": "RT @Shiroginne: Минчане, хочу подключить атлант вместо байфлай. Какие подводные камни?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Shiroginne",
+            "name": "Mac Shifford",
+            "id": 25733176,
+            "id_str": "25733176",
+            "indices": [
+              3,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Tue May 24 07:36:14 +0000 2016",
+        "id": 735011511568093200,
+        "id_str": "735011511568093184",
+        "text": "Минчане, хочу подключить атлант вместо байфлай. Какие подводные камни?",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": []
+        },
+        "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 25733176,
+          "id_str": "25733176"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue May 24 07:47:02 +0000 2016",
+      "id": 735014226780115000,
+      "id_str": "735014226780114944",
+      "text": "Атлант проводит много акций, Байфлай - это большой брат, который следит за тобой. В общем случае нужно смотреть зону покрытия @Shiroginne",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Shiroginne",
+            "name": "Mac Shifford",
+            "id": 25733176,
+            "id_str": "25733176",
+            "indices": [
+              126,
+              137
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue May 24 07:50:01 +0000 2016",
+      "id": 735014978898563100,
+      "id_str": "735014978898563072",
+      "text": "Я из Минска. У меня брат сейчас учится в МФТИ @Shiroginne",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Shiroginne",
+            "name": "Mac Shifford",
+            "id": 25733176,
+            "id_str": "25733176",
+            "indices": [
+              46,
+              57
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue May 24 08:18:49 +0000 2016",
+      "id": 735022226014130200,
+      "id_str": "735022226014130176",
+      "text": "Какой редактор используете для разработки?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue May 24 08:26:09 +0000 2016",
+      "id": 735024071667286000,
+      "id_str": "735024071667286016",
+      "text": "Раньше использовал шуфлядку от шкафа в качестве standing desk. Сейчас задумываюсь над покупкой реального стола. Подскажете модель/фирму?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue May 24 08:28:48 +0000 2016",
+      "id": 735024738825871400,
+      "id_str": "735024738825871360",
+      "text": "Год назад коллега посоветовал использовать spacemacs https://t.co/uZtsl3swsu для разработки в чем ему безмерно благодарен",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/uZtsl3swsu",
+            "expanded_url": "https://github.com/syl20bnr/spacemacs",
+            "display_url": "github.com/syl20bnr/space…",
+            "indices": [
+              53,
+              76
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue May 24 08:32:12 +0000 2016",
+      "id": 735025596229681200,
+      "id_str": "735025596229681152",
+      "text": "Всем ЗОЖа https://t.co/9hNALiHptI",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/9hNALiHptI",
+            "expanded_url": "https://www.toptal.com/remote/ergonomics-for-digital-nomads-working-on-the-road-without-killing-yourself",
+            "display_url": "toptal.com/remote/ergonom…",
+            "indices": [
+              10,
+              33
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue May 24 08:41:25 +0000 2016",
+      "id": 735027912898924500,
+      "id_str": "735027912898924545",
+      "text": "Не тормозит? @oleg_antonyan",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "oleg_antonyan",
+            "name": "Oleg Antonyan",
+            "id": 1941508063,
+            "id_str": "1941508063",
+            "indices": [
+              13,
+              27
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 735022948566847500,
+      "in_reply_to_status_id_str": "735022948566847488",
+      "in_reply_to_user_id": 1941508063,
+      "in_reply_to_user_id_str": "1941508063",
+      "in_reply_to_screen_name": "oleg_antonyan",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue May 24 08:47:29 +0000 2016",
+      "id": 735029442075078700,
+      "id_str": "735029442075078657",
+      "text": "Как проводите стендап?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue May 24 08:57:04 +0000 2016",
+      "id": 735031850490593300,
+      "id_str": "735031850490593281",
+      "text": "Да неплохо было бы добавить и такой вариант. Но по-моему стендапить стоя сильнее мотивирует @mpak999",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "mpak999",
+            "name": "MpaK",
+            "id": 18864603,
+            "id_str": "18864603",
+            "indices": [
+              92,
+              100
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 735030272165453800,
+      "in_reply_to_status_id_str": "735030272165453824",
+      "in_reply_to_user_id": 18864603,
+      "in_reply_to_user_id_str": "18864603",
+      "in_reply_to_screen_name": "mpak999",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue May 24 09:08:26 +0000 2016",
+      "id": 735034712096399400,
+      "id_str": "735034712096399360",
+      "text": "ну это уже ситдаун получается :) @mpak999",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "mpak999",
+            "name": "MpaK",
+            "id": 18864603,
+            "id_str": "18864603",
+            "indices": [
+              33,
+              41
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 735032076844437500,
+      "in_reply_to_status_id_str": "735032076844437504",
+      "in_reply_to_user_id": 18864603,
+      "in_reply_to_user_id_str": "18864603",
+      "in_reply_to_screen_name": "mpak999",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue May 24 09:12:30 +0000 2016",
+      "id": 735035736114761700,
+      "id_str": "735035736114761728",
+      "text": "Также говорят Sublime уже умер. По-моему саблаймеры смеются Вам в лицо\nhttps://t.co/T55VPDyXqs\n@xo8bit",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "xo8bit",
+            "name": "Nazar Sheremet",
+            "id": 4052890395,
+            "id_str": "4052890395",
+            "indices": [
+              95,
+              102
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/T55VPDyXqs",
+            "expanded_url": "https://twitter.com/rubyunderhood/status/735022226014130176",
+            "display_url": "twitter.com/rubyunderhood/…",
+            "indices": [
+              71,
+              94
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 735035067509178400,
+      "in_reply_to_status_id_str": "735035067509178368",
+      "in_reply_to_user_id": 4052890395,
+      "in_reply_to_user_id_str": "4052890395",
+      "in_reply_to_screen_name": "xo8bit",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 735022226014130200,
+      "quoted_status_id_str": "735022226014130176",
+      "quoted_status": {
+        "created_at": "Tue May 24 08:18:49 +0000 2016",
+        "id": 735022226014130200,
+        "id_str": "735022226014130176",
+        "text": "Какой редактор используете для разработки?",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 3341793591,
+          "id_str": "3341793591"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue May 24 09:17:05 +0000 2016",
+      "id": 735036888982167600,
+      "id_str": "735036888982167552",
+      "text": "Да, у spacemacs есть куча плагинов https://t.co/eszI0j12Ne, которые позволяют запускать чуть ли не браузер из консоли @staskjs",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "staskjs",
+            "name": "Stas Karpov",
+            "id": 300993494,
+            "id_str": "300993494",
+            "indices": [
+              118,
+              126
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/eszI0j12Ne",
+            "expanded_url": "https://github.com/syl20bnr/spacemacs/tree/master/layers",
+            "display_url": "github.com/syl20bnr/space…",
+            "indices": [
+              35,
+              58
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 735035535190839300,
+      "in_reply_to_status_id_str": "735035535190839296",
+      "in_reply_to_user_id": 300993494,
+      "in_reply_to_user_id_str": "300993494",
+      "in_reply_to_screen_name": "staskjs",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue May 24 09:19:15 +0000 2016",
+      "id": 735037433339891700,
+      "id_str": "735037433339891716",
+      "text": "я хотел добавить и Atom, и Rubymine, но не разобрался как добавить более 4ех опций @xo8bit",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "xo8bit",
+            "name": "Nazar Sheremet",
+            "id": 4052890395,
+            "id_str": "4052890395",
+            "indices": [
+              83,
+              90
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 735034659466313700,
+      "in_reply_to_status_id_str": "735034659466313728",
+      "in_reply_to_user_id": 4052890395,
+      "in_reply_to_user_id_str": "4052890395",
+      "in_reply_to_screen_name": "xo8bit",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue May 24 09:24:46 +0000 2016",
+      "id": 735038824808648700,
+      "id_str": "735038824808648704",
+      "text": "Горы легаси это да! Если нужно сделать новый функционал, а легаси код попахивает, я предпочитаю снести и написать с нуля @dronovmm",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "dronovmm",
+            "name": "Mikhail Dronov",
+            "id": 152903648,
+            "id_str": "152903648",
+            "indices": [
+              121,
+              130
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 735009526408155100,
+      "in_reply_to_status_id_str": "735009526408155136",
+      "in_reply_to_user_id": 152903648,
+      "in_reply_to_user_id_str": "152903648",
+      "in_reply_to_screen_name": "dronovmm",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue May 24 09:30:07 +0000 2016",
+      "id": 735040170702037000,
+      "id_str": "735040170702036992",
+      "text": "Rails сейчас стабилен и prod ready. На нем будут разрабатывать и получать достойные шекели еще как минимум лет 10 @akrichevskii @AlexWayfer",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "akrichevskii",
+            "name": "Anton Krichevskiy",
+            "id": 3807538217,
+            "id_str": "3807538217",
+            "indices": [
+              114,
+              127
+            ]
+          },
+          {
+            "screen_name": "AlexWayfer",
+            "name": "Alexander Popov",
+            "id": 312906249,
+            "id_str": "312906249",
+            "indices": [
+              128,
+              139
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 735038337438863400,
+      "in_reply_to_status_id_str": "735038337438863360",
+      "in_reply_to_user_id": 3807538217,
+      "in_reply_to_user_id_str": "3807538217",
+      "in_reply_to_screen_name": "akrichevskii",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue May 24 09:32:54 +0000 2016",
+      "id": 735040871763202000,
+      "id_str": "735040871763202049",
+      "text": "Видимо не получилось провести аналогию с Sublime :) @AlexWayfer @akrichevskii",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "AlexWayfer",
+            "name": "Alexander Popov",
+            "id": 312906249,
+            "id_str": "312906249",
+            "indices": [
+              52,
+              63
+            ]
+          },
+          {
+            "screen_name": "akrichevskii",
+            "name": "Anton Krichevskiy",
+            "id": 3807538217,
+            "id_str": "3807538217",
+            "indices": [
+              64,
+              77
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 735040464496275500,
+      "in_reply_to_status_id_str": "735040464496275456",
+      "in_reply_to_user_id": 312906249,
+      "in_reply_to_user_id_str": "312906249",
+      "in_reply_to_screen_name": "AlexWayfer",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue May 24 10:02:03 +0000 2016",
+      "id": 735048206615203800,
+      "id_str": "735048206615203840",
+      "text": "magit для spacemacs в разы повышает скорость работы с git\nhttps://t.co/6EXUfKjJuw",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/6EXUfKjJuw",
+            "expanded_url": "https://github.com/syl20bnr/spacemacs/tree/master/layers/%2Bsource-control/git",
+            "display_url": "github.com/syl20bnr/space…",
+            "indices": [
+              58,
+              81
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue May 24 10:03:28 +0000 2016",
+      "id": 735048562581635100,
+      "id_str": "735048562581635072",
+      "text": "emacs + spacemacs @xo8bit",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "xo8bit",
+            "name": "Nazar Sheremet",
+            "id": 4052890395,
+            "id_str": "4052890395",
+            "indices": [
+              18,
+              25
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 735048206355210200,
+      "in_reply_to_status_id_str": "735048206355210240",
+      "in_reply_to_user_id": 4052890395,
+      "in_reply_to_user_id_str": "4052890395",
+      "in_reply_to_screen_name": "xo8bit",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue May 24 10:09:30 +0000 2016",
+      "id": 735050079170666500,
+      "id_str": "735050079170666496",
+      "text": "Я вижу себя в будущем",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue May 24 10:21:14 +0000 2016",
+      "id": 735053034099724300,
+      "id_str": "735053034099724288",
+      "text": "Помидорите? https://t.co/autl8Q928T",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 735053032900153300,
+            "id_str": "735053032900153344",
+            "indices": [
+              12,
+              35
+            ],
+            "media_url": "http://pbs.twimg.com/media/CjNu1sUWUAAixZ2.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CjNu1sUWUAAixZ2.jpg",
+            "url": "https://t.co/autl8Q928T",
+            "display_url": "pic.twitter.com/autl8Q928T",
+            "expanded_url": "http://twitter.com/rubyunderhood/status/735053034099724288/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 269,
+                "h": 422,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 269,
+                "h": 422,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 269,
+                "h": 422,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 735053032900153300,
+            "id_str": "735053032900153344",
+            "indices": [
+              12,
+              35
+            ],
+            "media_url": "http://pbs.twimg.com/media/CjNu1sUWUAAixZ2.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CjNu1sUWUAAixZ2.jpg",
+            "url": "https://t.co/autl8Q928T",
+            "display_url": "pic.twitter.com/autl8Q928T",
+            "expanded_url": "http://twitter.com/rubyunderhood/status/735053034099724288/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 269,
+                "h": 422,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 269,
+                "h": 422,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 269,
+                "h": 422,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "bg"
+    },
+    {
+      "created_at": "Tue May 24 10:24:18 +0000 2016",
+      "id": 735053804673110000,
+      "id_str": "735053804673110016",
+      "text": "лично мне здорово помогает поднять производительность @AlexWayfer",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "AlexWayfer",
+            "name": "Alexander Popov",
+            "id": 312906249,
+            "id_str": "312906249",
+            "indices": [
+              54,
+              65
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 735053355526070300,
+      "in_reply_to_status_id_str": "735053355526070272",
+      "in_reply_to_user_id": 312906249,
+      "in_reply_to_user_id_str": "312906249",
+      "in_reply_to_screen_name": "AlexWayfer",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue May 24 10:25:36 +0000 2016",
+      "id": 735054133254889500,
+      "id_str": "735054133254889472",
+      "text": "Дай пять :) только задачи надо поточнее формулировать. Я про do stuff :::))) @kofeeanon",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "kofeeanon",
+            "name": "Эдвард Нортман",
+            "id": 119080631,
+            "id_str": "119080631",
+            "indices": [
+              77,
+              87
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 735053534987735000,
+      "in_reply_to_status_id_str": "735053534987735040",
+      "in_reply_to_user_id": 119080631,
+      "in_reply_to_user_id_str": "119080631",
+      "in_reply_to_screen_name": "kofeeanon",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    }
+  ]
+}
