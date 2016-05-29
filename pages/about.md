@@ -20,8 +20,8 @@
 * Легко общаться с автором, потому что это двухсторонний канал связи
 * Это весело
 
-Подписывайтесь на [@rubyunderhood][uh] в твиттере.
+Подписывайтесь на [@rubyunderhood][twitter] в твиттере.
 
 _PS. Есть и другие похожие проекты. Их список хранится на гитхабе в репозитории [awesome-collective-twitters](https://github.com/iamstarkov/awesome-collective-twitters)_
 
-[uh]: https://twitter.com/rubyunderhood
+[twitter]: https://twitter.com/rubyunderhood
