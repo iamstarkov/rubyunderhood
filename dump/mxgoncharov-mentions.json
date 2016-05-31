@@ -698,6 +698,129 @@
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Tue May 31 13:36:42 +0000 2016",
+      "id": 737638937951363100,
+      "id_str": "737638937951363074",
+      "text": "Mailing List out soon: featuring @jodosha @weppos @_solnic_ @monterail @hanamirb_sp @anton_davydov @zverok\n\nhttps://t.co/dO7hg3awAK\n#ruby",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "ruby",
+            "indices": [
+              132,
+              137
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "jodosha",
+            "name": "Luca Guidi",
+            "id": 724493,
+            "id_str": "724493",
+            "indices": [
+              33,
+              41
+            ]
+          },
+          {
+            "screen_name": "weppos",
+            "name": "Simone Carletti",
+            "id": 15903882,
+            "id_str": "15903882",
+            "indices": [
+              42,
+              49
+            ]
+          },
+          {
+            "screen_name": "_solnic_",
+            "name": "Piotr Solnica",
+            "id": 14698700,
+            "id_str": "14698700",
+            "indices": [
+              50,
+              59
+            ]
+          },
+          {
+            "screen_name": "monterail",
+            "name": "Monterail",
+            "id": 84158357,
+            "id_str": "84158357",
+            "indices": [
+              60,
+              70
+            ]
+          },
+          {
+            "screen_name": "hanamirb_sp",
+            "name": "Hanami User Group SP",
+            "id": 735686329590108200,
+            "id_str": "735686329590108160",
+            "indices": [
+              71,
+              83
+            ]
+          },
+          {
+            "screen_name": "anton_davydov",
+            "name": "Davy Dovanton",
+            "id": 539221178,
+            "id_str": "539221178",
+            "indices": [
+              84,
+              98
+            ]
+          },
+          {
+            "screen_name": "zverok",
+            "name": "Зверёк",
+            "id": 22070695,
+            "id_str": "22070695",
+            "indices": [
+              99,
+              106
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/dO7hg3awAK",
+            "expanded_url": "http://hanamirb.org/mailing-list/",
+            "display_url": "hanamirb.org/mailing-list/",
+            "indices": [
+              108,
+              131
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3007705839,
+        "id_str": "3007705839"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 5,
+      "favorite_count": 8,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
     }
   ]
 }
