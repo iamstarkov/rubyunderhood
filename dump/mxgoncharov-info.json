@@ -35,38 +35,40 @@
   "time_zone": "Pacific Time (US & Canada)",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 11512,
+  "statuses_count": 11554,
   "lang": "en",
   "status": {
-    "created_at": "Mon May 30 08:41:21 +0000 2016",
-    "id": 737202225131458600,
-    "id_str": "737202225131458560",
-    "text": "Господа, есть лишний билет на #RubyC2016. Если кто желает пишите в директ @mxgoncharov",
+    "created_at": "Tue May 31 08:04:36 +0000 2016",
+    "id": 737555362488815600,
+    "id_str": "737555362488815616",
+    "text": "Стараемся найти замену если совместимость нарушена. Если нет, то висят мертвым грузом. Иногда форк. @curpeng https://t.co/si6qY72mKo",
     "truncated": false,
     "entities": {
-      "hashtags": [
-        {
-          "text": "RubyC2016",
-          "indices": [
-            30,
-            40
-          ]
-        }
-      ],
+      "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "mxgoncharov",
-          "name": "Max Goncharov",
-          "id": 981076764,
-          "id_str": "981076764",
+          "screen_name": "curpeng",
+          "name": "Viktor Dolgishev",
+          "id": 745747603,
+          "id_str": "745747603",
           "indices": [
-            74,
-            86
+            100,
+            108
           ]
         }
       ],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/si6qY72mKo",
+          "expanded_url": "https://twitter.com/curpeng/status/737554052255358977",
+          "display_url": "twitter.com/curpeng/status…",
+          "indices": [
+            109,
+            132
+          ]
+        }
+      ]
     },
     "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
     "in_reply_to_status_id": null,
@@ -78,11 +80,14 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 1,
+    "quoted_status_id": 737554052255359000,
+    "quoted_status_id_str": "737554052255358977",
+    "is_quote_status": true,
+    "retweet_count": 0,
     "favorite_count": 0,
     "favorited": false,
-    "retweeted": true,
+    "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
