@@ -5872,6 +5872,1234 @@
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Tue May 31 17:04:09 +0000 2016",
+      "id": 737691147590619100,
+      "id_str": "737691147590619136",
+      "text": "Далеко не у всех есть в этом потребность. Многим Capistrano за глаза @Fodoj https://t.co/a5YagHFULi",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Fodoj",
+            "name": "Kirill Shirinkin",
+            "id": 14741065,
+            "id_str": "14741065",
+            "indices": [
+              69,
+              75
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/a5YagHFULi",
+            "expanded_url": "https://twitter.com/Fodoj/status/737654902063833092",
+            "display_url": "twitter.com/Fodoj/status/7…",
+            "indices": [
+              76,
+              99
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 737654902063833100,
+      "quoted_status_id_str": "737654902063833092",
+      "quoted_status": {
+        "created_at": "Tue May 31 14:40:08 +0000 2016",
+        "id": 737654902063833100,
+        "id_str": "737654902063833092",
+        "text": "@rubyunderhood деплоить руками это ж прошлый век, а как же CD",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby-разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 737638431539535900,
+        "in_reply_to_status_id_str": "737638431539535872",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 14741065,
+          "id_str": "14741065"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue May 31 17:05:12 +0000 2016",
+      "id": 737691411999514600,
+      "id_str": "737691411999514625",
+      "text": "Частично согласен, если тюнить допустим imagemagick и не знать для чего он - чревато. @igor_alexandrov https://t.co/VDgQDLKovN",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "igor_alexandrov",
+            "name": "Igor Alexandrov",
+            "id": 62922386,
+            "id_str": "62922386",
+            "indices": [
+              86,
+              102
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/VDgQDLKovN",
+            "expanded_url": "https://twitter.com/igor_alexandrov/status/737652370826514432",
+            "display_url": "twitter.com/igor_alexandro…",
+            "indices": [
+              103,
+              126
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 737652370826514400,
+      "quoted_status_id_str": "737652370826514432",
+      "quoted_status": {
+        "created_at": "Tue May 31 14:30:04 +0000 2016",
+        "id": 737652370826514400,
+        "id_str": "737652370826514432",
+        "text": "@rubyunderhood @davetoxa окей, должен уметь подтюнить конфиг ansible и потом задеплоить.",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby-разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            },
+            {
+              "screen_name": "davetoxa",
+              "name": "Anton Cherepanov",
+              "id": 140451954,
+              "id_str": "140451954",
+              "indices": [
+                15,
+                24
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 737617905286778900,
+        "in_reply_to_status_id_str": "737617905286778880",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 62922386,
+          "id_str": "62922386"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+          "id": "3ab9598447aca64b",
+          "url": "https://api.twitter.com/1.1/geo/id/3ab9598447aca64b.json",
+          "place_type": "city",
+          "name": "Тверь",
+          "full_name": "Тверь, Россия",
+          "country_code": "RU",
+          "country": "Россия",
+          "contained_within": [],
+          "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  35.7412266,
+                  56.7824972
+                ],
+                [
+                  36.0581131,
+                  56.7824972
+                ],
+                [
+                  36.0581131,
+                  56.9267953
+                ],
+                [
+                  35.7412266,
+                  56.9267953
+                ]
+              ]
+            ]
+          },
+          "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue May 31 17:06:16 +0000 2016",
+      "id": 737691680380452900,
+      "id_str": "737691680380452866",
+      "text": "Насколько это секьюрно? А то руки чешется, но времени нет :) @ynelin https://t.co/hH3OKtG12l",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ynelin",
+            "name": "Yarik",
+            "id": 99072035,
+            "id_str": "99072035",
+            "indices": [
+              61,
+              68
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/hH3OKtG12l",
+            "expanded_url": "https://twitter.com/ynelin/status/737640046833115136",
+            "display_url": "twitter.com/ynelin/status/…",
+            "indices": [
+              69,
+              92
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 737640046833115100,
+      "quoted_status_id_str": "737640046833115136",
+      "quoted_status": {
+        "created_at": "Tue May 31 13:41:06 +0000 2016",
+        "id": 737640046833115100,
+        "id_str": "737640046833115136",
+        "text": "@rubyunderhood качаем дампы схем базы данных через бот для телеграмма. Сделал в качестве развлечения, а теперь все пользуются :)",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby-разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+        "in_reply_to_status_id": 737638431539535900,
+        "in_reply_to_status_id_str": "737638431539535872",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 99072035,
+          "id_str": "99072035"
+        },
+        "geo": {
+          "type": "Point",
+          "coordinates": [
+            50.44549682,
+            30.49693488
+          ]
+        },
+        "coordinates": {
+          "type": "Point",
+          "coordinates": [
+            30.49693488,
+            50.44549682
+          ]
+        },
+        "place": {
+          "id": "084d0d0155787e9d",
+          "url": "https://api.twitter.com/1.1/geo/id/084d0d0155787e9d.json",
+          "place_type": "country",
+          "name": "Україна",
+          "full_name": "Україна",
+          "country_code": "UA",
+          "country": "Україна",
+          "contained_within": [],
+          "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  22.1357201,
+                  44.386383
+                ],
+                [
+                  40.227172,
+                  44.386383
+                ],
+                [
+                  40.227172,
+                  52.379475
+                ],
+                [
+                  22.1357201,
+                  52.379475
+                ]
+              ]
+            ]
+          },
+          "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue May 31 17:06:57 +0000 2016",
+      "id": 737691850946019300,
+      "id_str": "737691850946019332",
+      "text": "В твиторе все ссылки есть, смотреть @RubyMeditation , @Hirurg103 https://t.co/cKhNWaq9W6",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "RubyMeditation",
+            "name": "RubyMeditation",
+            "id": 1280373223,
+            "id_str": "1280373223",
+            "indices": [
+              36,
+              51
+            ]
+          },
+          {
+            "screen_name": "Hirurg103",
+            "name": "Dzmitry Kovalenok",
+            "id": 470244778,
+            "id_str": "470244778",
+            "indices": [
+              54,
+              64
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/cKhNWaq9W6",
+            "expanded_url": "https://twitter.com/Hirurg103/status/737639890817417216",
+            "display_url": "twitter.com/Hirurg103/stat…",
+            "indices": [
+              65,
+              88
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 737639890817417200,
+      "quoted_status_id_str": "737639890817417216",
+      "quoted_status": {
+        "created_at": "Tue May 31 13:40:29 +0000 2016",
+        "id": 737639890817417200,
+        "id_str": "737639890817417216",
+        "text": "в первый раз слышу. Как попасть? @rubyunderhood @RubyMeditation",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby-разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                33,
+                47
+              ]
+            },
+            {
+              "screen_name": "RubyMeditation",
+              "name": "RubyMeditation",
+              "id": 1280373223,
+              "id_str": "1280373223",
+              "indices": [
+                48,
+                63
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 737349892948033500,
+        "in_reply_to_status_id_str": "737349892948033537",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 470244778,
+          "id_str": "470244778"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue May 31 17:13:20 +0000 2016",
+      "id": 737693458517905400,
+      "id_str": "737693458517905409",
+      "text": "Если это аутсорс. Еще и жосский. И еще легаси. То вряд ли будут этим заниматься) хотя согласен. У меня CD) @Fodoj https://t.co/SxVsnE8ZAB",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Fodoj",
+            "name": "Kirill Shirinkin",
+            "id": 14741065,
+            "id_str": "14741065",
+            "indices": [
+              107,
+              113
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/SxVsnE8ZAB",
+            "expanded_url": "https://twitter.com/Fodoj/status/737693112349405184",
+            "display_url": "twitter.com/Fodoj/status/7…",
+            "indices": [
+              114,
+              137
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 737693112349405200,
+      "quoted_status_id_str": "737693112349405184",
+      "quoted_status": {
+        "created_at": "Tue May 31 17:11:58 +0000 2016",
+        "id": 737693112349405200,
+        "id_str": "737693112349405184",
+        "text": "@rubyunderhood вот очень неверное заблуждение ;-)",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby-разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 737691147590619100,
+        "in_reply_to_status_id_str": "737691147590619136",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 14741065,
+          "id_str": "14741065"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue May 31 17:14:32 +0000 2016",
+      "id": 737693758897172500,
+      "id_str": "737693758897172480",
+      "text": "Зато CD слишком просто. И нет этого адреналина когда ты через бот сидя в туалете льешь на прод))@Fodoj",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Fodoj",
+            "name": "Kirill Shirinkin",
+            "id": 14741065,
+            "id_str": "14741065",
+            "indices": [
+              96,
+              102
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue May 31 17:15:25 +0000 2016",
+      "id": 737693981551775700,
+      "id_str": "737693981551775745",
+      "text": "Потребность в улучшениях есть всегда и постоянно усиливается. Но не всегда на это идут, по разным причинам) @Fodoj https://t.co/xGYAWg9BJ2",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Fodoj",
+            "name": "Kirill Shirinkin",
+            "id": 14741065,
+            "id_str": "14741065",
+            "indices": [
+              108,
+              114
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/xGYAWg9BJ2",
+            "expanded_url": "https://twitter.com/Fodoj/status/737693638600364034",
+            "display_url": "twitter.com/Fodoj/status/7…",
+            "indices": [
+              115,
+              138
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 737693638600364000,
+      "quoted_status_id_str": "737693638600364034",
+      "quoted_status": {
+        "created_at": "Tue May 31 17:14:03 +0000 2016",
+        "id": 737693638600364000,
+        "id_str": "737693638600364034",
+        "text": "@rubyunderhood \"не будут\" != \"нет потребности\"",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby-разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 737693458517905400,
+        "in_reply_to_status_id_str": "737693458517905409",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 14741065,
+          "id_str": "14741065"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue May 31 17:16:39 +0000 2016",
+      "id": 737694290822987800,
+      "id_str": "737694290822987776",
+      "text": "Господа, может данный твит будет даже полезным. Кто как нагружает джунов? И какими орудиями пыток вы пользуетесь?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue May 31 17:17:43 +0000 2016",
+      "id": 737694559950544900,
+      "id_str": "737694559950544896",
+      "text": "Поддерживаю. При чем хотя бы в своей предметной области проекта/продукта @saymons21_root https://t.co/1wcowmh4QU",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "saymons21_root",
+            "name": "Denis Khabarov",
+            "id": 391662425,
+            "id_str": "391662425",
+            "indices": [
+              73,
+              88
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/1wcowmh4QU",
+            "expanded_url": "https://twitter.com/saymons21_root/status/737694124128800769",
+            "display_url": "twitter.com/saymons21_root…",
+            "indices": [
+              89,
+              112
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 737694124128800800,
+      "quoted_status_id_str": "737694124128800769",
+      "quoted_status": {
+        "created_at": "Tue May 31 17:15:59 +0000 2016",
+        "id": 737694124128800800,
+        "id_str": "737694124128800769",
+        "text": "@rubyunderhood Я считаю должен, хотя-бы на уровне джуниора, и в различных областях. Сети, безопасность, системы.",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby-разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 737591252477038600,
+        "in_reply_to_status_id_str": "737591252477038594",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 391662425,
+          "id_str": "391662425"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue May 31 17:18:49 +0000 2016",
+      "id": 737694835583418400,
+      "id_str": "737694835583418368",
+      "text": "Дело даже не в рельсах. Элементарно закрытая подсеть и нестандартные порты у ssh @saymons21_root https://t.co/7e1Fduv1nv",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "saymons21_root",
+            "name": "Denis Khabarov",
+            "id": 391662425,
+            "id_str": "391662425",
+            "indices": [
+              81,
+              96
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/7e1Fduv1nv",
+            "expanded_url": "https://twitter.com/saymons21_root/status/737694494976552960",
+            "display_url": "twitter.com/saymons21_root…",
+            "indices": [
+              97,
+              120
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 737694494976553000,
+      "quoted_status_id_str": "737694494976552960",
+      "quoted_status": {
+        "created_at": "Tue May 31 17:17:27 +0000 2016",
+        "id": 737694494976553000,
+        "id_str": "737694494976552960",
+        "text": "@rubyunderhood Безопасность - тут много, но хотя-бы не говорить, да вы гоните, нах мы кому нужны, потому я не буду обновлять рельсы.",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby-разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 737591252477038600,
+        "in_reply_to_status_id_str": "737591252477038594",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 391662425,
+          "id_str": "391662425"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue May 31 18:01:18 +0000 2016",
+      "id": 737705529141801000,
+      "id_str": "737705529141800960",
+      "text": "Я ни в коем случае не говорю, что это нужно. Просто специфика проектов бывает абсолютно разная) @saymons21_root https://t.co/iNugSXRrMz",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "saymons21_root",
+            "name": "Denis Khabarov",
+            "id": 391662425,
+            "id_str": "391662425",
+            "indices": [
+              96,
+              111
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/iNugSXRrMz",
+            "expanded_url": "https://twitter.com/saymons21_root/status/737696045518487553",
+            "display_url": "twitter.com/saymons21_root…",
+            "indices": [
+              112,
+              135
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 737696045518487600,
+      "quoted_status_id_str": "737696045518487553",
+      "quoted_status": {
+        "created_at": "Tue May 31 17:23:37 +0000 2016",
+        "id": 737696045518487600,
+        "id_str": "737696045518487553",
+        "text": "@rubyunderhood Про рельсы. Вот что-бы вы сделали, когда к вам пришёл админ, сказал. Вот тебе CVE с всеми подробными описаниями.",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby-разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 737694835583418400,
+        "in_reply_to_status_id_str": "737694835583418368",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 391662425,
+          "id_str": "391662425"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue May 31 18:27:30 +0000 2016",
+      "id": 737712122919026700,
+      "id_str": "737712122919026688",
+      "text": "Согласен @saymons21_root https://t.co/uCQCh3wd7j",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "saymons21_root",
+            "name": "Denis Khabarov",
+            "id": 391662425,
+            "id_str": "391662425",
+            "indices": [
+              9,
+              24
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/uCQCh3wd7j",
+            "expanded_url": "https://twitter.com/saymons21_root/status/737708063147319296",
+            "display_url": "twitter.com/saymons21_root…",
+            "indices": [
+              25,
+              48
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 737708063147319300,
+      "quoted_status_id_str": "737708063147319296",
+      "quoted_status": {
+        "created_at": "Tue May 31 18:11:22 +0000 2016",
+        "id": 737708063147319300,
+        "id_str": "737708063147319296",
+        "text": "@rubyunderhood Но когда баги в ядре проекта, с безопаностью? Там надо понимать, а не говорить, кому мы нужны.",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby-разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 737705529141801000,
+        "in_reply_to_status_id_str": "737705529141800960",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 391662425,
+          "id_str": "391662425"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue May 31 18:29:02 +0000 2016",
+      "id": 737712506806931500,
+      "id_str": "737712506806931456",
+      "text": "Всегда было интересно попробовать Cloud IDE. Думаю в какую сторону копать.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }
