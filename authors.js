@@ -1,5 +1,6 @@
 export default [
   // post: false
+  { username: 'anton_davydov',  start: '20 jun 2016', first: '744856233450971137', post: false },
   { username: 'mxgoncharov',    start: '30 may 2016', first: '737146449830514688' },
   { username: 'Hirurg103',      start: '23 may 2016', first: '735007953523232768' },
   { username: 'hatarist',       start: '09 may 2016', first: '729697873835765760' },
