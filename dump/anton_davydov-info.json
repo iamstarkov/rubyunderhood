@@ -1,19 +1,30 @@
 {
   "id": 3341793591,
   "id_str": "3341793591",
-  "name": "Ruby Разработчик",
+  "name": "Ruby-разработчик",
   "screen_name": "rubyunderhood",
-  "location": "",
-  "profile_location": null,
-  "description": "Коллективный твиттер-аккаунт для ruby разработчиков с новым автором каждую неделю. На этой неделе @anton_davydov",
-  "url": "https://t.co/tqUrsQQlNa",
+  "location": "Singapore",
+  "profile_location": {
+    "id": "2509b9adc1fedfd2",
+    "url": "https://api.twitter.com/1.1/geo/id/2509b9adc1fedfd2.json",
+    "place_type": "unknown",
+    "name": "Singapore",
+    "full_name": "Singapore",
+    "country_code": "",
+    "country": "",
+    "contained_within": [],
+    "bounding_box": null,
+    "attributes": {}
+  },
+  "description": "Всю эту неделю будет вещать @anton_davydov.",
+  "url": "https://t.co/24Pz7lAqzV",
   "entities": {
     "url": {
       "urls": [
         {
-          "url": "https://t.co/tqUrsQQlNa",
-          "expanded_url": "https://github.com/davydovanton/rubyunderhood",
-          "display_url": "github.com/davydovanton/r…",
+          "url": "https://t.co/24Pz7lAqzV",
+          "expanded_url": "http://rubyunderhood.ru",
+          "display_url": "rubyunderhood.ru",
           "indices": [
             0,
             23
@@ -26,24 +37,30 @@
     }
   },
   "protected": false,
-  "followers_count": 77,
-  "friends_count": 0,
-  "listed_count": 0,
+  "followers_count": 1075,
+  "friends_count": 51,
+  "listed_count": 58,
   "created_at": "Mon Jun 22 18:43:03 +0000 2015",
-  "favourites_count": 0,
-  "utc_offset": null,
-  "time_zone": null,
-  "geo_enabled": false,
+  "favourites_count": 310,
+  "utc_offset": -25200,
+  "time_zone": "Pacific Time (US & Canada)",
+  "geo_enabled": true,
   "verified": false,
-  "statuses_count": 334,
+  "statuses_count": 11688,
   "lang": "en",
   "status": {
-    "created_at": "Sun Jul 05 20:05:26 +0000 2015",
-    "id": 617786384368144400,
-    "id_str": "617786384368144385",
-    "text": "RT @artemeff: .@rubyunderhood и ждите лалок, типа меня :D",
-    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "created_at": "Mon Jun 20 11:41:03 +0000 2016",
+    "id": 744857593550495700,
+    "id_str": "744857593550495744",
+    "text": "Ну и напоследок - хотелось бы с вами поговорить про опенсорс и новые веинея в комьюнити",
     "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
@@ -53,74 +70,9 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "retweeted_status": {
-      "created_at": "Sun Jul 05 20:04:55 +0000 2015",
-      "id": 617786254474788900,
-      "id_str": "617786254474788864",
-      "text": ".@rubyunderhood и ждите лалок, типа меня :D",
-      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
-      "truncated": false,
-      "in_reply_to_status_id": 617784906618392600,
-      "in_reply_to_status_id_str": "617784906618392576",
-      "in_reply_to_user_id": 3341793591,
-      "in_reply_to_user_id_str": "3341793591",
-      "in_reply_to_screen_name": "rubyunderhood",
-      "geo": null,
-      "coordinates": null,
-      "place": null,
-      "contributors": null,
-      "retweet_count": 1,
-      "favorite_count": 0,
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [
-          {
-            "screen_name": "rubyunderhood",
-            "name": "Ruby Разработчик",
-            "id": 3341793591,
-            "id_str": "3341793591",
-            "indices": [
-              1,
-              15
-            ]
-          }
-        ],
-        "urls": []
-      },
-      "favorited": false,
-      "retweeted": false,
-      "lang": "ru"
-    },
-    "retweet_count": 1,
+    "is_quote_status": false,
+    "retweet_count": 0,
     "favorite_count": 0,
-    "entities": {
-      "hashtags": [],
-      "symbols": [],
-      "user_mentions": [
-        {
-          "screen_name": "artemeff",
-          "name": "Yuri Artemev",
-          "id": 137293049,
-          "id_str": "137293049",
-          "indices": [
-            3,
-            12
-          ]
-        },
-        {
-          "screen_name": "rubyunderhood",
-          "name": "Ruby Разработчик",
-          "id": 3341793591,
-          "id_str": "3341793591",
-          "indices": [
-            15,
-            29
-          ]
-        }
-      ],
-      "urls": []
-    },
     "favorited": false,
     "retweeted": false,
     "lang": "ru"
@@ -128,20 +80,20 @@
   "contributors_enabled": false,
   "is_translator": false,
   "is_translation_enabled": false,
-  "profile_background_color": "C0DEED",
-  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_color": "000000",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
   "profile_background_tile": false,
-  "profile_image_url": "http://pbs.twimg.com/profile_images/615408213341528064/lwCuxyT0_normal.jpg",
-  "profile_image_url_https": "https://pbs.twimg.com/profile_images/615408213341528064/lwCuxyT0_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/539221178/1355481259",
-  "profile_link_color": "0084B4",
-  "profile_sidebar_border_color": "C0DEED",
-  "profile_sidebar_fill_color": "DDEEF6",
-  "profile_text_color": "333333",
-  "profile_use_background_image": true,
-  "has_extended_profile": false,
-  "default_profile": true,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/744855449292333056/_DHXgBQe_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/744855449292333056/_DHXgBQe_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/3341793591/1466422338",
+  "profile_link_color": "ABB8C2",
+  "profile_sidebar_border_color": "000000",
+  "profile_sidebar_fill_color": "000000",
+  "profile_text_color": "000000",
+  "profile_use_background_image": false,
+  "has_extended_profile": true,
+  "default_profile": false,
   "default_profile_image": false,
   "following": true,
   "follow_request_sent": false,
