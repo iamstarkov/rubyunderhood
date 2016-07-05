@@ -263,6 +263,3381 @@
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 04 19:55:31 +0000 2016",
+      "id": 750055459055341600,
+      "id_str": "750055459055341568",
+      "text": "Вот ещё один опрос на ночь глядя: что вам больше нравится? В реплпях можно описать субъективные причины.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 04 19:57:12 +0000 2016",
+      "id": 750055884286521300,
+      "id_str": "750055884286521344",
+      "text": "@rubyunderhood Лично я больше верю в GitLab из-за наличия open-source версии, но UI у GitHub чаще понятнее / более отточен",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "rubyunderhood",
+            "name": "Ruby-разработчик",
+            "id": 3341793591,
+            "id_str": "3341793591",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 750055459055341600,
+      "in_reply_to_status_id_str": "750055459055341568",
+      "in_reply_to_user_id": 3341793591,
+      "in_reply_to_user_id_str": "3341793591",
+      "in_reply_to_screen_name": "rubyunderhood",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 04 20:39:55 +0000 2016",
+      "id": 750066631724900400,
+      "id_str": "750066631724900352",
+      "text": "Выглядит, на мой взгляд, \"не свежо\", плюс хостится на GitHub, что, как минимум, странно для такого проекта 🤔 https://t.co/NmnFKr9Ljg",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/NmnFKr9Ljg",
+            "expanded_url": "https://twitter.com/odidoit/status/750057598926356481",
+            "display_url": "twitter.com/odidoit/status…",
+            "indices": [
+              109,
+              132
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 750057598926356500,
+      "quoted_status_id_str": "750057598926356481",
+      "quoted_status": {
+        "created_at": "Mon Jul 04 20:04:01 +0000 2016",
+        "id": 750057598926356500,
+        "id_str": "750057598926356481",
+        "text": "@rubyunderhood gitolite? :)",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby-разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 750055459055341600,
+        "in_reply_to_status_id_str": "750055459055341568",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 706813313070579700,
+          "id_str": "706813313070579713"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "eu"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 04 22:44:01 +0000 2016",
+      "id": 750097861656842200,
+      "id_str": "750097861656842240",
+      "text": "По Твиттеру гуляет интересный тест, который не смог пройти ни Matz, ни DHH на 10/10, если вдруг ещё не видели. https://t.co/cVbUW5NzNd",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/cVbUW5NzNd",
+            "expanded_url": "https://twitter.com/yukihiro_matz/status/750005783090196480",
+            "display_url": "twitter.com/yukihiro_matz/…",
+            "indices": [
+              111,
+              134
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 750005783090196500,
+      "quoted_status_id_str": "750005783090196480",
+      "quoted_status": {
+        "created_at": "Mon Jul 04 16:38:07 +0000 2016",
+        "id": 750005783090196500,
+        "id_str": "750005783090196480",
+        "text": "I didn't get 10/10. sigh.  link: Ruby or Rails?: \nhttps://t.co/6utSH4iDGN",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/6utSH4iDGN",
+              "expanded_url": "http://railshurts.com/quiz/",
+              "display_url": "railshurts.com/quiz/",
+              "indices": [
+                50,
+                73
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 20104013,
+          "id_str": "20104013"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 101,
+        "favorite_count": 128,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 04 22:45:46 +0000 2016",
+      "id": 750098303744876500,
+      "id_str": "750098303744876544",
+      "text": "Моё мнение таково: 1. Тест вряд ли можно считать полноценным или вообще очень ценным, хотя бы потому, что он довольно короткий для такого.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 750097861656842200,
+      "in_reply_to_status_id_str": "750097861656842240",
+      "in_reply_to_user_id": 3341793591,
+      "in_reply_to_user_id_str": "3341793591",
+      "in_reply_to_screen_name": "rubyunderhood",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 04 22:47:17 +0000 2016",
+      "id": 750098686651273200,
+      "id_str": "750098686651273217",
+      "text": "2. Он скорее показывает не роль Rails в Ruby, а простоту, гибкость и расширяемость самого Ruby: многие привыкли к этому.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 750098303744876500,
+      "in_reply_to_status_id_str": "750098303744876544",
+      "in_reply_to_user_id": 3341793591,
+      "in_reply_to_user_id_str": "3341793591",
+      "in_reply_to_screen_name": "rubyunderhood",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jul 05 06:47:31 +0000 2016",
+      "id": 750219539007303700,
+      "id_str": "750219539007303680",
+      "text": "Я раньше тоже, но, увы, на работе мы дошли до ограничений в бесплатной версии 😞\nТак я ближе познакомился с GitLab https://t.co/E3UbZR0dB1",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/E3UbZR0dB1",
+            "expanded_url": "https://twitter.com/oleg_antonyan/status/750172351317348354",
+            "display_url": "twitter.com/oleg_antonyan/…",
+            "indices": [
+              114,
+              137
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 750172351317348400,
+      "quoted_status_id_str": "750172351317348354",
+      "quoted_status": {
+        "created_at": "Tue Jul 05 03:40:00 +0000 2016",
+        "id": 750172351317348400,
+        "id_str": "750172351317348354",
+        "text": "@rubyunderhood битбакет. исторически сложилось ибо халява. интерфейс гитхаба не нравится. гитлаб не вижу смысла пробовать",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby-разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 750055459055341600,
+        "in_reply_to_status_id_str": "750055459055341568",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 1941508063,
+          "id_str": "1941508063"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jul 05 06:50:32 +0000 2016",
+      "id": 750220299250073600,
+      "id_str": "750220299250073600",
+      "text": "Хорошая идея! Опасно, конечно же. Только вот... 🤐 я не писал проектов на Rails - 8/10, Matz тоже вряд ли активно https://t.co/UFILSSrgLU",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/UFILSSrgLU",
+            "expanded_url": "https://twitter.com/inem/status/750195670326194177",
+            "display_url": "twitter.com/inem/status/75…",
+            "indices": [
+              113,
+              136
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 750195670326194200,
+      "quoted_status_id_str": "750195670326194177",
+      "quoted_status": {
+        "created_at": "Tue Jul 05 05:12:40 +0000 2016",
+        "id": 750195670326194200,
+        "id_str": "750195670326194177",
+        "text": "@rubyunderhood на связи автор теста. идея теста: а не опасно ли это, когда ты забываешь где заканчивается язык, а где начинается фрэймворк?",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby-разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+        "in_reply_to_status_id": 750098686651273200,
+        "in_reply_to_status_id_str": "750098686651273217",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 7198692,
+          "id_str": "7198692"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jul 05 06:56:32 +0000 2016",
+      "id": 750221807844819000,
+      "id_str": "750221807844818945",
+      "text": "Ну то есть я избегаю синтаксиса Rails, как избегаю XML - и кто знал, что to_xml не у Ruby? sample не встречал, выглядит слишком Rails.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 750220299250073600,
+      "in_reply_to_status_id_str": "750220299250073600",
+      "in_reply_to_user_id": 3341793591,
+      "in_reply_to_user_id_str": "3341793591",
+      "in_reply_to_screen_name": "rubyunderhood",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jul 05 07:31:47 +0000 2016",
+      "id": 750230681251348500,
+      "id_str": "750230681251348480",
+      "text": "О, тоже насущный вопрос. Я уверен, что можно. Просто перспективы разные. И сдвиг по времени. https://t.co/XjXfElZjRT",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/XjXfElZjRT",
+            "expanded_url": "https://twitter.com/inem/status/750229000035893248",
+            "display_url": "twitter.com/inem/status/75…",
+            "indices": [
+              93,
+              116
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 750229000035893200,
+      "quoted_status_id_str": "750229000035893248",
+      "quoted_status": {
+        "created_at": "Tue Jul 05 07:25:06 +0000 2016",
+        "id": 750229000035893200,
+        "id_str": "750229000035893248",
+        "text": "Через полчаса онлайн: https://t.co/gKLqKgWJoQ\nМожно ли не тратить 5 лет на универ, если я хочу стать программистом. https://t.co/7Gduf9FAFe",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/gKLqKgWJoQ",
+              "expanded_url": "https://goo.gl/8Xbj3I",
+              "display_url": "goo.gl/8Xbj3I",
+              "indices": [
+                22,
+                45
+              ]
+            }
+          ],
+          "media": [
+            {
+              "id": 750228995300585500,
+              "id_str": "750228995300585472",
+              "indices": [
+                116,
+                139
+              ],
+              "media_url": "http://pbs.twimg.com/media/CmlZS90W8AAvN0c.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/CmlZS90W8AAvN0c.jpg",
+              "url": "https://t.co/7Gduf9FAFe",
+              "display_url": "pic.twitter.com/7Gduf9FAFe",
+              "expanded_url": "http://twitter.com/inem/status/750229000035893248/photo/1",
+              "type": "photo",
+              "sizes": {
+                "small": {
+                  "w": 680,
+                  "h": 424,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 748,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 1498,
+                  "h": 934,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 750228995300585500,
+              "id_str": "750228995300585472",
+              "indices": [
+                116,
+                139
+              ],
+              "media_url": "http://pbs.twimg.com/media/CmlZS90W8AAvN0c.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/CmlZS90W8AAvN0c.jpg",
+              "url": "https://t.co/7Gduf9FAFe",
+              "display_url": "pic.twitter.com/7Gduf9FAFe",
+              "expanded_url": "http://twitter.com/inem/status/750229000035893248/photo/1",
+              "type": "photo",
+              "sizes": {
+                "small": {
+                  "w": 680,
+                  "h": 424,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 748,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 1498,
+                  "h": 934,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "source": "<a href=\"http://amplifr.com\" rel=\"nofollow\">Amplifr</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 7198692,
+          "id_str": "7198692"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 2,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jul 05 07:33:17 +0000 2016",
+      "id": 750231057753075700,
+      "id_str": "750231057753075712",
+      "text": "Перспективы - у вас почти нет шансов устроиться в тот же Сбербанк миддлом, например, без высшего. Но в небольшой компании хоть тим-лид.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 750230681251348500,
+      "in_reply_to_status_id_str": "750230681251348480",
+      "in_reply_to_user_id": 3341793591,
+      "in_reply_to_user_id_str": "3341793591",
+      "in_reply_to_screen_name": "rubyunderhood",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jul 05 07:34:53 +0000 2016",
+      "id": 750231458871144400,
+      "id_str": "750231458871144452",
+      "text": "Время - те, кто не учатся, а тратят 2-4 года сразу на любимое занятие - обычно сильно опережают в нём выпустившихся сверстников.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 750231057753075700,
+      "in_reply_to_status_id_str": "750231057753075712",
+      "in_reply_to_user_id": 3341793591,
+      "in_reply_to_user_id_str": "3341793591",
+      "in_reply_to_screen_name": "rubyunderhood",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jul 05 07:37:33 +0000 2016",
+      "id": 750232130739994600,
+      "id_str": "750232130739994624",
+      "text": "Для кого-то это тоже достижение. Думаю, там не сильно хуже, чем ежедневный CRUD. Это просто как пример компании. https://t.co/Ymq2z3EuH5",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/Ymq2z3EuH5",
+            "expanded_url": "https://twitter.com/mr_The/status/750231504635199488",
+            "display_url": "twitter.com/mr_The/status/…",
+            "indices": [
+              113,
+              136
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 750231504635199500,
+      "quoted_status_id_str": "750231504635199488",
+      "quoted_status": {
+        "created_at": "Tue Jul 05 07:35:03 +0000 2016",
+        "id": 750231504635199500,
+        "id_str": "750231504635199488",
+        "text": "@rubyunderhood устроиться в банк - сомнительное достижение.",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby-разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 750231057753075700,
+        "in_reply_to_status_id_str": "750231057753075712",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 53967484,
+          "id_str": "53967484"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jul 05 07:39:31 +0000 2016",
+      "id": 750232628259852300,
+      "id_str": "750232628259852288",
+      "text": "Да, именно это я и пытаюсь сказать: не целитесь на Сбербанк или подобное? Лучше не тратьте время на высшее. Но! https://t.co/bie1cCoa76",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/bie1cCoa76",
+            "expanded_url": "https://twitter.com/oleg_antonyan/status/750231871003435008",
+            "display_url": "twitter.com/oleg_antonyan/…",
+            "indices": [
+              112,
+              135
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 750231871003435000,
+      "quoted_status_id_str": "750231871003435008",
+      "quoted_status": {
+        "created_at": "Tue Jul 05 07:36:31 +0000 2016",
+        "id": 750231871003435000,
+        "id_str": "750231871003435008",
+        "text": "@rubyunderhood не все мечтают работать в больших конторах",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby-разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 750231057753075700,
+        "in_reply_to_status_id_str": "750231057753075712",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 1941508063,
+          "id_str": "1941508063"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jul 05 07:41:53 +0000 2016",
+      "id": 750233220705288200,
+      "id_str": "750233220705288192",
+      "text": "Но стоит попробовать учиться. Мне очень помогли первые 1-1.5 года. А дальше я решил, что мне не нужны компании, смотрящие на наличие диплома",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 750232628259852300,
+      "in_reply_to_status_id_str": "750232628259852288",
+      "in_reply_to_user_id": 3341793591,
+      "in_reply_to_user_id_str": "3341793591",
+      "in_reply_to_screen_name": "rubyunderhood",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jul 05 07:49:36 +0000 2016",
+      "id": 750235165859934200,
+      "id_str": "750235165859934208",
+      "text": "На вкус и цвет. Знаю людей (и сам такой), которые при виде AS там, где это лишне, закрывают проект, например. https://t.co/uR85lWsgqZ",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/uR85lWsgqZ",
+            "expanded_url": "https://twitter.com/mpak999/status/750234286343614464",
+            "display_url": "twitter.com/mpak999/status…",
+            "indices": [
+              110,
+              133
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 750234286343614500,
+      "quoted_status_id_str": "750234286343614464",
+      "quoted_status": {
+        "created_at": "Tue Jul 05 07:46:07 +0000 2016",
+        "id": 750234286343614500,
+        "id_str": "750234286343614464",
+        "text": "@inem @rubyunderhood по мне так не важно, если будешь писать clean ruby код и не обнаружишь любимый метод, просто подключишь activesupport",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "inem",
+              "name": "Ivan Nemytchenko",
+              "id": 7198692,
+              "id_str": "7198692",
+              "indices": [
+                0,
+                5
+              ]
+            },
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby-разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                6,
+                20
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 750195670326194200,
+        "in_reply_to_status_id_str": "750195670326194177",
+        "in_reply_to_user_id": 7198692,
+        "in_reply_to_user_id_str": "7198692",
+        "in_reply_to_screen_name": "inem",
+        "user": {
+          "id": 18864603,
+          "id_str": "18864603"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+          "id": "00a490340cc406c5",
+          "url": "https://api.twitter.com/1.1/geo/id/00a490340cc406c5.json",
+          "place_type": "city",
+          "name": "เชียงใหม่",
+          "full_name": "เชียงใหม่, ประเทศไทย",
+          "country_code": "TH",
+          "country": "ประเทศไทย",
+          "contained_within": [],
+          "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  98.940362,
+                  18.7406115
+                ],
+                [
+                  98.9974603,
+                  18.7406115
+                ],
+                [
+                  98.9974603,
+                  18.8428276
+                ],
+                [
+                  98.940362,
+                  18.8428276
+                ]
+              ]
+            ]
+          },
+          "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jul 05 07:51:15 +0000 2016",
+      "id": 750235578407477200,
+      "id_str": "750235578407477248",
+      "text": "Да, хороший вопрос! Плюс глобальное расширение стандартных классов... Есть механизмы refine, но в AS плевали на них. https://t.co/hWWCTUl1Lu",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/hWWCTUl1Lu",
+            "expanded_url": "https://twitter.com/sharipov_ru/status/750234911332851712",
+            "display_url": "twitter.com/sharipov_ru/st…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 750234911332851700,
+      "quoted_status_id_str": "750234911332851712",
+      "quoted_status": {
+        "created_at": "Tue Jul 05 07:48:36 +0000 2016",
+        "id": 750234911332851700,
+        "id_str": "750234911332851712",
+        "text": "@mpak999 @inem @rubyunderhood а действительно ли это того стоит: притянуть в проект лишние 5000 строк кода ради любимого метода?",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "mpak999",
+              "name": "MpaK",
+              "id": 18864603,
+              "id_str": "18864603",
+              "indices": [
+                0,
+                8
+              ]
+            },
+            {
+              "screen_name": "inem",
+              "name": "Ivan Nemytchenko",
+              "id": 7198692,
+              "id_str": "7198692",
+              "indices": [
+                9,
+                14
+              ]
+            },
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby-разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                15,
+                29
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 750234286343614500,
+        "in_reply_to_status_id_str": "750234286343614464",
+        "in_reply_to_user_id": 18864603,
+        "in_reply_to_user_id_str": "18864603",
+        "in_reply_to_screen_name": "mpak999",
+        "user": {
+          "id": 217454170,
+          "id_str": "217454170"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jul 05 07:52:01 +0000 2016",
+      "id": 750235770733097000,
+      "id_str": "750235770733096960",
+      "text": "Да, вроде да. Поэтому я и обозначил \"перспективы\", а не просто \"выбор компании\", так как диплом чуть шире влияет. https://t.co/FDtHaxb2px",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/FDtHaxb2px",
+            "expanded_url": "https://twitter.com/c01nd01r/status/750235012763676674",
+            "display_url": "twitter.com/c01nd01r/statu…",
+            "indices": [
+              114,
+              137
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 750235012763676700,
+      "quoted_status_id_str": "750235012763676674",
+      "quoted_status": {
+        "created_at": "Tue Jul 05 07:49:00 +0000 2016",
+        "id": 750235012763676700,
+        "id_str": "750235012763676674",
+        "text": "@mr_the @rubyunderhood @inem а как же трактор? Говорят, без диплома трудно завести.",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "mr_The",
+              "name": "mr.The",
+              "id": 53967484,
+              "id_str": "53967484",
+              "indices": [
+                0,
+                7
+              ]
+            },
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby-разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                8,
+                22
+              ]
+            },
+            {
+              "screen_name": "inem",
+              "name": "Ivan Nemytchenko",
+              "id": 7198692,
+              "id_str": "7198692",
+              "indices": [
+                23,
+                28
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+        "in_reply_to_status_id": 750231449304006700,
+        "in_reply_to_status_id_str": "750231449304006656",
+        "in_reply_to_user_id": 53967484,
+        "in_reply_to_user_id_str": "53967484",
+        "in_reply_to_screen_name": "mr_The",
+        "user": {
+          "id": 346496809,
+          "id_str": "346496809"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jul 05 07:53:21 +0000 2016",
+      "id": 750236108651425800,
+      "id_str": "750236108651425792",
+      "text": "Сложно назвать фанатизмом желание сделать код проще, легче и с соблюдением наиболее подходящих норм языка. https://t.co/uBOTHiGGMw",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/uBOTHiGGMw",
+            "expanded_url": "https://twitter.com/mpak999/status/750235720346775552",
+            "display_url": "twitter.com/mpak999/status…",
+            "indices": [
+              107,
+              130
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 750235720346775600,
+      "quoted_status_id_str": "750235720346775552",
+      "quoted_status": {
+        "created_at": "Tue Jul 05 07:51:49 +0000 2016",
+        "id": 750235720346775600,
+        "id_str": "750235720346775552",
+        "text": "@rubyunderhood @inem фанатики :)))",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby-разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            },
+            {
+              "screen_name": "inem",
+              "name": "Ivan Nemytchenko",
+              "id": 7198692,
+              "id_str": "7198692",
+              "indices": [
+                15,
+                20
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 750235165859934200,
+        "in_reply_to_status_id_str": "750235165859934208",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 18864603,
+          "id_str": "18864603"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+          "id": "00a490340cc406c5",
+          "url": "https://api.twitter.com/1.1/geo/id/00a490340cc406c5.json",
+          "place_type": "city",
+          "name": "เชียงใหม่",
+          "full_name": "เชียงใหม่, ประเทศไทย",
+          "country_code": "TH",
+          "country": "ประเทศไทย",
+          "contained_within": [],
+          "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  98.940362,
+                  18.7406115
+                ],
+                [
+                  98.9974603,
+                  18.7406115
+                ],
+                [
+                  98.9974603,
+                  18.8428276
+                ],
+                [
+                  98.940362,
+                  18.8428276
+                ]
+              ]
+            ]
+          },
+          "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "uk"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jul 05 08:19:35 +0000 2016",
+      "id": 750242708824977400,
+      "id_str": "750242708824977408",
+      "text": "Методом проб выяснили, что для GitLab лучше отдельную чистую машину с 2 ядрами CPU и 2 GB RAM + 2GB Swap (на всякий) https://t.co/V07g2iOae1",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/V07g2iOae1",
+            "expanded_url": "https://twitter.com/7rulnik/status/750236565750833152",
+            "display_url": "twitter.com/7rulnik/status…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 750236565750833200,
+      "quoted_status_id_str": "750236565750833152",
+      "quoted_status": {
+        "created_at": "Tue Jul 05 07:55:10 +0000 2016",
+        "id": 750236565750833200,
+        "id_str": "750236565750833152",
+        "text": "@rubyunderhood @oleg_antonyan а вот у всех гитлаб делает лаг-лаг или у нас просто машинка слабая?",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby-разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            },
+            {
+              "screen_name": "oleg_antonyan",
+              "name": "Oleg Antonyan",
+              "id": 1941508063,
+              "id_str": "1941508063",
+              "indices": [
+                15,
+                29
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 750219539007303700,
+        "in_reply_to_status_id_str": "750219539007303680",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 449464925,
+          "id_str": "449464925"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+          "id": "a76c0cd7d56c4836",
+          "url": "https://api.twitter.com/1.1/geo/id/a76c0cd7d56c4836.json",
+          "place_type": "city",
+          "name": "Санкт-Петербург",
+          "full_name": "Санкт-Петербург, Россия",
+          "country_code": "RU",
+          "country": "Россия",
+          "contained_within": [],
+          "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  30.0896894,
+                  59.7761714
+                ],
+                [
+                  30.5677067,
+                  59.7761714
+                ],
+                [
+                  30.5677067,
+                  60.0921253
+                ],
+                [
+                  30.0896894,
+                  60.0921253
+                ]
+              ]
+            ]
+          },
+          "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jul 05 08:21:35 +0000 2016",
+      "id": 750243211382317000,
+      "id_str": "750243211382317061",
+      "text": "@7rulnik @oleg_antonyan Не влезло в твит, что это минимум. На 1 ядре и 1 GB RAM слишком часто уходит в Swap и тормозит даже на SSD.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "7rulnik",
+            "name": "Valentin Semirulnik",
+            "id": 449464925,
+            "id_str": "449464925",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "oleg_antonyan",
+            "name": "Oleg Antonyan",
+            "id": 1941508063,
+            "id_str": "1941508063",
+            "indices": [
+              9,
+              23
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 750242708824977400,
+      "in_reply_to_status_id_str": "750242708824977408",
+      "in_reply_to_user_id": 3341793591,
+      "in_reply_to_user_id_str": "3341793591",
+      "in_reply_to_screen_name": "rubyunderhood",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jul 05 08:23:17 +0000 2016",
+      "id": 750243641340391400,
+      "id_str": "750243641340391424",
+      "text": "В принципе, разные интересные задачи много где есть, в том числе в банках, и интерес у каждого свой. Так что да. https://t.co/hkaQEzQYpl",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/hkaQEzQYpl",
+            "expanded_url": "https://twitter.com/vladimir1ch/status/750240202224963584",
+            "display_url": "twitter.com/vladimir1ch/st…",
+            "indices": [
+              113,
+              136
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 750240202224963600,
+      "quoted_status_id_str": "750240202224963584",
+      "quoted_status": {
+        "created_at": "Tue Jul 05 08:09:37 +0000 2016",
+        "id": 750240202224963600,
+        "id_str": "750240202224963584",
+        "text": "@mr_The @rubyunderhood почему? В банках есть интересные задачи, data science и прочие ништячки",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "mr_The",
+              "name": "mr.The",
+              "id": 53967484,
+              "id_str": "53967484",
+              "indices": [
+                0,
+                7
+              ]
+            },
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby-разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                8,
+                22
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 750231504635199500,
+        "in_reply_to_status_id_str": "750231504635199488",
+        "in_reply_to_user_id": 53967484,
+        "in_reply_to_user_id_str": "53967484",
+        "in_reply_to_screen_name": "mr_The",
+        "user": {
+          "id": 1286942665,
+          "id_str": "1286942665"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jul 05 08:32:49 +0000 2016",
+      "id": 750246039010086900,
+      "id_str": "750246039010086913",
+      "text": "Я тоже слышал про Java 6, но, по сути, это просто условия работы, с которыми многие согласны смириться. https://t.co/3hBcgdC3gS",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/3hBcgdC3gS",
+            "expanded_url": "https://twitter.com/mr_The/status/750245392328122368",
+            "display_url": "twitter.com/mr_The/status/…",
+            "indices": [
+              104,
+              127
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 750245392328122400,
+      "quoted_status_id_str": "750245392328122368",
+      "quoted_status": {
+        "created_at": "Tue Jul 05 08:30:15 +0000 2016",
+        "id": 750245392328122400,
+        "id_str": "750245392328122368",
+        "text": "@vladimir1ch @rubyunderhood наверно, вам очень повезло с банком) я слышал только прокучу легаси и уныния",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "vladimir1ch",
+              "name": "Nikita Skalkin",
+              "id": 1286942665,
+              "id_str": "1286942665",
+              "indices": [
+                0,
+                12
+              ]
+            },
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby-разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                13,
+                27
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 750240202224963600,
+        "in_reply_to_status_id_str": "750240202224963584",
+        "in_reply_to_user_id": 1286942665,
+        "in_reply_to_user_id_str": "1286942665",
+        "in_reply_to_screen_name": "vladimir1ch",
+        "user": {
+          "id": 53967484,
+          "id_str": "53967484"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jul 05 08:37:17 +0000 2016",
+      "id": 750247163691733000,
+      "id_str": "750247163691732993",
+      "text": "Так, раз уж зашёл разговор про велосипеды: что вы предпочитаете?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jul 05 08:37:56 +0000 2016",
+      "id": 750247328804659200,
+      "id_str": "750247328804659200",
+      "text": "@rubyunderhood Очевидно, что часто нужно ничего из этого, или что-то другое, или всё сразу, но вот если говорить о таком жёстком выборе.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "rubyunderhood",
+            "name": "Ruby-разработчик",
+            "id": 3341793591,
+            "id_str": "3341793591",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 750247163691733000,
+      "in_reply_to_status_id_str": "750247163691732993",
+      "in_reply_to_user_id": 3341793591,
+      "in_reply_to_user_id_str": "3341793591",
+      "in_reply_to_screen_name": "rubyunderhood",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jul 05 08:39:40 +0000 2016",
+      "id": 750247761925333000,
+      "id_str": "750247761925332992",
+      "text": "@rubyunderhood Например, пользуетесь библиотекой, в ней нет нужных фич или есть ненужные баги, а менять её саму нет возможности.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "rubyunderhood",
+            "name": "Ruby-разработчик",
+            "id": 3341793591,
+            "id_str": "3341793591",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 750247328804659200,
+      "in_reply_to_status_id_str": "750247328804659200",
+      "in_reply_to_user_id": 3341793591,
+      "in_reply_to_user_id_str": "3341793591",
+      "in_reply_to_screen_name": "rubyunderhood",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jul 05 08:40:30 +0000 2016",
+      "id": 750247972433264600,
+      "id_str": "750247972433264641",
+      "text": "@rubyunderhood Сначала, очевидно, лучше костыли. Но иногда наступает момент, когда из них можно собрать велосипед поменьше...",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "rubyunderhood",
+            "name": "Ruby-разработчик",
+            "id": 3341793591,
+            "id_str": "3341793591",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 750247761925333000,
+      "in_reply_to_status_id_str": "750247761925332992",
+      "in_reply_to_user_id": 3341793591,
+      "in_reply_to_user_id_str": "3341793591",
+      "in_reply_to_screen_name": "rubyunderhood",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jul 05 08:44:01 +0000 2016",
+      "id": 750248856802189300,
+      "id_str": "750248856802189312",
+      "text": "Немного про мой взгляд на велосипеды: они никогда не делаются под копирку. Без них не было бы Ruby, многих других ЯП, того же iPhone/Android",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jul 05 08:46:24 +0000 2016",
+      "id": 750249457753677800,
+      "id_str": "750249457753677824",
+      "text": "У меня были задачи, выходящие за scope, связанные с роутерами. Высшее образование не помогло бы. Но помог интернет. https://t.co/v3jfnTwuGN",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/v3jfnTwuGN",
+            "expanded_url": "https://twitter.com/poctek/status/750248498302447616",
+            "display_url": "twitter.com/poctek/status/…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 750248498302447600,
+      "quoted_status_id_str": "750248498302447616",
+      "quoted_status": {
+        "created_at": "Tue Jul 05 08:42:35 +0000 2016",
+        "id": 750248498302447600,
+        "id_str": "750248498302447616",
+        "text": "@rubyunderhood вот только если однажды задача выходит за рамки скоупа любимого занятия, нехватка знаний может сказаться",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby-разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 750231458871144400,
+        "in_reply_to_status_id_str": "750231458871144452",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 156167482,
+          "id_str": "156167482"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jul 05 08:48:20 +0000 2016",
+      "id": 750249946272727000,
+      "id_str": "750249946272727040",
+      "text": "Я отучился в вузе полтора года и понял, что он даёт мне всё меньше ценного, почти всё из чего можно найти в сети в более актуальной версии.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 750249457753677800,
+      "in_reply_to_status_id_str": "750249457753677824",
+      "in_reply_to_user_id": 3341793591,
+      "in_reply_to_user_id_str": "3341793591",
+      "in_reply_to_screen_name": "rubyunderhood",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jul 05 08:50:36 +0000 2016",
+      "id": 750250513376092200,
+      "id_str": "750250513376092160",
+      "text": "Вряд ли. Как раз тот случай, когда \"Уже есть работающие мобильные ОС, зачем тебе своя?\"\nА внутри может быть. https://t.co/Rft0ujWEkV",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/Rft0ujWEkV",
+            "expanded_url": "https://twitter.com/sevendump/status/750249482030346240",
+            "display_url": "twitter.com/sevendump/stat…",
+            "indices": [
+              109,
+              132
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 750249482030346200,
+      "quoted_status_id_str": "750249482030346240",
+      "quoted_status": {
+        "created_at": "Tue Jul 05 08:46:30 +0000 2016",
+        "id": 750249482030346200,
+        "id_str": "750249482030346240",
+        "text": "@rubyunderhood андроид костыль :)",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby-разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 750248856802189300,
+        "in_reply_to_status_id_str": "750248856802189312",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 318317424,
+          "id_str": "318317424"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jul 05 08:52:30 +0000 2016",
+      "id": 750250993267380200,
+      "id_str": "750250993267380224",
+      "text": "Именно с такой связки я и бросил учёбу. И до сих пор очные студенты даже на последнем курсе - боль для компании. https://t.co/jitx5UPsgk",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/jitx5UPsgk",
+            "expanded_url": "https://twitter.com/poctek/status/750249930120372224",
+            "display_url": "twitter.com/poctek/status/…",
+            "indices": [
+              113,
+              136
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 750249930120372200,
+      "quoted_status_id_str": "750249930120372224",
+      "quoted_status": {
+        "created_at": "Tue Jul 05 08:48:16 +0000 2016",
+        "id": 750249930120372200,
+        "id_str": "750249930120372224",
+        "text": "@rubyunderhood я не говорю о том, что делать больно будет каждая задача, но считаю что связка учеба + работа эффективнее просто работы",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby-разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 750249457753677800,
+        "in_reply_to_status_id_str": "750249457753677824",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 156167482,
+          "id_str": "156167482"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jul 05 09:19:05 +0000 2016",
+      "id": 750257684134461400,
+      "id_str": "750257684134461440",
+      "text": "Намного меньше появляется желания создать велосипед-альтернативу той системе, которая расширяется (с помощью плагинов, например).",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jul 05 09:21:06 +0000 2016",
+      "id": 750258189606719500,
+      "id_str": "750258189606719488",
+      "text": "@rubyunderhood Именно поэтому мой путь такой: notepad.exe &gt; Notepad++ &gt; Sublime &gt; Atom. Удобство и расширяемость.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "rubyunderhood",
+            "name": "Ruby-разработчик",
+            "id": 3341793591,
+            "id_str": "3341793591",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 750257684134461400,
+      "in_reply_to_status_id_str": "750257684134461440",
+      "in_reply_to_user_id": 3341793591,
+      "in_reply_to_user_id_str": "3341793591",
+      "in_reply_to_screen_name": "rubyunderhood",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jul 05 09:26:02 +0000 2016",
+      "id": 750259430940442600,
+      "id_str": "750259430940442624",
+      "text": "@rubyunderhood Не очень люблю IDE из-за их массивности и меньшей гибкости: от текстового редактора с плагинами можно выжать всё необходимое.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "rubyunderhood",
+            "name": "Ruby-разработчик",
+            "id": 3341793591,
+            "id_str": "3341793591",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 750258189606719500,
+      "in_reply_to_status_id_str": "750258189606719488",
+      "in_reply_to_user_id": 3341793591,
+      "in_reply_to_user_id_str": "3341793591",
+      "in_reply_to_screen_name": "rubyunderhood",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jul 05 09:27:01 +0000 2016",
+      "id": 750259679901655000,
+      "id_str": "750259679901655040",
+      "text": "@rubyunderhood Но часто всё равно есть альтернативы (велосипеды), так как возникает необходимость (желание) сделать всё иначе на корню.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "rubyunderhood",
+            "name": "Ruby-разработчик",
+            "id": 3341793591,
+            "id_str": "3341793591",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 750259430940442600,
+      "in_reply_to_status_id_str": "750259430940442624",
+      "in_reply_to_user_id": 3341793591,
+      "in_reply_to_user_id_str": "3341793591",
+      "in_reply_to_screen_name": "rubyunderhood",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jul 05 09:39:51 +0000 2016",
+      "id": 750262909788426200,
+      "id_str": "750262909788426240",
+      "text": "Про плагины: не представляю своей жизни без rubocop. 10 LOC на метод сначала кажется безумным ограничением, но оно насильно прививает ООП.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jul 05 09:40:34 +0000 2016",
+      "id": 750263091946987500,
+      "id_str": "750263091946987520",
+      "text": "@rubyunderhood Ну то есть, конечно, можно раздробить один большой метод на много мелких, таская одни и те же аргументы из одного в другой...",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "rubyunderhood",
+            "name": "Ruby-разработчик",
+            "id": 3341793591,
+            "id_str": "3341793591",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 750262909788426200,
+      "in_reply_to_status_id_str": "750262909788426240",
+      "in_reply_to_user_id": 3341793591,
+      "in_reply_to_user_id_str": "3341793591",
+      "in_reply_to_screen_name": "rubyunderhood",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jul 05 09:41:35 +0000 2016",
+      "id": 750263346646114300,
+      "id_str": "750263346646114304",
+      "text": "@rubyunderhood ... Но у меня есть негласное правило: если аргументы повторяются в двух и более методах - самое время подумать над классом.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "rubyunderhood",
+            "name": "Ruby-разработчик",
+            "id": 3341793591,
+            "id_str": "3341793591",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 750263091946987500,
+      "in_reply_to_status_id_str": "750263091946987520",
+      "in_reply_to_user_id": 3341793591,
+      "in_reply_to_user_id_str": "3341793591",
+      "in_reply_to_screen_name": "rubyunderhood",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jul 05 09:43:10 +0000 2016",
+      "id": 750263745386020900,
+      "id_str": "750263745386020864",
+      "text": "@rubyunderhood Аргументы становятся instance variables, повтора кода меньше, ООП и гибкости больше. На мой вкус, это хорошо.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "rubyunderhood",
+            "name": "Ruby-разработчик",
+            "id": 3341793591,
+            "id_str": "3341793591",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 750263346646114300,
+      "in_reply_to_status_id_str": "750263346646114304",
+      "in_reply_to_user_id": 3341793591,
+      "in_reply_to_user_id_str": "3341793591",
+      "in_reply_to_screen_name": "rubyunderhood",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jul 05 09:44:13 +0000 2016",
+      "id": 750264006984826900,
+      "id_str": "750264006984826880",
+      "text": "@rubyunderhood А логика примерно такая же, как с обычными переменными: используешь данные больше одного раза - лучше объяви переменную.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "rubyunderhood",
+            "name": "Ruby-разработчик",
+            "id": 3341793591,
+            "id_str": "3341793591",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 750263745386020900,
+      "in_reply_to_status_id_str": "750263745386020864",
+      "in_reply_to_user_id": 3341793591,
+      "in_reply_to_user_id_str": "3341793591",
+      "in_reply_to_screen_name": "rubyunderhood",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jul 05 10:09:20 +0000 2016",
+      "id": 750270328044134400,
+      "id_str": "750270328044134401",
+      "text": "По этой теме новый опросик! (Надеюсь, вы их любите)\nСоблюдаете ли вы ограничение в 10 строк кода на один метод?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jul 05 10:11:08 +0000 2016",
+      "id": 750270782492794900,
+      "id_str": "750270782492794880",
+      "text": "@rubyunderhood Не всегда и не прямо, но часто, как мне кажется, это влияет на ясность и поддерживаемость кода.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "rubyunderhood",
+            "name": "Ruby-разработчик",
+            "id": 3341793591,
+            "id_str": "3341793591",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 750270328044134400,
+      "in_reply_to_status_id_str": "750270328044134401",
+      "in_reply_to_user_id": 3341793591,
+      "in_reply_to_user_id_str": "3341793591",
+      "in_reply_to_screen_name": "rubyunderhood",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jul 05 10:14:42 +0000 2016",
+      "id": 750271680124256300,
+      "id_str": "750271680124256256",
+      "text": "Придерживаюсь RuboCop: https://t.co/b5SIIJGSJb\n100 LOC очень свободно, с ограничением в 10 писать интереснее. https://t.co/FiL7TqytmY",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/b5SIIJGSJb",
+            "expanded_url": "https://github.com/bbatsov/ruby-style-guide/blob/master/README.md#short-methods",
+            "display_url": "github.com/bbatsov/ruby-s…",
+            "indices": [
+              23,
+              46
+            ]
+          },
+          {
+            "url": "https://t.co/FiL7TqytmY",
+            "expanded_url": "https://twitter.com/mpak999/status/750270735747125248",
+            "display_url": "twitter.com/mpak999/status…",
+            "indices": [
+              110,
+              133
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 750270735747125200,
+      "quoted_status_id_str": "750270735747125248",
+      "quoted_status": {
+        "created_at": "Tue Jul 05 10:10:57 +0000 2016",
+        "id": 750270735747125200,
+        "id_str": "750270735747125248",
+        "text": "@rubyunderhood откуда уже 10 взялось? от @sandimetz было 5 - 100 https://t.co/JsA5R55iRM",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby-разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            },
+            {
+              "screen_name": "sandimetz",
+              "name": "Sandi Metz",
+              "id": 15067554,
+              "id_str": "15067554",
+              "indices": [
+                41,
+                51
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/JsA5R55iRM",
+              "expanded_url": "https://robots.thoughtbot.com/sandi-metz-rules-for-developers",
+              "display_url": "robots.thoughtbot.com/sandi-metz-rul…",
+              "indices": [
+                65,
+                88
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 750270328044134400,
+        "in_reply_to_status_id_str": "750270328044134401",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 18864603,
+          "id_str": "18864603"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jul 05 10:16:33 +0000 2016",
+      "id": 750272144500781000,
+      "id_str": "750272144500781056",
+      "text": "@mpak999 @sandimetz И, действительно, 5 методов из 10 LOC часто воспринимаются намного проще и быстрее, чем один из 50.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "mpak999",
+            "name": "MpaK",
+            "id": 18864603,
+            "id_str": "18864603",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "sandimetz",
+            "name": "Sandi Metz",
+            "id": 15067554,
+            "id_str": "15067554",
+            "indices": [
+              9,
+              19
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 750271680124256300,
+      "in_reply_to_status_id_str": "750271680124256256",
+      "in_reply_to_user_id": 3341793591,
+      "in_reply_to_user_id_str": "3341793591",
+      "in_reply_to_screen_name": "rubyunderhood",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jul 05 10:18:14 +0000 2016",
+      "id": 750272571065729000,
+      "id_str": "750272571065729025",
+      "text": "Да, 100 на класс, 10 на метод. В опросе было упомянуто ограничение именно на метод. https://t.co/aETH6p8D0n",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/aETH6p8D0n",
+            "expanded_url": "https://twitter.com/mpak999/status/750272051630317568",
+            "display_url": "twitter.com/mpak999/status…",
+            "indices": [
+              84,
+              107
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 750272051630317600,
+      "quoted_status_id_str": "750272051630317568",
+      "quoted_status": {
+        "created_at": "Tue Jul 05 10:16:11 +0000 2016",
+        "id": 750272051630317600,
+        "id_str": "750272051630317568",
+        "text": "@rubyunderhood Ideally, most methods will be shorter than 5 LOC. - и rubocop так же :) 100 LOC это на класс, не на метод",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby-разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 750271680124256300,
+        "in_reply_to_status_id_str": "750271680124256256",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 18864603,
+          "id_str": "18864603"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "und"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jul 05 10:21:48 +0000 2016",
+      "id": 750273468659331100,
+      "id_str": "750273468659331073",
+      "text": "Можно. Можно вообще ничего не творить, ведь бабки рубит. Но мы же о другом: создание, развитие, поддержка. https://t.co/BPaPQ37OBZ",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/BPaPQ37OBZ",
+            "expanded_url": "https://twitter.com/sevendump/status/750271880066662400",
+            "display_url": "twitter.com/sevendump/stat…",
+            "indices": [
+              107,
+              130
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 750271880066662400,
+      "quoted_status_id_str": "750271880066662400",
+      "quoted_status": {
+        "created_at": "Tue Jul 05 10:15:30 +0000 2016",
+        "id": 750271880066662400,
+        "id_str": "750271880066662400",
+        "text": "@rubyunderhood На стадии - \"проект запущен и рубит бабки\" всем пофиг, можно творить любую фигню соблюдая формулу \"запущен -&gt; рубит бабки\"",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby-разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 750270328044134400,
+        "in_reply_to_status_id_str": "750270328044134401",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 318317424,
+          "id_str": "318317424"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jul 05 10:24:01 +0000 2016",
+      "id": 750274024605884400,
+      "id_str": "750274024605884416",
+      "text": "И в проекте скорее всего понадобится что-нибудь делать. Если он сделан хорошо - лучше и дальше делать хорошо. Если нет - то без разницы.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 750273468659331100,
+      "in_reply_to_status_id_str": "750273468659331073",
+      "in_reply_to_user_id": 3341793591,
+      "in_reply_to_user_id_str": "3341793591",
+      "in_reply_to_screen_name": "rubyunderhood",
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jul 05 10:37:00 +0000 2016",
+      "id": 750277292857983000,
+      "id_str": "750277292857982976",
+      "text": "На странице, наверняка, есть различные элементы, которые нужно вытащить. Они, как и вся страница - разные сущности 😉 https://t.co/iLVTZBrjjB",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/iLVTZBrjjB",
+            "expanded_url": "https://twitter.com/sevendump/status/750274338121773056",
+            "display_url": "twitter.com/sevendump/stat…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 750274338121773000,
+      "quoted_status_id_str": "750274338121773056",
+      "quoted_status": {
+        "created_at": "Tue Jul 05 10:25:16 +0000 2016",
+        "id": 750274338121773000,
+        "id_str": "750274338121773056",
+        "text": "@rubyunderhood о саппорте, есть парсеры - разбивать на методы в 10 строк не вариант, все пишем большими методами охватывающими всю страницу.",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby-разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 750273468659331100,
+        "in_reply_to_status_id_str": "750273468659331073",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 318317424,
+          "id_str": "318317424"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jul 05 11:03:17 +0000 2016",
+      "id": 750283904280559600,
+      "id_str": "750283904280559616",
+      "text": "Отличный способ, советую всем 👌\n(Для существующих проектов без такой ориентированности может не подойти, конечно) https://t.co/XrB5TxmdRI",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/XrB5TxmdRI",
+            "expanded_url": "https://twitter.com/oleg_antonyan/status/750281762237014016",
+            "display_url": "twitter.com/oleg_antonyan/…",
+            "indices": [
+              114,
+              137
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3341793591,
+        "id_str": "3341793591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 750281762237014000,
+      "quoted_status_id_str": "750281762237014016",
+      "quoted_status": {
+        "created_at": "Tue Jul 05 10:54:46 +0000 2016",
+        "id": 750281762237014000,
+        "id_str": "750281762237014016",
+        "text": "@rubyunderhood рубокоп в прекоммит хуке не даёт не соблюсти, падла :)",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rubyunderhood",
+              "name": "Ruby-разработчик",
+              "id": 3341793591,
+              "id_str": "3341793591",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 750270328044134400,
+        "in_reply_to_status_id_str": "750270328044134401",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 1941508063,
+          "id_str": "1941508063"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
     }
   ]
 }
