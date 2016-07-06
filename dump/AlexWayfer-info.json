@@ -37,52 +37,102 @@
     }
   },
   "protected": false,
-  "followers_count": 1085,
+  "followers_count": 1083,
   "friends_count": 51,
   "listed_count": 61,
   "created_at": "Mon Jun 22 18:43:03 +0000 2015",
-  "favourites_count": 319,
+  "favourites_count": 320,
   "utc_offset": -25200,
   "time_zone": "Pacific Time (US & Canada)",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 11940,
+  "statuses_count": 11969,
   "lang": "en",
   "status": {
-    "created_at": "Tue Jul 05 20:01:57 +0000 2016",
-    "id": 750419464454275100,
-    "id_str": "750419464454275072",
-    "text": "Это как пример. То есть его экземпляр сейчас нужен только в одном месте, но логически его лучше вынести в отдельный класс. @vassilevsky",
+    "created_at": "Wed Jul 06 14:55:12 +0000 2016",
+    "id": 750704656196730900,
+    "id_str": "750704656196730880",
+    "text": "RT @mimikadze: @rubyunderhood c Глобалайзом понт, ребята. У него в логике N+1 проблема, которая не лечится.",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "vassilevsky",
-          "name": "White Russian",
-          "id": 53391978,
-          "id_str": "53391978",
+          "screen_name": "mimikadze",
+          "name": "Mikhail Sytchev",
+          "id": 94048672,
+          "id_str": "94048672",
           "indices": [
-            123,
-            135
+            3,
+            13
+          ]
+        },
+        {
+          "screen_name": "rubyunderhood",
+          "name": "Ruby-разработчик",
+          "id": 3341793591,
+          "id_str": "3341793591",
+          "indices": [
+            15,
+            29
           ]
         }
       ],
       "urls": []
     },
     "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-    "in_reply_to_status_id": 750419223227330600,
-    "in_reply_to_status_id_str": "750419223227330562",
-    "in_reply_to_user_id": 3341793591,
-    "in_reply_to_user_id_str": "3341793591",
-    "in_reply_to_screen_name": "rubyunderhood",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Jul 06 14:01:34 +0000 2016",
+      "id": 750691161690480600,
+      "id_str": "750691161690480640",
+      "text": "@rubyunderhood c Глобалайзом понт, ребята. У него в логике N+1 проблема, которая не лечится.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "rubyunderhood",
+            "name": "Ruby-разработчик",
+            "id": 3341793591,
+            "id_str": "3341793591",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 750686416099762200,
+      "in_reply_to_status_id_str": "750686416099762176",
+      "in_reply_to_user_id": 3341793591,
+      "in_reply_to_user_id_str": "3341793591",
+      "in_reply_to_screen_name": "rubyunderhood",
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
     "is_quote_status": false,
-    "retweet_count": 0,
+    "retweet_count": 1,
     "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
