@@ -46,40 +46,29 @@
   "time_zone": "Pacific Time (US & Canada)",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 11969,
+  "statuses_count": 12004,
   "lang": "en",
   "status": {
-    "created_at": "Wed Jul 06 14:55:12 +0000 2016",
-    "id": 750704656196730900,
-    "id_str": "750704656196730880",
-    "text": "RT @mimikadze: @rubyunderhood c Глобалайзом понт, ребята. У него в логике N+1 проблема, которая не лечится.",
+    "created_at": "Thu Jul 07 21:39:33 +0000 2016",
+    "id": 751168803883651100,
+    "id_str": "751168803883651072",
+    "text": "Самое лучшее с точки зрения SEO, получается, между доменом и path, как часть пути? https://t.co/GMEi9WmiPv",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
+      "user_mentions": [],
+      "urls": [
         {
-          "screen_name": "mimikadze",
-          "name": "Mikhail Sytchev",
-          "id": 94048672,
-          "id_str": "94048672",
+          "url": "https://t.co/GMEi9WmiPv",
+          "expanded_url": "https://twitter.com/igor_alexandrov/status/751163902315094018",
+          "display_url": "twitter.com/igor_alexandro…",
           "indices": [
-            3,
-            13
-          ]
-        },
-        {
-          "screen_name": "rubyunderhood",
-          "name": "Ruby-разработчик",
-          "id": 3341793591,
-          "id_str": "3341793591",
-          "indices": [
-            15,
-            29
+            83,
+            106
           ]
         }
-      ],
-      "urls": []
+      ]
     },
     "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
     "in_reply_to_status_id": null,
@@ -91,51 +80,14 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "retweeted_status": {
-      "created_at": "Wed Jul 06 14:01:34 +0000 2016",
-      "id": 750691161690480600,
-      "id_str": "750691161690480640",
-      "text": "@rubyunderhood c Глобалайзом понт, ребята. У него в логике N+1 проблема, которая не лечится.",
-      "truncated": false,
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [
-          {
-            "screen_name": "rubyunderhood",
-            "name": "Ruby-разработчик",
-            "id": 3341793591,
-            "id_str": "3341793591",
-            "indices": [
-              0,
-              14
-            ]
-          }
-        ],
-        "urls": []
-      },
-      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
-      "in_reply_to_status_id": 750686416099762200,
-      "in_reply_to_status_id_str": "750686416099762176",
-      "in_reply_to_user_id": 3341793591,
-      "in_reply_to_user_id_str": "3341793591",
-      "in_reply_to_screen_name": "rubyunderhood",
-      "geo": null,
-      "coordinates": null,
-      "place": null,
-      "contributors": null,
-      "is_quote_status": false,
-      "retweet_count": 1,
-      "favorite_count": 0,
-      "favorited": false,
-      "retweeted": false,
-      "lang": "ru"
-    },
-    "is_quote_status": false,
+    "is_quote_status": true,
+    "quoted_status_id": 751163902315094000,
+    "quoted_status_id_str": "751163902315094018",
     "retweet_count": 1,
     "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
