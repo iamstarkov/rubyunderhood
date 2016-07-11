@@ -37,38 +37,39 @@
     }
   },
   "protected": false,
-  "followers_count": 1087,
+  "followers_count": 1089,
   "friends_count": 51,
   "listed_count": 61,
   "created_at": "Mon Jun 22 18:43:03 +0000 2015",
-  "favourites_count": 320,
+  "favourites_count": 321,
   "utc_offset": -25200,
   "time_zone": "Pacific Time (US & Canada)",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 12004,
+  "statuses_count": 12016,
   "lang": "en",
   "status": {
-    "created_at": "Thu Jul 07 21:39:33 +0000 2016",
-    "id": 751168803883651100,
-    "id_str": "751168803883651072",
-    "text": "Самое лучшее с точки зрения SEO, получается, между доменом и path, как часть пути? https://t.co/GMEi9WmiPv",
+    "created_at": "Sun Jul 10 22:36:54 +0000 2016",
+    "id": 752270398381752300,
+    "id_str": "752270398381752320",
+    "text": "Вот и подошла моя неделя к концу. Спасибо всем 🙌\nМне было интересно, надеюсь и вам.\nС вами был @AlexWayfer, хорошего вам кода и деплоя :)",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/GMEi9WmiPv",
-          "expanded_url": "https://twitter.com/igor_alexandrov/status/751163902315094018",
-          "display_url": "twitter.com/igor_alexandro…",
+          "screen_name": "AlexWayfer",
+          "name": "Alexander Popov",
+          "id": 312906249,
+          "id_str": "312906249",
           "indices": [
-            83,
+            95,
             106
           ]
         }
-      ]
+      ],
+      "urls": []
     },
     "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
     "in_reply_to_status_id": null,
@@ -80,14 +81,11 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": true,
-    "quoted_status_id": 751163902315094000,
-    "quoted_status_id_str": "751163902315094018",
-    "retweet_count": 1,
-    "favorite_count": 0,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 3,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
