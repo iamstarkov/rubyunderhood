@@ -37,28 +37,147 @@
     }
   },
   "protected": false,
-  "followers_count": 1091,
-  "friends_count": 51,
-  "listed_count": 61,
+  "followers_count": 1117,
+  "friends_count": 53,
+  "listed_count": 62,
   "created_at": "Mon Jun 22 18:43:03 +0000 2015",
-  "favourites_count": 322,
+  "favourites_count": 340,
   "utc_offset": -25200,
   "time_zone": "Pacific Time (US & Canada)",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 12023,
-  "lang": "en",
+  "statuses_count": 12218,
+  "lang": "ru",
   "status": {
-    "created_at": "Mon Jul 11 10:32:47 +0000 2016",
-    "id": 752450556904476700,
-    "id_str": "752450556904476672",
-    "text": "Вопрос веб студиям. Используете ли вы что-то кроме Ruby, к примеру PHP?\nМы, например, используем оба инструмента.",
+    "created_at": "Tue Jul 19 11:14:32 +0000 2016",
+    "id": 755360166326001700,
+    "id_str": "755360166326001665",
+    "text": "RT @moikrug: Почти половина разработчиков не прекращают прграммировать даже во время отпуска.\n#МойОтпуск https://t.co/gmSKU05QD9",
     "truncated": false,
     "entities": {
-      "hashtags": [],
+      "hashtags": [
+        {
+          "text": "МойОтпуск",
+          "indices": [
+            94,
+            104
+          ]
+        }
+      ],
       "symbols": [],
-      "user_mentions": [],
-      "urls": []
+      "user_mentions": [
+        {
+          "screen_name": "moikrug",
+          "name": "Мой круг",
+          "id": 1620378578,
+          "id_str": "1620378578",
+          "indices": [
+            3,
+            11
+          ]
+        }
+      ],
+      "urls": [],
+      "media": [
+        {
+          "id": 755068324246065200,
+          "id_str": "755068324246065152",
+          "indices": [
+            105,
+            128
+          ],
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/CnqKo-_WEAAdIEG.jpg",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CnqKo-_WEAAdIEG.jpg",
+          "url": "https://t.co/gmSKU05QD9",
+          "display_url": "pic.twitter.com/gmSKU05QD9",
+          "expanded_url": "http://twitter.com/moikrug/status/755068349374140416/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 360,
+              "h": 234,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 340,
+              "h": 221,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 360,
+              "h": 234,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 755068349374140400,
+          "source_status_id_str": "755068349374140416",
+          "source_user_id": 1620378578,
+          "source_user_id_str": "1620378578"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 755068324246065200,
+          "id_str": "755068324246065152",
+          "indices": [
+            105,
+            128
+          ],
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/CnqKo-_WEAAdIEG.jpg",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CnqKo-_WEAAdIEG.jpg",
+          "url": "https://t.co/gmSKU05QD9",
+          "display_url": "pic.twitter.com/gmSKU05QD9",
+          "expanded_url": "http://twitter.com/moikrug/status/755068349374140416/photo/1",
+          "type": "animated_gif",
+          "sizes": {
+            "medium": {
+              "w": 360,
+              "h": 234,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 340,
+              "h": 221,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 360,
+              "h": 234,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 755068349374140400,
+          "source_status_id_str": "755068349374140416",
+          "source_user_id": 1620378578,
+          "source_user_id_str": "1620378578",
+          "video_info": {
+            "aspect_ratio": [
+              20,
+              13
+            ],
+            "variants": [
+              {
+                "bitrate": 0,
+                "content_type": "video/mp4",
+                "url": "https://pbs.twimg.com/tweet_video/CnqKo-_WEAAdIEG.mp4"
+              }
+            ]
+          },
+          "ext_alt_text": null
+        }
+      ]
     },
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "in_reply_to_status_id": null,
@@ -70,11 +189,142 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
+    "retweeted_status": {
+      "created_at": "Mon Jul 18 15:54:57 +0000 2016",
+      "id": 755068349374140400,
+      "id_str": "755068349374140416",
+      "text": "Почти половина разработчиков не прекращают прграммировать даже во время отпуска.\n#МойОтпуск https://t.co/gmSKU05QD9",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "МойОтпуск",
+            "indices": [
+              81,
+              91
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 755068324246065200,
+            "id_str": "755068324246065152",
+            "indices": [
+              92,
+              115
+            ],
+            "media_url": "http://pbs.twimg.com/tweet_video_thumb/CnqKo-_WEAAdIEG.jpg",
+            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CnqKo-_WEAAdIEG.jpg",
+            "url": "https://t.co/gmSKU05QD9",
+            "display_url": "pic.twitter.com/gmSKU05QD9",
+            "expanded_url": "http://twitter.com/moikrug/status/755068349374140416/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 360,
+                "h": 234,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 340,
+                "h": 221,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 360,
+                "h": 234,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 755068324246065200,
+            "id_str": "755068324246065152",
+            "indices": [
+              92,
+              115
+            ],
+            "media_url": "http://pbs.twimg.com/tweet_video_thumb/CnqKo-_WEAAdIEG.jpg",
+            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CnqKo-_WEAAdIEG.jpg",
+            "url": "https://t.co/gmSKU05QD9",
+            "display_url": "pic.twitter.com/gmSKU05QD9",
+            "expanded_url": "http://twitter.com/moikrug/status/755068349374140416/photo/1",
+            "type": "animated_gif",
+            "sizes": {
+              "medium": {
+                "w": 360,
+                "h": 234,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 340,
+                "h": 221,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 360,
+                "h": 234,
+                "resize": "fit"
+              }
+            },
+            "video_info": {
+              "aspect_ratio": [
+                20,
+                13
+              ],
+              "variants": [
+                {
+                  "bitrate": 0,
+                  "content_type": "video/mp4",
+                  "url": "https://pbs.twimg.com/tweet_video/CnqKo-_WEAAdIEG.mp4"
+                }
+              ]
+            },
+            "ext_alt_text": null
+          }
+        ]
+      },
+      "source": "<a href=\"http://amplifr.com\" rel=\"nofollow\">Amplifr</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 37,
+      "favorite_count": 35,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
     "is_quote_status": false,
-    "retweet_count": 0,
+    "retweet_count": 37,
     "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
@@ -86,7 +336,7 @@
   "profile_background_tile": false,
   "profile_image_url": "http://pbs.twimg.com/profile_images/752426338431229952/VnwRxV-J_normal.jpg",
   "profile_image_url_https": "https://pbs.twimg.com/profile_images/752426338431229952/VnwRxV-J_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/3341793591/1467656416",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/3341793591/1468246797",
   "profile_link_color": "ABB8C2",
   "profile_sidebar_border_color": "000000",
   "profile_sidebar_fill_color": "000000",
