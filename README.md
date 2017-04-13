@@ -1,5 +1,7 @@
 # rubyunderhood.ru
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/iamstarkov/rubyunderhood.svg)](https://greenkeeper.io/)
+
 Коллективный твиттер-аккаунт для руби-разработчиков с новым автором каждую неделю
 
 ## Старт проекта
